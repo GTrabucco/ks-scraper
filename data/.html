@@ -1,0 +1,361 @@
+<html>
+<head>
+<meta name="google-site-verification" content="tYKnF1X_uYjq8FtOznp8Dc9lfeC8XKtTSANSn7duJ-A" />
+<style type='text/css'>
+
+
+@import '/CSS/top.css';
+a {text-decoration:none;}
+ #DT_Table td
+{
+  text-align:center;
+  vertical-align:text-bottom;
+}
+ #DT_Table th
+{
+  color: blue;
+}
+
+.tickercontainer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.tickercontainer .mask {
+    position: relative;
+    overflow: hidden;
+}
+ul.newsticker {
+    position: relative;
+    font: bold 8pt Arial;
+    color:black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.newsticker li {
+    float: left;
+    margin: 0;
+    padding-right: 15px;
+}
+
+
+</style>
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script language='javascript' type='text/javascript' src="/JS/webticker.js"></script>
+
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.2/js/jquery.dataTables.js"></script>
+
+<script language='javascript' type='text/javascript' src='/JS/compound_column_sort_tools.js'></script>
+
+<meta http-equiv='content-type' content='text/html'; charset='ISO-8859-1';>
+
+<title>KillerSports.com</title>
+</head>
+
+<body>
+
+
+
+
+
+<table id="tbHeader" width=100% border=0 cellspacing=0>
+<tbody>
+<tr><td  id="headerLeft" width=25% align=center>
+<a href=http://KillerCappers.com><img src='/Images/kc_banner_medium.png' border=0><BR><font size=-1>Winning Picks, Guaranteed</font></a>
+</td>
+<td id="headerMiddle" align=center width=50%>
+<a href=/>
+<img src="/Images/ks_banner_yellow.jpg" border=0></a>
+<BR>
+<a href=http://SDQL.com>
+<font size=-1 color=888888>featuring the <b>S</b>ports <b>D</b>ata <b>Q</b>uery <b>L</b>anguage</font>
+</a>
+</td>
+<td  id="headerRight" align=center width=25%>
+<form action='/login' method='post'>
+                <a href=/register>Create New Account</a>  <BR><font color=666666> ---  or  --- </font><BR>
+
+    <nobr>username <input type='text' name='username' size=8 value=''/></nobr><BR>
+                <nobr>password <input type='password' name='password' size=8/></nobr><BR>
+                <font size=-1><a href=forgot>forgot password?</a></font>
+                <input type='submit' name='access_account' value='      Sign In      ' /></form>
+
+              
+</td></tr>
+</tbody>
+</table>
+
+
+
+
+<table  border=0 id="tbMenu" width=100% cellspacing=0>
+<tr bgcolor=EEEEEE>
+
+<td align=center>
+
+
+<font size=+1>
+&nbsp;&nbsp;
+<a href=/>Home</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/trend_mart>Trend Mart</a>
+</font>
+&nbsp;&nbsp;<font color=888888>|</font><font color=888888>|</font>&nbsp;&nbsp;
+<a href=/nfl/home>NFL</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/nba/home>NBA</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/wnba/home>WNBA</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/mlb/home>MLB</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/nhl/home>NHL</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/cfl/home>CFL</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/ncaafb/home>NCAA FB</a>
+      &nbsp;<font color=888888>|</font>&nbsp;
+<a href=/ncaabb/home>NCAA BB</a>
+&nbsp;&nbsp;<font color=888888>|</font><font color=888888>|</font>&nbsp;&nbsp;
+<a href=/nba/home><font size=+1>NBA: </font></a><a href=/nba/home>Home</a>&nbsp;<font color=888888>|</font>&nbsp;<a href=/nba/tables>Tables</a>&nbsp;<font color=888888>|</font>&nbsp;<a href=/nba/trends>Trends</a>&nbsp;<font color=888888>|</font>&nbsp;<a href=/nba/query_matrix>Query Matrix</a>&nbsp;<font color=888888>|</font>&nbsp;<a href=/nba/query>SDQL Query</a>&nbsp;&nbsp;
+
+
+</td></tr>
+</table>
+
+
+
+<p>
+
+
+
+
+
+
+
+
+
+<div id='save_link'></div>
+<p>
+
+<b>NBA SDQL Query Access</b><font size=-1 color=#999999> Your query timeout is 15 seconds.</font>
+<div id='content'>Content will appear here</div>
+<script>
+
+function get_query(data){
+   $('#content').html('<div class="blink"><font size=+1 color="#666666">Loading custom sports data from http://SportsDatabase.com</font></div>');
+   $.getJSON('https://i7.sportsdatabase.com/nba/query.json?jsoncallback=?',data,
+            function(d2)
+            {
+               $('#content').html(d2.html);
+               //alert('inited');
+	       if (d2.output=='summary')  {
+                   $('#save_link').html('<a href=save_trend?sdql='+encodeURIComponent(d2.sdql)+'>Save to My NBA Trends</a>');
+               }
+	       else  {
+                   $('#save_link').html('');
+
+               }
+		init_CC_DT();
+
+            });}
+
+
+get_query("client_ip=108.7.75.59&api_key=179&graphic_options=0&result_only=1&__page=%2Fhome%2Fjameyer%2FKS%2FSource%2F..%2FTpy%2Fquery.tpy&clientsclient=guest&__page_bottom=%2Fhome%2Fjameyer%2FKS%2FSource%2F..%2FTpy%2FNBA%2Fquery_bottom.tpy&submit=++S+D+Q+L+%21++&show_howto=0&host=killersports.com&client=KSC&show_form=9&timeout=15&show_parameters=1&sdql=date%3D&sport=nba&__top_links=%3Ca+href%3D%2Fnba%2Fhome%3E%3Cfont+size%3D%2B1%3ENBA%3A+%3C%2Ffont%3E%3C%2Fa%3E%3Ca+href%3D%2Fnba%2Fhome%3EHome%3C%2Fa%3E%26nbsp%3B%3Cfont+color%3D888888%3E%7C%3C%2Ffont%3E%26nbsp%3B%3Ca+href%3D%2Fnba%2Ftables%3ETables%3C%2Fa%3E%26nbsp%3B%3Cfont+color%3D888888%3E%7C%3C%2Ffont%3E%26nbsp%3B%3Ca+href%3D%2Fnba%2Ftrends%3ETrends%3C%2Fa%3E%26nbsp%3B%3Cfont+color%3D888888%3E%7C%3C%2Ffont%3E%26nbsp%3B%3Ca+href%3D%2Fnba%2Fquery_matrix%3EQuery+Matrix%3C%2Fa%3E%26nbsp%3B%3Cfont+color%3D888888%3E%7C%3C%2Ffont%3E%26nbsp%3B%3Ca+href%3D%2Fnba%2Fquery%3ESDQL+Query%3C%2Fa%3E");
+</script>
+
+<script>
+$('.blink').each(function() {
+    var elem = $(this);
+    setInterval(function() {
+        if (elem.css('visibility') == 'hidden') {
+            elem.css('visibility', 'visible');
+        } else {
+            elem.css('visibility', 'hidden');
+        }
+    }, 600);
+});
+</script>
+
+<table><tr><td align=left>
+
+
+<H3>Query Fundamentals:</H3>
+<table>
+<tr><td>&nbsp</td><td>
+    	A query consists of one or more clauses joined by <em>and</em> or <em>or</em>.
+
+	<p>
+	<b>Examples:</b><p>
+</td></tr></table>
+<table><tr><td>&nbsp&nbsp</td><td>
+		<p>
+		The query:
+		<BR>
+<a href=query?sdql=50%20%3C%20Kobe%20Bryant%3Apoints%20and%20site%3Daway>50 &lt; Kobe Bryant:points and site=away</a>
+		<BR>
+		returns home games where Kobe Bryant scored more than 50 points on the road.
+
+		<p>If no player is given then results for the team are checked. E.g.
+		<BR>
+<a href=query?sdql=120%3CBulls%3Apoints%20and%20site%3Dhome%20>120&lt;Bulls:points and site=home </a>
+		<BR>
+		returns games in which the Bulls scored more than 120 points at home.
+		<BR>
+<a href=query?sdql=points%3C60>points&lt;60</a>
+		<BR>
+  		returns games when the team scored fewer than 60 points.
+		<p>If no conditional is imposed then the results are grouped by the reference.
+		<br>
+<a href=query?sdql=points>points</a>
+		<br>
+		returns games grouped by all occurrences of points.
+
+		<p>Multiple conditions can be imposed using a comma delimited format.
+		<br>
+<a href=query?sdql=points%20%3C%2090%2C100%2C110>points &lt; 90,100,110</a>
+		<br>
+		gives results grouped by points &lt; 90, points &lt; 100, and points &lt; 110.
+		<p>
+		You can comma-group on both sides of the inequality as per:<BR>
+<a href=query?sdql=70%2C80%2C90%2C100%20%3C%20points%20%3C%2090%2C100%2C110>70,80,90,100 &lt; points &lt; 90,100,110</a>
+
+</td></tr></table>
+<h3>Game Reference:</h3>
+<table><tr><td>&nbsp</td><td>
+<b>p</b> => team's previous game<BR>
+<b>op</b> => opp's previous game<BR>
+<b>P</b> => previous match up<BR>
+
+<b>n</b> => team's next game<BR>
+<b>on</b> => opp's next game<BR>
+<b>N</b> => next match up<BR>
+<p>
+<b>Examples:</b> <p>
+</td></tr></table>
+<table><tr><td> &nbsp&nbsp </td><td>
+		The query:
+		<BR>
+<a href=query?sdql=P%3Apoints%20%3C%2080%20and%20PP%3Apoints%20%3C%2080%20>P:points &lt; 80 and PP:points &lt; 80 </a>
+		<BR>
+		returns games where team scored fewer than 80 point the past two head-to-head match ups
+		<p>
+		The query:
+		<BR>
+<a href=query?sdql=2%2AP%3Apoints%20in%20the%20paint%20%3C%20Po%3Apoints%20in%20the%20paint>2*P:points in the paint &lt; Po:points in the paint</a>
+		<BR>
+		returns games in which the team was outscored in the paint by a factor of 2 in their previous match up.
+		<p>
+		Adding a condition on season restricts this query to same season match ups:
+		<br>
+<a href=query?sdql=2%2AP%3Apoints%20in%20the%20paint%20%3C%20Po%3Apoints%20in%20the%20paint%20and%20P%3Aseason%3Dseason>2*P:points in the paint &lt; Po:points in the paint and P:season=season</a>
+		<BR>
+		returns games in which the team was outscored in the paint by a factor of 2 in their previous same season match up.
+
+
+
+</td></tr></table>
+
+
+<p>
+<b>Examples:</b> <p>
+</td></tr></table>
+<table><tr><td> &nbsp&nbsp </td><td>
+		The query:
+		<BR>
+<a href=query?sdql=0.25%2Ap%3Apoints%3C%3Dp%3Afast%20break%20points%20and%20po%3Apoints%3Cp%3Apoints>0.25*p:points&lt;=p:fast break points and po:points&lt;p:points</a>
+		<BR>
+		returns games with a team off a win in which they scored at least 25% of their
+                points from fast breaks.
+<p>
+
+<font size=+1><b>Short Cuts:</b></font>
+
+<p>
+<b>H, A, W, L, F, D, O, U, C</b> are  short cuts for home, away, win, loss, favorite, dog, over the total,under the total, and conference.  As with the parameter prefixes, these can be strung together without limit.
+<p>
+
+<b>Examples:</b> <p>
+		The query:
+		<BR>
+<a href=query?sdql=HF%20and%20p%3AHFL%20and%20pp%3AHFL>HF and p:HFL and pp:HFL</a>
+		<BR>
+		returns home favorites after they just lost as home favorites their last two games.
+<p>
+The query:<BR>
+<a href=query?sdql=P%3AO%20and%20P2%3AO%20and%20P3%3AO%20and%20P4%3AO%20and%20P5%3AO%20and%20P6%3AO>P:O and P2:O and P3:O and P4:O and P5:O and P6:O</a>
+		<BR>
+		returns games where teams have gone over the total their last six matchups.
+<p>
+In addition to the above single letter short cuts the following abbreviations are available:
+<p>
+
+<b>AASB</b> - after the all star break<BR>
+<b>ATSL</b> - against the spread loss<BR>
+<b>ATSW</b> - against the spread win<BR>
+<b>AST</b> - assists<BR>
+<b>ATR</b> - assist to turnover ratio<BR>
+<b>AWP</b> - Away Winning Percentage<BR>
+<b>BAP</b> - Baskets Assisted percentage<BR>
+<b>BASB</b> - before the all star break<BR>
+<b>DDS</b> - Double Digit Scorers<BR>
+<b>DRB</b> - Defensive Rebounds<BR>
+<b>FBP</b> - fast break points<BR>
+<b>FGA</b> - field goals attempted<BR>
+<b>FGM</b> - field goals made<BR>
+<b>FGP</b> - field goal percentage<BR>
+<b>FTA</b> - free throws attempted<BR>
+<b>FTM</b> - free throws made<BR>
+<b>FTP</b> - free throw percentage<BR>
+<b>HWP</b> - Home Winning Percentage<BR>
+<b>LSP</b> - Leading Scorers Points<BR>
+<b>M1</b> - margin after the first <BR>
+<b>M2</b> - margin at the half <BR>
+<b>M3</b> - margin after the third <BR>
+<b>ORB</b> - Offensive Rebounds<BR>
+<b>P1</b> - points in the first <BR>
+<b>P2</b> - points in the second <BR>
+<b>P3</b> - points in the third <BR>
+<b>P4</b> - points in the fourth <BR>
+<b>PIP</b> - points in the paint<BR>
+<b>PM</b> - plus / minus (player level parameter)<BR>
+<b>PFT</b> - percentage of points from free throws<BR>
+<b>PTP</b> - percentage of points from three pointers<BR>
+<b>RB</b> - Rebounds<BR>
+<b>S1</b> - points in the first <BR>
+<b>S2</b> - total points after the second <BR>
+<b>S3</b> - total points after the third <BR>
+<b>TO</b> - turnovers<BR>
+<b>TPA</b> - three pointers attempted<BR>
+<b>TPM</b> - three pointers made<BR>
+<b>TPP</b> - three point percentage<BR>
+<b>TT</b> - Times Tied<BR>
+<b>WP</b> - team winning percentage<BR>
+
+</td></tr></table>
+
+
+</td></tr></table>
+
+<HR>
+<table bgcolor=FFFFFF width=100%><tr><td align=center>
+<a href=mailto:support@KillerSports.com>support@KillerSports.com</a>&nbsp&nbsp&nbsp
+<a href=mailto:feedback@KillerSports.com>feedback@KillerSports.com</a>&nbsp&nbsp&nbsp<BR>
+<a href=https://groups.google.com/forum/#!forum/sportsdatabase>Google Discussion Group</a>
+</td></tr></table>
+
+<p>
+<center>
+The information available here is believed, but not guaranteed, to be accurate, is
+for recreational purposes only, and is not intended to violate any state, local, or federal laws.
+</center>
+
+</body>
+</html>
