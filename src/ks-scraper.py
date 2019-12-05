@@ -28,7 +28,7 @@ def initialize():
 		date_time_str = '2019-12-04'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
-	elif initial == 'app':
+	elif initial == 'comp':
 		append_data()
 	else:
 		open_page(current_date, current_date)
