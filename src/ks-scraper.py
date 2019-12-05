@@ -23,12 +23,12 @@ CHROME_DRIVER_PATH = '../driver/chromedriver'
 def initialize():	
 	current_date = datetime.date.today()
 	current_date += datetime.timedelta(days=-1)
-	initial = sys.argv[1]
-	if initial == 'init':
+	p = sys.argv[1]
+	if p == 'init':
 		date_time_str = '2019-12-04'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
-	elif initial == 'comp':
+	elif p == 'comp':
 		append_data()
 	else:
 		open_page(current_date, current_date)
@@ -71,10 +71,22 @@ def append_data():
 					 'ot'])
 	for file in os.listdir("../data/sub"):
 		if file.endswith('.csv'):
-			reader = csv.reader(open(f"../data/sub/{file}", "r"), delimiter=" ")
+			sub_file = open(f"../data/sub/{file}", "r")
+			reader = csv.reader(sub_file, delimiter=" ")
 			next(reader)
 			for row in reader:
-				writer.writerow(row)			
+				team = row[0].split(',')[7]
+				team_path = f"../data/teams/{team}"
+				if not os.path.isdir(team_path):
+					os.makedirs(team_path)
+
+				team_file = open(f"{team_path}/{team}.csv", 'a+')
+				team_writer = csv.writer(team_file)
+				team_writer.writerow(row)
+
+				writer.writerow(row)	
+			sub_file.close()
+	m.close()		
 	print('done')
 
 def open_page(starting_date, current_date):
