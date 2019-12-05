@@ -1,3 +1,4 @@
+import subprocess
 import sys
 sys.path.append("/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages")
 from pyquery import PyQuery as pq 
@@ -14,22 +15,22 @@ import datetime
 import time
 import csv
 import psutil
+from csv import reader, writer
+
 
 CHROME_DRIVER_PATH = '../driver/chromedriver'
 
 def initialize():	
 	current_date = datetime.date.today()
 	current_date += datetime.timedelta(days=-1)
-	try:
-		initial = sys.argv[1]
-		if initial == 'init':
-			date_time_str = '2019-12-02'
-			date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
-			open_page(date_time_obj, current_date)
-		else:
-			print('Invalid command')
-			sys.exit()
-	except:
+	initial = sys.argv[1]
+	if initial == 'init':
+		date_time_str = '2019-12-04'
+		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
+		open_page(date_time_obj, current_date)
+	elif initial == 'app':
+		append_data()
+	else:
 		open_page(current_date, current_date)
 
 def load_driver():
@@ -44,6 +45,37 @@ def load_driver():
 	browser.get(url)
 	wait = ui.WebDriverWait(browser,10).until(EC.presence_of_element_located((By.NAME, 'sdql')))
 	return browser
+
+def append_data():
+	m = open('../data/master/master.csv', 'w')
+	writer = csv.writer(m)
+	writer.writerow(['Date',
+					 'Link',
+					 'Day',
+					 'Season',
+					 'Team',
+					 'Opp',
+					 'Site',
+					 'Final',
+					 'Rest',
+					 'Line',
+					 'Total',
+					 'SUm',
+					 'ATSm',
+					 'OUm',
+					 'DPS',
+					 'DPA',
+					 'SUr',
+					 'ATSr',
+					 'OUr',
+					 'ot'])
+	for file in os.listdir("../data/sub"):
+		if file.endswith('.csv'):
+			reader = csv.reader(open(f"../data/sub/{file}", "r"), delimiter=" ")
+			next(reader)
+			for row in reader:
+				writer.writerow(row)			
+	print('done')
 
 def open_page(starting_date, current_date):
 	browser = load_driver()	
@@ -73,7 +105,7 @@ def open_page(starting_date, current_date):
 
 def write_to_csv(row, date):
 	row = row.split(' ')
-	with open(f'../data/{date}.csv', 'w') as f:
+	with open(f'../data/sub/{date}.csv', 'w') as f:
 		writer = csv.writer(f)
 		writer.writerow(row)
 
