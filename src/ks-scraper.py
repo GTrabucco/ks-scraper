@@ -41,7 +41,9 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'p:W and p:line>=10 and season>=2016',
 '15>=streak>=12 and season>=2016',
 'season >=2016 and p:dps < -25',
-'season >=2016 and p:dpa > 30'
+'season >=2016 and p:dpa > 30',
+'total > 230 and (day='Friday' or day='Saturday') and line <-9',
+'total > 230 and day='Friday' and line <-9'
 ]
 
 NFL_QUERIES = [
