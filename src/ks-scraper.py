@@ -42,8 +42,9 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 '15>=streak>=12 and season>=2016',
 'season >=2016 and p:dps < -25',
 'season >=2016 and p:dpa > 30',
-'total > 230 and (day='Friday' or day='Saturday') and line <-9',
-'total > 230 and day='Friday' and line <-9'
+'total > 230 and (day=\'Friday\' or day=\'Saturday\') and line <-9',
+'total > 230 and day=\'Friday\' and line <-9',
+'sorted(list:po:points) [-4]>=20 and season>=2016'
 ]
 
 NFL_QUERIES = [
@@ -63,7 +64,9 @@ NFL_QUERIES = [
 'tA(o:RY,N=3)>=165','tA(o:RY,N=3)>=170','tA(o:RY,N=3)>=175','tA(o:RY,N=3)>=180','tA(o:RY,N=3)>=185','tA(o:RY,N=3)>=190','tA(o:RY,N=3)>=195',
 'tA(o:RY,N=3)>=190',
 'H and PRSW<6 and p:margin<=-10 and p:dpa>0 and pp:dpa>0 and not (p:RY>=100 and p:PY>=250) and date>=20131200',
-'season>=2016 and p:dps > 30'
+'season>=2016 and p:dps > 30',
+'season>=2016 and p:dps<=-25 and p:dpa>0',
+'season>=2016 and p:points = 0 and p:H'
 ]
 
 NBA_URL = "https://killersports.com/nba/query"
@@ -86,7 +89,7 @@ def initialize():
 		p2 = ''
 
 	if p == 'init':
-		date_time_str = '2019-12-04'
+		date_time_str = '2019-12-05'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'comp':
