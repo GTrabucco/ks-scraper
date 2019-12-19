@@ -16,6 +16,7 @@ import time
 import csv
 import psutil
 from csv import reader, writer
+from datetime import date
 
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season>=2016 and p:assists >= 31 and p:turnovers <=7',
@@ -44,7 +45,7 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season >=2016 and p:dpa > 30',
 'total > 230 and (day=\'Friday\' or day=\'Saturday\') and line <-9',
 'total > 230 and day=\'Friday\' and line <-9',
-'sorted(list:po:points) [-4]>=20 and season>=2016'
+'sorted(list:po:points) [-4]>=20 and season>=2016',
 'p:three pointers attempted>=44 and p:TPP >=38 and season >=2016'
 ]
 
@@ -67,7 +68,8 @@ NFL_QUERIES = [
 'H and PRSW<6 and p:margin<=-10 and p:dpa>0 and pp:dpa>0 and not (p:RY>=100 and p:PY>=250) and date>=20131200',
 'season>=2016 and p:dps > 30',
 'season>=2016 and p:dps<=-25 and p:dpa>0',
-'season>=2016 and p:points = 0 and p:H'
+'season>=2016 and p:points = 0 and p:H',
+'p:points - p:total > 0 and po:points - p:total > 0'
 ]
 
 NBA_URL = "https://killersports.com/nba/query"
@@ -104,7 +106,7 @@ def initialize():
 
 def load_driver(url):
 	chrome_options = Options()
-	#chrome_options.add_argument('--headless')
+	chrome_options.add_argument('--headless')
 	chrome_options.add_argument("disable-infobars")
 	chrome_options.add_argument("--disable-extensions")
 	chrome_options.add_argument("--disable-web-security")
@@ -162,14 +164,35 @@ def append_data(current_date):
 def check_queries(queries, url):
 	browser = load_driver(url)
 	
+	count = 0
+	today = datetime.date.today()
+	today = today.strftime('%b %d, %Y')
 
 	for i in queries:
+		first = True
 		wait = ui.WebDriverWait(browser,10).until(EC.presence_of_element_located((By.NAME, 'sdql')))
 		time.sleep(5)
 		browser.find_element(By.NAME, 'sdql').send_keys(i)
 		submit_data = browser.find_element(By.NAME, 'submit').click()
 		time.sleep(1)
-		n = input('next')
+		try:
+			page = pq(browser.page_source)
+			table = page('#DT_Table')
+			body = table('tbody')
+			for row in body('tr').items():
+				date = row('td').eq(0).text()
+				if date == today:	
+					record_page = page('#content table tbody tr').eq(1).find('tbody tr')
+					if first == True:
+						print(i)
+						for j in record_page.items():
+							print(j('th').text(), j('td').text())
+						first = False
+					print(row('td').text())
+			print()
+		except:
+			print('error retrieving data')
+		count = count + 1
 		browser.find_element(By.NAME, 'sdql').clear()
 
 def open_page(starting_date, current_date):
@@ -198,11 +221,14 @@ def open_page(starting_date, current_date):
 			print('error', date)
 			starting_date += datetime.timedelta(days=1)
 
+
+
 def write_to_csv(row, date):
 	row = row.split(' ')
 	with open(f'../data/sub/{date}.csv', 'w') as f:
 		writer = csv.writer(f)
 		writer.writerow(row)
+	f.close()
 
 
 initialize()
