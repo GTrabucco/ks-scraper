@@ -45,14 +45,12 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season >=2016 and p:dpa > 30',
 'total > 230 and (day=\'Friday\' or day=\'Saturday\') and line <-9',
 'total > 230 and day=\'Friday\' and line <-9',
-<<<<<<< HEAD
 'sorted(list:po:points) [-4]>=20 and season>=2016',
-'p:three pointers attempted>=44 and p:TPP >=38 and season >=2016'
-=======
-'sorted(list:po:points) [-4]>=20 and season>=2016'
 'p:three pointers attempted>=44 and p:TPP >=38 and season >=2016',
-'p:dpa<-2 and p:overtime>=1 and rest<=1 and season >=2016'	       
->>>>>>> efd4b794ac7a5c2f783d3b4ef06f42f62060d3ff
+'p:dpa<-2 and p:overtime>=1 and rest<=1 and season >= 2016',
+'max:p:minutes<29 and rest=0 and F and season>=2016',
+'season >= 2016 and total > 230',
+'max:p:field goals made<=6 and p:points>=110 and season >=2016'
 ]
 
 NFL_QUERIES = [
@@ -75,7 +73,8 @@ NFL_QUERIES = [
 'season>=2016 and p:dps > 30',
 'season>=2016 and p:dps<=-25 and p:dpa>0',
 'season>=2016 and p:points = 0 and p:H',
-'p:points - p:total > 0 and po:points - p:total > 0'
+'p:points - p:total > 0 and po:points - p:total > 0',
+'season >=2012 and p:points = 0 and p:H'
 ]
 
 NBA_URL = "https://killersports.com/nba/query"
@@ -98,7 +97,7 @@ def initialize():
 		p2 = ''
 
 	if p == 'init':
-		date_time_str = '2019-12-05'
+		date_time_str = '2019-12-08'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'comp':
@@ -148,21 +147,21 @@ def append_data(current_date):
 	for file in os.listdir("../data/sub"):
 		if file.endswith('.csv'):
 			sub_file = open(f"../data/sub/{file}", "r")
-			file_date = datetime.datetime.strptime(os.path.splitext(file)[0], '%Y%m%d').date()
-			if file_date == current_date:
-				reader = csv.reader(sub_file, delimiter=" ")
-				next(reader)
-				for row in reader:
-					team = row[0].split(',')[7]
-					team_path = f"../data/teams/{team}"
-					if not os.path.isdir(team_path):
-						os.makedirs(team_path)
+			#file_date = datetime.datetime.strptime(os.path.splitext(file)[0], '%Y%m%d').date()
+			#if file_date == current_date:
+			reader = csv.reader(sub_file, delimiter=" ")
+			next(reader)
+			for row in reader:
+				team = row[0].split(',')[7]
+				team_path = f"../data/teams/{team}"
+				if not os.path.isdir(team_path):
+					os.makedirs(team_path)
 
-					team_file = open(f"{team_path}/{team}.csv", 'a+')
-					team_writer = csv.writer(team_file)
-					team_writer.writerow(row)
+				team_file = open(f"{team_path}/{team}.csv", 'a+')
+				team_writer = csv.writer(team_file)
+				team_writer.writerow(row)
 
-					writer.writerow(row)	
+				writer.writerow(row)	
 			sub_file.close()
 	m.close()		
 	print('done')
