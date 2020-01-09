@@ -145,6 +145,7 @@ def append_data(current_date):
 					 'OUr',
 					 'ot'])
 	for file in os.listdir("../data/sub"):
+		first = True
 		if file.endswith('.csv'):
 			sub_file = open(f"../data/sub/{file}", "r")
 			#file_date = datetime.datetime.strptime(os.path.splitext(file)[0], '%Y%m%d').date()
