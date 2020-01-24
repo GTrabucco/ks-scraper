@@ -52,7 +52,8 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season >= 2016 and total > 230',
 'max:p:field goals made<=6 and p:points>=110 and season >=2016',
 'p:assists>=27 and p:turnovers<=5 and season >=2016',
-'sorted(list:p:three pointers made) [-3]>=4 and season>=2016'
+'sorted(list:p:three pointers made) [-3]>=4 and season>=2016',
+'tS(DW,N=3)=3 and season>=2016'
 ]
 
 NFL_QUERIES = [
