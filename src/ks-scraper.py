@@ -50,7 +50,8 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'p:dpa<-2 and p:overtime>=1 and rest<=1 and season >= 2016',
 'max:p:minutes<29 and rest=0 and F and season>=2016',
 'season >= 2016 and total > 230',
-'max:p:field goals made<=6 and p:points>=110 and season >=2016'
+'max:p:field goals made<=6 and p:points>=110 and season >=2016',
+'p:assists>=27 and p:turnovers<=5 and season >=2016'
 ]
 
 NFL_QUERIES = [
