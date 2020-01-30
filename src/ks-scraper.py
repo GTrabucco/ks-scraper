@@ -59,7 +59,8 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'tS(DW,N=3)=3 and season>=2016',
 'p:blocks=0 and po:FGP>=53 and season>=2016',
 'HD and p:margin>=10 and p:PTP>30 and p:TPP > 36.75 and season>=2016',
-'rest = 0 and o:rest > 0 and HD and game number >= 27'
+'rest = 0 and o:rest > 0 and HD and game number >= 27',
+'p:points > 104 and pp:points > 104 and ppp:points > 104 and AF and season>=2016'
 ]
 
 NFL_QUERIES = [
@@ -83,8 +84,12 @@ NFL_QUERIES = [
 'season>=2016 and p:dps<=-25 and p:dpa>0',
 'season>=2016 and p:points = 0 and p:H',
 'p:points - p:total > 0 and po:points - p:total > 0',
-'season >=2012 and p:points = 0 and p:H'
+'season >=2012 and p:points = 0 and p:H',
+'week=p:week+2 and AF and playoffs=0'
 ]
+
+MLB_QUERIES = ['season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
+'streak=-2 and H and SG=3 and season']
 
 NBA_URL = "https://killersports.com/nba/query"
 
