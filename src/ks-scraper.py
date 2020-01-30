@@ -58,7 +58,8 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'sorted(list:p:three pointers made) [-3]>=4 and season>=2016',
 'tS(DW,N=3)=3 and season>=2016',
 'p:blocks=0 and po:FGP>=53 and season>=2016',
-'HD and p:margin>=10 and p:PTP>30 and p:TPP > 36.75 and season>=2016'
+'HD and p:margin>=10 and p:PTP>30 and p:TPP > 36.75 and season>=2016',
+'rest = 0 and o:rest > 0 and HD and game number >= 27'
 ]
 
 NFL_QUERIES = [
