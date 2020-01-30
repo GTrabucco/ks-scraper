@@ -18,7 +18,8 @@ import psutil
 from csv import reader, writer
 from datetime import date
 
-NCAABB_QUERIES = ['season>=2016 and rank > 11 and o:rank = None and H and conference = B10 and line > -8']
+NCAABB_QUERIES = ['season>=2016 and rank > 11 and o:rank = None and H and conference = B10 and line > -8',
+'season>=2016 and rank<=25 and o:rank=None and D']
 
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season>=2016 and p:assists >= 31 and p:turnovers <=7',
@@ -56,7 +57,8 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'p:assists>=27 and p:turnovers<=5 and season >=2016',
 'sorted(list:p:three pointers made) [-3]>=4 and season>=2016',
 'tS(DW,N=3)=3 and season>=2016',
-'p:blocks=0 and po:FGP>=53 and season>=2016'
+'p:blocks=0 and po:FGP>=53 and season>=2016',
+'HD and p:margin>=10 and p:PTP>30 and p:TPP > 36.75 and season>=2016'
 ]
 
 NFL_QUERIES = [
