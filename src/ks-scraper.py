@@ -85,7 +85,8 @@ NFL_QUERIES = [
 'season>=2016 and p:points = 0 and p:H',
 'p:points - p:total > 0 and po:points - p:total > 0',
 'season >=2012 and p:points = 0 and p:H',
-'week=p:week+2 and AF and playoffs=0'
+'week=p:week+2 and AF and playoffs=0',
+'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD'
 ]
 
 MLB_QUERIES = ['season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
