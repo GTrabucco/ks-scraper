@@ -18,6 +18,9 @@ import psutil
 from csv import reader, writer
 from datetime import date
 
+NCAABB_QUERIES = ['season>=2016 and rank > 11 and o:rank = None and H and conference = B10 and line > -8',
+'season>=2016 and rank<=25 and o:rank=None and D']
+
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season>=2016 and p:assists >= 31 and p:turnovers <=7',
 'season>=2016 and p:assists >= 22 and p:turnovers >=25',
@@ -53,7 +56,15 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'max:p:field goals made<=6 and p:points>=110 and season >=2016',
 'p:assists>=27 and p:turnovers<=5 and season >=2016'
 'sorted(list:p:three pointers made) [-3]>=4 and season>=2016',
-'tS(DW,N=3)=3 and season>=2016'
+'tS(DW,N=3)=3 and season>=2016',
+'p:blocks=0 and po:FGP>=53 and season>=2016',
+'HD and p:margin>=10 and p:PTP>30 and p:TPP > 36.75 and season>=2016',
+'rest = 0 and o:rest > 0 and HD and game number >= 27',
+'p:points > 104 and pp:points > 104 and ppp:points > 104 and AF and season>=2016',
+'season>=2016 and HF and line <-10 and game number >=27 and o:rest =0',
+'tA(points, N=3) >120 and HF and season>=2016 and rest<=o:rest and F',
+'-3 <= line <= 3 and rest=0 and p:W and p:D and po:PIP >=50 and season>=2016',
+'p:DPS<0 and pp:DPS<-25 and season>=2016'
 ]
 
 NFL_QUERIES = [
@@ -77,12 +88,19 @@ NFL_QUERIES = [
 'season>=2016 and p:dps<=-25 and p:dpa>0',
 'season>=2016 and p:points = 0 and p:H',
 'p:points - p:total > 0 and po:points - p:total > 0',
-'season >=2012 and p:points = 0 and p:H'
+'season >=2012 and p:points = 0 and p:H',
+'week=p:week+2 and AF and playoffs=0'
 ]
+
+MLB_QUERIES = ['season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
+'streak=-2 and H and SG=3 and season']
 
 NBA_URL = "https://killersports.com/nba/query"
 
 NFL_URL = "https://killersports.com/nfl/query"
+
+NCAABB_URL = "https://killersports.com/ncaabb/query"
+
 
 CHROME_DRIVER_PATH = '../driver/chromedriver'
 
@@ -107,6 +125,8 @@ def initialize():
 		append_data(current_date)
 	elif p == 'check' and p2 == 'nba':
 		check_queries(NBA_QUERIES, NBA_URL)
+	elif p == 'check' and p2 == 'ncaabb':
+		check_queries(NCAABB_QUERIES, NCAABB_URL)
 	elif p == 'check' and p2 == 'nfl':
 		check_queries(NFL_QUERIES, NFL_URL)
 	else:
