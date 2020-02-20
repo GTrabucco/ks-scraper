@@ -61,16 +61,13 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'HD and p:margin>=10 and p:PTP>30 and p:TPP > 36.75 and season>=2016',
 'rest = 0 and o:rest > 0 and HD and game number >= 27',
 'p:points > 104 and pp:points > 104 and ppp:points > 104 and AF and season>=2016',
-<<<<<<< HEAD
 'season>=2016 and HF and line <-10 and game number >=27 and o:rest =0',
 'tA(points, N=3) >120 and HF and season>=2016 and rest<=o:rest and F',
 '-3 <= line <= 3 and rest=0 and p:W and p:D and po:PIP >=50 and season>=2016',
 'p:DPS<0 and pp:DPS<-25 and season>=2016'
-=======
 'Sum(A@team and season,N=5) >= 4 and Sum(L@team and season,N=5) >= 3 and rest = 0 and AF',
 '(p:points+po:points)-(Average(points@season)*2)<=-45 and p:W and season>=2016',
 'A and p:A and p:A and rest =0 and season>=2016'
->>>>>>> 06ecad786219f12b1fa22eac4b1366702b8b6e7a
 ]
 
 NFL_QUERIES = [
@@ -95,12 +92,9 @@ NFL_QUERIES = [
 'season>=2016 and p:points = 0 and p:H',
 'p:points - p:total > 0 and po:points - p:total > 0',
 'season >=2012 and p:points = 0 and p:H',
-<<<<<<< HEAD
 'week=p:week+2 and AF and playoffs=0'
-=======
 'week=p:week+2 and AF and playoffs=0',
 'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD'
->>>>>>> 06ecad786219f12b1fa22eac4b1366702b8b6e7a
 ]
 
 MLB_QUERIES = ['season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
