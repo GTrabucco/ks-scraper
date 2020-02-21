@@ -67,7 +67,14 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'p:DPS<0 and pp:DPS<-25 and season>=2016'
 'Sum(A@team and season,N=5) >= 4 and Sum(L@team and season,N=5) >= 3 and rest = 0 and AF',
 '(p:points+po:points)-(Average(points@season)*2)<=-45 and p:W and season>=2016',
-'A and p:A and p:A and rest =0 and season>=2016'
+'A and p:A and p:A and rest =0 and season>=2016',
+'sorted(list:p:assists) [-2]>=9 and p:W and playoffs=0 and season>=2016',
+'HD and p:margin at the half>=20 and WP<60',
+'p:rebounds < po:rebounds and HD and p:DW and op:L',
+'p:rebounds < po:rebounds and HD and p:DW and op:W',
+'D and n:site streak >= 1 and streak > 0',
+'D and n:site streak >= 1 and streak > 0 and n:rest < 2 and season > 2014',
+'AASB and tS(ATSW, N=5) >=4 and rest>=4 and season>=2016 and REG and month=2'
 ]
 
 NFL_QUERIES = [
