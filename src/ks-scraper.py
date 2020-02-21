@@ -74,7 +74,8 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'p:rebounds < po:rebounds and HD and p:DW and op:W',
 'D and n:site streak >= 1 and streak > 0',
 'D and n:site streak >= 1 and streak > 0 and n:rest < 2 and season > 2014',
-'AASB and tS(ATSW, N=5) >=4 and rest>=4 and season>=2016 and REG and month=2'
+'AASB and tS(ATSW, N=5) >=4 and rest>=4 and season>=2016 and REG and month=2',
+'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W'
 ]
 
 NFL_QUERIES = [
@@ -101,7 +102,12 @@ NFL_QUERIES = [
 'season >=2012 and p:points = 0 and p:H',
 'week=p:week+2 and AF and playoffs=0'
 'week=p:week+2 and AF and playoffs=0',
+<<<<<<< HEAD
 'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD'
+=======
+'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD',
+'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W'
+>>>>>>> 0ee00443de057b990f1f26e35ac5d50b6765075b
 ]
 
 MLB_QUERIES = ['season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
