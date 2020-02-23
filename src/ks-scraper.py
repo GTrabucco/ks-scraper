@@ -75,7 +75,9 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'D and n:site streak >= 1 and streak > 0',
 'D and n:site streak >= 1 and streak > 0 and n:rest < 2 and season > 2014',
 'AASB and tS(ATSW, N=5) >=4 and rest>=4 and season>=2016 and REG and month=2',
-'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W'
+'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W',
+'WP > 60 and o:WP > 60 and P:margin < -25 and HF',
+'p:HL and 2<=rest and 2<=n:rest and p:FGP<46.25 and p:TO<=20 and date>=20160222'
 ]
 
 NFL_QUERIES = [
