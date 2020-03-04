@@ -19,7 +19,8 @@ from csv import reader, writer
 from datetime import date
 
 NCAABB_QUERIES = ['season>=2016 and rank > 11 and o:rank = None and H and conference = B10 and line > -8',
-'season>=2016 and rank<=25 and o:rank=None and D']
+'season>=2016 and rank<=25 and o:rank=None and D',
+'p:WD and A and p:margin>=15 and month=3']
 
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season>=2016 and p:assists >= 31 and p:turnovers <=7',
