@@ -82,6 +82,7 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'tS(H, N=5)>=4 and tS(W, N=4)=4 and AD and o:WP <70 and season>=2016',
 'month > 2 and month < 7 and AF and line < - 7',
 'opo:steals - op:steals < 5.61 and op:steals + opo:steals > 7.36 and op:FBP - opo:FBP < 14.50 and o:ou streak < 1.59 and t:ou streak < 2.98 and opo:PTP - op:PTP > 34.54 and op:FTM > 16.32 and po:S3 < 84.55'
+'p:free throws attempted<10 and tA(p:free throws attempted,N=3)>=22 and season>=2016'	       
 ]
 
 NFL_QUERIES = [
