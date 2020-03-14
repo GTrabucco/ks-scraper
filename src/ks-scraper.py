@@ -19,7 +19,8 @@ from csv import reader, writer
 from datetime import date
 
 NCAABB_QUERIES = ['season>=2016 and rank > 11 and o:rank = None and H and conference = B10 and line > -8',
-'season>=2016 and rank<=25 and o:rank=None and D']
+'season>=2016 and rank<=25 and o:rank=None and D',
+'p:WD and A and p:margin>=15 and month=3']
 
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season>=2016 and p:assists >= 31 and p:turnovers <=7',
@@ -78,7 +79,9 @@ NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W',
 'WP > 60 and o:WP > 60 and P:margin < -25 and HF',
 'p:HL and 2<=rest and 2<=n:rest and p:FGP<46.25 and p:TO<=20 and date>=20160222',
-'tS(H, N=5)>=4 and tS(W, N=4)=4 and AD and o:WP <70 and season>=2016'
+'tS(H, N=5)>=4 and tS(W, N=4)=4 and AD and o:WP <70 and season>=2016',
+'month > 2 and month < 7 and AF and line < - 7',
+'opo:steals - op:steals < 5.61 and op:steals + opo:steals > 7.36 and op:FBP - opo:FBP < 14.50 and o:ou streak < 1.59 and t:ou streak < 2.98 and opo:PTP - op:PTP > 34.54 and op:FTM > 16.32 and po:S3 < 84.55'
 ]
 
 NFL_QUERIES = [
@@ -136,7 +139,7 @@ def initialize():
 		p2 = ''
 
 	if p == 'init':
-		date_time_str = '2019-12-08'
+		date_time_str = '2019-12-29'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'comp':
