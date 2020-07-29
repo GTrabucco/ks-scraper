@@ -21,10 +21,9 @@ def get_stats(home_team, location, road_team):
 	home_team_opp_row = get_row(OPP_URL+"Home", home_team)
 	road_team_row = get_row(T_URL+"Road", road_team)
 	road_team_opp_row = get_row(OPP_URL+"Road", road_team)
-	print(home_team_row)
-	print(home_team_opp_row)
-	print(road_team_row)
-	print(road_team_opp_row)
+	
+	for i,j in zip(home_team_row, road_team_opp_row):
+		
 
 
 def get_row(url, team1):

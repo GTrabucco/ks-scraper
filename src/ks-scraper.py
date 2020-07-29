@@ -111,18 +111,70 @@ NFL_QUERIES = [
 'week=p:week+2 and AF and playoffs=0',
 'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD'
 'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD',
-'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W'
+'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W',
+'rest < 6 and max:p:rushes>=22',
+'rest>7 and max:p:rushes>=25',
+'WP < 25 and H and F and p:L and p:BL = 0 and season>=2012',
+'p:margin >= 14 and pp:margin >= 14 and season>=2018',
+'tpS(W@DIV)=0 and DIV and season >= 2010 and season=P:season+1',
+'tpS(W@DIV)=0 and DIV and season=P:season+1 and P:H and week<=10',
+'week=1 and D and DIV and season>=2013 and P:L',
+'week=1 and D and DIV and season>=2014',
+'week=1 and D and DIV and line<7 and date>=20130909',
+'p:points=0 and rest=6',
+'surface=grass and PRSW<6 and H and p:AL and pp:AL and NB and p:NB and date>=20101200',
+'surface=grass and PRSW<6 and H and p:AL and pp:AL and NB and p:NB and p:PY<280 and oA(o:TY)>280 and date>=20101200',
+'-4<=p:line and line<-7 and -4<=n:line',
+'p:line>0 and p:W',
+'season >= 2017 and week <= 8 and A and line<-2,-3,-4,-5,-6,-7',
+'season >= 2017 and week <= 8 and A and line < -3 and (p:U or op:U)',
+'season>=2015 and tA(kicking extra points/kicking extra points attempted)<=Average(kicking extra points/kicking extra points attempted@season)*.95 and 3<=week<=9 and H',
+'season >= 2015 and tA(kicking extra points/kicking extra points attempted) <= Average(kicking extra points / kicking extra points attempted@season) * .90 and 3<=week<=9 and H and p:L',
+'season >= 2015 and tA(4DA) > Average(4DA@season) and tA(4DP) > Average(4DP@season) and tA(FG/field goals attempted) < Average(FG / field goals attempted@season) and A and DIV',
+''
+
 ]
 
-MLB_QUERIES = ['season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
-'streak=-2 and H and SG=3 and season']
+WNBA_QUERIES = [
+"season >= 2016 and p:assists <= 10 and p:turnovers <= 13",
+"season >= 2016 and HF and op:A and opp:A",
+"game number <= 22 and HF and p:L and season >= 2016 and line >= -4 and WP < o:WP",
+"season >= 2016 and HD and op:A and opp:A",
+"season >= 2016 and HF and op:A and opp:A and oppp:A",
+"season >= 2016 and HD and op:A and opp:A and oppp:A",
+"p:ats streak >= 5 and p:ats margin <= -12 and season >= 2016",
+"p:fouls < 10 and season >= 2016",
+"tS(BL>=5 and L, N=4)=4 and season>=2016",
+"p:W and p:line>=10 and season>=2016",
+"season >=2016 and p:dps < -25",
+"season >=2016 and p:dpa > 30",
+"A and p:A and p:A and rest =0 and season>=2016",
+"D and n:site streak >= 1 and streak > 0",
+"D and n:site streak >= 1 and streak > 0 and n:rest < 2 and season > 2014",
+"Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W",
+"WP > 60 and o:WP > 60 and P:margin < -25 and HF",
+"month > 2 and month < 7 and AF and line < - 7"
+]
+
+MLB_QUERIES = [
+'season>=2013 and HF and p:WOW and p:SF>=1 and SG>1',
+'streak=-2 and H and SG=3', 
+'game number = 1 and tpS(PO)>0 and opS(PO)=0 and H and line <= -130',
+'SG=1 and tS(PU, N=3)',
+'SG=1 and tS(PU, N=3)<=9 and oS(PU, N=3)>=13',
+'LGS and po:BL > 0 and p:W and p:BPRA<4 and date >= 20120523',
+'season >= 2017 and double header = 1 and A and line>120'
+]
 
 NBA_URL = "https://killersports.com/nba/query"
 
+WNBA_URL = "https://killersports.com/wnba/query"
+
 NFL_URL = "https://killersports.com/nfl/query"
 
-NCAABB_URL = "https://killersports.com/ncaabb/query"
+MLB_URL = "https://killersports.com/mlb/query"
 
+NCAABB_URL = "https://killersports.com/ncaabb/query"
 
 CHROME_DRIVER_PATH = '../driver/chromedriver'
 
@@ -147,16 +199,20 @@ def initialize():
 		append_data(current_date)
 	elif p == 'check' and p2 == 'nba':
 		check_queries(NBA_QUERIES, NBA_URL)
+	elif p == 'check' and p2 == 'wnba':
+		check_queries(WNBA_QUERIES, WNBA_URL)
 	elif p == 'check' and p2 == 'ncaabb':
 		check_queries(NCAABB_QUERIES, NCAABB_URL)
 	elif p == 'check' and p2 == 'nfl':
 		check_queries(NFL_QUERIES, NFL_URL)
+	elif p == 'check' and p2 == 'mlb':
+		check_queries(MLB_QUERIES, MLB_URL)
 	else:
 		open_page(current_date, current_date)
 
 def load_driver(url):
 	chrome_options = Options()
-	chrome_options.add_argument('--headless')
+	#chrome_options.add_argument('--headless')
 	chrome_options.add_argument("disable-infobars")
 	chrome_options.add_argument("--disable-extensions")
 	chrome_options.add_argument("--disable-web-security")
@@ -244,6 +300,7 @@ def check_queries(queries, url):
 		except:
 			print('error retrieving data')
 		count = count + 1
+		i = input()
 		browser.find_element(By.NAME, 'sdql').clear()
 
 def open_page(starting_date, current_date):
