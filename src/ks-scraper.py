@@ -185,7 +185,7 @@ MLB_QUERIES = [
 'Min(n:line@n:date and n:D and season)[date and D and season] = line and season>=2016'
 ]
 
-NBA_URL = "https://killersports.com/nba/query"
+NBA_URL = "https://sportsdatabase.com/nba/query"
 
 WNBA_URL = "https://killersports.com/wnba/query"
 
@@ -198,6 +198,11 @@ MLB_URL = "https://killersports.com/mlb/query"
 NCAABB_URL = "https://killersports.com/ncaabb/query"
 
 CHROME_DRIVER_PATH = '../driver/chromedriver'
+
+SCENARIO = 'p:three pointers attempted>=44 and p:TPP >=38'
+
+def get_scenario(date):
+	return SCENARIO + f' and date={date}'
 
 def initialize():	
 	current_date = datetime.date.today()
@@ -216,6 +221,10 @@ def initialize():
 		date_time_str = '2020-07-30'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
+	elif p == 'scenario':
+		date_time_str = '2019-10-22'
+		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
+		open_page(date_time_obj, current_date, True)
 	elif p == 'comp':
 		append_data(current_date)
 	elif p == 'check' and p2 == 'nba':
@@ -331,7 +340,7 @@ def check_queries(queries, url):
 		#i = input()
 		browser.find_element(By.NAME, 'sdql').clear()
 
-def open_page(starting_date, current_date):
+def open_page(starting_date, current_date, scenario=False):
 	browser = load_driver(NBA_URL)	
 	while starting_date <= current_date:
 		print(starting_date)
@@ -339,7 +348,10 @@ def open_page(starting_date, current_date):
 		try:
 			wait = ui.WebDriverWait(browser,10).until(EC.presence_of_element_located((By.NAME, 'sdql')))
 			time.sleep(5)
-			browser.find_element(By.NAME, 'sdql').send_keys(f'date={date}')
+			if scenario == True:
+				browser.find_element(By.NAME, 'sdql').send_keys(get_scenario(date))
+			else:
+				browser.find_element(By.NAME, 'sdql').send_keys(f'date={date}')
 			submit_data = browser.find_element(By.NAME, 'submit').click()
 			time.sleep(1)
 		except Exception as e:
@@ -350,7 +362,7 @@ def open_page(starting_date, current_date):
 			browser.find_element(By.NAME, 'sdql').clear()
 			record_table_xpath = '//table[@id="DT_Table"]'
 			record_table = browser.find_element_by_xpath(record_table_xpath).text
-			write_to_csv(record_table, date)
+			write_to_csv(record_table, date, scenario)
 			submit_data = browser.find_element(By.NAME, 'submit').click()
 			starting_date += datetime.timedelta(days=1)
 		except Exception as e:
@@ -359,14 +371,23 @@ def open_page(starting_date, current_date):
 
 
 
-def write_to_csv(row, date):
+def write_to_csv(row, date, scenario):
 	row = row.split(' ')
 
 	try:
-		with open(f'../data/sub/{date}.csv', 'w') as f:
-			writer = csv.writer(f)
-			writer.writerow(row)
-		f.close()
+		if scenario == False:
+			with open(f'../data/sub/{date}.csv', 'w') as f:
+				writer = csv.writer(f)
+				writer.writerow(row)
+			f.close()
+		else:
+			folder = f'../data/scenarios/{SCENARIO}/'
+			if not os.path.exists(folder):
+				os.makedirs(folder)
+			with open(folder+f'data.csv', 'a+') as f:
+				writer = csv.writer(f)
+				writer.writerow(row)
+			f.close()
 	except Exception as e:
 		print(e)
 
