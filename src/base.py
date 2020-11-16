@@ -1,6 +1,8 @@
 from matchup import Matchup
 import csv
 
+DATA_START_DATE = '1/1/2015'
+
 class Base():
 	def __init__(self, name, path):
 		self.name = name
@@ -38,3 +40,13 @@ class Base():
 	    schedule = sorted(self.schedule, key=lambda x: x.date, reverse=False)
 	    matchups = schedule[-n:]
 	    return matchups
+
+
+	def get_matchups_against_opponent(self, opponent_name, start_date = DATA_START_DATE, end_date = str(date.today())):
+		try:
+			formatted_start_date = dateutil.parser.parse(start_date).strftime("%m/%d/%Y")
+			formatted_end_date = dateutil.parser.parse(end_date).strftime("%m/%d/%Y")
+			matchups = [x for x in self.schedule if x.opponent == opponent_name and x.date >= formatted_start_date and x.date <= formatted_end_date]	
+			return matchups
+		except Exception as e:
+			print('get_matchup_by_opponent()', opponent_name, e)
