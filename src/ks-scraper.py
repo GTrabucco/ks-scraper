@@ -22,6 +22,14 @@ NCAABB_QUERIES = ['season>=2016 and rank > 11 and o:rank = None and H and confer
 'season>=2016 and rank<=25 and o:rank=None and D',
 'p:WD and A and p:margin>=15 and month=3']
 
+NCAAFB_QUERIES = ['team=AIR or team=NAVY or team=ARMY and game type=BG',
+'game type=BG and rest-o:rest>=14',
+'game type=BG and tA(points)-oA(points)>=11.25 and season>=1995',
+'game type=BG and tA(o:rushing yards)>=180',
+'game type=BG and tA(o:passing yards)>=259',
+'game type=BG and tA(o:passing yards, N=3)<=153',
+'p:passing yards<=100 and p:margin>4']
+
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
 'season>=2016 and p:assists >= 31 and p:turnovers <=7',
 'season>=2016 and p:assists >= 22 and p:turnovers >=25',
@@ -111,7 +119,6 @@ NFL_QUERIES = [
 'week=p:week+2 and AF and playoffs=0',
 'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD'
 'tA(ou margin, N=2) <= -15 and tS(U,N=3) = 3 and p:L and season>=2016 and AD',
-'Min(ATR@team and season, N=2) >2.75 and REG and season>=2016 and p:W',
 'rest < 6 and max:p:rushes>=22',
 'rest>7 and max:p:rushes>=25',
 'WP < 25 and H and F and p:L and p:BL = 0 and season>=2012',
@@ -125,14 +132,25 @@ NFL_QUERIES = [
 'surface=grass and PRSW<6 and H and p:AL and pp:AL and NB and p:NB and date>=20101200',
 'surface=grass and PRSW<6 and H and p:AL and pp:AL and NB and p:NB and p:PY<280 and oA(o:TY)>280 and date>=20101200',
 '-4<=p:line and line<-7 and -4<=n:line',
-'p:line>0 and p:W',
 'season >= 2017 and week <= 8 and A and line<-2,-3,-4,-5,-6,-7',
 'season >= 2017 and week <= 8 and A and line < -3 and (p:U or op:U)',
 'season>=2015 and tA(kicking extra points/kicking extra points attempted)<=Average(kicking extra points/kicking extra points attempted@season)*.95 and 3<=week<=9 and H',
 'season >= 2015 and tA(kicking extra points/kicking extra points attempted) <= Average(kicking extra points / kicking extra points attempted@season) * .90 and 3<=week<=9 and H and p:L',
 'season >= 2015 and tA(4DA) > Average(4DA@season) and tA(4DP) > Average(4DP@season) and tA(FG/field goals attempted) < Average(FG / field goals attempted@season) and A and DIV',
-''
-
+'p:TPM >= 23',
+'HD and line > 9.5',
+'AF and week -2 = p:week',
+'o:time zone =E and time zone = P and o:site streak < -1 and season>=2010',
+'HD and season>=2010 and not C and p:DIV',
+'WP < 25 and AD and line <=3 and week >=7 and season>=2003',
+'p:ATSL and line>=9.5 and p:line>=10',
+'D and p:points<20 and po:points>=38',
+'line<=-6.5 and WP<46 and week>3',
+'A and p:dpa>=5 and p:A',
+'surface = grass and p:L and p:RY -tA(p:RY) > 43 and wins - o:wins > -4 and (WP > 100/3 or o:WP>100/3) and date >= 20171109',
+'surface=grass and 10 < PRSW and p:A and p:F and p:RZF >= 3 and p:TOP/60 > 26',
+'po:TY - p:TY >=190 and p:W and A and p:H',
+'(p:W and (site=away) and tp:week +  2 = t:week and (line <=-3) and (1) and (2001, 1) <= (season, week))'
 ]
 
 WNBA_QUERIES = [
@@ -163,14 +181,17 @@ MLB_QUERIES = [
 'SG=1 and tS(PU, N=3)',
 'SG=1 and tS(PU, N=3)<=9 and oS(PU, N=3)>=13',
 'LGS and po:BL > 0 and p:W and p:BPRA<4 and date >= 20120523',
-'season >= 2017 and double header = 1 and A and line>120'
+'season >= 2017 and double header = 1 and A and line>120',
+'Min(n:line@n:date and n:D and season)[date and D and season] = line and season>=2016'
 ]
 
 NBA_URL = "https://killersports.com/nba/query"
 
 WNBA_URL = "https://killersports.com/wnba/query"
 
-NFL_URL = "https://killersports.com/nfl/query"
+NFL_URL = "https://sportsdatabase.com/nfl/query"
+
+NCAAFB_URL = "https://sportsdatabase.com/ncaafb/query"
 
 MLB_URL = "https://killersports.com/mlb/query"
 
@@ -192,7 +213,7 @@ def initialize():
 		p2 = ''
 
 	if p == 'init':
-		date_time_str = '2019-12-29'
+		date_time_str = '2020-07-30'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'comp':
@@ -201,6 +222,8 @@ def initialize():
 		check_queries(NBA_QUERIES, NBA_URL)
 	elif p == 'check' and p2 == 'wnba':
 		check_queries(WNBA_QUERIES, WNBA_URL)
+	elif p == 'check' and p2 == 'ncaafb':
+		check_queries(NFL_QUERIES, NCAAFB_URL)
 	elif p == 'check' and p2 == 'ncaabb':
 		check_queries(NCAABB_QUERIES, NCAABB_URL)
 	elif p == 'check' and p2 == 'nfl':
@@ -212,7 +235,7 @@ def initialize():
 
 def load_driver(url):
 	chrome_options = Options()
-	#chrome_options.add_argument('--headless')
+	chrome_options.add_argument('--headless')
 	chrome_options.add_argument("disable-infobars")
 	chrome_options.add_argument("--disable-extensions")
 	chrome_options.add_argument("--disable-web-security")
@@ -225,7 +248,7 @@ def load_driver(url):
 def append_data(current_date):
 	m = open('../data/master/master.csv', 'w')
 	writer = csv.writer(m)
-	writer.writerow(['Date',
+	header = ['Date',
 					 'Link',
 					 'Day',
 					 'Season',
@@ -244,7 +267,8 @@ def append_data(current_date):
 					 'SUr',
 					 'ATSr',
 					 'OUr',
-					 'ot'])
+					 'ot']
+	writer.writerow(header)
 	for file in os.listdir("../data/sub"):
 		first = True
 		if file.endswith('.csv'):
@@ -253,16 +277,20 @@ def append_data(current_date):
 			#if file_date == current_date:
 			reader = csv.reader(sub_file, delimiter=" ")
 			next(reader)
+
 			for row in reader:
+				new = False
 				team = row[0].split(',')[7]
 				team_path = f"../data/teams/{team}"
 				if not os.path.isdir(team_path):
 					os.makedirs(team_path)
+					new = True
 
 				team_file = open(f"{team_path}/{team}.csv", 'a+')
 				team_writer = csv.writer(team_file)
+				if new == True:
+					team_writer.writerow(header)
 				team_writer.writerow(row)
-
 				writer.writerow(row)	
 			sub_file.close()
 	m.close()		
@@ -300,7 +328,7 @@ def check_queries(queries, url):
 		except:
 			print('error retrieving data')
 		count = count + 1
-		i = input()
+		#i = input()
 		browser.find_element(By.NAME, 'sdql').clear()
 
 def open_page(starting_date, current_date):
@@ -325,18 +353,22 @@ def open_page(starting_date, current_date):
 			write_to_csv(record_table, date)
 			submit_data = browser.find_element(By.NAME, 'submit').click()
 			starting_date += datetime.timedelta(days=1)
-		except:
-			print('error', date)
+		except Exception as e:
+			print('error', e)
 			starting_date += datetime.timedelta(days=1)
 
 
 
 def write_to_csv(row, date):
 	row = row.split(' ')
-	with open(f'../data/sub/{date}.csv', 'w') as f:
-		writer = csv.writer(f)
-		writer.writerow(row)
-	f.close()
+
+	try:
+		with open(f'../data/sub/{date}.csv', 'w') as f:
+			writer = csv.writer(f)
+			writer.writerow(row)
+		f.close()
+	except Exception as e:
+		print(e)
 
 
 initialize()
