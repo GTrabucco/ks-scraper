@@ -1,9 +1,5 @@
-import csv
-from matchup import Matchup
 from base import Base
 
-PATH = f'../data/scenarios/{scenario}/data.csv'
-
 class Scenario(Base):
-	def __init__(self, scenario):
-		super().__init__(scenario, PATH)
+	def __init__(self, scenario, at_date = None):
+		super().__init__(scenario, path=f'../data/scenarios/{scenario}/data.csv', at_date)

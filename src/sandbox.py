@@ -2,24 +2,35 @@ from matchup import Matchup
 from scenario import Scenario
 from team import Team
 from league import League
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+from sklearn import linear_model
+import statsmodels.api as sm
 
-
-t = Team("Celtics")
-matchups = t.schedule
+scenario = Scenario("pthree pointers attempted>=44 and pTPP >=38")
 
 dps_sum = []
 dpa_sum = []
 margin_list = []
 
-for i,x in enumerate(matchups):
-	if i < 15:
-		continue
-	last_n_games = matchups[i-15:i]
+for s in scenario.schedule:
+	team = Team(s.team)
+	print(team.name, s.date)
+	end_index = [x.date for x in team.schedule].index(s.date)
+	start_index = end_index-15
+
+	if start_index < 0:
+		start_index = 0
+
+	last_n_games = team.get_matchups_by_range(team.schedule[start_index].date, team.schedule[end_index-1].date)
+
 	t = sum(x.dps for x in last_n_games)
 	d = sum(x.dpa for x in last_n_games)
 	dps_sum.append(t)
 	dpa_sum.append(d)
-	margin_list.append(x.ou_margin)
+	margin_list.append(team.schedule[end_index].ou_margin)
+exit()
 
 data = {'DPA L15': dpa_sum,
         'DPS L15': dps_sum,

@@ -218,7 +218,7 @@ def initialize():
 		p2 = ''
 
 	if p == 'init':
-		date_time_str = '2020-07-30'
+		date_time_str = '2015-01-01'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'scenario':
