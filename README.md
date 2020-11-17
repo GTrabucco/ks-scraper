@@ -1,2 +1,2 @@
 # ks-scraper
-Scrapes from KillerSports.com and SportsDatabase.com
+Scrapes KillerSports.com and SportsDatabase.com

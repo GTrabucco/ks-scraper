@@ -31,17 +31,17 @@ NCAAFB_QUERIES = ['team=AIR or team=NAVY or team=ARMY and game type=BG',
 'p:passing yards<=100 and p:margin>4']
 
 NBA_QUERIES = ['season>=2016 and p:assists >= 27 and p:turnovers <=5',
-'season>=2016 and p:assists >= 31 and p:turnovers <=7',
+*'season>=2016 and p:assists >= 31 and p:turnovers <=7',
 'season>=2016 and p:assists >= 22 and p:turnovers >=25',
 'season>=2016 and p:assists <= 21 and p:turnovers >=25',
 'season>=2016 and p:assists <= 10 and p:turnovers <=13',
 'game number<=22 and HF and p:L and season>=2016 and line>=-4 and WP<o:WP',
-'season>=2016 and HF and op:A and opp:A',
-'season>=2016 and HD and op:A and opp:A',
-'season>=2016 and HF and op:A and opp:A and oppp:A',
-'season>=2016 and HD and op:A and opp:A and oppp:A',
+*'season>=2016 and HF and op:A and opp:A',
+*'season>=2016 and HD and op:A and opp:A',
+*'season>=2016 and HF and op:A and opp:A and oppp:A',
+*'season>=2016 and HD and op:A and opp:A and oppp:A',
 'sorted(list:p:free throws attempted) [-2]>=13',
-'tS(assists-14>=turnovers,N=4)=4 and season>=2016',
+*'tS(assists-14>=turnovers,N=4)=4 and season>=2016',
 'p:ats streak>=5 and p:ats margin<=-12 and season>=2016',
 'p:fouls<10 and season>=2016',
 'p:dps>30 and rest=1 and season>=2016',
@@ -199,7 +199,7 @@ NCAABB_URL = "https://killersports.com/ncaabb/query"
 
 CHROME_DRIVER_PATH = '../driver/chromedriver'
 
-SCENARIO = 'p:three pointers attempted>=44 and p:TPP >=38'
+SCENARIO = 'tS(assists-14>=turnovers,N=4)=4'
 
 def get_scenario(date):
 	return SCENARIO + f' and date={date}'
@@ -222,7 +222,7 @@ def initialize():
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'scenario':
-		date_time_str = '2019-10-22'
+		date_time_str = '2020-02-01'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date, True)
 	elif p == 'comp':

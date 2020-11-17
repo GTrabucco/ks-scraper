@@ -7,19 +7,19 @@ from abc import ABC, abstractmethod
 DATA_START_DATE = '1/1/2015'
 
 class Base(ABC):
-	def __init__(self, name, path, at_date = None):
+	def __init__(self, name, path, start_date = None, end_date = None, season=None):
 		self.name = name
 		self.schedule = []
 		self.path = path
-		print('at_date', at_date)
-		self.at_date = at_date if isinstance(at_date, date) or at_date == None else datetime.strptime(at_date, '%Y-%m-%d').date()
-		print('after', at_date)
-		self._initialize_schedule(date)
+		self.start_date = start_date if isinstance(start_date, date) or start_date == None else datetime.strptime(start_date, '%Y-%m-%d').date()
+		self.end_date = end_date if isinstance(end_date, date) or end_date == None else datetime.strptime(end_date, '%Y-%m-%d').date()
+		self.season = season
+		self._initialize_schedule(self.start_date, self.end_date, self.season)
 
 	def _insert_matchup(self, matchup):
 		self.schedule.append(matchup)
 
-	def _initialize_schedule(self, date):
+	def _initialize_schedule(self, start_date, end_date, season):
 		try:
 			with open(self.path, 'r') as csvfile:
 				reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
@@ -27,8 +27,8 @@ class Base(ABC):
 				for raw_row in reader:
 					row = str(raw_row).split(',')
 					m = Matchup(row[0] + row[1] + row[3], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22])	
-					if self.at_date is not None and self.at_date <= m.date:
-						break
+					if (start_date is not None and start_date > m.date) or (end_date is not None and end_date < m.date) or (season is not None and m.season != season):
+						continue
 					self._insert_matchup(m)
 			csvfile.close()
 		except Exception as e:
@@ -51,13 +51,6 @@ class Base(ABC):
 		    return matchups
 		except Exception as e:
 			print('get_last_n_matchups', n, e)
-
-	def get_matchups_by_range(self, start_date, end_date):
-		try:
-			matchups = [x for x in self.schedule if x.date >= start_date and x.date <= end_date]	
-			return matchups
-		except Exception as e:
-			print('get_matchup_by_range()', start_date, end_date, e)
 
 	def get_matchups_against_opponent(self, opponent_name, start_date = DATA_START_DATE, end_date = str(date.today())):
 		try:
