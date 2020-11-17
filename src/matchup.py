@@ -1,7 +1,6 @@
 import re
 import dateutil.parser
 import datetime
-from team import Team
 
 class Matchup():
 	def __init__(self, date, day, season, team, opponent, site, final_score, rest, line, total, su_margin, ats_margin, ou_margin, dps, dpa, su_record, ats_record, ou_record, ot):
@@ -27,9 +26,3 @@ class Matchup():
 		self.ats_record = ats_record
 		self.ou_record = ou_record
 		self.ot = re.sub('[^0-9a-zA-Z]+', '', ot)
-
-	def get_team():
-		return Team(self.team, self.date)
-
-	def get_opponent():
-		return Team(self.opponent, self.date)

@@ -1,7 +1,7 @@
 import csv
 from matchup import Matchup
 import dateutil.parser
-from datetime import date
+from datetime import date, datetime
 from abc import ABC, abstractmethod
 
 DATA_START_DATE = '1/1/2015'
@@ -11,6 +11,9 @@ class Base(ABC):
 		self.name = name
 		self.schedule = []
 		self.path = path
+		print('at_date', at_date)
+		self.at_date = at_date if isinstance(at_date, date) or at_date == None else datetime.strptime(at_date, '%Y-%m-%d').date()
+		print('after', at_date)
 		self._initialize_schedule(date)
 
 	def _insert_matchup(self, matchup):
@@ -23,8 +26,8 @@ class Base(ABC):
 				next(reader, None)
 				for raw_row in reader:
 					row = str(raw_row).split(',')
-					m = Matchup(row[0] + row[1] + row[3], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22])					
-					if at_date != None and at_date >= m.date:
+					m = Matchup(row[0] + row[1] + row[3], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22])	
+					if self.at_date is not None and self.at_date <= m.date:
 						break
 					self._insert_matchup(m)
 			csvfile.close()

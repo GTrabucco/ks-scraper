@@ -1,4 +1,3 @@
-from matchup import Matchup
 from scenario import Scenario
 from team import Team
 from league import League
@@ -9,6 +8,9 @@ from sklearn import linear_model
 import statsmodels.api as sm
 
 scenario = Scenario("pthree pointers attempted>=44 and pTPP >=38")
+
+
+
 
 dps_sum = []
 dpa_sum = []
