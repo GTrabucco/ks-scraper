@@ -1,7 +1,7 @@
 # ks-scraper
 
 # Team class examples
-All Team data is located in data/teams
+Team data is located in data/teams
 
 Retrieves all the gambling data specified in the Team Class for the Celtics
 `celtics_data = Team("Celtics")`
@@ -26,16 +26,16 @@ DATES MUST BE IN YYYY-MM-DD FORMAT
 # Scenario class example
 
 A Scenario is defined as a trend that produces a specific set of Matchups ex. home favorites after a loss
-All Scenario data is located in data/scenarios
+Scenario data is located in data/scenarios
 All the same season and date specifications demo'd in the Team class examples can be used with the Scenario class
 
-Retrieves all the gambling data specified in the Scenario Class for the Scenario: tS(assists-14>=turnovers,N=4)=4
+Retrieves all the gambling data specified in the Scenario class for the Scenario: tS(assists-14>=turnovers,N=4)=4
 `scenario = Scenario("tS(assists-14>=turnovers,N=4)=4")`
 
 
 
 # League class example
-All League data is located in data/master
+League data is located in data/master
 All the same season and date specifications demo'd in the Team class examples can be used with the Scenario class
 
 Retrieves all the NBA Matchups since 1/1/2015
