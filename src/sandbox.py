@@ -8,13 +8,16 @@ from sklearn import linear_model
 import statsmodels.api as sm
 import statistics 
 from datetime import date, datetime, timedelta
+from rotation import Rotation
 
-t = Team("Celtics", start_date="2015-03-20", end_date="2015-03-20")
+t = Team("Celtics", start_date="2015-01-02", end_date="2015-01-02")
 #print(game.pbp())
+players = []
+for i in t.schedule[0].lineup.starters:
+	players.append(i.player_id)
 
-for i in t.schedule[0].lineup.get_starters():
-	print(vars(i))
-
+r = Rotation(players, t.schedule[0].team, t.schedule[0].season)
+print(vars(r))
 exit()
 
 X = []

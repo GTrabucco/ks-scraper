@@ -43,8 +43,8 @@ class Matchup():
 
 		boxscore_id = self.date.strftime(f"%Y%m%d{team_id}")
 
-		b = sportsref.nba.BoxScore(boxscore_id)
 		try:
+			b = sportsref.nba.BoxScore(boxscore_id)
 			lineups = b.basic_stats()
 			self.lineup = Lineup(lineups.loc[lineups['is_home'] == (self.site == 'home')])
 			self.opponent_lineup = Lineup(lineups.loc[lineups['is_home'] == (self.site == 'home')])

@@ -197,7 +197,7 @@ MLB_URL = "https://killersports.com/mlb/query"
 
 NCAABB_URL = "https://killersports.com/ncaabb/query"
 
-CHROME_DRIVER_PATH = '../driver/chromedriver'
+CHROME_DRIVER_PATH = '../../driver/chromedriver'
 
 SCENARIO = 'tS(assists-14>=turnovers,N=4)=4'
 
