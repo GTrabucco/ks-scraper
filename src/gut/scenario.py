@@ -1,4 +1,4 @@
-from base import Base
+from gut.base import Base
 
 class Scenario(Base):
 	def __init__(self, scenario, start_date = None, end_date = None, season=None):
