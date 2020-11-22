@@ -9,11 +9,11 @@ import statsmodels.api as sm
 import statistics 
 from datetime import date, datetime, timedelta
 
-t = Team("Celtics", start_date="2015-03-20", end_date="2015-05-20")
+t = Team("Celtics", start_date="2015-03-20", end_date="2015-03-20")
 #print(game.pbp())
 
-for i in t.schedule[4].lineup.lineup:
-	print(i.player_name, i.trb)
+for i in t.schedule[0].lineup.get_starters():
+	print(vars(i))
 
 exit()
 

@@ -1,6 +1,5 @@
 import requests, json 
   
-api_key = "2be103db304f21e624b8dd09cedcba8f"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
   
 cities = {'Bears': '3582383',
