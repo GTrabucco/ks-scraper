@@ -25,8 +25,8 @@ DATES MUST BE IN YYYY-MM-DD FORMAT<br/>
 
 # Scenario class example
 
-A Scenario is defined as a trend that produces a specific set of Matchups ex. home favorites after a loss<br/>
 Scenario data is located in data/scenarios<br/>
+A Scenario is defined as a trend that produces a specific set of Matchups ex. home favorites after a loss<br/>
 All the same season and date specifications demo'd in the Team class examples can be used with the Scenario class<br/>
 
 Retrieves all the gambling data specified in the Scenario class for the Scenario: tS(assists-14>=turnovers,N=4)=4<br/>
