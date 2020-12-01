@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+arizatr01,35.63333333333333,4.0,9.0,0.444,0.0,4.0,0.0,1.0,1.0,1.0,0.0,3.0,3.0,1.0,3.0,0.0,3.0,3.0,9.0,11.0,Trevor Ariza,,HOU,False,True
+hardeja01,34.766666666666666,8.0,20.0,0.4,3.0,10.0,0.3,7.0,7.0,1.0,0.0,5.0,5.0,6.0,4.0,1.0,5.0,2.0,26.0,5.0,James Harden,,HOU,False,True
+tuckepj01,33.95,3.0,3.0,1.0,3.0,3.0,1.0,0.0,0.0,,1.0,5.0,6.0,1.0,0.0,0.0,1.0,2.0,9.0,21.0,P.J. Tucker,,HOU,False,True
+paulch01,33.68333333333333,5.0,12.0,0.417,1.0,6.0,0.167,5.0,5.0,1.0,0.0,5.0,5.0,11.0,0.0,0.0,2.0,2.0,16.0,11.0,Chris Paul,,HOU,False,True
+capelca01,18.566666666666666,4.0,7.0,0.571,0.0,0.0,,2.0,10.0,0.2,4.0,4.0,8.0,0.0,0.0,1.0,0.0,2.0,10.0,3.0,Clint Capela,,HOU,False,True
+gordoer01,33.05,6.0,12.0,0.5,4.0,8.0,0.5,2.0,2.0,1.0,1.0,5.0,6.0,2.0,1.0,1.0,1.0,2.0,18.0,9.0,Eric Gordon,,HOU,False,False
+mbahalu01,29.533333333333335,4.0,6.0,0.667,2.0,4.0,0.5,1.0,2.0,0.5,2.0,5.0,7.0,0.0,1.0,1.0,4.0,3.0,11.0,3.0,Luc Mbah a Moute,,HOU,False,False
+greenge01,12.683333333333334,3.0,10.0,0.3,1.0,5.0,0.2,0.0,0.0,,2.0,2.0,4.0,1.0,0.0,1.0,0.0,3.0,7.0,4.0,Gerald Green,,HOU,False,False
+blackta01,8.133333333333333,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,4.0,-12.0,Tarik Black,,HOU,False,False
+hilarne01,,,,,,,,,,,,,,,,,,,,,Nenê Hilário,Did Not Play,HOU,False,False
+johnsjo02,,,,,,,,,,,,,,,,,,,,,Joe Johnson,Did Not Dress,HOU,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Dress,HOU,False,False
+middlkh01,40.06666666666667,6.0,13.0,0.462,3.0,7.0,0.429,3.0,4.0,0.75,1.0,11.0,12.0,5.0,3.0,0.0,3.0,5.0,18.0,-11.0,Khris Middleton,,MIL,True,True
+antetgi01,37.733333333333334,12.0,20.0,0.6,0.0,0.0,,6.0,9.0,0.667,2.0,5.0,7.0,1.0,1.0,2.0,6.0,4.0,30.0,-11.0,Giannis Antetokounmpo,,MIL,True,True
+bledser01,34.95,4.0,11.0,0.364,2.0,6.0,0.333,5.0,6.0,0.833,1.0,4.0,5.0,3.0,0.0,0.0,2.0,2.0,15.0,-17.0,Eric Bledsoe,,MIL,True,True
+snellto01,25.316666666666666,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,-17.0,Tony Snell,,MIL,True,True
+hensojo01,19.916666666666668,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,1.0,0.0,4.0,6.0,-1.0,John Henson,,MIL,True,True
+terryja01,30.0,1.0,6.0,0.167,0.0,4.0,0.0,0.0,0.0,,0.0,1.0,1.0,5.0,2.0,0.0,1.0,2.0,2.0,6.0,Jason Terry,,MIL,True,False
+brownst02,26.716666666666665,6.0,12.0,0.5,3.0,6.0,0.5,0.0,0.0,,2.0,3.0,5.0,0.0,0.0,0.0,0.0,1.0,15.0,2.0,Sterling Brown,,MIL,True,False
+parkeja01,25.3,5.0,12.0,0.417,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,0.0,1.0,2.0,10.0,-6.0,Jabari Parker,,MIL,True,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,True,False
+plumlma02,,,,,,,,,,,,,,,,,,,,,Marshall Plumlee,Did Not Play,MIL,True,False
+munfoxa02,,,,,,,,,,,,,,,,,,,,,Xavier Munford,Did Not Play,MIL,True,False
+muhamsh01,,,,,,,,,,,,,,,,,,,,,Shabazz Muhammad,Did Not Play,MIL,True,False
+makerth01,,,,,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,MIL,True,False

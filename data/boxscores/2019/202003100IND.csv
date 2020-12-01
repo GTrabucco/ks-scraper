@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+haywago01,36.06666666666667,10.0,19.0,0.526,3.0,7.0,0.429,4.0,4.0,1.0,2.0,8.0,10.0,5.0,2.0,1.0,2.0,4.0,27.0,-4.0,Gordon Hayward,,BOS,False,True
+tatumja01,35.9,11.0,22.0,0.5,3.0,9.0,0.333,5.0,6.0,0.833,1.0,5.0,6.0,2.0,4.0,0.0,0.0,1.0,30.0,5.0,Jayson Tatum,,BOS,False,True
+smartma01,35.71666666666667,6.0,14.0,0.429,2.0,6.0,0.333,2.0,2.0,1.0,0.0,5.0,5.0,5.0,0.0,0.0,1.0,1.0,16.0,12.0,Marcus Smart,,BOS,False,True
+theisda01,33.56666666666667,8.0,12.0,0.667,2.0,2.0,1.0,2.0,2.0,1.0,2.0,4.0,6.0,3.0,0.0,2.0,0.0,5.0,20.0,2.0,Daniel Theis,,BOS,False,True
+walkeke02,30.316666666666666,3.0,12.0,0.25,2.0,8.0,0.25,3.0,4.0,0.75,0.0,3.0,3.0,2.0,0.0,0.0,2.0,0.0,11.0,-1.0,Kemba Walker,,BOS,False,True
+ojelese01,21.166666666666668,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,0.0,1.0,1.0,3.0,1.0,Semi Ojeleye,,BOS,False,False
+wanambr01,20.383333333333333,1.0,2.0,0.5,0.0,0.0,,3.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,5.0,3.0,Brad Wanamaker,,BOS,False,False
+kanteen01,14.416666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,0.0,3.0,4.0,7.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,Enes Kanter,,BOS,False,False
+langfro01,9.766666666666667,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,Romeo Langford,,BOS,False,False
+willigr01,2.6666666666666665,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,-7.0,Grant Williams,,BOS,False,False
+williro04,,,,,,,,,,,,,,,,,,,,,Robert Williams,Did Not Play,BOS,False,False
+greenja02,,,,,,,,,,,,,,,,,,,,,Javonte Green,Did Not Play,BOS,False,False
+edwarca01,,,,,,,,,,,,,,,,,,,,,Carsen Edwards,Did Not Play,BOS,False,False
+sabondo01,41.483333333333334,13.0,23.0,0.565,0.0,2.0,0.0,2.0,2.0,1.0,4.0,5.0,9.0,8.0,1.0,0.0,3.0,2.0,28.0,5.0,Domantas Sabonis,,IND,True,True
+turnemy01,36.233333333333334,7.0,11.0,0.636,1.0,3.0,0.333,1.0,2.0,0.5,1.0,7.0,8.0,1.0,1.0,4.0,3.0,3.0,16.0,-1.0,Myles Turner,,IND,True,True
+warretj01,34.21666666666667,9.0,18.0,0.5,1.0,2.0,0.5,3.0,3.0,1.0,4.0,1.0,5.0,0.0,0.0,0.0,3.0,4.0,22.0,-1.0,T.J. Warren,,IND,True,True
+holidaa01,33.86666666666667,2.0,9.0,0.222,0.0,4.0,0.0,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,1.0,1.0,4.0,1.0,Aaron Holiday,,IND,True,True
+oladivi01,28.75,9.0,16.0,0.563,5.0,7.0,0.714,4.0,4.0,1.0,0.0,7.0,7.0,4.0,1.0,1.0,1.0,3.0,27.0,5.0,Victor Oladipo,,IND,True,True
+holidju01,21.033333333333335,3.0,7.0,0.429,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,2.0,0.0,2.0,8.0,-11.0,Justin Holiday,,IND,True,False
+sumneed01,17.35,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,1.0,1.0,2.0,4.0,-9.0,Edmond Sumner,,IND,True,False
+mccontj01,14.45,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,4.0,0.0,0.0,0.0,1.0,2.0,-6.0,T.J. McConnell,,IND,True,False
+sampsja02,12.6,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,4.0,5.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,JaKarr Sampson,,IND,True,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,True,False
+mcderdo01,,,,,,,,,,,,,,,,,,,,,Doug McDermott,Did Not Dress,IND,True,False
+bitadgo01,,,,,,,,,,,,,,,,,,,,,Goga Bitadze,Did Not Play,IND,True,False

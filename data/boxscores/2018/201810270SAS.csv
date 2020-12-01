@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hartjo01,36.266666666666666,3.0,10.0,0.3,2.0,6.0,0.333,1.0,2.0,0.5,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,9.0,-3.0,Josh Hart,,LAL,False,True
+jamesle01,34.3,13.0,21.0,0.619,2.0,6.0,0.333,7.0,8.0,0.875,1.0,10.0,11.0,4.0,2.0,0.0,4.0,3.0,35.0,-1.0,LeBron James,,LAL,False,True
+kuzmaky01,31.1,6.0,14.0,0.429,3.0,8.0,0.375,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,0.0,0.0,3.0,15.0,-1.0,Kyle Kuzma,,LAL,False,True
+balllo01,26.916666666666668,2.0,8.0,0.25,2.0,5.0,0.4,0.0,2.0,0.0,0.0,2.0,2.0,3.0,0.0,0.0,3.0,3.0,6.0,-7.0,Lonzo Ball,,LAL,False,True
+mcgeeja01,24.483333333333334,4.0,5.0,0.8,0.0,0.0,,1.0,2.0,0.5,0.0,5.0,5.0,1.0,0.0,4.0,5.0,4.0,9.0,0.0,JaVale McGee,,LAL,False,True
+rondora01,29.033333333333335,4.0,8.0,0.5,2.0,4.0,0.5,2.0,2.0,1.0,2.0,2.0,4.0,5.0,0.0,0.0,2.0,4.0,12.0,2.0,Rajon Rondo,,LAL,False,False
+stephla01,22.716666666666665,6.0,12.0,0.5,2.0,3.0,0.667,0.0,0.0,,1.0,8.0,9.0,2.0,1.0,0.0,1.0,4.0,14.0,0.0,Lance Stephenson,,LAL,False,False
+willijo04,17.15,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,0.0,2.0,2.0,4.0,1.0,1.0,0.0,0.0,2.0,4.0,-6.0,Johnathan Williams,,LAL,False,False
+caldwke01,16.066666666666666,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,Kentavious Caldwell-Pope,,LAL,False,False
+mykhasv01,1.9333333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Sviatoslav Mykhailiuk,,LAL,False,False
+ingrabr01,,,,,,,,,,,,,,,,,,,,,Brandon Ingram,Not With Team,LAL,False,False
+zubaciv01,,,,,,,,,,,,,,,,,,,,,Ivica Zubac,Did Not Play,LAL,False,False
+beaslmi01,,,,,,,,,,,,,,,,,,,,,Michael Beasley,Did Not Play,LAL,False,False
+derozde01,39.4,14.0,23.0,0.609,0.0,0.0,,2.0,2.0,1.0,1.0,11.0,12.0,8.0,2.0,1.0,4.0,4.0,30.0,2.0,DeMar DeRozan,,SAS,True,True
+aldrila01,32.983333333333334,7.0,16.0,0.438,0.0,0.0,,1.0,2.0,0.5,2.0,3.0,5.0,3.0,0.0,2.0,4.0,3.0,15.0,6.0,LaMarcus Aldridge,,SAS,True,True
+forbebr01,30.666666666666668,6.0,10.0,0.6,1.0,3.0,0.333,3.0,5.0,0.6,0.0,1.0,1.0,1.0,2.0,0.0,2.0,3.0,16.0,-8.0,Bryn Forbes,,SAS,True,True
+cunnida01,26.033333333333335,1.0,5.0,0.2,0.0,2.0,0.0,2.0,2.0,1.0,2.0,3.0,5.0,0.0,1.0,0.0,0.0,0.0,4.0,-7.0,Dante Cunningham,,SAS,True,True
+bertada01,13.05,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,-1.0,Dāvis Bertāns,,SAS,True,True
+gayru01,32.65,6.0,15.0,0.4,0.0,1.0,0.0,4.0,5.0,0.8,2.0,8.0,10.0,5.0,1.0,2.0,0.0,1.0,16.0,13.0,Rudy Gay,,SAS,True,False
+millspa02,25.283333333333335,3.0,5.0,0.6,2.0,2.0,1.0,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,2.0,10.0,9.0,Patty Mills,,SAS,True,False
+belinma01,22.85,3.0,10.0,0.3,0.0,5.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,8.0,0.0,Marco Belinelli,,SAS,True,False
+gasolpa01,17.033333333333335,4.0,5.0,0.8,0.0,1.0,0.0,3.0,4.0,0.75,5.0,7.0,12.0,0.0,0.0,0.0,1.0,2.0,11.0,6.0,Pau Gasol,,SAS,True,False
+pondequ01,,,,,,,,,,,,,,,,,,,,,Quincy Pondexter,Did Not Play,SAS,True,False
+metuch01,,,,,,,,,,,,,,,,,,,,,Chimezie Metu,Did Not Play,SAS,True,False
+poeltja01,,,,,,,,,,,,,,,,,,,,,Jakob Poeltl,Did Not Play,SAS,True,False

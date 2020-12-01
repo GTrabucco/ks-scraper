@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,39.5,9.0,19.0,0.474,5.0,8.0,0.625,1.0,1.0,1.0,1.0,12.0,13.0,1.0,1.0,0.0,4.0,5.0,24.0,2.0,Paul George,,OKC,False,True
+adamsst01,37.25,4.0,7.0,0.571,0.0,0.0,,6.0,10.0,0.6,3.0,4.0,7.0,2.0,0.0,0.0,1.0,1.0,14.0,7.0,Steven Adams,,OKC,False,True
+westbru01,36.81666666666667,9.0,21.0,0.429,2.0,5.0,0.4,7.0,11.0,0.636,2.0,6.0,8.0,7.0,1.0,0.0,5.0,2.0,27.0,5.0,Russell Westbrook,,OKC,False,True
+breweco01,36.13333333333333,4.0,12.0,0.333,1.0,6.0,0.167,2.0,2.0,1.0,1.0,4.0,5.0,3.0,2.0,1.0,0.0,3.0,11.0,-3.0,Corey Brewer,,OKC,False,True
+anthoca01,34.5,5.0,13.0,0.385,2.0,6.0,0.333,1.0,3.0,0.333,0.0,5.0,5.0,3.0,1.0,1.0,2.0,1.0,13.0,11.0,Carmelo Anthony,,OKC,False,True
+pattepa01,14.616666666666667,0.0,1.0,0.0,0.0,0.0,,2.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,-7.0,Patrick Patterson,,OKC,False,False
+fergute01,11.85,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Terrance Ferguson,,OKC,False,False
+feltora01,11.183333333333334,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,1.0,0.0,2.0,2.0,-6.0,Raymond Felton,,OKC,False,False
+grantje01,9.633333333333333,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,6.0,-13.0,Jerami Grant,,OKC,False,False
+huestjo01,4.466666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Josh Huestis,,OKC,False,False
+abrinal01,4.05,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,-3.0,Álex Abrines,,OKC,False,False
+johnsda04,,,,,,,,,,,,,,,,,,,,,Dakari Johnson,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+tatumja01,35.18333333333333,8.0,12.0,0.667,3.0,6.0,0.5,4.0,4.0,1.0,2.0,9.0,11.0,4.0,1.0,1.0,1.0,3.0,23.0,23.0,Jayson Tatum,,BOS,True,True
+roziete01,34.25,5.0,15.0,0.333,3.0,9.0,0.333,1.0,2.0,0.5,1.0,5.0,6.0,6.0,2.0,0.0,4.0,5.0,14.0,-16.0,Terry Rozier,,BOS,True,True
+horfoal01,33.43333333333333,2.0,9.0,0.222,1.0,4.0,0.25,0.0,0.0,,0.0,6.0,6.0,7.0,0.0,2.0,4.0,2.0,5.0,2.0,Al Horford,,BOS,True,True
+morrima03,30.4,8.0,13.0,0.615,3.0,6.0,0.5,2.0,2.0,1.0,0.0,4.0,4.0,0.0,1.0,0.0,2.0,3.0,21.0,-15.0,Marcus Morris,,BOS,True,True
+baynear01,14.566666666666666,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,0.0,0.0,1.0,1.0,3.0,2.0,0.0,Aron Baynes,,BOS,True,True
+ojelese01,27.216666666666665,0.0,6.0,0.0,0.0,3.0,0.0,2.0,2.0,1.0,1.0,5.0,6.0,0.0,0.0,0.0,0.0,1.0,2.0,-9.0,Semi Ojeleye,,BOS,True,False
+larkish01,24.783333333333335,5.0,9.0,0.556,2.0,4.0,0.5,1.0,1.0,1.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,0.0,13.0,17.0,Shane Larkin,,BOS,True,False
+monrogr01,21.85,6.0,12.0,0.5,0.0,0.0,,5.0,5.0,1.0,4.0,2.0,6.0,3.0,1.0,1.0,2.0,3.0,17.0,-4.0,Greg Monroe,,BOS,True,False
+naderab01,18.333333333333332,1.0,7.0,0.143,1.0,4.0,0.25,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,2.0,4.0,3.0,7.0,Abdel Nader,,BOS,True,False
+yabusgu01,,,,,,,,,,,,,,,,,,,,,Guerschon Yabusele,Did Not Play,BOS,True,False
+birdja01,,,,,,,,,,,,,,,,,,,,,Jabari Bird,Did Not Play,BOS,True,False
+allenka01,,,,,,,,,,,,,,,,,,,,,Kadeem Allen,Did Not Play,BOS,True,False

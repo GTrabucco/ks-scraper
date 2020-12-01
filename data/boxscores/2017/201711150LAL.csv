@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+simmobe01,39.1,8.0,13.0,0.615,0.0,0.0,,2.0,4.0,0.5,3.0,6.0,9.0,10.0,5.0,1.0,1.0,1.0,18.0,19.0,Ben Simmons,,PHI,False,True
+redicjj01,34.88333333333333,4.0,15.0,0.267,0.0,8.0,0.0,3.0,4.0,0.75,0.0,8.0,8.0,5.0,1.0,0.0,2.0,4.0,11.0,3.0,J.J. Redick,,PHI,False,True
+embiijo01,34.483333333333334,14.0,20.0,0.7,2.0,3.0,0.667,16.0,19.0,0.842,2.0,13.0,15.0,7.0,0.0,7.0,2.0,4.0,46.0,19.0,Joel Embiid,,PHI,False,True
+saricda01,33.333333333333336,3.0,10.0,0.3,1.0,7.0,0.143,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,3.0,0.0,1.0,7.0,1.0,Dario Šarić,,PHI,False,True
+covinro01,29.75,5.0,9.0,0.556,2.0,5.0,0.4,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,1.0,2.0,4.0,12.0,16.0,Robert Covington,,PHI,False,True
+luwawti01,24.7,4.0,10.0,0.4,1.0,6.0,0.167,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,9.0,1.0,Timothé Luwawu-Cabarrot,,PHI,False,False
+mccontj01,22.5,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,1.0,3.0,4.0,4.0,1.0,0.0,5.0,0.0,7.0,-8.0,T.J. McConnell,,PHI,False,False
+johnsam01,9.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,-10.0,Amir Johnson,,PHI,False,False
+anderju01,7.733333333333333,1.0,4.0,0.25,0.0,2.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,-8.0,Justin Anderson,,PHI,False,False
+holmeri01,4.516666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,-3.0,Richaun Holmes,,PHI,False,False
+okafoja01,,,,,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,PHI,False,False
+korkmfu01,,,,,,,,,,,,,,,,,,,,,Furkan Korkmaz,Did Not Play,PHI,False,False
+caldwke01,41.25,4.0,11.0,0.364,2.0,8.0,0.25,2.0,2.0,1.0,0.0,7.0,7.0,2.0,1.0,2.0,0.0,1.0,12.0,0.0,Kentavious Caldwell-Pope,,LAL,True,True
+ingrabr01,39.766666666666666,11.0,18.0,0.611,0.0,0.0,,4.0,5.0,0.8,4.0,7.0,11.0,3.0,0.0,2.0,2.0,4.0,26.0,-2.0,Brandon Ingram,,LAL,True,True
+kuzmaky01,30.783333333333335,9.0,18.0,0.5,1.0,4.0,0.25,5.0,6.0,0.833,4.0,3.0,7.0,1.0,0.0,0.0,2.0,2.0,24.0,-4.0,Kyle Kuzma,,LAL,True,True
+balllo01,21.416666666666668,1.0,9.0,0.111,0.0,6.0,0.0,0.0,0.0,,3.0,2.0,5.0,2.0,1.0,0.0,2.0,3.0,2.0,-18.0,Lonzo Ball,,LAL,True,True
+lopezbr01,15.916666666666666,3.0,12.0,0.25,0.0,5.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,0.0,0.0,0.0,3.0,8.0,-11.0,Brook Lopez,,LAL,True,True
+clarkjo01,31.666666666666668,8.0,21.0,0.381,0.0,2.0,0.0,4.0,4.0,1.0,3.0,3.0,6.0,5.0,2.0,0.0,0.0,1.0,20.0,3.0,Jordan Clarkson,,LAL,True,False
+randlju01,29.65,2.0,12.0,0.167,0.0,1.0,0.0,4.0,6.0,0.667,3.0,5.0,8.0,1.0,1.0,0.0,3.0,6.0,8.0,5.0,Julius Randle,,LAL,True,False
+bogutan01,19.65,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,4.0,6.0,10.0,2.0,1.0,2.0,0.0,2.0,6.0,-2.0,Andrew Bogut,,LAL,True,False
+breweco01,9.9,1.0,3.0,0.333,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,3.0,-1.0,Corey Brewer,,LAL,True,False
+nancela02,,,,,,,,,,,,,,,,,,,,,Larry Nance,Did Not Dress,LAL,True,False
+ennisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,LAL,True,False
+bryanth01,,,,,,,,,,,,,,,,,,,,,Thomas Bryant,Did Not Play,LAL,True,False
+blueva01,,,,,,,,,,,,,,,,,,,,,Vander Blue,Did Not Play,LAL,True,False

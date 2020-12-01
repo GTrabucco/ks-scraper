@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+tuckepj01,36.88333333333333,1.0,3.0,0.333,0.0,2.0,0.0,1.0,2.0,0.5,0.0,6.0,6.0,2.0,2.0,0.0,0.0,2.0,3.0,5.0,P.J. Tucker,,HOU,False,True
+arizatr01,36.3,5.0,10.0,0.5,0.0,3.0,0.0,3.0,5.0,0.6,0.0,5.0,5.0,1.0,2.0,0.0,1.0,1.0,13.0,3.0,Trevor Ariza,,HOU,False,True
+hardeja01,33.483333333333334,15.0,22.0,0.682,4.0,8.0,0.5,6.0,7.0,0.857,0.0,2.0,2.0,4.0,0.0,1.0,4.0,1.0,40.0,1.0,James Harden,,HOU,False,True
+paulch01,33.28333333333333,5.0,13.0,0.385,0.0,3.0,0.0,4.0,4.0,1.0,0.0,3.0,3.0,3.0,3.0,0.0,2.0,4.0,14.0,-6.0,Chris Paul,,HOU,False,True
+capelca01,26.016666666666666,6.0,11.0,0.545,0.0,0.0,,1.0,2.0,0.5,6.0,7.0,13.0,1.0,2.0,0.0,3.0,3.0,13.0,-6.0,Clint Capela,,HOU,False,True
+gordoer01,29.416666666666668,5.0,14.0,0.357,3.0,7.0,0.429,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,14.0,0.0,Eric Gordon,,HOU,False,False
+mbahalu01,24.166666666666668,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,1.0,1.0,0.0,3.0,-2.0,Luc Mbah a Moute,,HOU,False,False
+johnsjo02,16.45,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,5.0,-4.0,Joe Johnson,,HOU,False,False
+hilarne01,4.0,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,Nenê Hilário,,HOU,False,False
+greenge01,,,,,,,,,,,,,,,,,,,,,Gerald Green,Did Not Play,HOU,False,False
+blackta01,,,,,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,HOU,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Dress,HOU,False,False
+derozde01,36.53333333333333,8.0,19.0,0.421,3.0,7.0,0.429,4.0,6.0,0.667,3.0,4.0,7.0,2.0,0.0,0.0,3.0,3.0,23.0,8.0,DeMar DeRozan,,TOR,True,True
+lowryky01,33.15,10.0,14.0,0.714,7.0,9.0,0.778,3.0,4.0,0.75,0.0,3.0,3.0,6.0,1.0,0.0,3.0,2.0,30.0,-3.0,Kyle Lowry,,TOR,True,True
+powelno01,31.166666666666668,1.0,6.0,0.167,0.0,5.0,0.0,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,1.0,2.0,2.0,-7.0,Norman Powell,,TOR,True,True
+valanjo01,27.883333333333333,5.0,8.0,0.625,0.0,0.0,,4.0,4.0,1.0,4.0,6.0,10.0,3.0,2.0,1.0,3.0,4.0,14.0,7.0,Jonas Valančiūnas,,TOR,True,True
+ibakase01,24.416666666666668,5.0,10.0,0.5,1.0,5.0,0.2,0.0,0.0,,2.0,5.0,7.0,0.0,0.0,0.0,2.0,2.0,11.0,3.0,Serge Ibaka,,TOR,True,True
+vanvlfr01,22.6,5.0,13.0,0.385,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,5.0,1.0,1.0,2.0,2.0,11.0,0.0,Fred VanVleet,,TOR,True,False
+poeltja01,19.233333333333334,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,Jakob Poeltl,,TOR,True,False
+milescj01,18.816666666666666,2.0,7.0,0.286,2.0,7.0,0.286,0.0,0.0,,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,6.0,4.0,C.J. Miles,,TOR,True,False
+siakapa01,16.333333333333332,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,Pascal Siakam,,TOR,True,False
+millema01,9.866666666666667,3.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0,0.0,Malcolm Miller,,TOR,True,False
+noguelu01,,,,,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,True,False
+mckinal01,,,,,,,,,,,,,,,,,,,,,Alfonzo McKinnie,Did Not Play,TOR,True,False
+hayesni01,,,,,,,,,,,,,,,,,,,,,Nigel Hayes,Did Not Play,TOR,True,False

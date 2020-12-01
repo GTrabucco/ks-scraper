@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gilgesh01,34.53333333333333,12.0,15.0,0.8,2.0,4.0,0.5,1.0,1.0,1.0,0.0,2.0,2.0,3.0,2.0,2.0,1.0,0.0,27.0,12.0,Shai Gilgeous-Alexander,,OKC,False,True
+paulch01,34.333333333333336,7.0,10.0,0.7,1.0,3.0,0.333,1.0,1.0,1.0,0.0,4.0,4.0,6.0,3.0,0.0,6.0,3.0,16.0,11.0,Chris Paul,,OKC,False,True
+gallida01,33.166666666666664,7.0,15.0,0.467,3.0,8.0,0.375,2.0,3.0,0.667,1.0,6.0,7.0,1.0,4.0,0.0,0.0,0.0,19.0,9.0,Danilo Gallinari,,OKC,False,True
+adamsst01,32.05,4.0,5.0,0.8,0.0,0.0,,0.0,3.0,0.0,0.0,7.0,7.0,3.0,3.0,1.0,5.0,1.0,8.0,2.0,Steven Adams,,OKC,False,True
+dortlu01,24.716666666666665,2.0,5.0,0.4,1.0,3.0,0.333,1.0,2.0,0.5,1.0,4.0,5.0,0.0,0.0,0.0,0.0,3.0,6.0,2.0,Luguentz Dort,,OKC,False,True
+schrode01,30.183333333333334,7.0,14.0,0.5,2.0,4.0,0.5,7.0,7.0,1.0,0.0,1.0,1.0,9.0,0.0,1.0,1.0,2.0,23.0,0.0,Dennis Schröder,,OKC,False,False
+fergute01,20.233333333333334,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,5.0,2.0,-4.0,Terrance Ferguson,,OKC,False,False
+noelne01,15.95,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,3.0,1.0,2.0,8.0,5.0,Nerlens Noel,,OKC,False,False
+naderab01,14.833333333333334,2.0,4.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,0.0,2.0,5.0,-2.0,Abdel Nader,,OKC,False,False
+herveke01,,,,,,,,,,,,,,,,,,,,,Kevin Hervey,Did Not Play,OKC,False,False
+burtode02,,,,,,,,,,,,,,,,,,,,,Deonte Burton,Did Not Play,OKC,False,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,OKC,False,False
+diallha01,,,,,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,False,False
+woodch01,39.016666666666666,12.0,16.0,0.75,5.0,6.0,0.833,0.0,0.0,,3.0,6.0,9.0,3.0,0.0,1.0,6.0,4.0,29.0,-6.0,Christian Wood,,DET,True,True
+knighbr03,38.166666666666664,6.0,15.0,0.4,4.0,9.0,0.444,2.0,2.0,1.0,0.0,2.0,2.0,7.0,2.0,0.0,2.0,1.0,18.0,-6.0,Brandon Knight,,DET,True,True
+snellto01,32.166666666666664,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,6.0,2.0,1.0,1.0,3.0,5.0,0.0,Tony Snell,,DET,True,True
+mykhasv01,23.566666666666666,5.0,14.0,0.357,3.0,9.0,0.333,0.0,2.0,0.0,0.0,1.0,1.0,4.0,1.0,0.0,1.0,1.0,13.0,-13.0,Sviatoslav Mykhailiuk,,DET,True,True
+hensojo01,20.166666666666668,5.0,7.0,0.714,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,1.0,1.0,0.0,1.0,2.0,10.0,-5.0,John Henson,,DET,True,True
+gallola01,27.666666666666668,3.0,8.0,0.375,2.0,5.0,0.4,1.0,2.0,0.5,2.0,4.0,6.0,0.0,1.0,0.0,2.0,3.0,9.0,0.0,Langston Galloway,,DET,True,False
+mcraejo01,25.8,5.0,11.0,0.455,2.0,4.0,0.5,3.0,5.0,0.6,0.0,2.0,2.0,3.0,0.0,0.0,2.0,4.0,15.0,5.0,Jordan McRae,,DET,True,False
+doumbse01,12.716666666666667,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,0.0,2.0,3.0,-3.0,Sekou Doumbouya,,DET,True,False
+makerth01,12.1,1.0,4.0,0.25,0.0,2.0,0.0,3.0,4.0,0.75,2.0,4.0,6.0,2.0,0.0,2.0,1.0,1.0,5.0,-5.0,Thon Maker,,DET,True,False
+thomakh01,8.633333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,-2.0,Khyri Thomas,,DET,True,False
+bonejo01,,,,,,,,,,,,,,,,,,,,,Jordan Bone,Did Not Play,DET,True,False
+halldo01,,,,,,,,,,,,,,,,,,,,,Donta Hall,Did Not Play,DET,True,False
+kinglo02,,,,,,,,,,,,,,,,,,,,,Louis King,Did Not Play,DET,True,False

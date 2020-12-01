@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+russeda01,31.266666666666666,6.0,14.0,0.429,1.0,6.0,0.167,0.0,0.0,,0.0,3.0,3.0,3.0,0.0,0.0,2.0,1.0,13.0,-1.0,D'Angelo Russell,,BRK,False,True
+allenja01,30.866666666666667,7.0,12.0,0.583,0.0,0.0,,2.0,3.0,0.667,2.0,10.0,12.0,3.0,0.0,0.0,0.0,1.0,16.0,1.0,Jarrett Allen,,BRK,False,True
+harrijo01,28.616666666666667,4.0,9.0,0.444,3.0,5.0,0.6,0.0,0.0,,1.0,3.0,4.0,4.0,0.0,0.0,3.0,2.0,11.0,1.0,Joe Harris,,BRK,False,True
+holliro01,27.666666666666668,2.0,10.0,0.2,0.0,0.0,,5.0,6.0,0.833,1.0,2.0,3.0,3.0,0.0,0.0,0.0,1.0,9.0,0.0,Rondae Hollis-Jefferson,,BRK,False,True
+kurucro01,23.216666666666665,3.0,5.0,0.6,0.0,2.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,0.0,1.0,1.0,0.0,2.0,8.0,-2.0,Rodions Kurucs,,BRK,False,True
+dinwisp01,31.55,8.0,15.0,0.533,4.0,8.0,0.5,7.0,8.0,0.875,1.0,5.0,6.0,3.0,2.0,0.0,3.0,3.0,27.0,11.0,Spencer Dinwiddie,,BRK,False,False
+dudleja01,20.466666666666665,1.0,2.0,0.5,0.0,1.0,0.0,3.0,4.0,0.75,0.0,4.0,4.0,2.0,0.0,0.0,0.0,1.0,5.0,5.0,Jared Dudley,,BRK,False,False
+carrode01,19.2,1.0,4.0,0.25,0.0,2.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,1.0,0.0,0.0,2.0,2.0,3.0,0.0,DeMarre Carroll,,BRK,False,False
+davised01,17.1,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,1.0,2.0,0.0,4.0,0.0,Ed Davis,,BRK,False,False
+napiesh01,10.05,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,Shabazz Napier,,BRK,False,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,BRK,False,False
+grahatr01,,,,,,,,,,,,,,,,,,,,,Treveon Graham,Not With Team,BRK,False,False
+holidju01,34.86666666666667,2.0,10.0,0.2,1.0,5.0,0.2,0.0,0.0,,0.0,3.0,3.0,3.0,1.0,2.0,2.0,3.0,5.0,-2.0,Justin Holiday,,CHI,True,True
+dunnkr01,34.31666666666667,11.0,21.0,0.524,1.0,3.0,0.333,1.0,2.0,0.5,0.0,4.0,4.0,6.0,2.0,0.0,3.0,5.0,24.0,1.0,Kris Dunn,,CHI,True,True
+markkla01,33.083333333333336,3.0,6.0,0.5,2.0,3.0,0.667,0.0,1.0,0.0,0.0,6.0,6.0,2.0,0.0,0.0,0.0,3.0,8.0,-1.0,Lauri Markkanen,,CHI,True,True
+cartewe01,23.733333333333334,4.0,10.0,0.4,0.0,1.0,0.0,1.0,2.0,0.5,2.0,3.0,5.0,2.0,1.0,1.0,0.0,4.0,9.0,3.0,Wendell Carter,,CHI,True,True
+arcidry01,23.066666666666666,4.0,6.0,0.667,2.0,2.0,1.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,10.0,1.0,Ryan Arcidiacono,,CHI,True,True
+harrish01,25.583333333333332,6.0,8.0,0.75,0.0,1.0,0.0,1.0,1.0,1.0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,4.0,13.0,-7.0,Shaquille Harrison,,CHI,True,False
+portibo01,24.233333333333334,6.0,18.0,0.333,0.0,2.0,0.0,4.0,4.0,1.0,3.0,8.0,11.0,1.0,1.0,1.0,1.0,1.0,16.0,-4.0,Bobby Portis,,CHI,True,False
+payneca01,19.8,2.0,6.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,1.0,0.0,4.0,-2.0,Cameron Payne,,CHI,True,False
+lopezro01,14.916666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,1.0,1.0,1.0,2.0,-2.0,Robin Lopez,,CHI,True,False
+hutchch01,6.4,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,-2.0,Chandler Hutchison,,CHI,True,False
+blakean01,,,,,,,,,,,,,,,,,,,,,Antonio Blakeney,Did Not Play,CHI,True,False
+alkinra01,,,,,,,,,,,,,,,,,,,,,Rawle Alkins,Did Not Play,CHI,True,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,True,False

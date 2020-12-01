@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mitchdo01,37.61666666666667,9.0,24.0,0.375,5.0,10.0,0.5,3.0,3.0,1.0,2.0,5.0,7.0,2.0,0.0,1.0,2.0,2.0,26.0,-11.0,Donovan Mitchell,,UTA,False,True
+bogdabo02,36.1,9.0,18.0,0.5,6.0,11.0,0.545,6.0,7.0,0.857,2.0,2.0,4.0,3.0,1.0,0.0,3.0,0.0,30.0,38.0,Bojan Bogdanović,,UTA,False,True
+goberru01,35.333333333333336,5.0,8.0,0.625,0.0,0.0,,2.0,3.0,0.667,3.0,12.0,15.0,1.0,0.0,5.0,3.0,3.0,12.0,9.0,Rudy Gobert,,UTA,False,True
+conlemi01,30.85,6.0,12.0,0.5,2.0,4.0,0.5,2.0,2.0,1.0,1.0,5.0,6.0,8.0,1.0,0.0,0.0,2.0,16.0,28.0,Mike Conley,,UTA,False,True
+onealro01,29.3,1.0,3.0,0.333,1.0,1.0,1.0,0.0,2.0,0.0,0.0,6.0,6.0,3.0,2.0,0.0,0.0,3.0,3.0,36.0,Royce O'Neale,,UTA,False,True
+inglejo01,27.216666666666665,1.0,4.0,0.25,0.0,2.0,0.0,1.0,2.0,0.5,2.0,2.0,4.0,4.0,2.0,0.0,1.0,2.0,3.0,-13.0,Joe Ingles,,UTA,False,False
+mudiaem01,15.583333333333334,1.0,7.0,0.143,0.0,1.0,0.0,0.0,0.0,,2.0,3.0,5.0,0.0,1.0,0.0,1.0,3.0,2.0,-24.0,Emmanuel Mudiay,,UTA,False,False
+greenje02,15.45,3.0,8.0,0.375,0.0,3.0,0.0,4.0,6.0,0.667,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,10.0,3.0,Jeff Green,,UTA,False,False
+exumda01,7.9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,-16.0,Dante Exum,,UTA,False,False
+niangge01,4.65,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,-10.0,Georges Niang,,UTA,False,False
+wrighju02,,,,,,,,,,,,,,,,,,,,,Justin Wright-Foreman,Did Not Play,UTA,False,False
+bradlto01,,,,,,,,,,,,,,,,,,,,,Tony Bradley,Did Not Play,UTA,False,False
+kiddst01,,,,,,,,,,,,,,,,,,,,,Stanton Kidd,Did Not Play,UTA,False,False
+wiggian01,34.15,10.0,24.0,0.417,1.0,10.0,0.1,1.0,3.0,0.333,2.0,5.0,7.0,3.0,0.0,0.0,3.0,3.0,22.0,1.0,Andrew Wiggins,,MIN,True,True
+teaguje01,33.666666666666664,2.0,9.0,0.222,1.0,2.0,0.5,7.0,11.0,0.636,2.0,2.0,4.0,6.0,0.0,0.0,1.0,2.0,12.0,-9.0,Jeff Teague,,MIN,True,True
+townska01,32.81666666666667,5.0,10.0,0.5,4.0,7.0,0.571,0.0,0.0,,2.0,10.0,12.0,1.0,0.0,1.0,3.0,4.0,14.0,-20.0,Karl-Anthony Towns,,MIN,True,True
+covinro01,30.683333333333334,4.0,5.0,0.8,1.0,2.0,0.5,2.0,5.0,0.4,0.0,3.0,3.0,0.0,2.0,3.0,0.0,0.0,11.0,-3.0,Robert Covington,,MIN,True,True
+grahatr01,19.083333333333332,3.0,9.0,0.333,2.0,7.0,0.286,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,0.0,1.0,1.0,8.0,-15.0,Treveon Graham,,MIN,True,True
+martike03,24.7,4.0,8.0,0.5,2.0,5.0,0.4,0.0,0.0,,1.0,6.0,7.0,0.0,0.0,1.0,0.0,4.0,10.0,1.0,Kelan Martin,,MIN,True,False
+culveja01,23.85,4.0,14.0,0.286,2.0,7.0,0.286,0.0,0.0,,3.0,1.0,4.0,0.0,1.0,0.0,1.0,3.0,10.0,-4.0,Jarrett Culver,,MIN,True,False
+okogijo01,21.766666666666666,2.0,6.0,0.333,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,4.0,0.0,Josh Okogie,,MIN,True,False
+dienggo01,15.183333333333334,0.0,3.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,1.0,7.0,8.0,1.0,1.0,3.0,1.0,1.0,1.0,12.0,Gorgui Dieng,,MIN,True,False
+bateske01,4.1,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,-3.0,Keita Bates-Diop,,MIN,True,False
+belljo01,,,,,,,,,,,,,,,,,,,,,Jordan Bell,Did Not Play,MIN,True,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,MIN,True,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,MIN,True,False

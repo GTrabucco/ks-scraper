@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,37.416666666666664,11.0,24.0,0.458,2.0,7.0,0.286,10.0,14.0,0.714,0.0,5.0,5.0,5.0,0.0,0.0,4.0,0.0,34.0,11.0,Kevin Durant,,GSW,False,True
+curryst01,35.93333333333333,10.0,23.0,0.435,5.0,15.0,0.333,3.0,3.0,1.0,1.0,3.0,4.0,2.0,4.0,0.0,2.0,4.0,28.0,2.0,Stephen Curry,,GSW,False,True
+greendr01,34.88333333333333,2.0,4.0,0.5,0.0,0.0,,2.0,2.0,1.0,0.0,9.0,9.0,10.0,3.0,0.0,3.0,4.0,6.0,0.0,Draymond Green,,GSW,False,True
+couside01,29.233333333333334,9.0,15.0,0.6,1.0,2.0,0.5,6.0,10.0,0.6,2.0,6.0,8.0,0.0,2.0,1.0,1.0,2.0,25.0,-2.0,DeMarcus Cousins,,GSW,False,True
+mckinal01,7.216666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,-3.0,Alfonzo McKinnie,,GSW,False,True
+leeda03,25.866666666666667,4.0,6.0,0.667,4.0,5.0,0.8,0.0,0.0,,1.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,12.0,13.0,Damion Lee,,GSW,False,False
+iguodan01,25.233333333333334,2.0,3.0,0.667,1.0,2.0,0.5,1.0,2.0,0.5,0.0,4.0,4.0,4.0,2.0,3.0,1.0,2.0,6.0,3.0,Andre Iguodala,,GSW,False,False
+livinsh01,16.1,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,1.0,0.0,2.0,2.0,0.0,1.0,1.0,2.0,2.0,3.0,-8.0,Shaun Livingston,,GSW,False,False
+belljo01,15.666666666666666,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,0.5,0.0,3.0,3.0,1.0,0.0,2.0,0.0,3.0,3.0,-2.0,Jordan Bell,,GSW,False,False
+cookqu01,8.633333333333333,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,4.0,Quinn Cook,,GSW,False,False
+jerebjo01,3.8166666666666664,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Jonas Jerebko,,GSW,False,False
+thompkl01,,,,,,,,,,,,,,,,,,,,,Klay Thompson,Did Not Dress,GSW,False,False
+looneke01,,,,,,,,,,,,,,,,,,,,,Kevon Looney,Did Not Dress,GSW,False,False
+harrito02,43.53333333333333,7.0,20.0,0.35,3.0,11.0,0.273,3.0,3.0,1.0,1.0,8.0,9.0,3.0,0.0,0.0,4.0,4.0,20.0,-4.0,Tobias Harris,,PHI,True,True
+simmobe01,40.733333333333334,10.0,15.0,0.667,0.0,0.0,,5.0,6.0,0.833,2.0,13.0,15.0,11.0,3.0,0.0,9.0,3.0,25.0,-11.0,Ben Simmons,,PHI,True,True
+butleji01,36.65,5.0,16.0,0.313,2.0,4.0,0.5,9.0,11.0,0.818,5.0,4.0,9.0,2.0,1.0,1.0,2.0,3.0,21.0,1.0,Jimmy Butler,,PHI,True,True
+redicjj01,30.333333333333332,2.0,9.0,0.222,0.0,3.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,2.0,1.0,6.0,-4.0,J.J. Redick,,PHI,True,True
+boldejo01,21.766666666666666,4.0,5.0,0.8,3.0,4.0,0.75,1.0,1.0,1.0,1.0,2.0,3.0,2.0,0.0,2.0,1.0,5.0,12.0,-6.0,Jonah Bolden,,PHI,True,True
+scottmi01,32.266666666666666,7.0,15.0,0.467,6.0,9.0,0.667,2.0,2.0,1.0,2.0,2.0,4.0,0.0,1.0,0.0,1.0,4.0,22.0,4.0,Mike Scott,,PHI,True,False
+mccontj01,18.583333333333332,4.0,6.0,0.667,0.0,0.0,,2.0,2.0,1.0,0.0,1.0,1.0,4.0,1.0,0.0,1.0,1.0,10.0,2.0,T.J. McConnell,,PHI,True,False
+simmojo02,16.133333333333333,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,2.0,2.0,3.0,0.0,0.0,1.0,4.0,1.0,3.0,Jonathon Simmons,,PHI,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Dress,PHI,True,False
+pattoju01,,,,,,,,,,,,,,,,,,,,,Justin Patton,Did Not Play,PHI,True,False
+johnsam01,,,,,,,,,,,,,,,,,,,,,Amir Johnson,Did Not Play,PHI,True,False
+ennisja01,,,,,,,,,,,,,,,,,,,,,James Ennis,Did Not Play,PHI,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+paytoel01,33.85,4.0,11.0,0.364,0.0,0.0,,0.0,0.0,,3.0,3.0,6.0,10.0,3.0,0.0,6.0,0.0,8.0,4.0,Elfrid Payton,,NOP,False,True
+holidjr01,30.533333333333335,9.0,14.0,0.643,3.0,5.0,0.6,0.0,1.0,0.0,1.0,4.0,5.0,9.0,2.0,0.0,5.0,3.0,21.0,7.0,Jrue Holiday,,NOP,False,True
+willike04,28.116666666666667,2.0,3.0,0.667,2.0,3.0,0.667,0.0,0.0,,2.0,6.0,8.0,0.0,0.0,1.0,1.0,3.0,6.0,-1.0,Kenrich Williams,,NOP,False,True
+randlju01,27.85,8.0,14.0,0.571,1.0,3.0,0.333,5.0,7.0,0.714,1.0,2.0,3.0,3.0,0.0,0.0,2.0,2.0,22.0,7.0,Julius Randle,,NOP,False,True
+davisan02,21.3,7.0,11.0,0.636,1.0,2.0,0.5,2.0,4.0,0.5,1.0,7.0,8.0,3.0,2.0,3.0,4.0,2.0,17.0,4.0,Anthony Davis,,NOP,False,True
+jacksfr01,24.983333333333334,3.0,6.0,0.5,3.0,3.0,1.0,0.0,0.0,,0.0,5.0,5.0,0.0,1.0,0.0,3.0,1.0,9.0,13.0,Frank Jackson,,NOP,False,False
+milleda01,22.366666666666667,3.0,7.0,0.429,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,0.0,4.0,1.0,0.0,1.0,1.0,8.0,9.0,Darius Miller,,NOP,False,False
+mooreet01,21.85,5.0,9.0,0.556,4.0,5.0,0.8,6.0,6.0,1.0,0.0,3.0,3.0,3.0,2.0,0.0,2.0,4.0,20.0,17.0,E'Twaun Moore,,NOP,False,False
+diallch01,21.116666666666667,7.0,9.0,0.778,0.0,0.0,,1.0,2.0,0.5,2.0,9.0,11.0,1.0,2.0,0.0,0.0,1.0,15.0,12.0,Cheick Diallo,,NOP,False,False
+okafoja01,8.016666666666667,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,4.0,-2.0,Jahlil Okafor,,NOP,False,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,NOP,False,False
+clarkia01,,,,,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,NOP,False,False
+johnsst04,,,,,,,,,,,,,,,,,,,,,Stanley Johnson,Did Not Play,NOP,False,False
+bookede01,33.55,6.0,17.0,0.353,1.0,5.0,0.2,13.0,14.0,0.929,2.0,4.0,6.0,7.0,1.0,0.0,6.0,2.0,26.0,-12.0,Devin Booker,,PHO,True,True
+oubreke01,30.183333333333334,8.0,22.0,0.364,1.0,8.0,0.125,2.0,3.0,0.667,2.0,3.0,5.0,2.0,4.0,0.0,2.0,4.0,19.0,-19.0,Kelly Oubre,,PHO,True,True
+aytonde01,28.55,8.0,11.0,0.727,0.0,0.0,,0.0,0.0,,3.0,5.0,8.0,1.0,3.0,0.0,2.0,2.0,16.0,-1.0,Deandre Ayton,,PHO,True,True
+johnsty01,28.55,1.0,7.0,0.143,1.0,5.0,0.2,0.0,0.0,,1.0,2.0,3.0,5.0,1.0,1.0,2.0,0.0,3.0,-8.0,Tyler Johnson,,PHO,True,True
+bendedr01,16.55,3.0,4.0,0.75,2.0,3.0,0.667,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,1.0,4.0,8.0,-9.0,Dragan Bender,,PHO,True,True
+bridgmi01,27.583333333333332,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,4.0,3.0,0.0,1.0,4.0,7.0,-1.0,Mikal Bridges,,PHO,True,False
+jacksjo02,21.683333333333334,2.0,8.0,0.25,0.0,2.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,3.0,0.0,0.0,2.0,1.0,6.0,1.0,Josh Jackson,,PHO,True,False
+holmeri01,19.45,3.0,7.0,0.429,0.0,0.0,,4.0,6.0,0.667,3.0,1.0,4.0,1.0,2.0,1.0,1.0,3.0,10.0,-13.0,Richaun Holmes,,PHO,True,False
+meltode01,17.066666666666666,2.0,7.0,0.286,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,6.0,-5.0,De'Anthony Melton,,PHO,True,False
+danietr01,16.833333333333332,5.0,9.0,0.556,4.0,6.0,0.667,1.0,1.0,1.0,1.0,3.0,4.0,0.0,1.0,0.0,1.0,0.0,15.0,-3.0,Troy Daniels,,PHO,True,False
+okoboel01,,,,,,,,,,,,,,,,,,,,,Elie Okobo,Did Not Play,PHO,True,False
+crawfja01,,,,,,,,,,,,,,,,,,,,,Jamal Crawford,Did Not Play,PHO,True,False
+spaldra01,,,,,,,,,,,,,,,,,,,,,Ray Spalding,Did Not Play,PHO,True,False

@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+westbru01,38.333333333333336,8.0,18.0,0.444,1.0,5.0,0.2,2.0,2.0,1.0,1.0,13.0,14.0,11.0,4.0,2.0,4.0,2.0,19.0,-1.0,Russell Westbrook,,OKC,False,True
+georgpa01,35.766666666666666,10.0,23.0,0.435,6.0,11.0,0.545,10.0,12.0,0.833,0.0,6.0,6.0,5.0,2.0,0.0,5.0,3.0,36.0,-5.0,Paul George,,OKC,False,True
+adamsst01,33.86666666666667,8.0,14.0,0.571,0.0,0.0,,1.0,2.0,0.5,3.0,5.0,8.0,1.0,0.0,0.0,4.0,3.0,17.0,-7.0,Steven Adams,,OKC,False,True
+grantje01,30.866666666666667,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,0.5,1.0,1.0,2.0,1.0,2.0,2.0,2.0,4.0,3.0,-6.0,Jerami Grant,,OKC,False,True
+fergute01,21.083333333333332,2.0,4.0,0.5,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,1.0,0.0,5.0,6.0,9.0,Terrance Ferguson,,OKC,False,True
+schrode01,32.2,3.0,10.0,0.3,1.0,2.0,0.5,0.0,0.0,,1.0,4.0,5.0,5.0,0.0,0.0,0.0,4.0,7.0,-11.0,Dennis Schröder,,OKC,False,False
+morrima02,17.133333333333333,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,0.0,0.0,2.0,8.0,4.0,Markieff Morris,,OKC,False,False
+naderab01,16.6,3.0,6.0,0.5,2.0,5.0,0.4,2.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,10.0,2.0,Abdel Nader,,OKC,False,False
+noelne01,14.133333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,1.0,0.0,0.0,2.0,3.0,0.0,5.0,Nerlens Noel,,OKC,False,False
+burtode02,,,,,,,,,,,,,,,,,,,,,Deonte Burton,Did Not Play,OKC,False,False
+pattepa01,,,,,,,,,,,,,,,,,,,,,Patrick Patterson,Did Not Play,OKC,False,False
+diallha01,,,,,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+collida01,38.56666666666667,6.0,11.0,0.545,0.0,1.0,0.0,5.0,5.0,1.0,1.0,5.0,6.0,7.0,4.0,0.0,4.0,2.0,17.0,3.0,Darren Collison,,IND,True,True
+matthwe02,35.766666666666666,6.0,15.0,0.4,4.0,7.0,0.571,0.0,0.0,,2.0,5.0,7.0,2.0,2.0,0.0,4.0,2.0,16.0,5.0,Wesley Matthews,,IND,True,True
+bogdabo02,34.55,7.0,16.0,0.438,2.0,5.0,0.4,7.0,11.0,0.636,0.0,4.0,4.0,5.0,0.0,0.0,2.0,2.0,23.0,7.0,Bojan Bogdanović,,IND,True,True
+youngth01,32.28333333333333,5.0,10.0,0.5,0.0,4.0,0.0,1.0,1.0,1.0,2.0,2.0,4.0,2.0,3.0,0.0,3.0,2.0,11.0,-9.0,Thaddeus Young,,IND,True,True
+turnemy01,31.216666666666665,4.0,10.0,0.4,0.0,2.0,0.0,2.0,2.0,1.0,1.0,5.0,6.0,2.0,0.0,1.0,2.0,2.0,10.0,4.0,Myles Turner,,IND,True,True
+sabondo01,27.55,7.0,12.0,0.583,0.0,0.0,,12.0,13.0,0.923,0.0,7.0,7.0,4.0,0.0,1.0,0.0,3.0,26.0,14.0,Domantas Sabonis,,IND,True,False
+josepco01,22.083333333333332,1.0,5.0,0.2,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,0.0,2.0,1.0,1.0,2.0,3.0,-2.0,Cory Joseph,,IND,True,False
+mcderdo01,13.033333333333333,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,-7.0,Doug McDermott,,IND,True,False
+leaftj01,4.95,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,-5.0,T.J. Leaf,,IND,True,False
+holidaa01,,,,,,,,,,,,,,,,,,,,,Aaron Holiday,Did Not Play,IND,True,False
+oquinky01,,,,,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,IND,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+walkeke02,36.55,10.0,22.0,0.455,4.0,11.0,0.364,6.0,6.0,1.0,2.0,9.0,11.0,6.0,2.0,0.0,4.0,2.0,30.0,0.0,Kemba Walker,,CHO,False,True
+batumni01,35.266666666666666,6.0,13.0,0.462,2.0,9.0,0.222,0.0,0.0,,0.0,2.0,2.0,5.0,2.0,2.0,2.0,1.0,14.0,1.0,Nicolas Batum,,CHO,False,True
+lambje01,28.55,6.0,16.0,0.375,0.0,3.0,0.0,3.0,4.0,0.75,0.0,5.0,5.0,0.0,0.0,1.0,1.0,2.0,15.0,5.0,Jeremy Lamb,,CHO,False,True
+willima02,26.066666666666666,2.0,7.0,0.286,1.0,5.0,0.2,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,0.0,0.0,4.0,5.0,6.0,Marvin Williams,,CHO,False,True
+biyombi01,23.1,0.0,1.0,0.0,0.0,0.0,,2.0,4.0,0.5,0.0,3.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,9.0,Bismack Biyombo,,CHO,False,True
+zelleco01,24.683333333333334,4.0,6.0,0.667,0.0,0.0,,1.0,2.0,0.5,4.0,9.0,13.0,1.0,1.0,0.0,1.0,3.0,9.0,-15.0,Cody Zeller,,CHO,False,False
+bridgmi02,21.15,2.0,5.0,0.4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,4.0,-9.0,Miles Bridges,,CHO,False,False
+monkma01,19.716666666666665,3.0,9.0,0.333,1.0,5.0,0.2,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,7.0,-11.0,Malik Monk,,CHO,False,False
+kiddgmi01,13.466666666666667,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,-10.0,Michael Kidd-Gilchrist,,CHO,False,False
+grahade01,11.45,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,2.0,1.0,0.0,2.0,1.0,7.0,-6.0,Devonte' Graham,,CHO,False,False
+bacondw01,,,,,,,,,,,,,,,,,,,,,Dwayne Bacon,Did Not Play,CHO,False,False
+hernawi01,,,,,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,CHO,False,False
+kaminfr01,,,,,,,,,,,,,,,,,,,,,Frank Kaminsky,Did Not Play,CHO,False,False
+doncilu01,34.666666666666664,5.0,20.0,0.25,2.0,10.0,0.2,7.0,9.0,0.778,1.0,9.0,10.0,11.0,1.0,0.0,3.0,1.0,19.0,9.0,Luka Dončić,,DAL,True,True
+finnedo01,33.166666666666664,7.0,11.0,0.636,1.0,2.0,0.5,0.0,0.0,,5.0,5.0,10.0,2.0,1.0,0.0,1.0,0.0,15.0,-2.0,Dorian Finney-Smith,,DAL,True,True
+brunsja01,30.4,4.0,11.0,0.364,0.0,2.0,0.0,0.0,3.0,0.0,0.0,7.0,7.0,5.0,2.0,0.0,1.0,1.0,8.0,-2.0,Jalen Brunson,,DAL,True,True
+klebima01,28.666666666666668,5.0,7.0,0.714,1.0,1.0,1.0,0.0,0.0,,4.0,3.0,7.0,0.0,1.0,0.0,2.0,3.0,11.0,1.0,Maxi Kleber,,DAL,True,True
+barneha02,25.833333333333332,4.0,13.0,0.308,2.0,6.0,0.333,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,10.0,-6.0,Harrison Barnes,,DAL,True,True
+poweldw01,26.95,4.0,7.0,0.571,0.0,0.0,,3.0,3.0,1.0,4.0,8.0,12.0,2.0,2.0,2.0,0.0,1.0,11.0,10.0,Dwight Powell,,DAL,True,False
+hardati02,26.45,5.0,16.0,0.313,2.0,9.0,0.222,0.0,0.0,,1.0,3.0,4.0,2.0,1.0,1.0,1.0,2.0,12.0,7.0,Tim Hardaway,,DAL,True,False
+harride01,14.833333333333334,1.0,2.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,1.0,3.0,2.0,5.0,8.0,Devin Harris,,DAL,True,False
+nowitdi01,14.55,3.0,5.0,0.6,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,8.0,7.0,Dirk Nowitzki,,DAL,True,False
+burketr01,4.483333333333333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,-2.0,Trey Burke,,DAL,True,False
+leeco01,,,,,,,,,,,,,,,,,,,,,Courtney Lee,Did Not Play,DAL,True,False
+broekry01,,,,,,,,,,,,,,,,,,,,,Ryan Broekhoff,Did Not Play,DAL,True,False
+mejrisa01,,,,,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+westbru01,43.666666666666664,13.0,30.0,0.433,1.0,3.0,0.333,4.0,8.0,0.5,5.0,6.0,11.0,8.0,2.0,1.0,6.0,5.0,31.0,12.0,Russell Westbrook,,HOU,False,True
+hardeja01,43.483333333333334,14.0,20.0,0.7,3.0,9.0,0.333,18.0,21.0,0.857,0.0,9.0,9.0,8.0,3.0,3.0,1.0,5.0,49.0,8.0,James Harden,,HOU,False,True
+houseda01,42.61666666666667,7.0,13.0,0.538,6.0,12.0,0.5,0.0,0.0,,0.0,5.0,5.0,1.0,2.0,0.0,1.0,2.0,20.0,0.0,Danuel House,,HOU,False,True
+covinro01,42.5,4.0,14.0,0.286,1.0,9.0,0.111,4.0,4.0,1.0,2.0,9.0,11.0,3.0,2.0,4.0,1.0,3.0,13.0,7.0,Robert Covington,,HOU,False,True
+tuckepj01,39.68333333333333,2.0,3.0,0.667,2.0,3.0,0.667,1.0,2.0,0.5,0.0,4.0,4.0,3.0,1.0,1.0,0.0,5.0,7.0,-1.0,P.J. Tucker,,HOU,False,True
+riverau01,19.633333333333333,4.0,8.0,0.5,1.0,4.0,0.25,1.0,1.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,10.0,-4.0,Austin Rivers,,HOU,False,False
+greenje02,19.583333333333332,4.0,9.0,0.444,1.0,4.0,0.25,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,5.0,10.0,3.0,Jeff Green,,HOU,False,False
+mclembe01,13.833333333333334,4.0,4.0,1.0,4.0,4.0,1.0,1.0,2.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,13.0,-5.0,Ben McLemore,,HOU,False,False
+carrode01,,,,,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,HOU,False,False
+mbahalu01,,,,,,,,,,,,,,,,,,,,,Luc Mbah a Moute,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+clemoch01,,,,,,,,,,,,,,,,,,,,,Chris Clemons,Did Not Play,HOU,False,False
+frazimi01,,,,,,,,,,,,,,,,,,,,,Michael Frazier,Did Not Play,HOU,False,False
+doncilu01,42.13333333333333,11.0,27.0,0.407,1.0,9.0,0.111,5.0,9.0,0.556,2.0,11.0,13.0,10.0,1.0,1.0,8.0,6.0,28.0,0.0,Luka Dončić,,DAL,True,True
+hardati02,41.3,6.0,12.0,0.5,5.0,8.0,0.625,7.0,7.0,1.0,0.0,5.0,5.0,3.0,1.0,0.0,3.0,4.0,24.0,-7.0,Tim Hardaway,,DAL,True,True
+porzikr01,38.88333333333333,13.0,26.0,0.5,3.0,8.0,0.375,10.0,11.0,0.909,2.0,14.0,16.0,2.0,2.0,1.0,2.0,5.0,39.0,-11.0,Kristaps Porziņģis,,DAL,True,True
+finnedo01,27.733333333333334,2.0,7.0,0.286,2.0,6.0,0.333,0.0,0.0,,3.0,1.0,4.0,5.0,0.0,0.0,3.0,6.0,6.0,3.0,Dorian Finney-Smith,,DAL,True,True
+curryse01,23.016666666666666,0.0,4.0,0.0,0.0,3.0,0.0,3.0,6.0,0.5,0.0,1.0,1.0,0.0,2.0,1.0,1.0,6.0,3.0,-12.0,Seth Curry,,DAL,True,True
+klebima01,34.06666666666667,2.0,5.0,0.4,1.0,3.0,0.333,2.0,2.0,1.0,2.0,5.0,7.0,3.0,0.0,1.0,2.0,4.0,7.0,-7.0,Maxi Kleber,,DAL,True,False
+burketr01,29.95,11.0,16.0,0.688,8.0,10.0,0.8,1.0,2.0,0.5,0.0,1.0,1.0,6.0,1.0,0.0,0.0,2.0,31.0,9.0,Trey Burke,,DAL,True,False
+wrighde01,15.25,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,5.0,-9.0,Delon Wright,,DAL,True,False
+jacksju01,7.916666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,Justin Jackson,,DAL,True,False
+marjabo01,4.733333333333333,3.0,3.0,1.0,0.0,0.0,,0.0,1.0,0.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,1.0,6.0,7.0,Boban Marjanović,,DAL,True,False
+clevean01,0.016666666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Antonius Cleveland,,DAL,True,False
+reavejo02,,,,,,,,,,,,,,,,,,,,,Josh Reaves,Did Not Play,DAL,True,False
+bareajo01,,,,,,,,,,,,,,,,,,,,,J.J. Barea,Did Not Play,DAL,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+antetgi01,35.71666666666667,10.0,21.0,0.476,4.0,7.0,0.571,14.0,18.0,0.778,4.0,12.0,16.0,9.0,2.0,2.0,3.0,4.0,38.0,13.0,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,33.05,3.0,13.0,0.231,0.0,5.0,0.0,7.0,8.0,0.875,0.0,3.0,3.0,2.0,2.0,0.0,2.0,4.0,13.0,-9.0,Khris Middleton,,MIL,False,True
+lopezbr01,32.03333333333333,4.0,12.0,0.333,0.0,3.0,0.0,3.0,4.0,0.75,3.0,9.0,12.0,3.0,1.0,6.0,3.0,2.0,11.0,9.0,Brook Lopez,,MIL,False,True
+bledser01,26.316666666666666,8.0,14.0,0.571,4.0,8.0,0.5,0.0,0.0,,1.0,5.0,6.0,2.0,1.0,1.0,4.0,5.0,20.0,-7.0,Eric Bledsoe,,MIL,False,True
+matthwe02,18.1,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,Wesley Matthews,,MIL,False,True
+hillge01,24.15,9.0,14.0,0.643,6.0,7.0,0.857,0.0,0.0,,2.0,1.0,3.0,0.0,1.0,0.0,0.0,2.0,24.0,9.0,George Hill,,MIL,False,False
+korveky01,15.583333333333334,5.0,9.0,0.556,4.0,7.0,0.571,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,14.0,8.0,Kyle Korver,,MIL,False,False
+connapa01,13.966666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Pat Connaughton,,MIL,False,False
+ilyaser01,13.9,0.0,4.0,0.0,0.0,4.0,0.0,2.0,2.0,1.0,2.0,3.0,5.0,0.0,0.0,1.0,0.0,4.0,2.0,-11.0,Ersan İlyasova,,MIL,False,False
+divindo01,13.633333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,2.0,4.0,0.0,5.0,Donte DiVincenzo,,MIL,False,False
+lopezro01,13.55,3.0,6.0,0.5,0.0,3.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,0.0,0.0,1.0,1.0,1.0,7.0,0.0,Robin Lopez,,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+brownst02,,,,,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,False,False
+harremo01,39.46666666666667,13.0,25.0,0.52,0.0,0.0,,8.0,12.0,0.667,6.0,7.0,13.0,5.0,1.0,1.0,1.0,1.0,34.0,5.0,Montrezl Harrell,,LAC,True,True
+willilo02,39.266666666666666,9.0,27.0,0.333,4.0,9.0,0.444,12.0,13.0,0.923,2.0,4.0,6.0,11.0,0.0,0.0,6.0,5.0,34.0,8.0,Lou Williams,,LAC,True,True
+beverpa01,35.13333333333333,6.0,9.0,0.667,3.0,4.0,0.75,5.0,5.0,1.0,1.0,9.0,10.0,3.0,2.0,1.0,3.0,4.0,20.0,3.0,Patrick Beverley,,LAC,True,True
+shamela01,29.183333333333334,5.0,10.0,0.5,4.0,8.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,2.0,4.0,14.0,-3.0,Landry Shamet,,LAC,True,True
+pattepa01,13.366666666666667,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,5.0,5.0,0.0,0.0,0.0,1.0,0.0,2.0,3.0,Patrick Patterson,,LAC,True,True
+greenja01,32.266666666666666,3.0,10.0,0.3,2.0,7.0,0.286,1.0,2.0,0.5,1.0,6.0,7.0,0.0,0.0,0.0,1.0,5.0,9.0,-6.0,JaMychal Green,,LAC,True,False
+harklma01,15.95,0.0,4.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,0.0,0.0,1.0,2.0,4.0,1.0,-10.0,Maurice Harkless,,LAC,True,False
+robinje01,14.483333333333333,1.0,6.0,0.167,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,2.0,2.0,Jerome Robinson,,LAC,True,False
+mcgruro01,12.35,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,-17.0,Rodney McGruder,,LAC,True,False
+zubaciv01,8.533333333333333,3.0,4.0,0.75,0.0,0.0,,2.0,2.0,1.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,3.0,8.0,-10.0,Ivica Zubac,,LAC,True,False
+kabenmf01,,,,,,,,,,,,,,,,,,,,,Mfiondu Kabengele,Did Not Play,LAC,True,False
+waltode01,,,,,,,,,,,,,,,,,,,,,Derrick Walton,Did Not Play,LAC,True,False
+mannte01,,,,,,,,,,,,,,,,,,,,,Terance Mann,Did Not Play,LAC,True,False

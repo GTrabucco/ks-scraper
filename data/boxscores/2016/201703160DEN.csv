@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+riverau01,33.166666666666664,7.0,12.0,0.583,3.0,6.0,0.5,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,17.0,-12.0,Austin Rivers,,LAC,False,True
+paulch01,30.116666666666667,8.0,12.0,0.667,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,14.0,1.0,0.0,2.0,5.0,18.0,-1.0,Chris Paul,,LAC,False,True
+redicjj01,26.116666666666667,8.0,10.0,0.8,4.0,6.0,0.667,2.0,2.0,1.0,0.0,5.0,5.0,1.0,2.0,0.0,1.0,1.0,22.0,2.0,J.J. Redick,,LAC,False,True
+mbahalu01,20.033333333333335,3.0,9.0,0.333,1.0,1.0,1.0,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,1.0,0.0,2.0,7.0,-5.0,Luc Mbah a Moute,,LAC,False,True
+speigma01,15.05,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,5.0,6.0,1.0,0.0,0.0,1.0,4.0,8.0,-2.0,Marreese Speights,,LAC,False,True
+crawfja01,25.116666666666667,1.0,6.0,0.167,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,1.0,1.0,0.0,3.0,-11.0,Jamal Crawford,,LAC,False,False
+bassbr01,24.283333333333335,6.0,8.0,0.75,0.0,0.0,,3.0,5.0,0.6,1.0,3.0,4.0,0.0,1.0,1.0,0.0,0.0,15.0,-12.0,Brandon Bass,,LAC,False,False
+anderal01,17.083333333333332,3.0,3.0,1.0,1.0,1.0,1.0,2.0,3.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,3.0,Alan Anderson,,LAC,False,False
+piercpa01,16.366666666666667,2.0,7.0,0.286,1.0,5.0,0.2,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,1.0,0.0,5.0,8.0,Paul Pierce,,LAC,False,False
+feltora01,15.05,0.0,2.0,0.0,0.0,0.0,,3.0,4.0,0.75,0.0,1.0,1.0,2.0,0.0,0.0,1.0,0.0,3.0,-21.0,Raymond Felton,,LAC,False,False
+johnswe01,13.933333333333334,2.0,6.0,0.333,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,5.0,-26.0,Wesley Johnson,,LAC,False,False
+johnsbr02,3.6833333333333336,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,Brice Johnson,,LAC,False,False
+griffbl01,,,,,,,,,,,,,,,,,,,,,Blake Griffin,Not With Team,LAC,False,False
+harriga01,41.15,6.0,9.0,0.667,3.0,5.0,0.6,5.0,5.0,1.0,0.0,2.0,2.0,5.0,0.0,0.0,1.0,3.0,20.0,-2.0,Gary Harris,,DEN,True,True
+nelsoja01,33.916666666666664,4.0,8.0,0.5,3.0,4.0,0.75,5.0,5.0,1.0,0.0,1.0,1.0,5.0,2.0,0.0,3.0,0.0,16.0,23.0,Jameer Nelson,,DEN,True,True
+jokicni01,30.416666666666668,7.0,12.0,0.583,0.0,1.0,0.0,3.0,3.0,1.0,3.0,11.0,14.0,10.0,0.0,0.0,2.0,2.0,17.0,7.0,Nikola Jokić,,DEN,True,True
+plumlma01,30.35,5.0,9.0,0.556,0.0,0.0,,0.0,2.0,0.0,2.0,7.0,9.0,6.0,0.0,2.0,1.0,3.0,10.0,10.0,Mason Plumlee,,DEN,True,True
+hernaju01,25.816666666666666,3.0,7.0,0.429,1.0,3.0,0.333,2.0,2.0,1.0,1.0,4.0,5.0,1.0,1.0,0.0,1.0,2.0,9.0,-9.0,Juan Hernangómez,,DEN,True,True
+bartowi01,35.6,12.0,18.0,0.667,7.0,10.0,0.7,4.0,5.0,0.8,2.0,3.0,5.0,3.0,1.0,0.0,2.0,1.0,35.0,16.0,Will Barton,,DEN,True,False
+murraja01,24.783333333333335,4.0,14.0,0.286,1.0,5.0,0.2,1.0,1.0,1.0,1.0,5.0,6.0,0.0,3.0,0.0,0.0,2.0,10.0,7.0,Jamal Murray,,DEN,True,False
+farieke01,17.966666666666665,5.0,9.0,0.556,0.0,0.0,,2.0,3.0,0.667,2.0,4.0,6.0,1.0,0.0,0.0,0.0,1.0,12.0,23.0,Kenneth Faried,,DEN,True,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Dress,DEN,True,False
+beaslma01,,,,,,,,,,,,,,,,,,,,,Malik Beasley,Did Not Play,DEN,True,False
+hibbero01,,,,,,,,,,,,,,,,,,,,,Roy Hibbert,Did Not Play,DEN,True,False
+mudiaem01,,,,,,,,,,,,,,,,,,,,,Emmanuel Mudiay,Did Not Play,DEN,True,False
+millemi01,,,,,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,DEN,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+fergute01,33.71666666666667,2.0,9.0,0.222,2.0,8.0,0.25,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,6.0,-8.0,Terrance Ferguson,,OKC,False,True
+westbru01,31.966666666666665,12.0,23.0,0.522,2.0,9.0,0.222,6.0,8.0,0.75,0.0,8.0,8.0,7.0,0.0,1.0,1.0,6.0,32.0,-4.0,Russell Westbrook,,OKC,False,True
+adamsst01,31.7,3.0,5.0,0.6,0.0,0.0,,0.0,2.0,0.0,7.0,3.0,10.0,3.0,0.0,0.0,1.0,6.0,6.0,-21.0,Steven Adams,,OKC,False,True
+grantje01,30.083333333333332,5.0,9.0,0.556,0.0,3.0,0.0,2.0,3.0,0.667,1.0,3.0,4.0,1.0,0.0,0.0,0.0,4.0,12.0,-16.0,Jerami Grant,,OKC,False,True
+georgpa01,27.55,5.0,16.0,0.313,3.0,9.0,0.333,2.0,4.0,0.5,1.0,5.0,6.0,1.0,0.0,0.0,5.0,6.0,15.0,-18.0,Paul George,,OKC,False,True
+schrode01,33.0,5.0,20.0,0.25,2.0,11.0,0.182,3.0,4.0,0.75,2.0,2.0,4.0,4.0,0.0,0.0,2.0,3.0,15.0,2.0,Dennis Schröder,,OKC,False,False
+naderab01,18.633333333333333,2.0,4.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,6.0,0.0,1.0,3.0,1.0,1.0,6.0,4.0,Abdel Nader,,OKC,False,False
+morrima02,17.05,5.0,10.0,0.5,1.0,2.0,0.5,1.0,2.0,0.5,1.0,6.0,7.0,1.0,0.0,0.0,0.0,1.0,12.0,8.0,Markieff Morris,,OKC,False,False
+noelne01,16.15,2.0,5.0,0.4,0.0,0.0,,2.0,2.0,1.0,1.0,4.0,5.0,2.0,2.0,2.0,0.0,5.0,6.0,13.0,Nerlens Noel,,OKC,False,False
+grantdo01,0.15,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Donte Grantham,,OKC,False,False
+pattepa01,,,,,,,,,,,,,,,,,,,,,Patrick Patterson,Did Not Play,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+gallida01,33.6,10.0,19.0,0.526,2.0,5.0,0.4,12.0,15.0,0.8,2.0,4.0,6.0,2.0,0.0,0.0,0.0,1.0,34.0,13.0,Danilo Gallinari,,LAC,True,True
+shamela01,30.8,3.0,9.0,0.333,2.0,5.0,0.4,3.0,4.0,0.75,0.0,5.0,5.0,1.0,0.0,0.0,1.0,3.0,11.0,20.0,Landry Shamet,,LAC,True,True
+beverpa01,27.1,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,,3.0,4.0,7.0,6.0,1.0,1.0,0.0,3.0,0.0,22.0,Patrick Beverley,,LAC,True,True
+gilgesh01,25.616666666666667,3.0,7.0,0.429,1.0,2.0,0.5,2.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,4.0,9.0,-4.0,Shai Gilgeous-Alexander,,LAC,True,True
+zubaciv01,23.333333333333332,6.0,8.0,0.75,0.0,0.0,,2.0,6.0,0.333,0.0,7.0,7.0,1.0,1.0,2.0,2.0,4.0,14.0,14.0,Ivica Zubac,,LAC,True,True
+willilo02,34.1,13.0,24.0,0.542,4.0,6.0,0.667,10.0,15.0,0.667,1.0,6.0,7.0,5.0,4.0,0.0,2.0,1.0,40.0,3.0,Lou Williams,,LAC,True,False
+harremo01,24.666666666666668,3.0,7.0,0.429,0.0,0.0,,2.0,4.0,0.5,2.0,4.0,6.0,2.0,0.0,1.0,2.0,5.0,8.0,-6.0,Montrezl Harrell,,LAC,True,False
+templga01,17.8,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,2.0,0.0,0.0,1.0,2.0,0.0,-16.0,Garrett Temple,,LAC,True,False
+greenja01,14.4,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,1.0,7.0,8.0,0.0,0.0,0.0,0.0,2.0,2.0,-5.0,JaMychal Green,,LAC,True,False
+wallaty01,5.2,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,-3.0,Tyrone Wallace,,LAC,True,False
+thornsi01,3.3833333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Sindarius Thornwell,,LAC,True,False
+chandwi01,,,,,,,,,,,,,,,,,,,,,Wilson Chandler,Did Not Play,LAC,True,False
+robinje01,,,,,,,,,,,,,,,,,,,,,Jerome Robinson,Did Not Play,LAC,True,False

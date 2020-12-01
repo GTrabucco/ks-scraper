@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+caldwke01,39.36666666666667,3.0,10.0,0.3,3.0,8.0,0.375,3.0,3.0,1.0,0.0,7.0,7.0,1.0,1.0,1.0,2.0,2.0,12.0,-1.0,Kentavious Caldwell-Pope,,LAL,False,True
+balllo01,37.36666666666667,1.0,4.0,0.25,1.0,4.0,0.25,1.0,2.0,0.5,0.0,2.0,2.0,8.0,2.0,0.0,4.0,1.0,4.0,-3.0,Lonzo Ball,,LAL,False,True
+lopezbr01,37.016666666666666,10.0,15.0,0.667,1.0,3.0,0.333,2.0,4.0,0.5,4.0,4.0,8.0,3.0,0.0,2.0,2.0,1.0,23.0,-8.0,Brook Lopez,,LAL,False,True
+kuzmaky01,36.86666666666667,10.0,18.0,0.556,3.0,10.0,0.3,4.0,5.0,0.8,2.0,6.0,8.0,1.0,0.0,0.0,1.0,2.0,27.0,-6.0,Kyle Kuzma,,LAL,False,True
+randlju01,34.45,9.0,19.0,0.474,0.0,0.0,,3.0,5.0,0.6,6.0,3.0,9.0,3.0,1.0,0.0,1.0,4.0,21.0,-12.0,Julius Randle,,LAL,False,True
+thomais02,25.466666666666665,4.0,14.0,0.286,0.0,5.0,0.0,3.0,4.0,0.75,0.0,3.0,3.0,3.0,0.0,0.0,1.0,3.0,11.0,-8.0,Isaiah Thomas,,LAL,False,False
+weartr01,12.983333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,1.0,2.0,0.0,-1.0,Travis Wear,,LAL,False,False
+ennisty01,9.066666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,-4.0,Tyler Ennis,,LAL,False,False
+zubaciv01,7.416666666666667,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,0.0,1.0,1.0,2.0,-7.0,Ivica Zubac,,LAL,False,False
+paytoga02,,,,,,,,,,,,,,,,,,,,,Gary Payton,Did Not Play,LAL,False,False
+fryech01,,,,,,,,,,,,,,,,,,,,,Channing Frye,Did Not Dress,LAL,False,False
+denglu01,,,,,,,,,,,,,,,,,,,,,Luol Deng,Did Not Play,LAL,False,False
+youngth01,36.416666666666664,9.0,12.0,0.75,0.0,1.0,0.0,0.0,0.0,,2.0,7.0,9.0,4.0,1.0,2.0,2.0,1.0,18.0,13.0,Thaddeus Young,,IND,True,True
+collida01,32.766666666666666,5.0,10.0,0.5,2.0,4.0,0.5,3.0,3.0,1.0,1.0,3.0,4.0,8.0,1.0,1.0,0.0,0.0,15.0,10.0,Darren Collison,,IND,True,True
+oladivi01,32.18333333333333,8.0,15.0,0.533,1.0,3.0,0.333,3.0,4.0,0.75,2.0,2.0,4.0,0.0,3.0,0.0,2.0,2.0,20.0,3.0,Victor Oladipo,,IND,True,True
+turnemy01,30.0,9.0,15.0,0.6,1.0,1.0,1.0,2.0,2.0,1.0,2.0,5.0,7.0,3.0,0.0,2.0,1.0,3.0,21.0,16.0,Myles Turner,,IND,True,True
+bogdabo02,24.7,2.0,9.0,0.222,0.0,5.0,0.0,2.0,2.0,1.0,0.0,5.0,5.0,3.0,0.0,0.0,0.0,4.0,6.0,-1.0,Bojan Bogdanović,,IND,True,True
+stephla01,29.783333333333335,6.0,13.0,0.462,2.0,5.0,0.4,2.0,2.0,1.0,1.0,4.0,5.0,1.0,1.0,0.0,1.0,3.0,16.0,13.0,Lance Stephenson,,IND,True,False
+josepco01,29.416666666666668,2.0,6.0,0.333,0.0,2.0,0.0,4.0,4.0,1.0,0.0,3.0,3.0,3.0,2.0,1.0,0.0,3.0,8.0,5.0,Cory Joseph,,IND,True,False
+booketr01,17.383333333333333,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,1.0,6.0,7.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,Trevor Booker,,IND,True,False
+jeffeal01,7.35,1.0,3.0,0.333,0.0,0.0,,2.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,4.0,-9.0,Al Jefferson,,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,True,False
+poythal01,,,,,,,,,,,,,,,,,,,,,Alex Poythress,Did Not Play,IND,True,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,True,False

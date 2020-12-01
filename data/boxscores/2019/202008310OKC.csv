@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,38.63333333333333,11.0,22.0,0.5,3.0,11.0,0.273,7.0,8.0,0.875,1.0,7.0,8.0,7.0,0.0,0.0,5.0,2.0,32.0,6.0,James Harden,,HOU,False,True
+tuckepj01,38.13333333333333,3.0,8.0,0.375,3.0,7.0,0.429,0.0,0.0,,2.0,9.0,11.0,2.0,2.0,1.0,2.0,4.0,9.0,4.0,P.J. Tucker,,HOU,False,True
+covinro01,37.983333333333334,7.0,11.0,0.636,4.0,6.0,0.667,0.0,0.0,,1.0,4.0,5.0,0.0,5.0,3.0,1.0,3.0,18.0,-9.0,Robert Covington,,HOU,False,True
+gordoer01,34.583333333333336,3.0,12.0,0.25,1.0,6.0,0.167,2.0,2.0,1.0,0.0,4.0,4.0,6.0,2.0,1.0,4.0,3.0,9.0,-10.0,Eric Gordon,,HOU,False,True
+westbru01,27.3,8.0,15.0,0.533,1.0,2.0,0.5,0.0,2.0,0.0,0.0,4.0,4.0,3.0,1.0,0.0,7.0,2.0,17.0,-9.0,Russell Westbrook,,HOU,False,True
+houseda01,30.333333333333332,5.0,9.0,0.556,2.0,6.0,0.333,0.0,0.0,,0.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,12.0,-1.0,Danuel House,,HOU,False,False
+greenje02,17.683333333333334,1.0,5.0,0.2,1.0,5.0,0.2,0.0,0.0,,0.0,7.0,7.0,0.0,0.0,0.0,3.0,2.0,3.0,-8.0,Jeff Green,,HOU,False,False
+riverau01,11.55,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,7.0,Austin Rivers,,HOU,False,False
+mclembe01,3.8,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ben McLemore,,HOU,False,False
+cabocbr01,,,,,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+frazimi01,,,,,,,,,,,,,,,,,,,,,Michael Frazier,Did Not Play,HOU,False,False
+carrode01,,,,,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,HOU,False,False
+paulch01,39.78333333333333,10.0,20.0,0.5,3.0,6.0,0.5,5.0,5.0,1.0,0.0,7.0,7.0,3.0,3.0,0.0,0.0,1.0,28.0,20.0,Chris Paul,,OKC,True,True
+gilgesh01,39.4,4.0,11.0,0.364,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,6.0,0.0,1.0,4.0,4.0,10.0,-5.0,Shai Gilgeous-Alexander,,OKC,True,True
+adamsst01,31.4,3.0,9.0,0.333,0.0,0.0,,0.0,0.0,,9.0,5.0,14.0,1.0,1.0,0.0,4.0,1.0,6.0,-4.0,Steven Adams,,OKC,True,True
+gallida01,28.316666666666666,9.0,17.0,0.529,4.0,9.0,0.444,3.0,3.0,1.0,0.0,5.0,5.0,1.0,2.0,0.0,0.0,1.0,25.0,-2.0,Danilo Gallinari,,OKC,True,True
+dortlu01,20.066666666666666,5.0,9.0,0.556,2.0,6.0,0.333,1.0,2.0,0.5,0.0,3.0,3.0,1.0,1.0,1.0,5.0,4.0,13.0,-2.0,Luguentz Dort,,OKC,True,True
+schrode01,37.1,5.0,16.0,0.313,0.0,5.0,0.0,2.0,2.0,1.0,1.0,7.0,8.0,2.0,1.0,0.0,3.0,2.0,12.0,6.0,Dennis Schröder,,OKC,True,False
+bazleda01,22.05,1.0,2.0,0.5,1.0,2.0,0.5,5.0,6.0,0.833,0.0,9.0,9.0,3.0,0.0,0.0,1.0,0.0,8.0,7.0,Darius Bazley,,OKC,True,False
+noelne01,16.533333333333335,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,2.0,1.0,1.0,2.0,2.0,6.0,Nerlens Noel,,OKC,True,False
+fergute01,5.35,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,-6.0,Terrance Ferguson,,OKC,True,False
+naderab01,,,,,,,,,,,,,,,,,,,,,Abdel Nader,Did Not Play,OKC,True,False
+roberan03,,,,,,,,,,,,,,,,,,,,,Andre Roberson,Did Not Play,OKC,True,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,OKC,True,False
+diallha01,,,,,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,True,False

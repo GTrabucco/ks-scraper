@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+morrima02,40.516666666666666,8.0,13.0,0.615,2.0,4.0,0.5,5.0,5.0,1.0,0.0,8.0,8.0,2.0,0.0,0.0,2.0,5.0,23.0,8.0,Markieff Morris,,WAS,False,True
+walljo01,37.96666666666667,9.0,20.0,0.45,0.0,1.0,0.0,6.0,7.0,0.857,0.0,4.0,4.0,7.0,1.0,0.0,5.0,2.0,24.0,6.0,John Wall,,WAS,False,True
+porteot01,34.833333333333336,6.0,11.0,0.545,2.0,6.0,0.333,0.0,0.0,,1.0,11.0,12.0,2.0,0.0,0.0,0.0,1.0,14.0,7.0,Otto Porter,,WAS,False,True
+bealbr01,31.916666666666668,6.0,16.0,0.375,4.0,9.0,0.444,2.0,3.0,0.667,2.0,3.0,5.0,4.0,1.0,0.0,4.0,3.0,18.0,16.0,Bradley Beal,,WAS,False,True
+gortama01,28.683333333333334,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,1.0,1.0,1.0,1.0,3.0,8.0,2.0,Marcin Gortat,,WAS,False,True
+oubreke01,22.6,4.0,5.0,0.8,2.0,3.0,0.667,0.0,2.0,0.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,2.0,10.0,7.0,Kelly Oubre,,WAS,False,False
+smithja02,18.5,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,0.0,1.0,1.0,2.0,4.0,6.0,6.0,Jason Smith,,WAS,False,False
+mcclesh01,12.716666666666667,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,Sheldon Mac,,WAS,False,False
+burketr01,12.266666666666667,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,4.0,0.0,0.0,0.0,1.0,6.0,-4.0,Trey Burke,,WAS,False,False
+nichoan01,,,,,,,,,,,,,,,,,,,,,Andrew Nicholson,Did Not Play,WAS,False,False
+ochefda01,,,,,,,,,,,,,,,,,,,,,Daniel Ochefu,Did Not Play,WAS,False,False
+satorto01,,,,,,,,,,,,,,,,,,,,,Tomáš Satoranský,Did Not Play,WAS,False,False
+thornma01,,,,,,,,,,,,,,,,,,,,,Marcus Thornton,Did Not Play,WAS,False,False
+batumni01,38.3,2.0,9.0,0.222,0.0,3.0,0.0,0.0,0.0,,1.0,6.0,7.0,6.0,0.0,0.0,2.0,3.0,4.0,-7.0,Nicolas Batum,,CHO,True,True
+walkeke02,35.65,7.0,24.0,0.292,2.0,10.0,0.2,5.0,7.0,0.714,0.0,2.0,2.0,5.0,0.0,1.0,0.0,1.0,21.0,-7.0,Kemba Walker,,CHO,True,True
+zelleco01,35.11666666666667,4.0,7.0,0.571,0.0,0.0,,5.0,5.0,1.0,4.0,5.0,9.0,2.0,3.0,2.0,2.0,6.0,13.0,-1.0,Cody Zeller,,CHO,True,True
+willima02,28.95,5.0,12.0,0.417,1.0,6.0,0.167,2.0,2.0,1.0,4.0,4.0,8.0,4.0,2.0,1.0,0.0,2.0,13.0,0.0,Marvin Williams,,CHO,True,True
+kiddgmi01,26.95,4.0,8.0,0.5,0.0,0.0,,0.0,1.0,0.0,1.0,6.0,7.0,1.0,0.0,1.0,1.0,3.0,8.0,-8.0,Michael Kidd-Gilchrist,,CHO,True,True
+belinma01,28.8,5.0,12.0,0.417,2.0,8.0,0.25,6.0,7.0,0.857,0.0,3.0,3.0,2.0,1.0,0.0,0.0,1.0,18.0,-2.0,Marco Belinelli,,CHO,True,False
+kaminfr01,19.783333333333335,3.0,10.0,0.3,2.0,3.0,0.667,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,0.0,1.0,1.0,8.0,-10.0,Frank Kaminsky,,CHO,True,False
+sessira01,14.3,3.0,6.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,0.0,1.0,1.0,3.0,1.0,0.0,1.0,0.0,9.0,-6.0,Ramon Sessions,,CHO,True,False
+hibbero01,12.15,2.0,2.0,1.0,0.0,0.0,,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,5.0,-9.0,Roy Hibbert,,CHO,True,False
+grahatr01,,,,,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Play,CHO,True,False
+hawessp01,,,,,,,,,,,,,,,,,,,,,Spencer Hawes,Did Not Play,CHO,True,False
+roberbr01,,,,,,,,,,,,,,,,,,,,,Brian Roberts,Not With Team,CHO,True,False
+woodch01,,,,,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,CHO,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+roziete01,35.85,6.0,12.0,0.5,3.0,4.0,0.75,3.0,3.0,1.0,1.0,5.0,6.0,6.0,0.0,0.0,1.0,2.0,18.0,-2.0,Terry Rozier,,CHO,False,True
+grahade01,35.0,5.0,13.0,0.385,4.0,10.0,0.4,4.0,6.0,0.667,0.0,4.0,4.0,5.0,0.0,0.0,5.0,3.0,18.0,-11.0,Devonte' Graham,,CHO,False,True
+bridgmi02,34.05,6.0,11.0,0.545,3.0,5.0,0.6,2.0,2.0,1.0,1.0,4.0,5.0,1.0,0.0,2.0,2.0,1.0,17.0,-5.0,Miles Bridges,,CHO,False,True
+biyombi01,31.483333333333334,5.0,10.0,0.5,0.0,0.0,,3.0,5.0,0.6,2.0,9.0,11.0,1.0,0.0,2.0,2.0,2.0,13.0,-5.0,Bismack Biyombo,,CHO,False,True
+washipj01,31.433333333333334,6.0,15.0,0.4,2.0,7.0,0.286,1.0,3.0,0.333,2.0,7.0,9.0,0.0,0.0,0.0,2.0,5.0,15.0,-3.0,P.J. Washington,,CHO,False,True
+mcdanja01,23.95,3.0,9.0,0.333,1.0,4.0,0.25,2.0,2.0,1.0,2.0,5.0,7.0,1.0,1.0,2.0,1.0,3.0,9.0,18.0,Jalen McDaniels,,CHO,False,False
+martico01,22.683333333333334,1.0,1.0,1.0,0.0,0.0,,2.0,2.0,1.0,0.0,4.0,4.0,6.0,1.0,0.0,2.0,2.0,4.0,9.0,Cody Martin,,CHO,False,False
+hernawi01,13.883333333333333,2.0,6.0,0.333,0.0,0.0,,1.0,2.0,0.5,1.0,6.0,7.0,0.0,1.0,1.0,2.0,2.0,5.0,6.0,Willy Hernangómez,,CHO,False,False
+martica02,11.65,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,3.0,0.0,1.0,0.0,2.0,0.0,8.0,Caleb Martin,,CHO,False,False
+chealjo01,,,,,,,,,,,,,,,,,,,,,Joe Chealey,Did Not Play,CHO,False,False
+zelleco01,,,,,,,,,,,,,,,,,,,,,Cody Zeller,Did Not Play,CHO,False,False
+batumni01,,,,,,,,,,,,,,,,,,,,,Nicolas Batum,Did Not Play,CHO,False,False
+monkma01,,,,,,,,,,,,,,,,,,,,,Malik Monk,Did Not Play,CHO,False,False
+anunoog01,40.4,5.0,12.0,0.417,2.0,6.0,0.333,4.0,5.0,0.8,4.0,5.0,9.0,3.0,6.0,0.0,0.0,2.0,16.0,0.0,OG Anunoby,,TOR,True,True
+siakapa01,39.3,9.0,23.0,0.391,1.0,5.0,0.2,5.0,9.0,0.556,2.0,7.0,9.0,4.0,2.0,1.0,0.0,3.0,24.0,6.0,Pascal Siakam,,TOR,True,True
+lowryky01,38.21666666666667,5.0,14.0,0.357,3.0,12.0,0.25,8.0,10.0,0.8,2.0,4.0,6.0,6.0,2.0,2.0,2.0,5.0,21.0,5.0,Kyle Lowry,,TOR,True,True
+powelno01,36.416666666666664,8.0,19.0,0.421,4.0,11.0,0.364,2.0,4.0,0.5,0.0,1.0,1.0,3.0,0.0,0.0,1.0,4.0,22.0,4.0,Norman Powell,,TOR,True,True
+holliro01,27.516666666666666,2.0,8.0,0.25,0.0,0.0,,0.0,0.0,,1.0,8.0,9.0,1.0,0.0,0.0,1.0,6.0,4.0,-2.0,Rondae Hollis-Jefferson,,TOR,True,True
+mccawpa01,19.7,0.0,6.0,0.0,0.0,2.0,0.0,0.0,0.0,,3.0,1.0,4.0,0.0,1.0,0.0,1.0,2.0,0.0,-16.0,Patrick McCaw,,TOR,True,False
+bouchch01,16.283333333333335,2.0,3.0,0.667,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,4.0,-2.0,Chris Boucher,,TOR,True,False
+daviste02,15.316666666666666,1.0,6.0,0.167,0.0,4.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,0.0,0.0,1.0,2.0,-3.0,Terence Davis,,TOR,True,False
+thomama02,6.8,1.0,4.0,0.25,0.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,-7.0,Matt Thomas,,TOR,True,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,True,False
+brissos01,,,,,,,,,,,,,,,,,,,,,Oshae Brissett,Did Not Play,TOR,True,False
+watsopa01,,,,,,,,,,,,,,,,,,,,,Paul Watson,Did Not Play,TOR,True,False
+johnsst04,,,,,,,,,,,,,,,,,,,,,Stanley Johnson,Did Not Play,TOR,True,False

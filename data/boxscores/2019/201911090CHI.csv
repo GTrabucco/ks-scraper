@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+capelca01,41.68333333333333,7.0,10.0,0.7,0.0,0.0,,2.0,2.0,1.0,5.0,15.0,20.0,1.0,0.0,4.0,0.0,3.0,16.0,35.0,Clint Capela,,HOU,False,True
+hardeja01,35.8,12.0,27.0,0.444,9.0,19.0,0.474,9.0,11.0,0.818,1.0,9.0,10.0,9.0,2.0,0.0,6.0,1.0,42.0,36.0,James Harden,,HOU,False,True
+houseda01,32.45,3.0,5.0,0.6,3.0,5.0,0.6,2.0,3.0,0.667,1.0,4.0,5.0,1.0,6.0,1.0,4.0,2.0,11.0,15.0,Danuel House,,HOU,False,True
+tuckepj01,32.083333333333336,1.0,3.0,0.333,1.0,3.0,0.333,1.0,2.0,0.5,0.0,5.0,5.0,1.0,2.0,2.0,0.0,4.0,4.0,2.0,P.J. Tucker,,HOU,False,True
+westbru01,31.783333333333335,10.0,20.0,0.5,0.0,3.0,0.0,6.0,8.0,0.75,0.0,6.0,6.0,2.0,1.0,0.0,7.0,5.0,26.0,1.0,Russell Westbrook,,HOU,False,True
+riverau01,26.483333333333334,2.0,4.0,0.5,2.0,3.0,0.667,0.0,2.0,0.0,1.0,3.0,4.0,2.0,0.0,0.0,0.0,1.0,6.0,13.0,Austin Rivers,,HOU,False,False
+gordoer01,21.2,3.0,9.0,0.333,3.0,7.0,0.429,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,4.0,3.0,9.0,8.0,Eric Gordon,,HOU,False,False
+mclembe01,15.316666666666666,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,7.0,Ben McLemore,,HOU,False,False
+clemoch01,3.2,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,3.0,-2.0,Chris Clemons,,HOU,False,False
+sefolth01,,,,,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Play,HOU,False,False
+markkla01,33.05,3.0,10.0,0.3,0.0,5.0,0.0,7.0,7.0,1.0,0.0,6.0,6.0,1.0,2.0,0.0,2.0,1.0,13.0,-18.0,Lauri Markkanen,,CHI,True,True
+lavinza01,32.1,5.0,17.0,0.294,1.0,7.0,0.143,0.0,0.0,,1.0,0.0,1.0,5.0,2.0,1.0,4.0,3.0,11.0,-20.0,Zach LaVine,,CHI,True,True
+cartewe01,29.0,5.0,9.0,0.556,0.0,1.0,0.0,3.0,3.0,1.0,4.0,12.0,16.0,2.0,0.0,2.0,0.0,3.0,13.0,-5.0,Wendell Carter,,CHI,True,True
+satorto01,23.966666666666665,4.0,11.0,0.364,0.0,2.0,0.0,2.0,3.0,0.667,1.0,2.0,3.0,4.0,3.0,0.0,3.0,3.0,10.0,-14.0,Tomáš Satoranský,,CHI,True,True
+hutchch01,23.216666666666665,6.0,10.0,0.6,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,0.0,2.0,2.0,1.0,4.0,13.0,-14.0,Chandler Hutchison,,CHI,True,True
+whiteco01,27.133333333333333,4.0,16.0,0.25,0.0,6.0,0.0,2.0,3.0,0.667,0.0,3.0,3.0,1.0,1.0,0.0,2.0,2.0,10.0,-13.0,Coby White,,CHI,True,False
+youngth01,23.666666666666668,5.0,9.0,0.556,1.0,3.0,0.333,2.0,2.0,1.0,3.0,2.0,5.0,3.0,1.0,0.0,1.0,1.0,13.0,-11.0,Thaddeus Young,,CHI,True,False
+dunnkr01,21.683333333333334,3.0,9.0,0.333,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,3.0,4.0,2.0,0.0,0.0,1.0,7.0,-5.0,Kris Dunn,,CHI,True,False
+arcidry01,15.9,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,2.0,3.0,2.0,-3.0,Ryan Arcidiacono,,CHI,True,False
+kornelu01,5.55,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-9.0,Luke Kornet,,CHI,True,False
+gaffoda01,4.733333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-3.0,Daniel Gafford,,CHI,True,False
+valende01,,,,,,,,,,,,,,,,,,,,,Denzel Valentine,Did Not Play,CHI,True,False
+harrish01,,,,,,,,,,,,,,,,,,,,,Shaquille Harrison,Did Not Play,CHI,True,False

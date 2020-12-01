@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+dragigo01,38.983333333333334,11.0,21.0,0.524,3.0,4.0,0.75,8.0,9.0,0.889,0.0,2.0,2.0,3.0,0.0,0.0,3.0,2.0,33.0,9.0,Goran Dragić,,MIA,False,True
+johnsja01,33.516666666666666,7.0,11.0,0.636,0.0,1.0,0.0,4.0,4.0,1.0,4.0,6.0,10.0,7.0,2.0,1.0,2.0,5.0,18.0,20.0,James Johnson,,MIA,False,True
+johnsty01,28.25,5.0,10.0,0.5,4.0,8.0,0.5,0.0,0.0,,0.0,5.0,5.0,2.0,1.0,0.0,3.0,2.0,14.0,-18.0,Tyler Johnson,,MIA,False,True
+adebaba01,27.333333333333332,2.0,9.0,0.222,0.0,0.0,,2.0,2.0,1.0,4.0,12.0,16.0,3.0,0.0,0.0,0.0,3.0,6.0,-9.0,Bam Adebayo,,MIA,False,True
+babbilu01,13.683333333333334,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,Luke Babbitt,,MIA,False,True
+winslju01,37.6,4.0,12.0,0.333,2.0,3.0,0.667,0.0,0.0,,3.0,4.0,7.0,4.0,1.0,0.0,2.0,6.0,10.0,-7.0,Justise Winslow,,MIA,False,False
+ellinwa01,35.53333333333333,7.0,19.0,0.368,6.0,17.0,0.353,2.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,22.0,-7.0,Wayne Ellington,,MIA,False,False
+olynyke01,31.133333333333333,4.0,13.0,0.308,2.0,6.0,0.333,3.0,4.0,0.75,4.0,4.0,8.0,5.0,0.0,1.0,2.0,4.0,13.0,0.0,Kelly Olynyk,,MIA,False,False
+mcgruro01,18.966666666666665,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,3.0,-12.0,Rodney McGruder,,MIA,False,False
+whiteha01,,,,,,,,,,,,,,,,,,,,,Hassan Whiteside,Did Not Dress,MIA,False,False
+richajo01,,,,,,,,,,,,,,,,,,,,,Josh Richardson,Did Not Play,MIA,False,False
+mickejo01,,,,,,,,,,,,,,,,,,,,,Jordan Mickey,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+caulewi01,36.35,3.0,10.0,0.3,0.0,1.0,0.0,4.0,4.0,1.0,1.0,8.0,9.0,3.0,3.0,2.0,2.0,2.0,10.0,2.0,Willie Cauley-Stein,,SAC,True,True
+foxde01,35.416666666666664,9.0,14.0,0.643,0.0,1.0,0.0,2.0,5.0,0.4,1.0,1.0,2.0,3.0,0.0,0.0,1.0,2.0,20.0,0.0,De'Aaron Fox,,SAC,True,True
+randoza01,33.05,9.0,16.0,0.563,2.0,4.0,0.5,2.0,4.0,0.5,1.0,8.0,9.0,4.0,0.0,1.0,3.0,5.0,22.0,3.0,Zach Randolph,,SAC,True,True
+bogdabo01,32.36666666666667,5.0,14.0,0.357,2.0,5.0,0.4,2.0,2.0,1.0,1.0,2.0,3.0,3.0,0.0,0.0,1.0,1.0,14.0,-13.0,Bogdan Bogdanović,,SAC,True,True
+jacksju01,20.533333333333335,4.0,7.0,0.571,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,1.0,1.0,9.0,3.0,Justin Jackson,,SAC,True,True
+hieldbu01,31.4,9.0,16.0,0.563,2.0,7.0,0.286,4.0,4.0,1.0,2.0,4.0,6.0,3.0,2.0,1.0,0.0,1.0,24.0,11.0,Buddy Hield,,SAC,True,False
+templga01,22.15,2.0,3.0,0.667,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,5.0,6.0,Garrett Temple,,SAC,True,False
+koufoko01,18.483333333333334,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,1.0,1.0,3.0,2.0,4.0,6.0,6.0,Kosta Koufos,,SAC,True,False
+cartevi01,17.666666666666668,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,1.0,2.0,2.0,-2.0,Vince Carter,,SAC,True,False
+masonfr01,17.583333333333332,3.0,6.0,0.5,0.0,1.0,0.0,5.0,6.0,0.833,0.0,4.0,4.0,2.0,0.0,0.0,0.0,2.0,11.0,4.0,Frank Mason,,SAC,True,False
+shumpim01,,,,,,,,,,,,,,,,,,,,,Iman Shumpert,Did Not Play,SAC,True,False
+cabocbr01,,,,,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,SAC,True,False

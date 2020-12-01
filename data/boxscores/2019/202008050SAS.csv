@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+portemi01,36.0,11.0,19.0,0.579,5.0,9.0,0.556,3.0,4.0,0.75,4.0,11.0,15.0,0.0,0.0,1.0,2.0,4.0,30.0,13.0,Michael Porter,,DEN,False,True
+morrimo01,35.31666666666667,8.0,13.0,0.615,1.0,4.0,0.25,2.0,2.0,1.0,0.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,19.0,-1.0,Monte Morris,,DEN,False,True
+jokicni01,31.866666666666667,10.0,17.0,0.588,3.0,5.0,0.6,2.0,2.0,1.0,3.0,1.0,4.0,11.0,1.0,0.0,5.0,4.0,25.0,8.0,Nikola Jokić,,DEN,False,True
+craigto01,30.233333333333334,3.0,8.0,0.375,0.0,4.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,0.0,0.0,2.0,1.0,3.0,8.0,-3.0,Torrey Craig,,DEN,False,True
+millspa01,16.65,2.0,6.0,0.333,1.0,2.0,0.5,2.0,2.0,1.0,2.0,5.0,7.0,1.0,1.0,1.0,1.0,4.0,7.0,-2.0,Paul Millsap,,DEN,False,True
+grantje01,34.68333333333333,8.0,14.0,0.571,2.0,6.0,0.333,4.0,5.0,0.8,1.0,1.0,2.0,1.0,1.0,1.0,1.0,3.0,22.0,1.0,Jerami Grant,,DEN,False,False
+doziepj01,25.533333333333335,4.0,8.0,0.5,1.0,3.0,0.333,3.0,4.0,0.75,2.0,3.0,5.0,8.0,1.0,0.0,4.0,1.0,12.0,0.0,PJ Dozier,,DEN,False,False
+plumlma01,15.483333333333333,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,6.0,0.0,0.0,0.0,0.0,4.0,4.0,Mason Plumlee,,DEN,False,False
+danietr01,14.233333333333333,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,5.0,10.0,Troy Daniels,,DEN,False,False
+bolbo01,,,,,,,,,,,,,,,,,,,,,Bol Bol,Did Not Play,DEN,False,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,DEN,False,False
+bateske01,,,,,,,,,,,,,,,,,,,,,Keita Bates-Diop,Did Not Play,DEN,False,False
+cookty01,,,,,,,,,,,,,,,,,,,,,Tyler Cook,Did Not Play,DEN,False,False
+whitede01,33.11666666666667,6.0,15.0,0.4,4.0,10.0,0.4,7.0,8.0,0.875,1.0,2.0,3.0,7.0,2.0,1.0,1.0,4.0,23.0,-5.0,Derrick White,,SAS,True,True
+derozde01,32.38333333333333,5.0,11.0,0.455,0.0,2.0,0.0,8.0,9.0,0.889,1.0,4.0,5.0,8.0,1.0,2.0,2.0,3.0,18.0,-6.0,DeMar DeRozan,,SAS,True,True
+poeltja01,26.4,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,3.0,4.0,7.0,1.0,0.0,0.0,1.0,1.0,2.0,-12.0,Jakob Poeltl,,SAS,True,True
+murrade01,25.583333333333332,2.0,8.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,3.0,0.0,0.0,1.0,4.0,-19.0,Dejounte Murray,,SAS,True,True
+walkelo01,20.8,4.0,7.0,0.571,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,-16.0,Lonnie Walker,,SAS,True,True
+gayru01,26.233333333333334,9.0,18.0,0.5,2.0,6.0,0.333,4.0,6.0,0.667,0.0,4.0,4.0,4.0,1.0,2.0,0.0,5.0,24.0,-2.0,Rudy Gay,,SAS,True,False
+johnske04,26.166666666666668,7.0,10.0,0.7,2.0,2.0,1.0,4.0,4.0,1.0,1.0,5.0,6.0,2.0,1.0,0.0,0.0,2.0,20.0,8.0,Keldon Johnson,,SAS,True,False
+millspa02,22.416666666666668,6.0,10.0,0.6,2.0,5.0,0.4,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,1.0,3.0,14.0,13.0,Patty Mills,,SAS,True,False
+eubandr01,17.916666666666668,6.0,8.0,0.75,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,1.0,1.0,0.0,1.0,1.0,12.0,6.0,Drew Eubanks,,SAS,True,False
+weathqu01,8.983333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,Quinndary Weatherspoon,,SAS,True,False
+metuch01,,,,,,,,,,,,,,,,,,,,,Chimezie Metu,Did Not Play,SAS,True,False
+zellety01,,,,,,,,,,,,,,,,,,,,,Tyler Zeller,Did Not Play,SAS,True,False
+belinma01,,,,,,,,,,,,,,,,,,,,,Marco Belinelli,Did Not Play,SAS,True,False

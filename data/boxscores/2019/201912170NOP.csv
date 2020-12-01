@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+templga01,39.483333333333334,2.0,14.0,0.143,1.0,6.0,0.167,2.0,3.0,0.667,1.0,4.0,5.0,5.0,0.0,0.0,1.0,1.0,7.0,-10.0,Garrett Temple,,BRK,False,True
+dinwisp01,38.516666666666666,11.0,26.0,0.423,1.0,8.0,0.125,8.0,11.0,0.727,0.0,2.0,2.0,7.0,1.0,0.0,2.0,3.0,31.0,20.0,Spencer Dinwiddie,,BRK,False,True
+harrijo01,37.28333333333333,8.0,15.0,0.533,5.0,9.0,0.556,3.0,4.0,0.75,1.0,5.0,6.0,3.0,0.0,1.0,2.0,1.0,24.0,19.0,Joe Harris,,BRK,False,True
+princta02,35.083333333333336,1.0,9.0,0.111,1.0,6.0,0.167,0.0,0.0,,1.0,10.0,11.0,2.0,0.0,1.0,0.0,3.0,3.0,22.0,Taurean Prince,,BRK,False,True
+allenja01,34.583333333333336,6.0,7.0,0.857,0.0,0.0,,0.0,0.0,,2.0,12.0,14.0,1.0,0.0,6.0,3.0,5.0,12.0,22.0,Jarrett Allen,,BRK,False,True
+jordade01,18.333333333333332,2.0,3.0,0.667,0.0,0.0,,2.0,2.0,1.0,1.0,5.0,6.0,5.0,1.0,1.0,1.0,2.0,6.0,-15.0,DeAndre Jordan,,BRK,False,False
+nwabada01,18.233333333333334,5.0,7.0,0.714,2.0,3.0,0.667,0.0,1.0,0.0,0.0,3.0,3.0,0.0,1.0,1.0,0.0,2.0,12.0,13.0,David Nwaba,,BRK,False,False
+chandwi01,18.0,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,5.0,5.0,2.0,0.0,0.0,2.0,3.0,7.0,-15.0,Wilson Chandler,,BRK,False,False
+luwawti01,15.716666666666667,2.0,5.0,0.4,0.0,1.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,6.0,-12.0,Timothé Luwawu-Cabarrot,,BRK,False,False
+pinsoth01,9.766666666666667,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-9.0,Theo Pinson,,BRK,False,False
+musadz01,,,,,,,,,,,,,,,,,,,,,Džanan Musa,Did Not Play,BRK,False,False
+ellenhe01,,,,,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,BRK,False,False
+kurucro01,,,,,,,,,,,,,,,,,,,,,Rodions Kurucs,Did Not Play,BRK,False,False
+ingrabr01,41.1,7.0,23.0,0.304,1.0,5.0,0.2,7.0,9.0,0.778,3.0,8.0,11.0,1.0,0.0,2.0,2.0,2.0,22.0,-13.0,Brandon Ingram,,NOP,True,True
+holidjr01,37.666666666666664,9.0,28.0,0.321,2.0,7.0,0.286,1.0,1.0,1.0,2.0,3.0,5.0,6.0,1.0,2.0,0.0,5.0,21.0,5.0,Jrue Holiday,,NOP,True,True
+balllo01,35.38333333333333,4.0,13.0,0.308,1.0,5.0,0.2,1.0,3.0,0.333,1.0,7.0,8.0,4.0,0.0,0.0,2.0,0.0,10.0,-9.0,Lonzo Ball,,NOP,True,True
+willike04,26.383333333333333,1.0,8.0,0.125,1.0,6.0,0.167,0.0,0.0,,2.0,3.0,5.0,0.0,1.0,0.0,0.0,1.0,3.0,-11.0,Kenrich Williams,,NOP,True,True
+favorde01,20.033333333333335,3.0,7.0,0.429,0.0,0.0,,1.0,2.0,0.5,5.0,4.0,9.0,3.0,0.0,3.0,2.0,1.0,7.0,-12.0,Derrick Favors,,NOP,True,True
+hartjo01,40.38333333333333,5.0,14.0,0.357,4.0,10.0,0.4,0.0,0.0,,1.0,8.0,9.0,0.0,1.0,0.0,1.0,2.0,14.0,-13.0,Josh Hart,,NOP,True,False
+hayesja02,29.2,4.0,5.0,0.8,1.0,1.0,1.0,4.0,7.0,0.571,2.0,5.0,7.0,1.0,0.0,2.0,0.0,5.0,13.0,4.0,Jaxson Hayes,,NOP,True,False
+alexani01,22.733333333333334,4.0,7.0,0.571,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,4.0,0.0,0.0,1.0,1.0,9.0,6.0,Nickeil Alexander-Walker,,NOP,True,False
+mellini01,12.116666666666667,0.0,2.0,0.0,0.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,8.0,Nicolò Melli,,NOP,True,False
+redicjj01,,,,,,,,,,,,,,,,,,,,,J.J. Redick,Did Not Dress,NOP,True,False
+mooreet01,,,,,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,NOP,True,False
+okafoja01,,,,,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,NOP,True,False
+jacksfr01,,,,,,,,,,,,,,,,,,,,,Frank Jackson,Did Not Play,NOP,True,False

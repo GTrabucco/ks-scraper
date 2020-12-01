@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+butleji01,38.06666666666667,10.0,17.0,0.588,2.0,3.0,0.667,6.0,8.0,0.75,2.0,3.0,5.0,5.0,3.0,0.0,2.0,2.0,28.0,-6.0,Jimmy Butler,,CHI,False,True
+rondora01,32.9,3.0,6.0,0.5,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,10.0,0.0,0.0,3.0,2.0,6.0,-13.0,Rajon Rondo,,CHI,False,True
+lopezro01,32.75,12.0,16.0,0.75,0.0,1.0,0.0,1.0,1.0,1.0,7.0,5.0,12.0,2.0,0.0,0.0,2.0,2.0,25.0,-6.0,Robin Lopez,,CHI,False,True
+zipsepa01,27.683333333333334,4.0,11.0,0.364,0.0,3.0,0.0,0.0,0.0,,2.0,5.0,7.0,2.0,0.0,0.0,2.0,4.0,8.0,-10.0,Paul Zipser,,CHI,False,True
+portibo01,15.916666666666666,1.0,5.0,0.2,0.0,2.0,0.0,1.0,2.0,0.5,0.0,6.0,6.0,2.0,0.0,1.0,3.0,1.0,3.0,-11.0,Bobby Portis,,CHI,False,True
+mirotni01,32.083333333333336,6.0,16.0,0.375,2.0,8.0,0.25,1.0,2.0,0.5,1.0,7.0,8.0,3.0,1.0,3.0,0.0,2.0,15.0,6.0,Nikola Mirotić,,CHI,False,False
+valende01,31.433333333333334,4.0,10.0,0.4,2.0,7.0,0.286,1.0,1.0,1.0,0.0,4.0,4.0,2.0,0.0,0.0,0.0,2.0,11.0,1.0,Denzel Valentine,,CHI,False,False
+cartemi01,15.1,2.0,4.0,0.5,1.0,1.0,1.0,2.0,4.0,0.5,0.0,1.0,1.0,1.0,0.0,1.0,6.0,3.0,7.0,8.0,Michael Carter-Williams,,CHI,False,False
+lauvejo01,7.983333333333333,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,Joffrey Lauvergne,,CHI,False,False
+feliccr01,6.083333333333333,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,2.0,-1.0,Cristiano Felício,,CHI,False,False
+canaais01,,,,,,,,,,,,,,,,,,,,,Isaiah Canaan,Did Not Play,CHI,False,False
+grantje02,,,,,,,,,,,,,,,,,,,,,Jerian Grant,Did Not Play,CHI,False,False
+morroan01,,,,,,,,,,,,,,,,,,,,,Anthony Morrow,Did Not Play,CHI,False,False
+porteot01,38.233333333333334,6.0,14.0,0.429,0.0,3.0,0.0,2.0,2.0,1.0,3.0,5.0,8.0,0.0,0.0,0.0,0.0,1.0,14.0,3.0,Otto Porter,,WAS,True,True
+smithja02,37.61666666666667,6.0,15.0,0.4,3.0,6.0,0.5,2.0,3.0,0.667,3.0,4.0,7.0,2.0,2.0,2.0,1.0,2.0,17.0,11.0,Jason Smith,,WAS,True,True
+walljo01,33.65,4.0,13.0,0.308,1.0,3.0,0.333,5.0,6.0,0.833,0.0,0.0,0.0,20.0,1.0,1.0,2.0,2.0,14.0,12.0,John Wall,,WAS,True,True
+bealbr01,31.733333333333334,10.0,18.0,0.556,3.0,4.0,0.75,1.0,1.0,1.0,1.0,3.0,4.0,0.0,0.0,0.0,3.0,4.0,24.0,12.0,Bradley Beal,,WAS,True,True
+gortama01,21.75,4.0,9.0,0.444,0.0,0.0,,0.0,0.0,,1.0,7.0,8.0,1.0,0.0,0.0,0.0,1.0,8.0,-2.0,Marcin Gortat,,WAS,True,True
+bogdabo02,24.883333333333333,5.0,12.0,0.417,2.0,6.0,0.333,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,12.0,3.0,Bojan Bogdanović,,WAS,True,False
+mahinia01,20.05,8.0,11.0,0.727,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,2.0,1.0,3.0,16.0,-7.0,Ian Mahinmi,,WAS,True,False
+jennibr01,17.266666666666666,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,8.0,0.0,0.0,2.0,1.0,3.0,-9.0,Brandon Jennings,,WAS,True,False
+oubreke01,14.816666666666666,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,2.0,2.0,4.0,2.0,2.0,1.0,0.0,1.0,4.0,2.0,Kelly Oubre,,WAS,True,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,WAS,True,False
+mcclesh01,,,,,,,,,,,,,,,,,,,,,Sheldon Mac,Did Not Play,WAS,True,False
+ochefda01,,,,,,,,,,,,,,,,,,,,,Daniel Ochefu,Did Not Play,WAS,True,False
+satorto01,,,,,,,,,,,,,,,,,,,,,Tomáš Satoranský,Did Not Play,WAS,True,False

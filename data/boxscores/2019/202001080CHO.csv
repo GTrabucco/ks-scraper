@@ -1,0 +1,24 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mccawpa01,42.88333333333333,6.0,10.0,0.6,1.0,3.0,0.333,0.0,0.0,,2.0,3.0,5.0,11.0,1.0,0.0,2.0,3.0,13.0,5.0,Patrick McCaw,,TOR,False,True
+lowryky01,42.55,4.0,13.0,0.308,2.0,6.0,0.333,5.0,8.0,0.625,1.0,1.0,2.0,9.0,2.0,1.0,2.0,4.0,15.0,14.0,Kyle Lowry,,TOR,False,True
+ibakase01,39.266666666666666,10.0,19.0,0.526,1.0,1.0,1.0,2.0,5.0,0.4,4.0,7.0,11.0,2.0,0.0,2.0,4.0,2.0,23.0,15.0,Serge Ibaka,,TOR,False,True
+daviste02,37.38333333333333,8.0,16.0,0.5,4.0,8.0,0.5,3.0,3.0,1.0,1.0,10.0,11.0,5.0,1.0,0.0,0.0,2.0,23.0,20.0,Terence Davis,,TOR,False,True
+anunoog01,36.03333333333333,8.0,13.0,0.615,3.0,4.0,0.75,0.0,0.0,,1.0,6.0,7.0,1.0,1.0,0.0,0.0,4.0,19.0,13.0,OG Anunoby,,TOR,False,True
+holliro01,22.15,2.0,4.0,0.5,0.0,1.0,0.0,4.0,4.0,1.0,2.0,2.0,4.0,3.0,1.0,0.0,1.0,3.0,8.0,-16.0,Rondae Hollis-Jefferson,,TOR,False,False
+thomama02,13.85,3.0,9.0,0.333,2.0,6.0,0.333,0.0,0.0,,2.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,8.0,-15.0,Matt Thomas,,TOR,False,False
+bouchch01,13.65,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,2.0,0.0,1.0,3.0,-13.0,Chris Boucher,,TOR,False,False
+brissos01,9.533333333333333,0.0,5.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,-9.0,Oshae Brissett,,TOR,False,False
+johnsst04,7.7,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-4.0,Stanley Johnson,,TOR,False,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,False,False
+roziete01,45.65,9.0,24.0,0.375,5.0,14.0,0.357,4.0,5.0,0.8,0.0,0.0,0.0,3.0,3.0,0.0,1.0,4.0,27.0,1.0,Terry Rozier,,CHO,True,True
+grahade01,41.81666666666667,3.0,15.0,0.2,3.0,9.0,0.333,2.0,2.0,1.0,0.0,5.0,5.0,6.0,1.0,0.0,3.0,2.0,11.0,-15.0,Devonte' Graham,,CHO,True,True
+washipj01,40.38333333333333,4.0,7.0,0.571,0.0,1.0,0.0,4.0,5.0,0.8,0.0,12.0,12.0,6.0,0.0,2.0,4.0,2.0,12.0,-1.0,P.J. Washington,,CHO,True,True
+bridgmi02,35.21666666666667,10.0,15.0,0.667,6.0,9.0,0.667,0.0,0.0,,2.0,7.0,9.0,1.0,1.0,1.0,1.0,2.0,26.0,-7.0,Miles Bridges,,CHO,True,True
+biyombi01,31.783333333333335,2.0,4.0,0.5,0.0,0.0,,2.0,4.0,0.5,4.0,3.0,7.0,3.0,0.0,2.0,4.0,4.0,6.0,-14.0,Bismack Biyombo,,CHO,True,True
+bacondw01,25.233333333333334,3.0,4.0,0.75,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,4.0,2.0,1.0,0.0,1.0,2.0,7.0,3.0,Dwayne Bacon,,CHO,True,False
+monkma01,24.066666666666666,3.0,8.0,0.375,0.0,2.0,0.0,1.0,3.0,0.333,1.0,4.0,5.0,7.0,0.0,1.0,2.0,2.0,7.0,12.0,Malik Monk,,CHO,True,False
+zelleco01,20.85,4.0,9.0,0.444,0.0,1.0,0.0,6.0,6.0,1.0,5.0,3.0,8.0,2.0,0.0,0.0,1.0,3.0,14.0,11.0,Cody Zeller,,CHO,True,False
+hernawi01,,,,,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,CHO,True,False
+kiddgmi01,,,,,,,,,,,,,,,,,,,,,Michael Kidd-Gilchrist,Did Not Play,CHO,True,False
+batumni01,,,,,,,,,,,,,,,,,,,,,Nicolas Batum,Did Not Play,CHO,True,False
+martico01,,,,,,,,,,,,,,,,,,,,,Cody Martin,Did Not Play,CHO,True,False

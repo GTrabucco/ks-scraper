@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+randlju01,38.3,9.0,16.0,0.563,0.0,2.0,0.0,2.0,2.0,1.0,2.0,6.0,8.0,3.0,2.0,0.0,3.0,3.0,20.0,-4.0,Julius Randle,,NYK,False,True
+morrima03,36.36666666666667,8.0,15.0,0.533,2.0,4.0,0.5,8.0,8.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,3.0,26.0,-1.0,Marcus Morris,,NYK,False,True
+paytoel01,32.983333333333334,8.0,17.0,0.471,0.0,1.0,0.0,1.0,3.0,0.333,5.0,6.0,11.0,15.0,1.0,0.0,1.0,1.0,17.0,4.0,Elfrid Payton,,NYK,False,True
+bullore01,24.716666666666665,3.0,6.0,0.5,1.0,4.0,0.25,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,0.0,1.0,7.0,-2.0,Reggie Bullock,,NYK,False,True
+gibsota01,13.316666666666666,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,1.0,0.0,0.0,8.0,-5.0,Taj Gibson,,NYK,False,True
+portibo01,28.283333333333335,5.0,8.0,0.625,2.0,5.0,0.4,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,2.0,2.0,12.0,7.0,Bobby Portis,,NYK,False,False
+ntilila01,22.983333333333334,4.0,7.0,0.571,1.0,3.0,0.333,0.0,0.0,,1.0,6.0,7.0,2.0,0.0,0.0,1.0,1.0,9.0,13.0,Frank Ntilikina,,NYK,False,False
+smithde03,20.016666666666666,6.0,11.0,0.545,1.0,1.0,1.0,2.0,6.0,0.333,0.0,3.0,3.0,6.0,4.0,0.0,2.0,2.0,15.0,1.0,Dennis Smith,,NYK,False,False
+knoxke01,17.45,5.0,8.0,0.625,2.0,4.0,0.5,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,1.0,1.0,12.0,1.0,Kevin Knox,,NYK,False,False
+dotsoda01,15.883333333333333,3.0,6.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,9.0,2.0,Damyean Dotson,,NYK,False,False
+robinmi01,14.7,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,1.0,3.0,4.0,9.0,Mitchell Robinson,,NYK,False,False
+ellinwa01,,,,,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,NYK,False,False
+trieral01,,,,,,,,,,,,,,,,,,,,,Allonzo Trier,Did Not Play,NYK,False,False
+nancela02,42.38333333333333,8.0,13.0,0.615,2.0,5.0,0.4,0.0,0.0,,1.0,7.0,8.0,6.0,0.0,1.0,2.0,1.0,18.0,-12.0,Larry Nance,,CLE,True,True
+loveke01,41.35,12.0,20.0,0.6,4.0,9.0,0.444,5.0,5.0,1.0,1.0,12.0,13.0,6.0,0.0,1.0,1.0,4.0,33.0,-1.0,Kevin Love,,CLE,True,True
+sextoco01,39.516666666666666,11.0,22.0,0.5,3.0,5.0,0.6,4.0,4.0,1.0,1.0,1.0,2.0,7.0,1.0,0.0,2.0,2.0,29.0,0.0,Collin Sexton,,CLE,True,True
+garlada01,39.31666666666667,5.0,10.0,0.5,4.0,7.0,0.571,0.0,0.0,,0.0,1.0,1.0,5.0,1.0,1.0,1.0,1.0,14.0,-9.0,Darius Garland,,CLE,True,True
+osmande01,38.06666666666667,6.0,10.0,0.6,3.0,6.0,0.5,0.0,0.0,,0.0,4.0,4.0,2.0,0.0,0.0,4.0,5.0,15.0,6.0,Cedi Osman,,CLE,True,True
+porteke02,24.383333333333333,4.0,8.0,0.5,2.0,2.0,1.0,2.0,6.0,0.333,0.0,0.0,0.0,3.0,2.0,0.0,2.0,1.0,12.0,-3.0,Kevin Porter,,CLE,True,False
+hensojo01,18.416666666666668,4.0,4.0,1.0,0.0,0.0,,1.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,1.0,4.0,9.0,0.0,John Henson,,CLE,True,False
+exumda01,15.733333333333333,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,0.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,4.0,-9.0,Dante Exum,,CLE,True,False
+dellama01,5.833333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,Matthew Dellavedova,,CLE,True,False
+wadede01,,,,,,,,,,,,,,,,,,,,,Dean Wade,Did Not Play,CLE,True,False
+moonema01,,,,,,,,,,,,,,,,,,,,,Matt Mooney,Did Not Play,CLE,True,False
+boldema01,,,,,,,,,,,,,,,,,,,,,Marques Bolden,Did Not Play,CLE,True,False
+knighbr03,,,,,,,,,,,,,,,,,,,,,Brandon Knight,Did Not Play,CLE,True,False

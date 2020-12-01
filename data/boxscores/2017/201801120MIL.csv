@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+greendr01,37.166666666666664,8.0,17.0,0.471,1.0,4.0,0.25,4.0,4.0,1.0,1.0,9.0,10.0,7.0,1.0,0.0,0.0,3.0,21.0,11.0,Draymond Green,,GSW,False,True
+duranke01,36.0,12.0,20.0,0.6,2.0,6.0,0.333,0.0,2.0,0.0,1.0,5.0,6.0,6.0,2.0,0.0,3.0,2.0,26.0,12.0,Kevin Durant,,GSW,False,True
+thompkl01,35.38333333333333,4.0,10.0,0.4,0.0,2.0,0.0,4.0,4.0,1.0,0.0,5.0,5.0,2.0,0.0,0.0,3.0,3.0,12.0,20.0,Klay Thompson,,GSW,False,True
+mccawpa01,22.633333333333333,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,2.0,0.0,0.0,0.0,6.0,-3.0,Patrick McCaw,,GSW,False,True
+pachuza01,14.35,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,0.0,1.0,8.0,-8.0,Zaza Pachulia,,GSW,False,True
+iguodan01,26.933333333333334,0.0,4.0,0.0,0.0,1.0,0.0,4.0,4.0,1.0,0.0,4.0,4.0,5.0,1.0,0.0,1.0,2.0,4.0,21.0,Andre Iguodala,,GSW,False,False
+looneke01,23.183333333333334,3.0,3.0,1.0,0.0,0.0,,3.0,4.0,0.75,6.0,2.0,8.0,3.0,0.0,1.0,1.0,1.0,9.0,16.0,Kevon Looney,,GSW,False,False
+westda01,16.8,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,2.0,1.0,1.0,8.0,7.0,David West,,GSW,False,False
+livinsh01,14.5,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,6.0,1.0,Shaun Livingston,,GSW,False,False
+youngni01,13.05,3.0,3.0,1.0,2.0,2.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,8.0,-7.0,Nick Young,,GSW,False,False
+mcgeeja01,,,,,,,,,,,,,,,,,,,,,JaVale McGee,Did Not Play,GSW,False,False
+cookqu01,,,,,,,,,,,,,,,,,,,,,Quinn Cook,Did Not Play,GSW,False,False
+belljo01,,,,,,,,,,,,,,,,,,,,,Jordan Bell,Did Not Play,GSW,False,False
+brogdma01,39.93333333333333,7.0,14.0,0.5,2.0,5.0,0.4,1.0,1.0,1.0,0.0,2.0,2.0,4.0,1.0,0.0,1.0,4.0,17.0,-17.0,Malcolm Brogdon,,MIL,True,True
+middlkh01,36.766666666666666,2.0,12.0,0.167,1.0,5.0,0.2,3.0,4.0,0.75,0.0,3.0,3.0,4.0,1.0,0.0,2.0,2.0,8.0,-6.0,Khris Middleton,,MIL,True,True
+antetgi01,35.55,10.0,19.0,0.526,0.0,3.0,0.0,3.0,3.0,1.0,2.0,5.0,7.0,4.0,0.0,1.0,3.0,5.0,23.0,-15.0,Giannis Antetokounmpo,,MIL,True,True
+bledser01,31.666666666666668,8.0,16.0,0.5,3.0,5.0,0.6,2.0,2.0,1.0,0.0,3.0,3.0,3.0,5.0,0.0,3.0,3.0,21.0,-9.0,Eric Bledsoe,,MIL,True,True
+hensojo01,25.633333333333333,2.0,6.0,0.333,0.0,0.0,,2.0,2.0,1.0,2.0,6.0,8.0,1.0,0.0,3.0,1.0,2.0,6.0,-3.0,John Henson,,MIL,True,True
+snellto01,22.416666666666668,4.0,7.0,0.571,3.0,5.0,0.6,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,2.0,11.0,-5.0,Tony Snell,,MIL,True,False
+makerth01,21.033333333333335,2.0,5.0,0.4,1.0,1.0,1.0,0.0,0.0,,2.0,2.0,4.0,1.0,2.0,1.0,0.0,1.0,5.0,-9.0,Thon Maker,,MIL,True,False
+dellama01,17.666666666666668,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,1.0,0.0,1.0,4.0,0.0,0.0,2.0,0.0,0.0,-7.0,Matthew Dellavedova,,MIL,True,False
+brownst02,9.333333333333334,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0,1.0,Sterling Brown,,MIL,True,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,True,False
+vaughra01,,,,,,,,,,,,,,,,,,,,,Rashad Vaughn,Did Not Play,MIL,True,False
+terryja01,,,,,,,,,,,,,,,,,,,,,Jason Terry,Did Not Play,MIL,True,False
+kilpase01,,,,,,,,,,,,,,,,,,,,,Sean Kilpatrick,Did Not Play,MIL,True,False

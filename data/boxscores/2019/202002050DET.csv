@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+oubreke01,41.95,11.0,19.0,0.579,5.0,9.0,0.556,3.0,3.0,1.0,2.0,3.0,5.0,2.0,0.0,0.0,0.0,3.0,30.0,-5.0,Kelly Oubre,,PHO,False,True
+bookede01,41.833333333333336,8.0,16.0,0.5,2.0,6.0,0.333,4.0,5.0,0.8,0.0,4.0,4.0,7.0,0.0,0.0,3.0,3.0,22.0,-4.0,Devin Booker,,PHO,False,True
+bridgmi01,41.75,5.0,9.0,0.556,3.0,6.0,0.5,0.0,0.0,,1.0,5.0,6.0,4.0,0.0,1.0,3.0,4.0,13.0,-5.0,Mikal Bridges,,PHO,False,True
+aytonde01,41.016666666666666,12.0,18.0,0.667,0.0,0.0,,2.0,4.0,0.5,3.0,9.0,12.0,4.0,0.0,4.0,2.0,3.0,26.0,-7.0,Deandre Ayton,,PHO,False,True
+rubiori01,35.45,1.0,5.0,0.2,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,11.0,4.0,0.0,6.0,3.0,4.0,3.0,Ricky Rubio,,PHO,False,True
+okoboel01,13.316666666666666,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,3.0,-6.0,Elie Okobo,,PHO,False,False
+diallch01,13.233333333333333,3.0,5.0,0.6,0.0,0.0,,1.0,1.0,1.0,1.0,6.0,7.0,0.0,0.0,0.0,1.0,2.0,7.0,-4.0,Cheick Diallo,,PHO,False,False
+carteje01,11.45,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,-12.0,Jevon Carter,,PHO,False,False
+baynear01,,,,,,,,,,,,,,,,,,,,,Aron Baynes,Did Not Play,PHO,False,False
+lecquja01,,,,,,,,,,,,,,,,,,,,,Jalen Lecque,Did Not Play,PHO,False,False
+jeromty01,,,,,,,,,,,,,,,,,,,,,Ty Jerome,Did Not Play,PHO,False,False
+harpeja01,,,,,,,,,,,,,,,,,,,,,Jared Harper,Did Not Play,PHO,False,False
+owensta01,,,,,,,,,,,,,,,,,,,,,Tariq Owens,Did Not Play,PHO,False,False
+drumman01,38.13333333333333,14.0,19.0,0.737,0.0,0.0,,3.0,5.0,0.6,7.0,12.0,19.0,4.0,3.0,0.0,3.0,1.0,31.0,14.0,Andre Drummond,,DET,True,True
+snellto01,34.53333333333333,3.0,10.0,0.3,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,0.0,0.0,1.0,7.0,10.0,Tony Snell,,DET,True,True
+jacksre01,34.13333333333333,10.0,24.0,0.417,5.0,9.0,0.556,0.0,0.0,,1.0,4.0,5.0,9.0,1.0,0.0,2.0,1.0,25.0,0.0,Reggie Jackson,,DET,True,True
+brownbr01,33.2,3.0,8.0,0.375,0.0,2.0,0.0,3.0,4.0,0.75,1.0,0.0,1.0,7.0,1.0,1.0,1.0,3.0,9.0,-3.0,Bruce Brown,,DET,True,True
+doumbse01,15.966666666666667,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,5.0,-4.0,Sekou Doumbouya,,DET,True,True
+woodch01,32.28333333333333,7.0,14.0,0.5,1.0,3.0,0.333,6.0,7.0,0.857,3.0,5.0,8.0,1.0,1.0,0.0,0.0,1.0,21.0,17.0,Christian Wood,,DET,True,False
+gallola01,29.6,6.0,10.0,0.6,3.0,6.0,0.5,0.0,0.0,,0.0,1.0,1.0,3.0,1.0,1.0,0.0,2.0,15.0,6.0,Langston Galloway,,DET,True,False
+makerth01,9.866666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,-6.0,Thon Maker,,DET,True,False
+bonejo01,7.3,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,6.0,Jordan Bone,,DET,True,False
+kinglo02,4.966666666666667,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,Louis King,,DET,True,False
+mykhasv01,,,,,,,,,,,,,,,,,,,,,Sviatoslav Mykhailiuk,Did Not Play,DET,True,False
+fraziti01,,,,,,,,,,,,,,,,,,,,,Tim Frazier,Did Not Play,DET,True,False
+rosede01,,,,,,,,,,,,,,,,,,,,,Derrick Rose,Did Not Play,DET,True,False

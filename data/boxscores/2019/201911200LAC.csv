@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+tatumja01,40.56666666666667,12.0,24.0,0.5,5.0,10.0,0.5,1.0,2.0,0.5,0.0,6.0,6.0,3.0,2.0,2.0,3.0,4.0,30.0,-6.0,Jayson Tatum,,BOS,False,True
+smartma01,40.083333333333336,7.0,20.0,0.35,1.0,11.0,0.091,0.0,0.0,,2.0,1.0,3.0,8.0,2.0,0.0,0.0,1.0,15.0,-4.0,Marcus Smart,,BOS,False,True
+brownja02,39.18333333333333,3.0,14.0,0.214,1.0,8.0,0.125,2.0,4.0,0.5,1.0,5.0,6.0,1.0,1.0,0.0,3.0,5.0,9.0,-4.0,Jaylen Brown,,BOS,False,True
+walkeke02,38.733333333333334,4.0,17.0,0.235,3.0,9.0,0.333,2.0,3.0,0.667,3.0,6.0,9.0,2.0,1.0,0.0,6.0,3.0,13.0,-8.0,Kemba Walker,,BOS,False,True
+theisda01,31.083333333333332,4.0,8.0,0.5,0.0,1.0,0.0,0.0,0.0,,7.0,7.0,14.0,6.0,3.0,0.0,1.0,5.0,8.0,-17.0,Daniel Theis,,BOS,False,True
+wanambr01,27.183333333333334,4.0,8.0,0.5,2.0,4.0,0.5,4.0,4.0,1.0,1.0,2.0,3.0,5.0,1.0,0.0,3.0,3.0,14.0,6.0,Brad Wanamaker,,BOS,False,False
+willigr01,20.4,1.0,3.0,0.333,0.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,7.0,Grant Williams,,BOS,False,False
+kanteen01,12.25,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,0.0,1.0,0.0,1.0,0.0,8.0,9.0,Enes Kanter,,BOS,False,False
+williro04,9.383333333333333,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,Robert Williams,,BOS,False,False
+ojelese01,6.1,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Semi Ojeleye,,BOS,False,False
+poirivi01,,,,,,,,,,,,,,,,,,,,,Vincent Poirier,Did Not Play,BOS,False,False
+greenja02,,,,,,,,,,,,,,,,,,,,,Javonte Green,Did Not Play,BOS,False,False
+edwarca01,,,,,,,,,,,,,,,,,,,,,Carsen Edwards,Did Not Play,BOS,False,False
+beverpa01,40.68333333333333,5.0,11.0,0.455,4.0,7.0,0.571,0.0,0.0,,4.0,12.0,16.0,7.0,3.0,2.0,2.0,4.0,14.0,17.0,Patrick Beverley,,LAC,True,True
+leonaka01,37.61666666666667,7.0,20.0,0.35,3.0,10.0,0.3,0.0,0.0,,0.0,6.0,6.0,3.0,3.0,2.0,5.0,2.0,17.0,-2.0,Kawhi Leonard,,LAC,True,True
+georgpa01,37.46666666666667,8.0,18.0,0.444,4.0,11.0,0.364,5.0,6.0,0.833,0.0,5.0,5.0,8.0,0.0,1.0,5.0,2.0,25.0,17.0,Paul George,,LAC,True,True
+harklma01,24.983333333333334,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,3.0,5.0,Maurice Harkless,,LAC,True,True
+zubaciv01,21.5,1.0,3.0,0.333,0.0,0.0,,3.0,6.0,0.5,3.0,4.0,7.0,1.0,0.0,2.0,1.0,1.0,5.0,8.0,Ivica Zubac,,LAC,True,True
+willilo02,36.65,10.0,21.0,0.476,3.0,9.0,0.333,4.0,4.0,1.0,1.0,1.0,2.0,2.0,2.0,0.0,7.0,1.0,27.0,0.0,Lou Williams,,LAC,True,False
+harremo01,31.483333333333334,3.0,8.0,0.375,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,3.0,2.0,2.0,2.0,2.0,6.0,-5.0,Montrezl Harrell,,LAC,True,False
+greenja01,17.916666666666668,4.0,5.0,0.8,2.0,2.0,1.0,0.0,0.0,,3.0,5.0,8.0,0.0,0.0,0.0,0.0,1.0,10.0,-12.0,JaMychal Green,,LAC,True,False
+mcgruro01,14.583333333333334,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,-10.0,Rodney McGruder,,LAC,True,False
+robinje01,1.1666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-1.0,Jerome Robinson,,LAC,True,False
+mannte01,0.9,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Terance Mann,,LAC,True,False
+kabenmf01,,,,,,,,,,,,,,,,,,,,,Mfiondu Kabengele,Did Not Play,LAC,True,False
+pattepa01,,,,,,,,,,,,,,,,,,,,,Patrick Patterson,Did Not Play,LAC,True,False

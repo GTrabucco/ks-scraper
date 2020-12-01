@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+vucevni01,34.78333333333333,9.0,17.0,0.529,0.0,0.0,,2.0,2.0,1.0,3.0,11.0,14.0,2.0,1.0,1.0,3.0,3.0,20.0,5.0,Nikola Vučević,,ORL,False,True
+gordoaa01,33.833333333333336,4.0,13.0,0.308,3.0,6.0,0.5,2.0,2.0,1.0,2.0,7.0,9.0,4.0,1.0,1.0,2.0,1.0,13.0,-13.0,Aaron Gordon,,ORL,False,True
+augusdj01,33.21666666666667,6.0,15.0,0.4,4.0,9.0,0.444,0.0,0.0,,1.0,0.0,1.0,7.0,0.0,0.0,0.0,1.0,16.0,0.0,D.J. Augustin,,ORL,False,True
+fournev01,31.933333333333334,3.0,9.0,0.333,2.0,5.0,0.4,0.0,0.0,,0.0,4.0,4.0,4.0,0.0,0.0,1.0,3.0,8.0,3.0,Evan Fournier,,ORL,False,True
+isaacjo01,27.35,5.0,12.0,0.417,3.0,7.0,0.429,0.0,0.0,,3.0,5.0,8.0,2.0,0.0,0.0,1.0,3.0,13.0,5.0,Jonathan Isaac,,ORL,False,True
+rosste01,29.4,3.0,13.0,0.231,0.0,6.0,0.0,1.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,1.0,1.0,1.0,7.0,-17.0,Terrence Ross,,ORL,False,False
+iwundwe01,21.483333333333334,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,1.0,1.0,2.0,-8.0,Wesley Iwundu,,ORL,False,False
+grantje02,14.783333333333333,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,4.0,-10.0,Jerian Grant,,ORL,False,False
+birchkh01,13.216666666666667,2.0,7.0,0.286,0.0,0.0,,3.0,4.0,0.75,3.0,4.0,7.0,1.0,0.0,0.0,0.0,0.0,7.0,-15.0,Khem Birch,,ORL,False,False
+martija01,,,,,,,,,,,,,,,,,,,,,Jarell Martin,Did Not Play,ORL,False,False
+jeffeam01,,,,,,,,,,,,,,,,,,,,,Amile Jefferson,Did Not Play,ORL,False,False
+frazime01,,,,,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,False,False
+caupatr01,,,,,,,,,,,,,,,,,,,,,Troy Caupain,Did Not Play,ORL,False,False
+bealbr01,39.1,10.0,22.0,0.455,2.0,6.0,0.333,1.0,2.0,0.5,1.0,5.0,6.0,7.0,2.0,0.0,1.0,0.0,23.0,-2.0,Bradley Beal,,WAS,True,True
+satorto01,37.21666666666667,1.0,8.0,0.125,0.0,2.0,0.0,0.0,0.0,,0.0,6.0,6.0,7.0,0.0,0.0,1.0,0.0,2.0,-2.0,Tomáš Satoranský,,WAS,True,True
+greenje02,27.55,1.0,5.0,0.2,1.0,3.0,0.333,5.0,6.0,0.833,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,8.0,-8.0,Jeff Green,,WAS,True,True
+portibo01,22.6,3.0,11.0,0.273,0.0,3.0,0.0,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,0.0,1.0,2.0,6.0,-8.0,Bobby Portis,,WAS,True,True
+arizatr01,22.083333333333332,1.0,6.0,0.167,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,3.0,2.0,-1.0,Trevor Ariza,,WAS,True,True
+parkeja01,27.733333333333334,9.0,12.0,0.75,1.0,2.0,0.5,0.0,2.0,0.0,1.0,8.0,9.0,1.0,1.0,0.0,3.0,4.0,19.0,21.0,Jabari Parker,,WAS,True,False
+bryanth01,25.4,9.0,12.0,0.75,1.0,2.0,0.5,2.0,2.0,1.0,4.0,6.0,10.0,1.0,0.0,2.0,1.0,1.0,21.0,18.0,Thomas Bryant,,WAS,True,False
+randlch01,21.4,5.0,7.0,0.714,3.0,5.0,0.6,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,13.0,23.0,Chasson Randle,,WAS,True,False
+browntr01,16.9,3.0,7.0,0.429,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,3.0,3.0,1.0,0.0,0.0,0.0,6.0,9.0,Troy Brown,,WAS,True,False
+dekkesa01,,,,,,,,,,,,,,,,,,,,,Sam Dekker,Did Not Dress,WAS,True,False
+johnswe01,,,,,,,,,,,,,,,,,,,,,Wesley Johnson,Did Not Play,WAS,True,False
+mahinia01,,,,,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Play,WAS,True,False

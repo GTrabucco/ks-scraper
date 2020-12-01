@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+derozde01,42.516666666666666,7.0,21.0,0.333,0.0,0.0,,5.0,6.0,0.833,1.0,7.0,8.0,6.0,2.0,0.0,2.0,3.0,19.0,1.0,DeMar DeRozan,,SAS,False,True
+aldrila01,41.016666666666666,6.0,16.0,0.375,0.0,1.0,0.0,4.0,4.0,1.0,2.0,9.0,11.0,4.0,0.0,3.0,2.0,3.0,16.0,-13.0,LaMarcus Aldridge,,SAS,False,True
+forbebr01,39.3,7.0,11.0,0.636,3.0,4.0,0.75,2.0,3.0,0.667,1.0,5.0,6.0,0.0,0.0,0.0,0.0,3.0,19.0,-11.0,Bryn Forbes,,SAS,False,True
+whitede01,20.883333333333333,0.0,7.0,0.0,0.0,4.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,4.0,-9.0,Derrick White,,SAS,False,True
+poeltja01,18.066666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,0.0,0.0,0.0,0.0,2.0,2.0,-5.0,Jakob Poeltl,,SAS,False,True
+gayru01,33.3,8.0,17.0,0.471,2.0,7.0,0.286,3.0,3.0,1.0,2.0,6.0,8.0,1.0,1.0,2.0,1.0,1.0,21.0,7.0,Rudy Gay,,SAS,False,False
+millspa02,29.316666666666666,2.0,7.0,0.286,1.0,5.0,0.2,0.0,0.0,,0.0,2.0,2.0,5.0,0.0,0.0,0.0,5.0,5.0,7.0,Patty Mills,,SAS,False,False
+belinma01,15.6,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,Marco Belinelli,,SAS,False,False
+cunnida01,,,,,,,,,,,,,,,,,,,,,Dante Cunningham,Did Not Play,SAS,False,False
+walkelo01,,,,,,,,,,,,,,,,,,,,,Lonnie Walker,Did Not Play,SAS,False,False
+motiedo01,,,,,,,,,,,,,,,,,,,,,Donatas Motiejūnas,Did Not Play,SAS,False,False
+pondequ01,,,,,,,,,,,,,,,,,,,,,Quincy Pondexter,Did Not Play,SAS,False,False
+bertada01,,,,,,,,,,,,,,,,,,,,,Dāvis Bertāns,Did Not Play,SAS,False,False
+jokicni01,43.45,9.0,26.0,0.346,0.0,4.0,0.0,3.0,4.0,0.75,5.0,10.0,15.0,10.0,1.0,3.0,0.0,5.0,21.0,-1.0,Nikola Jokić,,DEN,True,True
+harriga01,40.9,4.0,10.0,0.4,1.0,3.0,0.333,2.0,2.0,1.0,1.0,4.0,5.0,3.0,0.0,2.0,1.0,3.0,11.0,2.0,Gary Harris,,DEN,True,True
+millspa01,35.483333333333334,3.0,10.0,0.3,0.0,4.0,0.0,3.0,4.0,0.75,2.0,5.0,7.0,0.0,0.0,0.0,1.0,3.0,9.0,12.0,Paul Millsap,,DEN,True,True
+murraja01,32.13333333333333,9.0,19.0,0.474,0.0,2.0,0.0,5.0,6.0,0.833,1.0,4.0,5.0,4.0,0.0,0.0,1.0,2.0,23.0,1.0,Jamal Murray,,DEN,True,True
+craigto01,26.316666666666666,3.0,4.0,0.75,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,1.0,2.0,3.0,7.0,4.0,Torrey Craig,,DEN,True,True
+beaslma01,20.0,1.0,5.0,0.2,0.0,2.0,0.0,2.0,2.0,1.0,1.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,Malik Beasley,,DEN,True,False
+morrimo01,15.866666666666667,3.0,7.0,0.429,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,7.0,3.0,Monte Morris,,DEN,True,False
+bartowi01,13.883333333333333,1.0,4.0,0.25,0.0,2.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,2.0,0.0,2.0,1.0,0.0,3.0,-2.0,Will Barton,,DEN,True,False
+plumlma01,11.966666666666667,2.0,3.0,0.667,0.0,0.0,,1.0,1.0,1.0,2.0,4.0,6.0,2.0,1.0,0.0,0.0,2.0,5.0,0.0,Mason Plumlee,,DEN,True,False
+thomais02,,,,,,,,,,,,,,,,,,,,,Isaiah Thomas,Did Not Play,DEN,True,False
+vandeja01,,,,,,,,,,,,,,,,,,,,,Jarred Vanderbilt,Did Not Play,DEN,True,False
+lylestr01,,,,,,,,,,,,,,,,,,,,,Trey Lyles,Did Not Play,DEN,True,False
+hernaju01,,,,,,,,,,,,,,,,,,,,,Juan Hernangómez,Did Not Play,DEN,True,False

@@ -1,0 +1,24 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+harrish01,35.71666666666667,3.0,9.0,0.333,0.0,1.0,0.0,0.0,0.0,,2.0,6.0,8.0,3.0,4.0,1.0,1.0,6.0,6.0,9.0,Shaquille Harrison,,CHI,False,True
+cartewe01,28.35,2.0,5.0,0.4,0.0,0.0,,3.0,4.0,0.75,0.0,3.0,3.0,1.0,0.0,0.0,1.0,3.0,7.0,-12.0,Wendell Carter,,CHI,False,True
+markkla01,26.1,5.0,8.0,0.625,4.0,5.0,0.8,2.0,2.0,1.0,0.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,16.0,6.0,Lauri Markkanen,,CHI,False,True
+satorto01,25.1,1.0,7.0,0.143,0.0,1.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,2.0,2.0,4.0,-15.0,Tomáš Satoranský,,CHI,False,True
+valende01,22.6,4.0,10.0,0.4,0.0,4.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,3.0,2.0,0.0,0.0,4.0,9.0,-19.0,Denzel Valentine,,CHI,False,True
+whiteco01,35.13333333333333,8.0,21.0,0.381,3.0,9.0,0.333,2.0,3.0,0.667,0.0,6.0,6.0,8.0,1.0,0.0,0.0,4.0,21.0,-3.0,Coby White,,CHI,False,False
+porteot01,25.45,9.0,17.0,0.529,3.0,8.0,0.375,2.0,4.0,0.5,0.0,3.0,3.0,2.0,4.0,0.0,1.0,3.0,23.0,19.0,Otto Porter,,CHI,False,False
+youngth01,25.033333333333335,6.0,14.0,0.429,2.0,6.0,0.333,3.0,6.0,0.5,2.0,3.0,5.0,0.0,2.0,0.0,2.0,2.0,17.0,2.0,Thaddeus Young,,CHI,False,False
+gaffoda01,16.516666666666666,1.0,1.0,1.0,0.0,0.0,,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,6.0,4.0,-2.0,Daniel Gafford,,CHI,False,False
+arcidry01,,,,,,,,,,,,,,,,,,,,,Ryan Arcidiacono,Did Not Dress,CHI,False,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,False,False
+dinwisp01,36.88333333333333,4.0,9.0,0.444,2.0,5.0,0.4,14.0,15.0,0.933,1.0,2.0,3.0,6.0,1.0,0.0,6.0,3.0,24.0,12.0,Spencer Dinwiddie,,BRK,True,True
+leverca01,36.71666666666667,7.0,14.0,0.5,4.0,6.0,0.667,5.0,7.0,0.714,0.0,6.0,6.0,5.0,1.0,1.0,5.0,1.0,23.0,2.0,Caris LeVert,,BRK,True,True
+harrijo01,31.066666666666666,8.0,12.0,0.667,3.0,7.0,0.429,4.0,4.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,4.0,4.0,23.0,12.0,Joe Harris,,BRK,True,True
+jordade01,28.733333333333334,4.0,5.0,0.8,0.0,0.0,,3.0,4.0,0.75,2.0,13.0,15.0,4.0,0.0,3.0,1.0,2.0,11.0,12.0,DeAndre Jordan,,BRK,True,True
+chandwi01,21.966666666666665,2.0,7.0,0.286,2.0,6.0,0.333,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,3.0,6.0,21.0,Wilson Chandler,,BRK,True,True
+princta02,28.533333333333335,1.0,7.0,0.143,0.0,3.0,0.0,5.0,5.0,1.0,1.0,8.0,9.0,1.0,2.0,0.0,5.0,5.0,7.0,-17.0,Taurean Prince,,BRK,True,False
+luwawti01,23.033333333333335,0.0,2.0,0.0,0.0,2.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,2.0,0.0,0.0,3.0,5.0,1.0,-7.0,Timothé Luwawu-Cabarrot,,BRK,True,False
+allenja01,19.0,4.0,5.0,0.8,0.0,0.0,,3.0,4.0,0.75,1.0,5.0,6.0,1.0,0.0,1.0,2.0,1.0,11.0,-7.0,Jarrett Allen,,BRK,True,False
+chiozch01,11.566666666666666,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,4.0,-11.0,Chris Chiozza,,BRK,True,False
+pinsoth01,2.5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,-2.0,Theo Pinson,,BRK,True,False
+kurucro01,,,,,,,,,,,,,,,,,,,,,Rodions Kurucs,Did Not Play,BRK,True,False
+martije02,,,,,,,,,,,,,,,,,,,,,Jeremiah Martin,Did Not Play,BRK,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+exumda01,35.75,3.0,14.0,0.214,1.0,7.0,0.143,0.0,0.0,,3.0,3.0,6.0,2.0,2.0,0.0,2.0,4.0,7.0,4.0,Dante Exum,,UTA,False,True
+inglejo01,34.35,5.0,13.0,0.385,1.0,6.0,0.167,0.0,0.0,,1.0,3.0,4.0,7.0,1.0,0.0,4.0,3.0,11.0,7.0,Joe Ingles,,UTA,False,True
+goberru01,33.25,7.0,12.0,0.583,0.0,0.0,,3.0,5.0,0.6,6.0,12.0,18.0,0.0,0.0,2.0,1.0,4.0,17.0,2.0,Rudy Gobert,,UTA,False,True
+diawbo01,25.15,3.0,7.0,0.429,0.0,1.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,5.0,1.0,0.0,1.0,0.0,10.0,4.0,Boris Diaw,,UTA,False,True
+hillge01,18.733333333333334,7.0,9.0,0.778,5.0,7.0,0.714,1.0,1.0,1.0,0.0,1.0,1.0,5.0,2.0,0.0,0.0,2.0,20.0,10.0,George Hill,,UTA,False,True
+macksh01,31.366666666666667,7.0,15.0,0.467,1.0,5.0,0.2,1.0,3.0,0.333,0.0,2.0,2.0,5.0,1.0,0.0,2.0,3.0,16.0,-8.0,Shelvin Mack,,UTA,False,False
+johnsjo02,28.216666666666665,7.0,14.0,0.5,5.0,7.0,0.714,0.0,1.0,0.0,0.0,5.0,5.0,5.0,1.0,0.0,0.0,0.0,19.0,4.0,Joe Johnson,,UTA,False,False
+burksal01,18.433333333333334,1.0,5.0,0.2,0.0,1.0,0.0,1.0,1.0,1.0,1.0,4.0,5.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,Alec Burks,,UTA,False,False
+bolomjo01,14.75,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,3.0,3.0,6.0,0.0,0.0,1.0,0.0,0.0,2.0,4.0,Joel Bolomboy,,UTA,False,False
+witheje01,,,,,,,,,,,,,,,,,,,,,Jeff Withey,Did Not Play,UTA,False,False
+lylestr01,,,,,,,,,,,,,,,,,,,,,Trey Lyles,Did Not Play,UTA,False,False
+hoodro01,,,,,,,,,,,,,,,,,,,,,Rodney Hood,Did Not Dress,UTA,False,False
+haywago01,,,,,,,,,,,,,,,,,,,,,Gordon Hayward,Did Not Dress,UTA,False,False
+duranke01,32.61666666666667,6.0,12.0,0.5,0.0,5.0,0.0,4.0,4.0,1.0,0.0,10.0,10.0,6.0,1.0,1.0,1.0,1.0,16.0,8.0,Kevin Durant,,GSW,True,True
+curryst01,29.95,9.0,16.0,0.563,6.0,8.0,0.75,4.0,5.0,0.8,1.0,3.0,4.0,4.0,1.0,0.0,1.0,1.0,28.0,9.0,Stephen Curry,,GSW,True,True
+mccawpa01,27.066666666666666,4.0,9.0,0.444,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,-9.0,Patrick McCaw,,GSW,True,True
+pachuza01,24.95,3.0,5.0,0.6,0.0,0.0,,2.0,2.0,1.0,3.0,3.0,6.0,3.0,0.0,1.0,4.0,3.0,8.0,1.0,Zaza Pachulia,,GSW,True,True
+greendr01,24.566666666666666,2.0,7.0,0.286,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,3.0,2.0,1.0,2.0,2.0,5.0,-13.0,Draymond Green,,GSW,True,True
+iguodan01,23.116666666666667,2.0,5.0,0.4,0.0,1.0,0.0,0.0,2.0,0.0,1.0,3.0,4.0,1.0,0.0,2.0,2.0,2.0,4.0,-2.0,Andre Iguodala,,GSW,True,False
+clarkia01,20.183333333333334,1.0,6.0,0.167,0.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,3.0,-13.0,Ian Clark,,GSW,True,False
+livinsh01,19.366666666666667,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,0.0,0.0,1.0,4.0,-7.0,Shaun Livingston,,GSW,True,False
+westda01,17.45,4.0,9.0,0.444,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,2.0,0.0,0.0,2.0,1.0,8.0,-8.0,David West,,GSW,True,False
+mcgeeja01,15.366666666666667,5.0,5.0,1.0,0.0,0.0,,1.0,3.0,0.333,2.0,4.0,6.0,0.0,0.0,1.0,0.0,2.0,11.0,6.0,JaVale McGee,,GSW,True,False
+mcadoja01,5.366666666666666,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,-2.0,James Michael McAdoo,,GSW,True,False
+thompkl01,,,,,,,,,,,,,,,,,,,,,Klay Thompson,Did Not Dress,GSW,True,False
+barnema02,,,,,,,,,,,,,,,,,,,,,Matt Barnes,Did Not Dress,GSW,True,False

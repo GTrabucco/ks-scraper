@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+sabondo01,37.916666666666664,4.0,7.0,0.571,1.0,2.0,0.5,6.0,8.0,0.75,0.0,11.0,11.0,10.0,0.0,0.0,5.0,3.0,15.0,-1.0,Domantas Sabonis,,IND,False,True
+brogdma01,33.75,10.0,14.0,0.714,4.0,7.0,0.571,0.0,0.0,,2.0,4.0,6.0,6.0,0.0,0.0,6.0,2.0,24.0,-7.0,Malcolm Brogdon,,IND,False,True
+oladivi01,25.333333333333332,5.0,14.0,0.357,2.0,6.0,0.333,1.0,2.0,0.5,1.0,1.0,2.0,2.0,1.0,0.0,2.0,0.0,13.0,-10.0,Victor Oladipo,,IND,False,True
+lambje01,24.516666666666666,2.0,9.0,0.222,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,5.0,-10.0,Jeremy Lamb,,IND,False,True
+turnemy01,23.766666666666666,3.0,6.0,0.5,0.0,1.0,0.0,0.0,0.0,,2.0,5.0,7.0,1.0,1.0,2.0,2.0,2.0,6.0,-12.0,Myles Turner,,IND,False,True
+holidju01,31.1,7.0,12.0,0.583,6.0,9.0,0.667,2.0,2.0,1.0,2.0,3.0,5.0,3.0,3.0,1.0,0.0,3.0,22.0,9.0,Justin Holiday,,IND,False,False
+mcderdo01,22.75,6.0,10.0,0.6,4.0,7.0,0.571,3.0,3.0,1.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,2.0,19.0,21.0,Doug McDermott,,IND,False,False
+holidaa01,21.35,2.0,6.0,0.333,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,1.0,0.0,2.0,5.0,-4.0,Aaron Holiday,,IND,False,False
+mccontj01,16.816666666666666,4.0,4.0,1.0,0.0,0.0,,1.0,1.0,1.0,1.0,3.0,4.0,4.0,0.0,1.0,2.0,1.0,9.0,14.0,T.J. McConnell,,IND,False,False
+bitadgo01,2.6666666666666665,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,-5.0,Goga Bitadze,,IND,False,False
+sumneed01,,,,,,,,,,,,,,,,,,,,,Edmond Sumner,Did Not Play,IND,False,False
+sampsja02,,,,,,,,,,,,,,,,,,,,,JaKarr Sampson,Did Not Play,IND,False,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,False,False
+siakapa01,39.6,7.0,18.0,0.389,1.0,4.0,0.25,10.0,11.0,0.909,1.0,8.0,9.0,5.0,3.0,0.0,1.0,2.0,25.0,14.0,Pascal Siakam,,TOR,True,True
+lowryky01,37.53333333333333,12.0,21.0,0.571,3.0,6.0,0.5,5.0,5.0,1.0,3.0,5.0,8.0,10.0,2.0,0.0,3.0,3.0,32.0,13.0,Kyle Lowry,,TOR,True,True
+vanvlfr01,37.31666666666667,4.0,10.0,0.4,2.0,5.0,0.4,0.0,0.0,,0.0,3.0,3.0,7.0,3.0,0.0,1.0,3.0,10.0,-4.0,Fred VanVleet,,TOR,True,True
+ibakase01,33.833333333333336,13.0,21.0,0.619,2.0,7.0,0.286,2.0,2.0,1.0,1.0,6.0,7.0,3.0,1.0,0.0,3.0,5.0,30.0,-8.0,Serge Ibaka,,TOR,True,True
+anunoog01,27.616666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,3.0,0.0,1.0,0.0,1.0,1.0,0.0,-2.0,OG Anunoby,,TOR,True,True
+daviste02,27.233333333333334,4.0,9.0,0.444,3.0,7.0,0.429,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,11.0,11.0,Terence Davis,,TOR,True,False
+mccawpa01,15.8,1.0,2.0,0.5,1.0,1.0,1.0,1.0,2.0,0.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,2.0,Patrick McCaw,,TOR,True,False
+holliro01,13.133333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,-18.0,Rondae Hollis-Jefferson,,TOR,True,False
+bouchch01,7.916666666666667,2.0,3.0,0.667,0.0,1.0,0.0,3.0,4.0,0.75,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,-3.0,Chris Boucher,,TOR,True,False
+thomama02,,,,,,,,,,,,,,,,,,,,,Matt Thomas,Did Not Play,TOR,True,False
+watsopa01,,,,,,,,,,,,,,,,,,,,,Paul Watson,Did Not Play,TOR,True,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,True,False
+johnsst04,,,,,,,,,,,,,,,,,,,,,Stanley Johnson,Did Not Play,TOR,True,False

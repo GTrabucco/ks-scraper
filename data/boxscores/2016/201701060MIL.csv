@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+anthoca01,39.03333333333333,8.0,20.0,0.4,4.0,5.0,0.8,6.0,9.0,0.667,0.0,6.0,6.0,10.0,1.0,0.0,2.0,1.0,26.0,22.0,Carmelo Anthony,,NYK,False,True
+leeco01,34.833333333333336,3.0,5.0,0.6,2.0,3.0,0.667,3.0,4.0,0.75,1.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,11.0,8.0,Courtney Lee,,NYK,False,True
+rosede01,31.766666666666666,4.0,14.0,0.286,0.0,1.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,8.0,0.0,0.0,1.0,1.0,12.0,-2.0,Derrick Rose,,NYK,False,True
+porzikr01,29.883333333333333,9.0,14.0,0.643,3.0,4.0,0.75,3.0,4.0,0.75,0.0,6.0,6.0,0.0,0.0,3.0,1.0,6.0,24.0,-5.0,Kristaps Porziņģis,,NYK,False,True
+noahjo01,20.166666666666668,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,5.0,4.0,9.0,1.0,0.0,0.0,4.0,6.0,8.0,-6.0,Joakim Noah,,NYK,False,True
+oquinky01,25.9,4.0,9.0,0.444,0.0,0.0,,1.0,2.0,0.5,4.0,4.0,8.0,1.0,2.0,2.0,0.0,3.0,9.0,13.0,Kyle O'Quinn,,NYK,False,False
+thomala01,20.283333333333335,4.0,4.0,1.0,2.0,2.0,1.0,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,2.0,3.0,10.0,0.0,Lance Thomas,,NYK,False,False
+kuzmimi01,13.266666666666667,3.0,5.0,0.6,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,7.0,-3.0,Mindaugas Kuzminskas,,NYK,False,False
+bakerro01,12.0,1.0,3.0,0.333,0.0,2.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,1.0,6.0,18.0,Ron Baker,,NYK,False,False
+holidju01,8.2,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,-8.0,Justin Holiday,,NYK,False,False
+jennibr01,4.666666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,-12.0,Brandon Jennings,,NYK,False,False
+hernawi01,,,,,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,NYK,False,False
+vujacsa01,,,,,,,,,,,,,,,,,,,,,Sasha Vujačić,Did Not Play,NYK,False,False
+parkeja01,38.45,10.0,18.0,0.556,4.0,6.0,0.667,1.0,4.0,0.25,1.0,3.0,4.0,5.0,0.0,0.0,2.0,3.0,25.0,-6.0,Jabari Parker,,MIL,True,True
+antetgi01,38.166666666666664,9.0,21.0,0.429,2.0,5.0,0.4,5.0,6.0,0.833,2.0,3.0,5.0,2.0,2.0,6.0,5.0,4.0,25.0,-2.0,Giannis Antetokounmpo,,MIL,True,True
+snellto01,38.0,5.0,6.0,0.833,3.0,4.0,0.75,0.0,0.0,,0.0,3.0,3.0,0.0,2.0,2.0,1.0,0.0,13.0,-4.0,Tony Snell,,MIL,True,True
+brogdma01,30.583333333333332,4.0,9.0,0.444,0.0,1.0,0.0,2.0,2.0,1.0,0.0,6.0,6.0,5.0,0.0,0.0,1.0,2.0,10.0,-12.0,Malcolm Brogdon,,MIL,True,True
+hensojo01,20.333333333333332,1.0,4.0,0.25,0.0,0.0,,2.0,2.0,1.0,1.0,6.0,7.0,1.0,0.0,2.0,0.0,1.0,4.0,-6.0,John Henson,,MIL,True,True
+monrogr01,27.666666666666668,6.0,11.0,0.545,0.0,0.0,,7.0,10.0,0.7,2.0,5.0,7.0,4.0,2.0,1.0,1.0,2.0,19.0,1.0,Greg Monroe,,MIL,True,False
+terryja01,17.616666666666667,0.0,0.0,,0.0,0.0,,1.0,1.0,1.0,0.0,2.0,2.0,5.0,2.0,0.0,2.0,5.0,1.0,5.0,Jason Terry,,MIL,True,False
+teletmi01,16.8,3.0,5.0,0.6,3.0,5.0,0.6,2.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,11.0,2.0,Mirza Teletović,,MIL,True,False
+beaslmi01,12.383333333333333,1.0,4.0,0.25,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,3.0,-3.0,Michael Beasley,,MIL,True,False
+makerth01,,,,,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,MIL,True,False
+dellama01,,,,,,,,,,,,,,,,,,,,,Matthew Dellavedova,Did Not Dress,MIL,True,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,MIL,True,False
+plumlmi01,,,,,,,,,,,,,,,,,,,,,Miles Plumlee,Did Not Play,MIL,True,False

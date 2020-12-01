@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gordoaa01,37.03333333333333,4.0,17.0,0.235,0.0,3.0,0.0,6.0,10.0,0.6,5.0,7.0,12.0,4.0,0.0,1.0,0.0,2.0,14.0,3.0,Aaron Gordon,,ORL,False,True
+vucevni01,36.68333333333333,8.0,19.0,0.421,1.0,5.0,0.2,2.0,2.0,1.0,5.0,14.0,19.0,4.0,0.0,4.0,0.0,3.0,19.0,3.0,Nikola Vučević,,ORL,False,True
+fournev01,34.38333333333333,8.0,15.0,0.533,5.0,10.0,0.5,3.0,4.0,0.75,0.0,3.0,3.0,6.0,0.0,0.0,4.0,3.0,24.0,5.0,Evan Fournier,,ORL,False,True
+augusdj01,33.8,2.0,9.0,0.222,0.0,5.0,0.0,4.0,4.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,3.0,3.0,8.0,-9.0,D.J. Augustin,,ORL,False,True
+isaacjo01,19.616666666666667,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,0.0,3.0,0.0,0.0,4.0,5.0,-6.0,Jonathan Isaac,,ORL,False,True
+rosste01,27.916666666666668,1.0,11.0,0.091,0.0,4.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,2.0,2.0,-10.0,Terrence Ross,,ORL,False,False
+iwundwe01,21.716666666666665,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4.0,3.0,-20.0,Wesley Iwundu,,ORL,False,False
+grantje02,14.2,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,4.0,0.0,0.0,0.0,0.0,4.0,-1.0,Jerian Grant,,ORL,False,False
+bambamo01,10.95,0.0,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.25,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,-13.0,Mohamed Bamba,,ORL,False,False
+martija01,3.7,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Jarell Martin,,ORL,False,False
+birchkh01,,,,,,,,,,,,,,,,,,,,,Khem Birch,Did Not Play,ORL,False,False
+frazime01,,,,,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,False,False
+briscis01,,,,,,,,,,,,,,,,,,,,,Isaiah Briscoe,Did Not Play,ORL,False,False
+markkla01,36.75,12.0,20.0,0.6,4.0,6.0,0.667,4.0,4.0,1.0,0.0,6.0,6.0,3.0,0.0,1.0,2.0,5.0,32.0,2.0,Lauri Markkanen,,CHI,True,True
+holidju01,36.68333333333333,3.0,11.0,0.273,0.0,5.0,0.0,5.0,5.0,1.0,3.0,7.0,10.0,1.0,1.0,1.0,1.0,1.0,11.0,-4.0,Justin Holiday,,CHI,True,True
+dunnkr01,35.833333333333336,4.0,14.0,0.286,0.0,1.0,0.0,4.0,6.0,0.667,0.0,8.0,8.0,7.0,2.0,0.0,2.0,3.0,12.0,-4.0,Kris Dunn,,CHI,True,True
+arcidry01,33.1,1.0,4.0,0.25,0.0,3.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,8.0,0.0,0.0,0.0,2.0,4.0,2.0,Ryan Arcidiacono,,CHI,True,True
+cartewe01,24.733333333333334,5.0,8.0,0.625,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,0.0,0.0,0.0,0.0,5.0,10.0,-4.0,Wendell Carter,,CHI,True,True
+lopezro01,22.9,5.0,6.0,0.833,1.0,1.0,1.0,3.0,7.0,0.429,2.0,2.0,4.0,2.0,0.0,1.0,1.0,2.0,14.0,14.0,Robin Lopez,,CHI,True,False
+harrish01,21.583333333333332,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,3.0,1.0,2.0,4.0,13.0,Shaquille Harrison,,CHI,True,False
+hutchch01,16.733333333333334,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,2.0,17.0,Chandler Hutchison,,CHI,True,False
+blakean01,11.683333333333334,0.0,4.0,0.0,0.0,0.0,,1.0,2.0,0.5,1.0,2.0,3.0,0.0,1.0,0.0,0.0,1.0,1.0,14.0,Antonio Blakeney,,CHI,True,False
+alkinra01,,,,,,,,,,,,,,,,,,,,,Rawle Alkins,Did Not Play,CHI,True,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,True,False

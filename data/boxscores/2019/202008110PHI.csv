@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bookede01,40.86666666666667,11.0,24.0,0.458,2.0,4.0,0.5,11.0,12.0,0.917,2.0,7.0,9.0,7.0,1.0,0.0,2.0,0.0,35.0,14.0,Devin Booker,,PHO,False,True
+bridgmi01,33.45,8.0,10.0,0.8,3.0,5.0,0.6,5.0,5.0,1.0,0.0,2.0,2.0,1.0,2.0,2.0,0.0,1.0,24.0,7.0,Mikal Bridges,,PHO,False,True
+aytonde01,32.2,4.0,10.0,0.4,0.0,2.0,0.0,0.0,0.0,,3.0,9.0,12.0,2.0,0.0,0.0,0.0,1.0,8.0,5.0,Deandre Ayton,,PHO,False,True
+johnsca02,30.55,3.0,10.0,0.3,0.0,4.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,6.0,7.0,Cameron Johnson,,PHO,False,True
+rubiori01,28.3,6.0,11.0,0.545,2.0,5.0,0.4,2.0,2.0,1.0,0.0,5.0,5.0,10.0,0.0,1.0,2.0,4.0,16.0,-4.0,Ricky Rubio,,PHO,False,True
+saricda01,24.116666666666667,7.0,9.0,0.778,2.0,2.0,1.0,2.0,2.0,1.0,3.0,6.0,9.0,4.0,0.0,0.0,1.0,2.0,18.0,2.0,Dario Šarić,,PHO,False,False
+payneca01,19.416666666666668,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,3.0,0.0,0.0,2.0,5.0,7.0,17.0,Cameron Payne,,PHO,False,False
+carteje01,18.783333333333335,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,3.0,9.0,Jevon Carter,,PHO,False,False
+kaminfr01,12.316666666666666,6.0,8.0,0.75,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,0.0,2.0,13.0,8.0,Frank Kaminsky,,PHO,False,False
+diallch01,,,,,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,PHO,False,False
+jeromty01,,,,,,,,,,,,,,,,,,,,,Ty Jerome,Did Not Play,PHO,False,False
+baynear01,,,,,,,,,,,,,,,,,,,,,Aron Baynes,Did Not Play,PHO,False,False
+okoboel01,,,,,,,,,,,,,,,,,,,,,Elie Okobo,Did Not Play,PHO,False,False
+oquinky01,32.38333333333333,4.0,6.0,0.667,0.0,0.0,,1.0,1.0,1.0,1.0,9.0,10.0,11.0,2.0,1.0,1.0,0.0,9.0,-12.0,Kyle O'Quinn,,PHI,True,True
+miltosh01,30.583333333333332,4.0,12.0,0.333,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,7.0,0.0,0.0,0.0,3.0,8.0,-7.0,Shake Milton,,PHI,True,True
+thybuma01,28.883333333333333,3.0,4.0,0.75,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,0.0,5.0,7.0,-9.0,Matisse Thybulle,,PHI,True,True
+burksal01,27.7,9.0,17.0,0.529,2.0,5.0,0.4,3.0,4.0,0.75,0.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,23.0,-2.0,Alec Burks,,PHI,True,True
+scottmi01,22.116666666666667,7.0,12.0,0.583,3.0,4.0,0.75,0.0,0.0,,2.0,2.0,4.0,1.0,1.0,0.0,1.0,1.0,17.0,3.0,Mike Scott,,PHI,True,True
+korkmfu01,31.5,3.0,11.0,0.273,3.0,7.0,0.429,3.0,4.0,0.75,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,12.0,-16.0,Furkan Korkmaz,,PHI,True,False
+robingl02,25.416666666666668,5.0,9.0,0.556,3.0,6.0,0.5,2.0,3.0,0.667,3.0,4.0,7.0,0.0,0.0,0.0,1.0,2.0,15.0,-7.0,Glenn Robinson,,PHI,True,False
+netora01,25.233333333333334,9.0,18.0,0.5,3.0,7.0,0.429,1.0,2.0,0.5,0.0,2.0,2.0,4.0,0.0,0.0,2.0,1.0,22.0,-11.0,Raul Neto,,PHI,True,False
+pelleno01,16.183333333333334,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,1.0,0.0,2.0,2.0,5.0,4.0,-4.0,Norvel Pelle,,PHI,True,False
+horfoal01,,,,,,,,,,,,,,,,,,,,,Al Horford,Did Not Play,PHI,True,False
+harrito02,,,,,,,,,,,,,,,,,,,,,Tobias Harris,Did Not Play,PHI,True,False
+shayoma01,,,,,,,,,,,,,,,,,,,,,Marial Shayok,Did Not Play,PHI,True,False

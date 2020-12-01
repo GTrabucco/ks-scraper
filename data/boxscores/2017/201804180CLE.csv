@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+turnemy01,35.583333333333336,7.0,12.0,0.583,1.0,1.0,1.0,3.0,4.0,0.75,1.0,4.0,5.0,0.0,0.0,0.0,3.0,2.0,18.0,-7.0,Myles Turner,,IND,False,True
+youngth01,34.916666666666664,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,1.0,3.0,1.0,1.0,5.0,8.0,-8.0,Thaddeus Young,,IND,False,True
+collida01,33.483333333333334,7.0,11.0,0.636,2.0,4.0,0.5,0.0,0.0,,0.0,5.0,5.0,6.0,1.0,0.0,1.0,0.0,16.0,-5.0,Darren Collison,,IND,False,True
+bogdabo02,31.583333333333332,3.0,6.0,0.5,1.0,3.0,0.333,1.0,3.0,0.333,0.0,3.0,3.0,4.0,1.0,0.0,2.0,2.0,8.0,-7.0,Bojan Bogdanović,,IND,False,True
+oladivi01,28.116666666666667,9.0,18.0,0.5,2.0,8.0,0.25,2.0,2.0,1.0,0.0,3.0,3.0,6.0,2.0,0.0,6.0,3.0,22.0,11.0,Victor Oladipo,,IND,False,True
+josepco01,25.45,3.0,6.0,0.5,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,1.0,0.0,3.0,6.0,-7.0,Cory Joseph,,IND,False,False
+stephla01,23.983333333333334,5.0,9.0,0.556,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,3.0,0.0,0.0,4.0,3.0,10.0,3.0,Lance Stephenson,,IND,False,False
+sabondo01,15.983333333333333,2.0,8.0,0.25,0.0,2.0,0.0,2.0,2.0,1.0,1.0,4.0,5.0,0.0,0.0,0.0,0.0,1.0,6.0,1.0,Domantas Sabonis,,IND,False,False
+booketr01,9.466666666666667,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,1.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,4.0,3.0,8.0,Trevor Booker,,IND,False,False
+robingl02,1.4333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,Glenn Robinson,,IND,False,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,False,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,False,False
+jeffeal01,,,,,,,,,,,,,,,,,,,,,Al Jefferson,Did Not Play,IND,False,False
+jamesle01,39.88333333333333,17.0,24.0,0.708,2.0,5.0,0.4,10.0,13.0,0.769,1.0,11.0,12.0,5.0,2.0,0.0,3.0,1.0,46.0,7.0,LeBron James,,CLE,True,True
+smithjr01,35.0,2.0,5.0,0.4,0.0,2.0,0.0,1.0,2.0,0.5,0.0,0.0,0.0,1.0,2.0,1.0,2.0,1.0,5.0,8.0,J.R. Smith,,CLE,True,True
+loveke01,34.4,5.0,16.0,0.313,2.0,6.0,0.333,3.0,3.0,1.0,3.0,5.0,8.0,0.0,0.0,0.0,3.0,1.0,15.0,4.0,Kevin Love,,CLE,True,True
+korveky01,30.9,4.0,8.0,0.5,4.0,8.0,0.5,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,12.0,15.0,Kyle Korver,,CLE,True,True
+hillge01,20.016666666666666,2.0,3.0,0.667,1.0,1.0,1.0,1.0,2.0,0.5,0.0,0.0,0.0,3.0,0.0,0.0,2.0,6.0,6.0,16.0,George Hill,,CLE,True,True
+nancela02,24.116666666666667,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,0.0,1.0,4.0,5.0,2.0,1.0,1.0,0.0,2.0,2.0,-11.0,Larry Nance,,CLE,True,False
+hoodro01,15.6,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,5.0,1.0,Rodney Hood,,CLE,True,False
+clarkjo01,14.0,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,-7.0,Jordan Clarkson,,CLE,True,False
+caldejo01,13.45,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,2.0,4.0,5.0,-11.0,José Calderón,,CLE,True,False
+greenje02,12.616666666666667,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,2.0,-7.0,Jeff Green,,CLE,True,False
+zizican01,,,,,,,,,,,,,,,,,,,,,Ante Žižić,Did Not Play,CLE,True,False
+thomptr01,,,,,,,,,,,,,,,,,,,,,Tristan Thompson,Did Not Play,CLE,True,False
+osmande01,,,,,,,,,,,,,,,,,,,,,Cedi Osman,Did Not Play,CLE,True,False

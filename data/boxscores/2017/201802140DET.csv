@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+collijo01,31.433333333333334,3.0,8.0,0.375,0.0,2.0,0.0,5.0,6.0,0.833,1.0,9.0,10.0,0.0,1.0,2.0,1.0,5.0,11.0,4.0,John Collins,,ATL,False,True
+dorsety01,31.333333333333332,4.0,11.0,0.364,1.0,4.0,0.25,0.0,0.0,,2.0,3.0,5.0,6.0,1.0,0.0,1.0,0.0,9.0,-6.0,Tyler Dorsey,,ATL,False,True
+princta02,28.633333333333333,4.0,15.0,0.267,0.0,6.0,0.0,6.0,7.0,0.857,1.0,2.0,3.0,1.0,1.0,0.0,1.0,3.0,14.0,-4.0,Taurean Waller-Prince,,ATL,False,True
+delanma01,27.4,3.0,9.0,0.333,1.0,2.0,0.5,4.0,5.0,0.8,0.0,0.0,0.0,7.0,3.0,0.0,3.0,3.0,11.0,-18.0,Malcolm Delaney,,ATL,False,True
+dedmode01,25.2,4.0,9.0,0.444,0.0,3.0,0.0,0.0,0.0,,0.0,7.0,7.0,0.0,0.0,0.0,1.0,2.0,8.0,-9.0,Dewayne Dedmon,,ATL,False,True
+taylois01,25.4,6.0,9.0,0.667,0.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,7.0,1.0,0.0,3.0,5.0,13.0,14.0,Isaiah Taylor,,ATL,False,False
+muscami01,25.116666666666667,3.0,8.0,0.375,1.0,5.0,0.2,0.0,0.0,,2.0,5.0,7.0,0.0,1.0,1.0,0.0,0.0,7.0,1.0,Mike Muscala,,ATL,False,False
+whitean01,16.733333333333334,6.0,11.0,0.545,3.0,7.0,0.429,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,1.0,3.0,15.0,3.0,Andrew White,,ATL,False,False
+bembrde01,14.816666666666666,3.0,6.0,0.5,0.0,2.0,0.0,0.0,0.0,,0.0,6.0,6.0,3.0,0.0,1.0,0.0,0.0,6.0,-8.0,DeAndre' Bembry,,ATL,False,False
+plumlmi01,13.95,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,-7.0,Miles Plumlee,,ATL,False,False
+schrode01,,,,,,,,,,,,,,,,,,,,,Dennis Schröder,Did Not Play,ATL,False,False
+bazemke01,,,,,,,,,,,,,,,,,,,,,Kent Bazemore,Did Not Dress,ATL,False,False
+griffbl01,36.166666666666664,4.0,10.0,0.4,4.0,7.0,0.571,1.0,3.0,0.333,1.0,11.0,12.0,9.0,0.0,1.0,6.0,2.0,13.0,11.0,Blake Griffin,,DET,True,True
+drumman01,35.03333333333333,5.0,10.0,0.5,0.0,0.0,,3.0,3.0,1.0,4.0,11.0,15.0,0.0,0.0,3.0,2.0,2.0,13.0,2.0,Andre Drummond,,DET,True,True
+smithis01,33.36666666666667,8.0,13.0,0.615,0.0,0.0,,6.0,7.0,0.857,0.0,4.0,4.0,9.0,2.0,0.0,1.0,5.0,22.0,13.0,Ish Smith,,DET,True,True
+bullore01,29.566666666666666,6.0,13.0,0.462,3.0,7.0,0.429,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,15.0,21.0,Reggie Bullock,,DET,True,True
+johnsst04,29.283333333333335,4.0,9.0,0.444,1.0,3.0,0.333,5.0,6.0,0.833,1.0,4.0,5.0,2.0,0.0,0.0,1.0,4.0,14.0,12.0,Stanley Johnson,,DET,True,True
+tollian01,24.616666666666667,3.0,10.0,0.3,3.0,8.0,0.375,2.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,0.0,0.0,1.0,11.0,-1.0,Anthony Tolliver,,DET,True,False
+ennisja01,18.9,3.0,6.0,0.5,1.0,3.0,0.333,4.0,4.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,0.0,1.0,11.0,-6.0,James Ennis,,DET,True,False
+kennalu01,18.433333333333334,2.0,7.0,0.286,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,5.0,-15.0,Luke Kennard,,DET,True,False
+nelsoja01,14.633333333333333,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,-7.0,Jameer Nelson,,DET,True,False
+moreler01,,,,,,,,,,,,,,,,,,,,,Eric Moreland,Did Not Play,DET,True,False
+gallola01,,,,,,,,,,,,,,,,,,,,,Langston Galloway,Did Not Play,DET,True,False
+ellenhe01,,,,,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,DET,True,False
+buyckdw01,,,,,,,,,,,,,,,,,,,,,Dwight Buycks,Did Not Play,DET,True,False

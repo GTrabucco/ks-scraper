@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+antetgi01,34.6,11.0,16.0,0.688,1.0,1.0,1.0,3.0,6.0,0.5,2.0,6.0,8.0,4.0,0.0,2.0,4.0,6.0,26.0,-5.0,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,32.766666666666666,11.0,18.0,0.611,0.0,2.0,0.0,8.0,9.0,0.889,0.0,2.0,2.0,0.0,1.0,0.0,2.0,5.0,30.0,8.0,Khris Middleton,,MIL,False,True
+snellto01,32.3,3.0,8.0,0.375,1.0,4.0,0.25,3.0,3.0,1.0,0.0,5.0,5.0,1.0,1.0,0.0,2.0,2.0,10.0,-4.0,Tony Snell,,MIL,False,True
+brogdma01,31.583333333333332,2.0,7.0,0.286,0.0,4.0,0.0,2.0,2.0,1.0,0.0,5.0,5.0,2.0,2.0,0.0,2.0,3.0,6.0,-9.0,Malcolm Brogdon,,MIL,False,True
+makerth01,9.666666666666666,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Thon Maker,,MIL,False,True
+dellama01,25.016666666666666,1.0,7.0,0.143,0.0,3.0,0.0,3.0,3.0,1.0,1.0,1.0,2.0,5.0,1.0,0.0,2.0,1.0,5.0,9.0,Matthew Dellavedova,,MIL,False,False
+teletmi01,22.483333333333334,2.0,7.0,0.286,1.0,5.0,0.2,0.0,1.0,0.0,0.0,5.0,5.0,1.0,0.0,0.0,0.0,2.0,5.0,5.0,Mirza Teletović,,MIL,False,False
+hensojo01,19.466666666666665,3.0,6.0,0.5,0.0,0.0,,2.0,4.0,0.5,5.0,4.0,9.0,1.0,0.0,4.0,0.0,4.0,8.0,6.0,John Henson,,MIL,False,False
+monrogr01,16.25,6.0,6.0,1.0,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,3.0,1.0,3.0,1.0,1.0,12.0,2.0,Greg Monroe,,MIL,False,False
+terryja01,15.85,1.0,4.0,0.25,1.0,3.0,0.333,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,5.0,8.0,Jason Terry,,MIL,False,False
+vaughra01,,,,,,,,,,,,,,,,,,,,,Rashad Vaughn,Did Not Play,MIL,False,False
+joneste01,,,,,,,,,,,,,,,,,,,,,Terrence Jones,Did Not Play,MIL,False,False
+hawessp01,,,,,,,,,,,,,,,,,,,,,Spencer Hawes,Did Not Play,MIL,False,False
+clarkjo01,37.53333333333333,8.0,20.0,0.4,4.0,11.0,0.364,1.0,1.0,1.0,1.0,4.0,5.0,2.0,1.0,1.0,3.0,2.0,21.0,-9.0,Jordan Clarkson,,LAL,True,True
+ingrabr01,34.5,4.0,11.0,0.364,1.0,4.0,0.25,2.0,4.0,0.5,0.0,1.0,1.0,4.0,2.0,1.0,1.0,3.0,11.0,6.0,Brandon Ingram,,LAL,True,True
+randlju01,32.333333333333336,1.0,6.0,0.167,0.0,1.0,0.0,2.0,4.0,0.5,5.0,7.0,12.0,8.0,0.0,1.0,5.0,2.0,4.0,-7.0,Julius Randle,,LAL,True,True
+zubaciv01,29.433333333333334,9.0,15.0,0.6,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,1.0,0.0,0.0,0.0,2.0,18.0,-6.0,Ivica Zubac,,LAL,True,True
+youngni01,28.583333333333332,6.0,11.0,0.545,4.0,8.0,0.5,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,0.0,2.0,16.0,-4.0,Nick Young,,LAL,True,True
+nancela02,28.333333333333332,3.0,6.0,0.5,0.0,2.0,0.0,7.0,7.0,1.0,0.0,4.0,4.0,2.0,4.0,0.0,2.0,4.0,13.0,4.0,Larry Nance,,LAL,True,False
+russeda01,21.45,5.0,9.0,0.556,2.0,3.0,0.667,2.0,5.0,0.4,0.0,2.0,2.0,2.0,0.0,0.0,2.0,1.0,14.0,-6.0,D'Angelo Russell,,LAL,True,False
+nwabada01,12.6,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,0.0,2.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,4.0,6.0,David Nwaba,,LAL,True,False
+breweco01,6.816666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,-5.0,Corey Brewer,,LAL,True,False
+robinth01,5.35,0.0,2.0,0.0,0.0,0.0,,2.0,4.0,0.5,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,Thomas Robinson,,LAL,True,False
+ennisty01,3.066666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Tyler Ennis,,LAL,True,False
+artesro01,,,,,,,,,,,,,,,,,,,,,Metta World Peace,Did Not Play,LAL,True,False
+mozgoti01,,,,,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,LAL,True,False

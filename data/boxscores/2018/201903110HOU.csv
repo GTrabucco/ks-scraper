@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+walkeke02,40.45,14.0,20.0,0.7,6.0,6.0,1.0,6.0,7.0,0.857,1.0,9.0,10.0,7.0,0.0,1.0,4.0,1.0,40.0,-5.0,Kemba Walker,,CHO,False,True
+lambje01,37.38333333333333,3.0,12.0,0.25,2.0,6.0,0.333,0.0,0.0,,0.0,4.0,4.0,6.0,1.0,1.0,1.0,1.0,8.0,-10.0,Jeremy Lamb,,CHO,False,True
+bacondw01,34.8,5.0,11.0,0.455,1.0,4.0,0.25,2.0,2.0,1.0,0.0,3.0,3.0,2.0,1.0,0.0,0.0,4.0,13.0,-11.0,Dwayne Bacon,,CHO,False,True
+bridgmi02,29.633333333333333,5.0,12.0,0.417,1.0,5.0,0.2,1.0,1.0,1.0,4.0,2.0,6.0,0.0,0.0,0.0,0.0,1.0,12.0,7.0,Miles Bridges,,CHO,False,True
+hernawi01,24.416666666666668,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,4.0,1.0,1.0,2.0,3.0,2.0,-7.0,Willy Hernangómez,,CHO,False,True
+monkma01,26.15,3.0,12.0,0.25,2.0,9.0,0.222,2.0,2.0,1.0,1.0,4.0,5.0,1.0,1.0,0.0,2.0,4.0,10.0,1.0,Malik Monk,,CHO,False,False
+kaminfr01,21.7,5.0,12.0,0.417,2.0,6.0,0.333,3.0,3.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,15.0,-2.0,Frank Kaminsky,,CHO,False,False
+grahade01,18.65,2.0,6.0,0.333,2.0,5.0,0.4,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,6.0,-17.0,Devonte' Graham,,CHO,False,False
+biyombi01,6.816666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,-16.0,Bismack Biyombo,,CHO,False,False
+kiddgmi01,,,,,,,,,,,,,,,,,,,,,Michael Kidd-Gilchrist,Did Not Dress,CHO,False,False
+batumni01,,,,,,,,,,,,,,,,,,,,,Nicolas Batum,Did Not Dress,CHO,False,False
+macksh01,,,,,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,CHO,False,False
+zelleco01,,,,,,,,,,,,,,,,,,,,,Cody Zeller,Did Not Dress,CHO,False,False
+hardeja01,35.0,7.0,21.0,0.333,3.0,9.0,0.333,11.0,12.0,0.917,1.0,5.0,6.0,10.0,3.0,0.0,4.0,3.0,28.0,11.0,James Harden,,HOU,True,True
+gordoer01,33.13333333333333,7.0,14.0,0.5,5.0,12.0,0.417,3.0,4.0,0.75,0.0,2.0,2.0,3.0,0.0,1.0,2.0,4.0,22.0,22.0,Eric Gordon,,HOU,True,True
+tuckepj01,31.483333333333334,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,1.0,5.0,6.0,4.0,1.0,1.0,0.0,3.0,3.0,13.0,P.J. Tucker,,HOU,True,True
+capelca01,30.8,8.0,12.0,0.667,0.0,0.0,,3.0,3.0,1.0,4.0,11.0,15.0,2.0,0.0,0.0,2.0,2.0,19.0,3.0,Clint Capela,,HOU,True,True
+paulch01,28.933333333333334,3.0,8.0,0.375,2.0,4.0,0.5,2.0,2.0,1.0,2.0,8.0,10.0,4.0,0.0,1.0,3.0,1.0,10.0,3.0,Chris Paul,,HOU,True,True
+riverau01,22.083333333333332,3.0,7.0,0.429,2.0,4.0,0.5,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,8.0,2.0,Austin Rivers,,HOU,True,False
+farieke01,19.5,5.0,10.0,0.5,0.0,1.0,0.0,6.0,6.0,1.0,2.0,7.0,9.0,0.0,1.0,1.0,1.0,1.0,16.0,16.0,Kenneth Faried,,HOU,True,False
+shumpim01,19.3,2.0,6.0,0.333,2.0,3.0,0.667,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,Iman Shumpert,,HOU,True,False
+greenge01,18.283333333333335,2.0,9.0,0.222,2.0,6.0,0.333,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,2.0,0.0,6.0,-9.0,Gerald Green,,HOU,True,False
+clarkga01,1.4833333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,Gary Clark,,HOU,True,False
+hilarne01,,,,,,,,,,,,,,,,,,,,,Nenê Hilário,Did Not Play,HOU,True,False

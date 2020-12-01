@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+rondora01,39.483333333333334,6.0,16.0,0.375,1.0,5.0,0.2,0.0,0.0,,0.0,6.0,6.0,10.0,2.0,1.0,7.0,2.0,13.0,-10.0,Rajon Rondo,,LAL,False,True
+kuzmaky01,34.95,4.0,17.0,0.235,2.0,8.0,0.25,7.0,10.0,0.7,1.0,4.0,5.0,3.0,1.0,0.0,3.0,2.0,17.0,-27.0,Kyle Kuzma,,LAL,False,True
+mcgeeja01,31.8,3.0,7.0,0.429,0.0,0.0,,0.0,0.0,,3.0,8.0,11.0,0.0,0.0,2.0,0.0,4.0,6.0,2.0,JaVale McGee,,LAL,False,True
+bullore01,24.316666666666666,3.0,5.0,0.6,3.0,3.0,1.0,4.0,4.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,13.0,-17.0,Reggie Bullock,,LAL,False,True
+muscami01,10.666666666666666,1.0,6.0,0.167,0.0,5.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,-7.0,Mike Muscala,,LAL,False,True
+caldwke01,34.166666666666664,12.0,20.0,0.6,8.0,14.0,0.571,3.0,4.0,0.75,0.0,3.0,3.0,1.0,2.0,1.0,0.0,3.0,35.0,-2.0,Kentavious Caldwell-Pope,,LAL,False,False
+carusal01,22.333333333333332,0.0,6.0,0.0,0.0,1.0,0.0,4.0,4.0,1.0,3.0,1.0,4.0,2.0,2.0,0.0,2.0,1.0,4.0,3.0,Alex Caruso,,LAL,False,False
+hartjo01,17.25,2.0,3.0,0.667,2.0,3.0,0.667,0.0,0.0,,0.0,3.0,3.0,2.0,1.0,0.0,2.0,1.0,6.0,8.0,Josh Hart,,LAL,False,False
+wagnemo01,16.216666666666665,2.0,5.0,0.4,0.0,3.0,0.0,1.0,1.0,1.0,0.0,5.0,5.0,0.0,0.0,1.0,2.0,1.0,5.0,-16.0,Moritz Wagner,,LAL,False,False
+willijo04,6.116666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Johnathan Williams,,LAL,False,False
+bongais01,1.35,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Isaac Bonga,,LAL,False,False
+ingraan01,1.35,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-2.0,Andre Ingram,,LAL,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,LAL,False,False
+middlkh01,36.25,12.0,20.0,0.6,4.0,7.0,0.571,2.0,2.0,1.0,2.0,8.0,10.0,5.0,1.0,0.0,6.0,4.0,30.0,24.0,Khris Middleton,,MIL,True,True
+lopezbr01,34.85,8.0,14.0,0.571,5.0,11.0,0.455,7.0,10.0,0.7,2.0,7.0,9.0,3.0,3.0,4.0,4.0,5.0,28.0,8.0,Brook Lopez,,MIL,True,True
+bledser01,32.45,4.0,12.0,0.333,1.0,6.0,0.167,5.0,10.0,0.5,1.0,7.0,8.0,7.0,4.0,0.0,4.0,0.0,14.0,10.0,Eric Bledsoe,,MIL,True,True
+mirotni01,24.033333333333335,8.0,14.0,0.571,3.0,7.0,0.429,4.0,5.0,0.8,4.0,2.0,6.0,1.0,0.0,0.0,0.0,0.0,23.0,18.0,Nikola Mirotić,,MIL,True,True
+snellto01,14.95,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,2.0,0.0,0.0,0.0,5.0,0.0,-7.0,Tony Snell,,MIL,True,True
+connapa01,36.21666666666667,6.0,11.0,0.545,1.0,5.0,0.2,0.0,0.0,,0.0,8.0,8.0,4.0,0.0,0.0,0.0,0.0,13.0,14.0,Pat Connaughton,,MIL,True,False
+wilsodj01,31.466666666666665,1.0,7.0,0.143,1.0,4.0,0.25,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,2.0,1.0,3.0,7.0,D.J. Wilson,,MIL,True,False
+hillge01,17.9,2.0,6.0,0.333,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,4.0,14.0,George Hill,,MIL,True,False
+fraziti01,11.883333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,-18.0,Tim Frazier,,MIL,True,False
+divindo01,,,,,,,,,,,,,,,,,,,,,Donte DiVincenzo,Did Not Play,MIL,True,False
+antetgi01,,,,,,,,,,,,,,,,,,,,,Giannis Antetokounmpo,Did Not Play,MIL,True,False
+brownst02,,,,,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,True,False
+ilyaser01,,,,,,,,,,,,,,,,,,,,,Ersan İlyasova,Did Not Play,MIL,True,False

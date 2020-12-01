@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,34.96666666666667,8.0,13.0,0.615,1.0,5.0,0.2,9.0,12.0,0.75,1.0,10.0,11.0,5.0,4.0,0.0,6.0,1.0,26.0,15.0,James Harden,,HOU,False,True
+paulch01,33.983333333333334,5.0,13.0,0.385,1.0,4.0,0.25,4.0,4.0,1.0,1.0,5.0,6.0,7.0,3.0,0.0,2.0,2.0,15.0,15.0,Chris Paul,,HOU,False,True
+arizatr01,32.833333333333336,3.0,13.0,0.231,3.0,9.0,0.333,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,0.0,3.0,9.0,0.0,Trevor Ariza,,HOU,False,True
+tuckepj01,25.216666666666665,0.0,7.0,0.0,0.0,4.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,0.0,2.0,0.0,1.0,3.0,2.0,4.0,P.J. Tucker,,HOU,False,True
+blackta01,18.433333333333334,4.0,8.0,0.5,0.0,0.0,,0.0,1.0,0.0,4.0,0.0,4.0,0.0,2.0,1.0,1.0,3.0,8.0,-7.0,Tarik Black,,HOU,False,True
+johnsjo02,29.7,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,4.0,4.0,2.0,0.0,0.0,1.0,2.0,7.0,5.0,Joe Johnson,,HOU,False,False
+mbahalu01,28.933333333333334,7.0,7.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,3.0,3.0,0.0,1.0,1.0,0.0,1.0,17.0,16.0,Luc Mbah a Moute,,HOU,False,False
+hilarne01,19.75,3.0,6.0,0.5,0.0,0.0,,3.0,5.0,0.6,2.0,3.0,5.0,1.0,2.0,0.0,3.0,4.0,9.0,10.0,Nenê Hilário,,HOU,False,False
+greenge01,16.183333333333334,1.0,6.0,0.167,1.0,6.0,0.167,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,-3.0,Gerald Green,,HOU,False,False
+wrighbr03,,,,,,,,,,,,,,,,,,,,,Brandan Wright,Did Not Dress,HOU,False,False
+gordoer01,,,,,,,,,,,,,,,,,,,,,Eric Gordon,Did Not Dress,HOU,False,False
+capelca01,,,,,,,,,,,,,,,,,,,,,Clint Capela,Did Not Dress,HOU,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Dress,HOU,False,False
+mitchdo01,36.68333333333333,6.0,15.0,0.4,1.0,9.0,0.111,3.0,4.0,0.75,1.0,1.0,2.0,4.0,3.0,0.0,8.0,3.0,16.0,-7.0,Donovan Mitchell,,UTA,True,True
+goberru01,36.13333333333333,7.0,8.0,0.875,0.0,0.0,,3.0,5.0,0.6,2.0,4.0,6.0,1.0,1.0,2.0,1.0,4.0,17.0,-9.0,Rudy Gobert,,UTA,True,True
+inglejo01,32.233333333333334,1.0,6.0,0.167,1.0,5.0,0.2,3.0,4.0,0.75,0.0,3.0,3.0,3.0,0.0,0.0,3.0,3.0,6.0,-18.0,Joe Ingles,,UTA,True,True
+favorde01,28.1,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,0.0,0.0,0.0,1.0,1.0,8.0,-10.0,Derrick Favors,,UTA,True,True
+rubiori01,26.783333333333335,4.0,10.0,0.4,2.0,4.0,0.5,4.0,4.0,1.0,0.0,3.0,3.0,5.0,1.0,1.0,3.0,3.0,14.0,-4.0,Ricky Rubio,,UTA,True,True
+crowdja01,29.983333333333334,4.0,15.0,0.267,2.0,8.0,0.25,2.0,4.0,0.5,2.0,4.0,6.0,5.0,0.0,1.0,1.0,1.0,12.0,-8.0,Jae Crowder,,UTA,True,False
+onealro01,21.1,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,-9.0,Royce O'Neale,,UTA,True,False
+jerebjo01,17.266666666666666,1.0,3.0,0.333,0.0,1.0,0.0,1.0,1.0,1.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,2.0,3.0,13.0,Jonas Jerebko,,UTA,True,False
+burksal01,11.716666666666667,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,7.0,-3.0,Alec Burks,,UTA,True,False
+udohek01,,,,,,,,,,,,,,,,,,,,,Ekpe Udoh,Did Not Play,UTA,True,False
+mitrona01,,,,,,,,,,,,,,,,,,,,,Naz Mitrou-Long,Did Not Play,UTA,True,False
+bradlto01,,,,,,,,,,,,,,,,,,,,,Tony Bradley,Did Not Play,UTA,True,False

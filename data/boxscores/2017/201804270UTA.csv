@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,45.45,2.0,16.0,0.125,0.0,6.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,8.0,1.0,0.0,6.0,3.0,5.0,-2.0,Paul George,,OKC,False,True
+westbru01,43.8,18.0,43.0,0.419,7.0,19.0,0.368,3.0,6.0,0.5,1.0,9.0,10.0,5.0,2.0,0.0,5.0,3.0,46.0,-1.0,Russell Westbrook,,OKC,False,True
+adamsst01,39.3,9.0,11.0,0.818,0.0,0.0,,1.0,1.0,1.0,8.0,8.0,16.0,3.0,1.0,1.0,1.0,3.0,19.0,4.0,Steven Adams,,OKC,False,True
+anthoca01,25.65,3.0,7.0,0.429,0.0,0.0,,1.0,2.0,0.5,0.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,7.0,-19.0,Carmelo Anthony,,OKC,False,True
+breweco01,15.25,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,-7.0,Corey Brewer,,OKC,False,True
+grantje01,29.5,3.0,6.0,0.5,2.0,4.0,0.5,1.0,2.0,0.5,2.0,1.0,3.0,2.0,0.0,1.0,0.0,4.0,9.0,8.0,Jerami Grant,,OKC,False,False
+abrinal01,20.033333333333335,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,2.0,4.0,6.0,0.0,1.0,1.0,0.0,1.0,0.0,-5.0,Álex Abrines,,OKC,False,False
+feltora01,11.266666666666667,1.0,5.0,0.2,1.0,2.0,0.5,0.0,0.0,,2.0,5.0,7.0,2.0,0.0,0.0,0.0,1.0,3.0,4.0,Raymond Felton,,OKC,False,False
+huestjo01,8.516666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,-4.0,Josh Huestis,,OKC,False,False
+pattepa01,1.25,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Patrick Patterson,,OKC,False,False
+johnsda04,,,,,,,,,,,,,,,,,,,,,Dakari Johnson,Did Not Play,OKC,False,False
+fergute01,,,,,,,,,,,,,,,,,,,,,Terrance Ferguson,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+inglejo01,41.916666666666664,4.0,11.0,0.364,3.0,6.0,0.5,1.0,2.0,0.5,1.0,6.0,7.0,5.0,2.0,0.0,3.0,2.0,12.0,16.0,Joe Ingles,,UTA,True,True
+mitchdo01,40.233333333333334,14.0,26.0,0.538,5.0,8.0,0.625,5.0,5.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,5.0,5.0,38.0,-6.0,Donovan Mitchell,,UTA,True,True
+goberru01,38.95,5.0,9.0,0.556,0.0,0.0,,2.0,3.0,0.667,4.0,9.0,13.0,0.0,2.0,3.0,1.0,1.0,12.0,-1.0,Rudy Gobert,,UTA,True,True
+favorde01,38.75,6.0,9.0,0.667,0.0,1.0,0.0,1.0,7.0,0.143,2.0,6.0,8.0,1.0,1.0,2.0,0.0,2.0,13.0,18.0,Derrick Favors,,UTA,True,True
+rubiori01,7.133333333333334,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,-2.0,Ricky Rubio,,UTA,True,True
+crowdja01,30.6,2.0,10.0,0.2,1.0,5.0,0.2,0.0,0.0,,1.0,1.0,2.0,2.0,0.0,0.0,1.0,4.0,5.0,-9.0,Jae Crowder,,UTA,True,False
+onealro01,18.6,2.0,4.0,0.5,0.0,1.0,0.0,1.0,3.0,0.333,0.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,5.0,5.0,Royce O'Neale,,UTA,True,False
+burksal01,16.683333333333334,4.0,9.0,0.444,1.0,3.0,0.333,2.0,3.0,0.667,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,11.0,7.0,Alec Burks,,UTA,True,False
+jerebjo01,3.8833333333333333,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Jonas Jerebko,,UTA,True,False
+exumda01,3.2666666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-4.0,Dante Exum,,UTA,True,False
+udohek01,,,,,,,,,,,,,,,,,,,,,Ekpe Udoh,Did Not Play,UTA,True,False
+stockda01,,,,,,,,,,,,,,,,,,,,,David Stockton,Did Not Play,UTA,True,False
+netora01,,,,,,,,,,,,,,,,,,,,,Raul Neto,Did Not Play,UTA,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+goberru01,35.11666666666667,2.0,3.0,0.667,0.0,0.0,,6.0,10.0,0.6,3.0,9.0,12.0,3.0,3.0,2.0,0.0,5.0,10.0,7.0,Rudy Gobert,,UTA,False,True
+bogdabo02,34.416666666666664,12.0,18.0,0.667,3.0,6.0,0.5,5.0,5.0,1.0,1.0,4.0,5.0,2.0,0.0,0.0,3.0,2.0,32.0,11.0,Bojan Bogdanović,,UTA,False,True
+mitchdo01,33.96666666666667,8.0,14.0,0.571,2.0,6.0,0.333,7.0,8.0,0.875,0.0,5.0,5.0,1.0,0.0,0.0,1.0,3.0,25.0,9.0,Donovan Mitchell,,UTA,False,True
+onealro01,30.833333333333332,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,6.0,6.0,4.0,0.0,1.0,0.0,2.0,0.0,14.0,Royce O'Neale,,UTA,False,True
+conlemi01,30.4,4.0,12.0,0.333,2.0,6.0,0.333,2.0,2.0,1.0,0.0,1.0,1.0,4.0,3.0,0.0,1.0,2.0,12.0,-12.0,Mike Conley,,UTA,False,True
+inglejo01,25.733333333333334,2.0,3.0,0.667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,4.0,-3.0,Joe Ingles,,UTA,False,False
+clarkjo01,24.883333333333333,6.0,12.0,0.5,1.0,5.0,0.2,1.0,2.0,0.5,0.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,14.0,15.0,Jordan Clarkson,,UTA,False,False
+bradlto01,12.883333333333333,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,5.0,3.0,8.0,0.0,0.0,0.0,1.0,3.0,8.0,-1.0,Tony Bradley,,UTA,False,False
+niangge01,11.766666666666667,2.0,6.0,0.333,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,-10.0,Georges Niang,,UTA,False,False
+brantja01,,,,,,,,,,,,,,,,,,,,,Jarrell Brantley,Did Not Play,UTA,False,False
+davised01,,,,,,,,,,,,,,,,,,,,,Ed Davis,Did Not Play,UTA,False,False
+onimi01,,,,,,,,,,,,,,,,,,,,,Miye Oni,Did Not Play,UTA,False,False
+mudiaem01,,,,,,,,,,,,,,,,,,,,,Emmanuel Mudiay,Did Not Play,UTA,False,False
+woodch01,38.25,13.0,24.0,0.542,0.0,6.0,0.0,4.0,6.0,0.667,6.0,5.0,11.0,2.0,0.0,0.0,3.0,3.0,30.0,1.0,Christian Wood,,DET,True,True
+snellto01,31.416666666666668,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,1.0,2.0,8.0,-7.0,Tony Snell,,DET,True,True
+knighbr03,28.8,3.0,9.0,0.333,3.0,8.0,0.375,4.0,4.0,1.0,0.0,4.0,4.0,3.0,0.0,1.0,1.0,3.0,13.0,5.0,Brandon Knight,,DET,True,True
+mykhasv01,23.733333333333334,1.0,8.0,0.125,1.0,5.0,0.2,0.0,2.0,0.0,1.0,4.0,5.0,6.0,2.0,0.0,0.0,2.0,3.0,0.0,Sviatoslav Mykhailiuk,,DET,True,True
+hensojo01,13.25,4.0,6.0,0.667,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,2.0,1.0,9.0,-3.0,John Henson,,DET,True,True
+gallola01,25.4,6.0,9.0,0.667,2.0,3.0,0.667,0.0,0.0,,0.0,3.0,3.0,0.0,2.0,1.0,0.0,1.0,14.0,-1.0,Langston Galloway,,DET,True,False
+mcraejo01,25.016666666666666,4.0,9.0,0.444,0.0,2.0,0.0,6.0,7.0,0.857,0.0,3.0,3.0,1.0,0.0,0.0,2.0,3.0,14.0,3.0,Jordan McRae,,DET,True,False
+brownbr01,24.583333333333332,2.0,6.0,0.333,0.0,0.0,,1.0,1.0,1.0,2.0,3.0,5.0,7.0,0.0,0.0,1.0,4.0,5.0,-14.0,Bruce Brown,,DET,True,False
+doumbse01,19.8,4.0,6.0,0.667,0.0,1.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,1.0,0.0,0.0,1.0,1.0,9.0,-7.0,Sekou Doumbouya,,DET,True,False
+makerth01,9.75,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,-7.0,Thon Maker,,DET,True,False
+halldo01,,,,,,,,,,,,,,,,,,,,,Donta Hall,Did Not Play,DET,True,False
+bonejo01,,,,,,,,,,,,,,,,,,,,,Jordan Bone,Did Not Play,DET,True,False
+thomakh01,,,,,,,,,,,,,,,,,,,,,Khyri Thomas,Did Not Play,DET,True,False

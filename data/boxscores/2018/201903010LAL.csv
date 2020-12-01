@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+antetgi01,32.5,7.0,14.0,0.5,0.0,2.0,0.0,2.0,4.0,0.5,2.0,13.0,15.0,6.0,0.0,3.0,4.0,4.0,16.0,3.0,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,32.18333333333333,4.0,8.0,0.5,2.0,4.0,0.5,8.0,9.0,0.889,1.0,4.0,5.0,6.0,0.0,0.0,0.0,4.0,18.0,-3.0,Khris Middleton,,MIL,False,True
+bledser01,30.883333333333333,12.0,24.0,0.5,2.0,11.0,0.182,5.0,5.0,1.0,2.0,7.0,9.0,5.0,0.0,1.0,1.0,0.0,31.0,14.0,Eric Bledsoe,,MIL,False,True
+brogdma01,27.766666666666666,8.0,13.0,0.615,3.0,3.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,21.0,9.0,Malcolm Brogdon,,MIL,False,True
+lopezbr01,20.3,4.0,8.0,0.5,3.0,6.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,1.0,2.0,1.0,11.0,0.0,Brook Lopez,,MIL,False,True
+connapa01,25.716666666666665,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,4.0,1.0,5.0,4.0,0.0,1.0,1.0,1.0,9.0,13.0,Pat Connaughton,,MIL,False,False
+ilyaser01,23.666666666666668,4.0,8.0,0.5,2.0,4.0,0.5,2.0,2.0,1.0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,3.0,12.0,18.0,Ersan İlyasova,,MIL,False,False
+mirotni01,22.083333333333332,4.0,7.0,0.571,1.0,4.0,0.25,2.0,2.0,1.0,1.0,4.0,5.0,2.0,1.0,0.0,2.0,1.0,11.0,5.0,Nikola Mirotić,,MIL,False,False
+snellto01,22.0,1.0,5.0,0.2,0.0,4.0,0.0,0.0,0.0,,1.0,3.0,4.0,2.0,1.0,0.0,0.0,1.0,2.0,1.0,Tony Snell,,MIL,False,False
+canaais01,2.9,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,Isaiah Canaan,,MIL,False,False
+colsobo01,,,,,,,,,,,,,,,,,,,,,Bonzie Colson,Did Not Play,MIL,False,False
+woodch01,,,,,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+rondora01,39.9,7.0,19.0,0.368,4.0,12.0,0.333,2.0,2.0,1.0,2.0,6.0,8.0,9.0,2.0,0.0,3.0,5.0,20.0,-17.0,Rajon Rondo,,LAL,True,True
+ingrabr01,39.25,13.0,21.0,0.619,1.0,4.0,0.25,4.0,5.0,0.8,1.0,7.0,8.0,2.0,0.0,1.0,0.0,3.0,31.0,-11.0,Brandon Ingram,,LAL,True,True
+jamesle01,38.81666666666667,10.0,19.0,0.526,3.0,8.0,0.375,8.0,10.0,0.8,2.0,5.0,7.0,10.0,1.0,0.0,3.0,2.0,31.0,-4.0,LeBron James,,LAL,True,True
+kuzmaky01,34.38333333333333,5.0,18.0,0.278,1.0,6.0,0.167,1.0,1.0,1.0,1.0,5.0,6.0,3.0,0.0,0.0,1.0,2.0,12.0,-9.0,Kyle Kuzma,,LAL,True,True
+bullore01,25.65,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,5.0,9.0,Reggie Bullock,,LAL,True,True
+caldwke01,22.516666666666666,3.0,5.0,0.6,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,2.0,1.0,0.0,2.0,3.0,7.0,-22.0,Kentavious Caldwell-Pope,,LAL,True,False
+hartjo01,14.933333333333334,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,1.0,0.0,3.0,5.0,-1.0,Josh Hart,,LAL,True,False
+muscami01,14.083333333333334,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,2.0,0.0,1.0,0.0,1.0,3.0,-8.0,Mike Muscala,,LAL,True,False
+mcgeeja01,10.466666666666667,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,6.0,8.0,JaVale McGee,,LAL,True,False
+carusal01,,,,,,,,,,,,,,,,,,,,,Alex Caruso,Did Not Play,LAL,True,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,LAL,True,False
+wagnemo01,,,,,,,,,,,,,,,,,,,,,Moritz Wagner,Did Not Play,LAL,True,False
+bongais01,,,,,,,,,,,,,,,,,,,,,Isaac Bonga,Did Not Play,LAL,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+brunsja01,36.21666666666667,4.0,11.0,0.364,2.0,7.0,0.286,1.0,1.0,1.0,0.0,1.0,1.0,8.0,1.0,0.0,1.0,3.0,11.0,-5.0,Jalen Brunson,,DAL,False,True
+poweldw01,36.0,11.0,12.0,0.917,1.0,1.0,1.0,3.0,6.0,0.5,5.0,5.0,10.0,2.0,0.0,1.0,0.0,0.0,26.0,-15.0,Dwight Powell,,DAL,False,True
+doncilu01,35.78333333333333,11.0,26.0,0.423,2.0,8.0,0.25,7.0,9.0,0.778,3.0,8.0,11.0,7.0,4.0,0.0,2.0,3.0,31.0,-10.0,Luka Dončić,,DAL,False,True
+hardati02,29.883333333333333,7.0,15.0,0.467,2.0,9.0,0.222,1.0,2.0,0.5,0.0,3.0,3.0,2.0,1.0,0.0,1.0,5.0,17.0,-9.0,Tim Hardaway,,DAL,False,True
+finnedo01,27.233333333333334,4.0,9.0,0.444,2.0,4.0,0.5,0.0,2.0,0.0,4.0,3.0,7.0,2.0,0.0,1.0,1.0,4.0,10.0,-13.0,Dorian Finney-Smith,,DAL,False,True
+jacksju01,25.383333333333333,6.0,10.0,0.6,5.0,7.0,0.714,1.0,2.0,0.5,2.0,3.0,5.0,1.0,0.0,0.0,0.0,2.0,18.0,-1.0,Justin Jackson,,DAL,False,False
+harride01,17.2,1.0,5.0,0.2,0.0,1.0,0.0,3.0,4.0,0.75,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,5.0,-3.0,Devin Harris,,DAL,False,False
+mejrisa01,12.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.0,Salah Mejri,,DAL,False,False
+nowitdi01,11.766666666666667,0.0,3.0,0.0,0.0,2.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,Dirk Nowitzki,,DAL,False,False
+leeco01,8.533333333333333,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,5.0,Courtney Lee,,DAL,False,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,DAL,False,False
+antetko01,,,,,,,,,,,,,,,,,,,,,Kostas Antetokounmpo,Did Not Play,DAL,False,False
+broekry01,,,,,,,,,,,,,,,,,,,,,Ryan Broekhoff,Did Not Play,DAL,False,False
+satorto01,41.483333333333334,4.0,11.0,0.364,0.0,4.0,0.0,6.0,7.0,0.857,4.0,4.0,8.0,11.0,1.0,1.0,3.0,3.0,14.0,14.0,Tomáš Satoranský,,WAS,True,True
+bealbr01,37.0,11.0,19.0,0.579,2.0,5.0,0.4,6.0,8.0,0.75,0.0,7.0,7.0,8.0,0.0,0.0,2.0,5.0,30.0,7.0,Bradley Beal,,WAS,True,True
+arizatr01,35.15,8.0,14.0,0.571,3.0,6.0,0.5,3.0,5.0,0.6,3.0,3.0,6.0,3.0,0.0,0.0,0.0,2.0,22.0,9.0,Trevor Ariza,,WAS,True,True
+greenje02,28.983333333333334,6.0,9.0,0.667,3.0,4.0,0.75,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,3.0,16.0,17.0,Jeff Green,,WAS,True,True
+portibo01,21.7,4.0,12.0,0.333,2.0,5.0,0.4,2.0,2.0,1.0,3.0,5.0,8.0,0.0,0.0,0.0,2.0,3.0,12.0,-8.0,Bobby Portis,,WAS,True,True
+parkeja01,28.85,10.0,11.0,0.909,0.0,1.0,0.0,0.0,0.0,,2.0,7.0,9.0,3.0,0.0,0.0,3.0,4.0,20.0,7.0,Jabari Parker,,WAS,True,False
+browntr01,16.516666666666666,3.0,9.0,0.333,1.0,4.0,0.25,2.0,2.0,1.0,3.0,1.0,4.0,3.0,0.0,0.0,0.0,3.0,9.0,-4.0,Troy Brown,,WAS,True,False
+bryanth01,16.466666666666665,3.0,6.0,0.5,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,2.0,1.0,0.0,2.0,6.0,2.0,Thomas Bryant,,WAS,True,False
+dekkesa01,13.85,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,Sam Dekker,,WAS,True,False
+randlch01,,,,,,,,,,,,,,,,,,,,,Chasson Randle,Did Not Play,WAS,True,False
+mahinia01,,,,,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Play,WAS,True,False
+johnswe01,,,,,,,,,,,,,,,,,,,,,Wesley Johnson,Did Not Play,WAS,True,False

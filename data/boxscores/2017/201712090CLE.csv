@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+redicjj01,36.31666666666667,6.0,13.0,0.462,4.0,9.0,0.444,3.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,1.0,2.0,19.0,-11.0,J.J. Redick,,PHI,False,True
+covinro01,35.96666666666667,7.0,10.0,0.7,5.0,7.0,0.714,0.0,0.0,,0.0,6.0,6.0,2.0,4.0,0.0,2.0,0.0,19.0,10.0,Robert Covington,,PHI,False,True
+simmobe01,35.53333333333333,7.0,13.0,0.538,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,10.0,1.0,1.0,7.0,3.0,14.0,-6.0,Ben Simmons,,PHI,False,True
+saricda01,34.21666666666667,8.0,17.0,0.471,1.0,6.0,0.167,0.0,0.0,,1.0,8.0,9.0,6.0,0.0,0.0,4.0,1.0,17.0,5.0,Dario Šarić,,PHI,False,True
+johnsam01,21.15,0.0,0.0,,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,2.0,5.0,2.0,1.0,Amir Johnson,,PHI,False,True
+holmeri01,20.05,5.0,11.0,0.455,1.0,4.0,0.25,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,5.0,13.0,-10.0,Richaun Holmes,,PHI,False,False
+booketr01,19.833333333333332,4.0,6.0,0.667,0.0,0.0,,4.0,4.0,1.0,4.0,4.0,8.0,2.0,0.0,1.0,2.0,1.0,12.0,-5.0,Trevor Booker,,PHI,False,False
+bayleje01,18.883333333333333,0.0,6.0,0.0,0.0,5.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,3.0,2.0,0.0,0.0,1.0,2.0,-5.0,Jerryd Bayless,,PHI,False,False
+luwawti01,18.05,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,-14.0,Timothé Luwawu-Cabarrot,,PHI,False,False
+pulleja01,,,,,,,,,,,,,,,,,,,,,Jacob Pullen,Did Not Play,PHI,False,False
+mcadoja01,,,,,,,,,,,,,,,,,,,,,James Michael McAdoo,Did Not Play,PHI,False,False
+korkmfu01,,,,,,,,,,,,,,,,,,,,,Furkan Korkmaz,Did Not Play,PHI,False,False
+jamesle01,38.733333333333334,9.0,23.0,0.391,2.0,6.0,0.333,10.0,12.0,0.833,3.0,10.0,13.0,13.0,3.0,0.0,6.0,1.0,30.0,-3.0,LeBron James,,CLE,True,True
+crowdja01,33.43333333333333,4.0,9.0,0.444,2.0,4.0,0.5,2.0,2.0,1.0,2.0,3.0,5.0,0.0,2.0,1.0,0.0,3.0,12.0,7.0,Jae Crowder,,CLE,True,True
+caldejo01,27.55,3.0,5.0,0.6,2.0,3.0,0.667,0.0,1.0,0.0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,8.0,-12.0,José Calderón,,CLE,True,True
+smithjr01,22.8,2.0,5.0,0.4,2.0,3.0,0.667,1.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,1.0,0.0,7.0,-7.0,J.R. Smith,,CLE,True,True
+zizican01,4.633333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,-10.0,Ante Žižić,,CLE,True,True
+greenje02,30.366666666666667,5.0,8.0,0.625,1.0,1.0,1.0,2.0,2.0,1.0,1.0,5.0,6.0,1.0,2.0,0.0,2.0,2.0,13.0,25.0,Jeff Green,,CLE,True,False
+korveky01,28.15,4.0,8.0,0.5,4.0,8.0,0.5,1.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,13.0,18.0,Kyle Korver,,CLE,True,False
+wadedw01,23.8,6.0,10.0,0.6,0.0,1.0,0.0,1.0,4.0,0.25,0.0,1.0,1.0,4.0,0.0,1.0,3.0,3.0,13.0,15.0,Dwyane Wade,,CLE,True,False
+fryech01,19.416666666666668,2.0,5.0,0.4,0.0,2.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,2.0,6.0,-1.0,Channing Frye,,CLE,True,False
+osmande01,11.116666666666667,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,0.0,1.0,3.0,3.0,3.0,Cedi Osman,,CLE,True,False
+perralo01,,,,,,,,,,,,,,,,,,,,,London Perrantes,Did Not Play,CLE,True,False
+loveke01,,,,,,,,,,,,,,,,,,,,,Kevin Love,Did Not Dress,CLE,True,False
+hollajo02,,,,,,,,,,,,,,,,,,,,,John Holland,Did Not Play,CLE,True,False

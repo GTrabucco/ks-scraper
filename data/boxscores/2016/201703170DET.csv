@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+derozde01,36.06666666666667,3.0,9.0,0.333,0.0,1.0,0.0,8.0,8.0,1.0,0.0,8.0,8.0,6.0,0.0,0.0,2.0,1.0,14.0,15.0,DeMar DeRozan,,TOR,False,True
+josepco01,35.666666666666664,3.0,10.0,0.3,1.0,5.0,0.2,2.0,2.0,1.0,0.0,7.0,7.0,6.0,0.0,1.0,3.0,4.0,9.0,20.0,Cory Joseph,,TOR,False,True
+ibakase01,34.3,6.0,14.0,0.429,3.0,8.0,0.375,2.0,2.0,1.0,1.0,8.0,9.0,1.0,0.0,0.0,3.0,3.0,17.0,14.0,Serge Ibaka,,TOR,False,True
+valanjo01,24.316666666666666,5.0,7.0,0.714,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,0.0,1.0,1.0,1.0,2.0,10.0,6.0,Jonas Valančiūnas,,TOR,False,True
+carrode01,23.75,4.0,9.0,0.444,1.0,4.0,0.25,3.0,4.0,0.75,1.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,12.0,5.0,DeMarre Carroll,,TOR,False,True
+tuckepj01,27.25,3.0,6.0,0.5,2.0,3.0,0.667,0.0,0.0,,1.0,8.0,9.0,2.0,3.0,0.0,0.0,1.0,8.0,12.0,P.J. Tucker,,TOR,False,False
+powelno01,19.083333333333332,4.0,10.0,0.4,0.0,3.0,0.0,3.0,4.0,0.75,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,11.0,11.0,Norman Powell,,TOR,False,False
+pattepa01,14.15,2.0,5.0,0.4,2.0,3.0,0.667,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,6.0,-9.0,Patrick Patterson,,TOR,False,False
+poeltja01,13.083333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,3.0,3.0,6.0,0.0,0.0,0.0,2.0,3.0,0.0,-6.0,Jakob Poeltl,,TOR,False,False
+vanvlfr01,6.216666666666667,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,-5.0,Fred VanVleet,,TOR,False,False
+wrighde01,6.116666666666666,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Delon Wright,,TOR,False,False
+noguelu01,,,,,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,False,False
+siakapa01,,,,,,,,,,,,,,,,,,,,,Pascal Siakam,Did Not Play,TOR,False,False
+caldwke01,35.833333333333336,4.0,13.0,0.308,1.0,9.0,0.111,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,9.0,-19.0,Kentavious Caldwell-Pope,,DET,True,True
+drumman01,35.833333333333336,4.0,10.0,0.4,0.0,0.0,,0.0,4.0,0.0,6.0,16.0,22.0,0.0,2.0,1.0,3.0,6.0,8.0,-16.0,Andre Drummond,,DET,True,True
+morrima03,34.983333333333334,1.0,13.0,0.077,1.0,4.0,0.25,0.0,0.0,,0.0,5.0,5.0,0.0,0.0,0.0,0.0,2.0,3.0,-17.0,Marcus Morris,,DET,True,True
+harrito02,33.06666666666667,5.0,10.0,0.5,0.0,2.0,0.0,4.0,4.0,1.0,4.0,3.0,7.0,0.0,1.0,0.0,3.0,2.0,14.0,-13.0,Tobias Harris,,DET,True,True
+jacksre01,27.833333333333332,6.0,14.0,0.429,0.0,1.0,0.0,8.0,10.0,0.8,0.0,0.0,0.0,6.0,0.0,0.0,2.0,2.0,20.0,-9.0,Reggie Jackson,,DET,True,True
+leuerjo01,28.916666666666668,5.0,8.0,0.625,1.0,3.0,0.333,1.0,1.0,1.0,2.0,3.0,5.0,2.0,0.0,1.0,1.0,1.0,12.0,4.0,Jon Leuer,,DET,True,False
+smithis01,20.166666666666668,2.0,9.0,0.222,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,3.0,1.0,1.0,3.0,2.0,4.0,-3.0,Ish Smith,,DET,True,False
+johnsst04,12.166666666666666,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,7.0,Stanley Johnson,,DET,True,False
+baynear01,11.216666666666667,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,2.0,0.0,1.0,4.0,6.0,Aron Baynes,,DET,True,False
+bullore01,,,,,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Play,DET,True,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DET,True,False
+udrihbe01,,,,,,,,,,,,,,,,,,,,,Beno Udrih,Did Not Play,DET,True,False

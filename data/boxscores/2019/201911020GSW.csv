@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bacondw01,37.35,10.0,21.0,0.476,0.0,2.0,0.0,5.0,5.0,1.0,3.0,3.0,6.0,2.0,2.0,0.0,0.0,1.0,25.0,15.0,Dwayne Bacon,,CHO,False,True
+roziete01,36.55,8.0,17.0,0.471,0.0,4.0,0.0,4.0,8.0,0.5,0.0,5.0,5.0,7.0,0.0,0.0,2.0,1.0,20.0,11.0,Terry Rozier,,CHO,False,True
+washipj01,32.78333333333333,5.0,8.0,0.625,1.0,3.0,0.333,0.0,0.0,,1.0,4.0,5.0,2.0,2.0,0.0,1.0,4.0,11.0,-2.0,P.J. Washington,,CHO,False,True
+bridgmi02,29.466666666666665,1.0,10.0,0.1,0.0,4.0,0.0,0.0,0.0,,3.0,5.0,8.0,1.0,0.0,0.0,1.0,3.0,2.0,-4.0,Miles Bridges,,CHO,False,True
+zelleco01,19.65,4.0,7.0,0.571,0.0,2.0,0.0,2.0,4.0,0.5,4.0,4.0,8.0,0.0,0.0,0.0,1.0,1.0,10.0,1.0,Cody Zeller,,CHO,False,True
+grahade01,30.666666666666668,1.0,8.0,0.125,0.0,3.0,0.0,2.0,2.0,1.0,2.0,6.0,8.0,3.0,1.0,0.0,5.0,0.0,4.0,6.0,Devonte' Graham,,CHO,False,False
+willima02,24.066666666666666,3.0,7.0,0.429,3.0,7.0,0.429,2.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,11.0,0.0,Marvin Williams,,CHO,False,False
+monkma01,20.116666666666667,4.0,7.0,0.571,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,3.0,2.0,0.0,0.0,1.0,3.0,9.0,2.0,Malik Monk,,CHO,False,False
+biyombi01,4.883333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,-3.0,Bismack Biyombo,,CHO,False,False
+martico01,4.466666666666667,0.0,0.0,,0.0,0.0,,1.0,2.0,0.5,1.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,4.0,Cody Martin,,CHO,False,False
+kiddgmi01,,,,,,,,,,,,,,,,,,,,,Michael Kidd-Gilchrist,Did Not Play,CHO,False,False
+martica02,,,,,,,,,,,,,,,,,,,,,Caleb Martin,Did Not Play,CHO,False,False
+hernawi01,,,,,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,CHO,False,False
+bowmaky01,38.7,6.0,11.0,0.545,2.0,6.0,0.333,2.0,2.0,1.0,1.0,6.0,7.0,4.0,2.0,0.0,2.0,3.0,16.0,-6.0,Ky Bowman,,GSW,True,True
+robingl02,36.36666666666667,6.0,12.0,0.5,4.0,7.0,0.571,0.0,0.0,,3.0,6.0,9.0,3.0,2.0,0.0,2.0,2.0,16.0,6.0,Glenn Robinson,,GSW,True,True
+pascher01,34.983333333333334,10.0,18.0,0.556,0.0,5.0,0.0,5.0,8.0,0.625,0.0,4.0,4.0,2.0,0.0,1.0,1.0,3.0,25.0,-14.0,Eric Paschall,,GSW,True,True
+poolejo01,30.75,2.0,9.0,0.222,0.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,3.0,5.0,5.0,-6.0,Jordan Poole,,GSW,True,True
+caulewi01,21.216666666666665,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,0.0,8.0,8.0,2.0,1.0,1.0,0.0,3.0,8.0,6.0,Willie Cauley-Stein,,GSW,True,True
+leeda03,26.783333333333335,5.0,11.0,0.455,3.0,6.0,0.5,0.0,0.0,,1.0,1.0,2.0,3.0,0.0,0.0,3.0,4.0,13.0,-5.0,Damion Lee,,GSW,True,False
+burksal01,24.783333333333335,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,1.0,1.0,0.0,0.0,-4.0,Alec Burks,,GSW,True,False
+spellom01,18.9,1.0,4.0,0.25,0.0,2.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,1.0,0.0,1.0,3.0,1.0,4.0,2.0,Omari Spellman,,GSW,True,False
+chrisma01,7.516666666666667,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,1.0,3.0,1.0,0.0,-9.0,Marquese Chriss,,GSW,True,False
+greendr01,,,,,,,,,,,,,,,,,,,,,Draymond Green,Did Not Dress,GSW,True,False
+russeda01,,,,,,,,,,,,,,,,,,,,,D'Angelo Russell,Did Not Dress,GSW,True,False

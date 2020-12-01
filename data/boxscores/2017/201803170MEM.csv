@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+murraja01,35.68333333333333,5.0,18.0,0.278,1.0,8.0,0.125,5.0,5.0,1.0,0.0,3.0,3.0,3.0,2.0,0.0,2.0,4.0,16.0,-8.0,Jamal Murray,,DEN,False,True
+jokicni01,35.233333333333334,5.0,15.0,0.333,1.0,4.0,0.25,6.0,8.0,0.75,5.0,8.0,13.0,2.0,3.0,2.0,1.0,3.0,17.0,-1.0,Nikola Jokić,,DEN,False,True
+bartowi01,33.916666666666664,3.0,12.0,0.25,0.0,2.0,0.0,2.0,2.0,1.0,3.0,4.0,7.0,2.0,2.0,2.0,4.0,3.0,8.0,-14.0,Will Barton,,DEN,False,True
+chandwi01,31.833333333333332,4.0,7.0,0.571,2.0,4.0,0.5,0.0,0.0,,2.0,1.0,3.0,2.0,1.0,0.0,0.0,3.0,10.0,-12.0,Wilson Chandler,,DEN,False,True
+millspa01,29.566666666666666,3.0,9.0,0.333,0.0,4.0,0.0,6.0,10.0,0.6,3.0,4.0,7.0,1.0,0.0,0.0,0.0,3.0,12.0,-12.0,Paul Millsap,,DEN,False,True
+harride01,26.4,3.0,6.0,0.5,2.0,4.0,0.5,2.0,4.0,0.5,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,10.0,8.0,Devin Harris,,DEN,False,False
+lylestr01,19.7,5.0,10.0,0.5,2.0,5.0,0.4,0.0,0.0,,0.0,4.0,4.0,2.0,0.0,0.0,0.0,1.0,12.0,2.0,Trey Lyles,,DEN,False,False
+craigto01,16.183333333333334,4.0,7.0,0.571,1.0,2.0,0.5,0.0,0.0,,2.0,4.0,6.0,0.0,0.0,1.0,0.0,1.0,9.0,3.0,Torrey Craig,,DEN,False,False
+plumlma01,11.483333333333333,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,3.0,1.0,4.0,3.0,1.0,0.0,0.0,6.0,0.0,-1.0,Mason Plumlee,,DEN,False,False
+jefferi01,,,,,,,,,,,,,,,,,,,,,Richard Jefferson,Did Not Play,DEN,False,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,DEN,False,False
+beaslma01,,,,,,,,,,,,,,,,,,,,,Malik Beasley,Did Not Play,DEN,False,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,False,False
+brookdi01,39.11666666666667,8.0,17.0,0.471,4.0,9.0,0.444,4.0,4.0,1.0,1.0,4.0,5.0,1.0,0.0,1.0,1.0,4.0,24.0,7.0,Dillon Brooks,,MEM,True,True
+evansty01,37.81666666666667,6.0,19.0,0.316,2.0,7.0,0.286,6.0,8.0,0.75,1.0,2.0,3.0,7.0,2.0,1.0,3.0,3.0,20.0,7.0,Tyreke Evans,,MEM,True,True
+gasolma01,35.983333333333334,4.0,15.0,0.267,2.0,7.0,0.286,4.0,4.0,1.0,0.0,5.0,5.0,5.0,1.0,2.0,1.0,2.0,14.0,10.0,Marc Gasol,,MEM,True,True
+martija01,35.95,3.0,7.0,0.429,1.0,2.0,0.5,1.0,2.0,0.5,3.0,10.0,13.0,3.0,0.0,2.0,1.0,2.0,8.0,10.0,Jarell Martin,,MEM,True,True
+greenja01,30.25,3.0,11.0,0.273,0.0,2.0,0.0,1.0,2.0,0.5,6.0,5.0,11.0,0.0,0.0,1.0,1.0,4.0,7.0,9.0,JaMychal Green,,MEM,True,True
+seldewa01,21.716666666666665,6.0,7.0,0.857,4.0,5.0,0.8,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,1.0,2.0,1.0,16.0,4.0,Wayne Selden,,MEM,True,False
+weberbr01,20.316666666666666,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,2.0,4.0,6.0,2.0,1.0,1.0,1.0,1.0,3.0,-5.0,Briante Weber,,MEM,True,False
+davisde01,12.016666666666667,2.0,3.0,0.667,0.0,0.0,,5.0,6.0,0.833,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,9.0,-3.0,Deyonta Davis,,MEM,True,False
+chalmma01,6.833333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,-4.0,Mario Chalmers,,MEM,True,False
+rabbiv01,,,,,,,,,,,,,,,,,,,,,Ivan Rabb,Did Not Play,MEM,True,False
+parsoch01,,,,,,,,,,,,,,,,,,,,,Chandler Parsons,Did Not Play,MEM,True,False
+mclembe01,,,,,,,,,,,,,,,,,,,,,Ben McLemore,Did Not Play,MEM,True,False
+johnsbr02,,,,,,,,,,,,,,,,,,,,,Brice Johnson,Did Not Play,MEM,True,False

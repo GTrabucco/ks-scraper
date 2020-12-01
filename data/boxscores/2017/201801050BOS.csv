@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+townska01,42.35,9.0,16.0,0.563,1.0,4.0,0.25,6.0,6.0,1.0,2.0,21.0,23.0,1.0,0.0,2.0,0.0,2.0,25.0,0.0,Karl-Anthony Towns,,MIN,False,True
+wiggian01,36.15,3.0,12.0,0.25,1.0,4.0,0.25,3.0,6.0,0.5,1.0,2.0,3.0,1.0,1.0,2.0,2.0,3.0,10.0,2.0,Andrew Wiggins,,MIN,False,True
+butleji01,34.733333333333334,3.0,12.0,0.25,0.0,3.0,0.0,8.0,10.0,0.8,2.0,0.0,2.0,6.0,3.0,0.0,4.0,1.0,14.0,-2.0,Jimmy Butler,,MIN,False,True
+gibsota01,34.416666666666664,3.0,8.0,0.375,0.0,0.0,,2.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,0.0,2.0,1.0,8.0,2.0,Taj Gibson,,MIN,False,True
+jonesty01,29.8,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,0.0,0.0,5.0,7.0,-8.0,Tyus Jones,,MIN,False,True
+crawfja01,18.883333333333333,4.0,8.0,0.5,4.0,5.0,0.8,1.0,2.0,0.5,0.0,3.0,3.0,0.0,0.0,1.0,3.0,0.0,13.0,-11.0,Jamal Crawford,,MIN,False,False
+dienggo01,17.5,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,-16.0,Gorgui Dieng,,MIN,False,False
+brookaa01,15.183333333333334,2.0,7.0,0.286,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,4.0,2.0,Aaron Brooks,,MIN,False,False
+bjeline01,10.683333333333334,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-2.0,Nemanja Bjelica,,MIN,False,False
+georgma01,0.3,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Marcus Georges-Hunt,,MIN,False,False
+teaguje01,,,,,,,,,,,,,,,,,,,,,Jeff Teague,Did Not Play,MIN,False,False
+muhamsh01,,,,,,,,,,,,,,,,,,,,,Shabazz Muhammad,Did Not Play,MIN,False,False
+aldrico01,,,,,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,False,False
+irvinky01,37.0,6.0,16.0,0.375,1.0,4.0,0.25,3.0,4.0,0.75,1.0,8.0,9.0,8.0,2.0,0.0,2.0,4.0,16.0,2.0,Kyrie Irving,,BOS,True,True
+brownja02,32.766666666666666,4.0,15.0,0.267,1.0,6.0,0.167,2.0,2.0,1.0,2.0,3.0,5.0,1.0,0.0,2.0,1.0,5.0,11.0,3.0,Jaylen Brown,,BOS,True,True
+horfoal01,31.35,3.0,9.0,0.333,1.0,5.0,0.2,0.0,1.0,0.0,2.0,3.0,5.0,8.0,1.0,1.0,2.0,2.0,7.0,-3.0,Al Horford,,BOS,True,True
+tatumja01,30.566666666666666,2.0,7.0,0.286,0.0,4.0,0.0,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,4.0,-11.0,Jayson Tatum,,BOS,True,True
+baynear01,26.5,5.0,13.0,0.385,0.0,0.0,,1.0,2.0,0.5,2.0,8.0,10.0,1.0,0.0,1.0,0.0,3.0,11.0,7.0,Aron Baynes,,BOS,True,True
+smartma01,28.766666666666666,8.0,13.0,0.615,0.0,4.0,0.0,2.0,2.0,1.0,2.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,18.0,17.0,Marcus Smart,,BOS,True,False
+theisda01,24.533333333333335,3.0,8.0,0.375,1.0,5.0,0.2,1.0,2.0,0.5,4.0,6.0,10.0,1.0,1.0,0.0,3.0,4.0,8.0,5.0,Daniel Theis,,BOS,True,False
+roziete01,21.683333333333334,6.0,11.0,0.545,2.0,7.0,0.286,0.0,0.0,,2.0,7.0,9.0,1.0,0.0,0.0,1.0,1.0,14.0,14.0,Terry Rozier,,BOS,True,False
+yabusgu01,3.95,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,Guerschon Yabusele,,BOS,True,False
+ojelese01,2.8833333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-1.0,Semi Ojeleye,,BOS,True,False
+naderab01,,,,,,,,,,,,,,,,,,,,,Abdel Nader,Did Not Play,BOS,True,False
+larkish01,,,,,,,,,,,,,,,,,,,,,Shane Larkin,Did Not Play,BOS,True,False

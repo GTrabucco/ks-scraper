@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lavinza01,38.81666666666667,10.0,23.0,0.435,0.0,5.0,0.0,0.0,0.0,,1.0,4.0,5.0,7.0,3.0,2.0,2.0,3.0,20.0,-11.0,Zach LaVine,,CHI,False,True
+markkla01,35.9,10.0,18.0,0.556,4.0,10.0,0.4,2.0,2.0,1.0,2.0,7.0,9.0,0.0,1.0,0.0,1.0,1.0,26.0,-4.0,Lauri Markkanen,,CHI,False,True
+satorto01,34.833333333333336,3.0,12.0,0.25,1.0,5.0,0.2,4.0,4.0,1.0,3.0,2.0,5.0,14.0,1.0,0.0,1.0,4.0,11.0,-6.0,Tomáš Satoranský,,CHI,False,True
+dunnkr01,23.15,3.0,9.0,0.333,0.0,3.0,0.0,0.0,0.0,,1.0,1.0,2.0,2.0,1.0,0.0,0.0,5.0,6.0,5.0,Kris Dunn,,CHI,False,True
+cartewe01,17.75,2.0,7.0,0.286,0.0,0.0,,2.0,2.0,1.0,3.0,3.0,6.0,0.0,1.0,1.0,2.0,2.0,6.0,-5.0,Wendell Carter,,CHI,False,True
+youngth01,27.616666666666667,5.0,10.0,0.5,1.0,1.0,1.0,0.0,0.0,,3.0,6.0,9.0,1.0,3.0,1.0,0.0,1.0,11.0,-8.0,Thaddeus Young,,CHI,False,False
+gaffoda01,24.85,6.0,6.0,1.0,0.0,0.0,,1.0,2.0,0.5,3.0,5.0,8.0,0.0,0.0,2.0,0.0,1.0,13.0,0.0,Daniel Gafford,,CHI,False,False
+whiteco01,21.166666666666668,6.0,10.0,0.6,3.0,5.0,0.6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,15.0,-15.0,Coby White,,CHI,False,False
+harrish01,10.05,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,Shaquille Harrison,,CHI,False,False
+hutchch01,5.866666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Chandler Hutchison,,CHI,False,False
+valende01,,,,,,,,,,,,,,,,,,,,,Denzel Valentine,Did Not Play,CHI,False,False
+kornelu01,,,,,,,,,,,,,,,,,,,,,Luke Kornet,Did Not Play,CHI,False,False
+arcidry01,,,,,,,,,,,,,,,,,,,,,Ryan Arcidiacono,Did Not Play,CHI,False,False
+finnedo01,36.86666666666667,4.0,12.0,0.333,3.0,7.0,0.429,0.0,0.0,,2.0,3.0,5.0,2.0,1.0,0.0,1.0,2.0,11.0,5.0,Dorian Finney-Smith,,DAL,True,True
+doncilu01,34.36666666666667,14.0,24.0,0.583,5.0,10.0,0.5,5.0,9.0,0.556,1.0,10.0,11.0,10.0,0.0,1.0,3.0,2.0,38.0,8.0,Luka Dončić,,DAL,True,True
+poweldw01,30.05,6.0,6.0,1.0,0.0,0.0,,4.0,4.0,1.0,3.0,4.0,7.0,1.0,0.0,0.0,1.0,3.0,16.0,2.0,Dwight Powell,,DAL,True,True
+hardati02,21.616666666666667,5.0,8.0,0.625,3.0,4.0,0.75,2.0,2.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,0.0,1.0,15.0,8.0,Tim Hardaway,,DAL,True,True
+bareajo01,14.916666666666666,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,5.0,0.0,2.0,4.0,J.J. Barea,,DAL,True,True
+klebima01,27.3,3.0,6.0,0.5,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,7.0,15.0,Maxi Kleber,,DAL,True,False
+wrighde01,24.716666666666665,3.0,3.0,1.0,2.0,2.0,1.0,1.0,2.0,0.5,2.0,4.0,6.0,3.0,0.0,2.0,1.0,0.0,9.0,-4.0,Delon Wright,,DAL,True,False
+curryse01,20.65,2.0,8.0,0.25,0.0,6.0,0.0,0.0,0.0,,1.0,1.0,2.0,3.0,0.0,1.0,2.0,2.0,4.0,8.0,Seth Curry,,DAL,True,False
+jacksju01,15.4,4.0,11.0,0.364,1.0,6.0,0.167,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,11.0,-4.0,Justin Jackson,,DAL,True,False
+brunsja01,14.116666666666667,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,5.0,-2.0,Jalen Brunson,,DAL,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DAL,True,False
+reavejo02,,,,,,,,,,,,,,,,,,,,,Josh Reaves,Did Not Play,DAL,True,False
+leeco01,,,,,,,,,,,,,,,,,,,,,Courtney Lee,Did Not Play,DAL,True,False

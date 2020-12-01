@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+anderju01,34.583333333333336,9.0,11.0,0.818,3.0,4.0,0.75,5.0,7.0,0.714,0.0,2.0,2.0,3.0,3.0,1.0,2.0,3.0,26.0,8.0,Justin Anderson,,PHI,False,True
+holmeri01,33.35,7.0,11.0,0.636,0.0,2.0,0.0,1.0,1.0,1.0,2.0,5.0,7.0,0.0,1.0,1.0,0.0,2.0,15.0,5.0,Richaun Holmes,,PHI,False,True
+poythal01,31.566666666666666,9.0,14.0,0.643,0.0,3.0,0.0,0.0,0.0,,3.0,3.0,6.0,1.0,1.0,1.0,0.0,3.0,18.0,-5.0,Alex Poythress,,PHI,False,True
+luwawti01,23.55,5.0,10.0,0.5,1.0,3.0,0.333,3.0,4.0,0.75,0.0,2.0,2.0,3.0,0.0,0.0,3.0,5.0,14.0,-6.0,Timothé Luwawu-Cabarrot,,PHI,False,True
+mccontj01,18.75,2.0,6.0,0.333,0.0,0.0,,0.0,2.0,0.0,0.0,3.0,3.0,8.0,1.0,0.0,2.0,1.0,4.0,11.0,T.J. McConnell,,PHI,False,True
+hendege02,29.85,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,4.0,3.0,Gerald Henderson,,PHI,False,False
+stausni01,29.733333333333334,3.0,11.0,0.273,2.0,6.0,0.333,4.0,4.0,1.0,0.0,4.0,4.0,3.0,1.0,0.0,3.0,3.0,12.0,-3.0,Nik Stauskas,,PHI,False,False
+splitti01,21.616666666666667,5.0,12.0,0.417,1.0,3.0,0.333,1.0,2.0,0.5,3.0,2.0,5.0,0.0,1.0,0.0,1.0,3.0,12.0,-9.0,Tiago Splitter,,PHI,False,False
+longsh01,17.0,4.0,13.0,0.308,0.0,2.0,0.0,0.0,0.0,,8.0,1.0,9.0,0.0,1.0,0.0,1.0,5.0,8.0,-9.0,Shawn Long,,PHI,False,False
+covinro01,,,,,,,,,,,,,,,,,,,,,Robert Covington,Did Not Dress,PHI,False,False
+okafoja01,,,,,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Dress,PHI,False,False
+rodrise01,,,,,,,,,,,,,,,,,,,,,Sergio Rodríguez,Did Not Dress,PHI,False,False
+saricda01,,,,,,,,,,,,,,,,,,,,,Dario Šarić,Did Not Dress,PHI,False,False
+bakerro01,29.35,3.0,6.0,0.5,1.0,3.0,0.333,1.0,2.0,0.5,0.0,1.0,1.0,4.0,0.0,0.0,2.0,1.0,8.0,-4.0,Ron Baker,,NYK,True,True
+ndourma01,24.816666666666666,2.0,6.0,0.333,0.0,0.0,,1.0,2.0,0.5,1.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,5.0,-18.0,Maurice Ndour,,NYK,True,True
+anthoca01,23.116666666666667,7.0,15.0,0.467,0.0,1.0,0.0,3.0,3.0,1.0,1.0,2.0,3.0,1.0,0.0,1.0,1.0,2.0,17.0,-8.0,Carmelo Anthony,,NYK,True,True
+leeco01,19.983333333333334,2.0,5.0,0.4,1.0,3.0,0.333,3.0,5.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,-11.0,Courtney Lee,,NYK,True,True
+hernawi01,18.133333333333333,1.0,2.0,0.5,0.0,0.0,,5.0,6.0,0.833,3.0,7.0,10.0,3.0,0.0,0.0,2.0,0.0,7.0,-4.0,Willy Hernangómez,,NYK,True,True
+plumlma02,26.45,7.0,11.0,0.636,0.0,0.0,,0.0,2.0,0.0,4.0,7.0,11.0,0.0,0.0,1.0,3.0,5.0,14.0,9.0,Marshall Plumlee,,NYK,True,False
+randlch01,25.85,5.0,8.0,0.625,1.0,2.0,0.5,1.0,1.0,1.0,0.0,2.0,2.0,0.0,2.0,0.0,4.0,3.0,12.0,4.0,Chasson Randle,,NYK,True,False
+vujacsa01,20.616666666666667,2.0,9.0,0.222,2.0,5.0,0.4,1.0,2.0,0.5,2.0,0.0,2.0,6.0,0.0,0.0,2.0,2.0,7.0,12.0,Sasha Vujačić,,NYK,True,False
+holidju01,20.483333333333334,6.0,10.0,0.6,2.0,5.0,0.4,6.0,7.0,0.857,1.0,4.0,5.0,1.0,2.0,1.0,2.0,1.0,20.0,12.0,Justin Holiday,,NYK,True,False
+kuzmimi01,18.116666666666667,4.0,7.0,0.571,1.0,2.0,0.5,2.0,2.0,1.0,3.0,1.0,4.0,0.0,0.0,0.0,2.0,1.0,11.0,16.0,Mindaugas Kuzminskas,,NYK,True,False
+oquinky01,13.083333333333334,2.0,4.0,0.5,1.0,1.0,1.0,0.0,0.0,,2.0,2.0,4.0,2.0,1.0,2.0,0.0,2.0,5.0,-3.0,Kyle O'Quinn,,NYK,True,False
+noahjo01,,,,,,,,,,,,,,,,,,,,,Joakim Noah,Player Suspended,NYK,True,False

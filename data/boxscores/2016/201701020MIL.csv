@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+westbru01,35.916666666666664,9.0,28.0,0.321,2.0,10.0,0.2,10.0,11.0,0.909,0.0,7.0,7.0,6.0,3.0,0.0,5.0,3.0,30.0,3.0,Russell Westbrook,,OKC,False,True
+oladivi01,34.766666666666666,7.0,12.0,0.583,4.0,7.0,0.571,0.0,0.0,,1.0,4.0,5.0,4.0,1.0,0.0,2.0,4.0,18.0,5.0,Victor Oladipo,,OKC,False,True
+adamsst01,34.15,9.0,11.0,0.818,0.0,0.0,,2.0,2.0,1.0,3.0,5.0,8.0,2.0,1.0,3.0,0.0,3.0,20.0,5.0,Steven Adams,,OKC,False,True
+sabondo01,25.816666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,1.0,2.0,0.0,11.0,Domantas Sabonis,,OKC,False,True
+roberan03,19.033333333333335,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,2.0,0.0,-1.0,Andre Roberson,,OKC,False,True
+grantje01,28.616666666666667,2.0,4.0,0.5,0.0,1.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,0.0,4.0,-5.0,Jerami Grant,,OKC,False,False
+kanteen01,22.033333333333335,1.0,6.0,0.167,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,0.0,3.0,2.0,-13.0,Enes Kanter,,OKC,False,False
+abrinal01,13.866666666666667,2.0,6.0,0.333,2.0,4.0,0.5,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,6.0,-9.0,Álex Abrines,,OKC,False,False
+lauvejo01,13.716666666666667,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,3.0,-9.0,Joffrey Lauvergne,,OKC,False,False
+chrisse01,12.083333333333334,5.0,6.0,0.833,1.0,2.0,0.5,0.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,11.0,-7.0,Semaj Christon,,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+morroan01,,,,,,,,,,,,,,,,,,,,,Anthony Morrow,Did Not Play,OKC,False,False
+singlky01,,,,,,,,,,,,,,,,,,,,,Kyle Singler,Did Not Play,OKC,False,False
+antetgi01,41.21666666666667,10.0,19.0,0.526,1.0,3.0,0.333,5.0,10.0,0.5,2.0,8.0,10.0,5.0,1.0,1.0,1.0,0.0,26.0,8.0,Giannis Antetokounmpo,,MIL,True,True
+parkeja01,41.0,7.0,17.0,0.412,2.0,4.0,0.5,3.0,4.0,0.75,2.0,4.0,6.0,2.0,0.0,1.0,4.0,2.0,19.0,1.0,Jabari Parker,,MIL,True,True
+brogdma01,32.333333333333336,3.0,12.0,0.25,1.0,4.0,0.25,5.0,5.0,1.0,0.0,2.0,2.0,5.0,0.0,0.0,2.0,5.0,12.0,-5.0,Malcolm Brogdon,,MIL,True,True
+snellto01,30.75,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,1.0,2.0,0.0,-4.0,Tony Snell,,MIL,True,True
+hensojo01,26.633333333333333,6.0,7.0,0.857,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,1.0,1.0,1.0,0.0,3.0,12.0,-5.0,John Henson,,MIL,True,True
+monrogr01,27.033333333333335,7.0,10.0,0.7,0.0,0.0,,1.0,4.0,0.25,1.0,7.0,8.0,2.0,1.0,1.0,1.0,2.0,15.0,10.0,Greg Monroe,,MIL,True,False
+terryja01,15.6,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,3.0,12.0,Jason Terry,,MIL,True,False
+teletmi01,15.55,3.0,7.0,0.429,2.0,5.0,0.4,1.0,1.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,9.0,1.0,Mirza Teletović,,MIL,True,False
+beaslmi01,9.883333333333333,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,Michael Beasley,,MIL,True,False
+dellama01,,,,,,,,,,,,,,,,,,,,,Matthew Dellavedova,Did Not Dress,MIL,True,False
+makerth01,,,,,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,MIL,True,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,MIL,True,False
+plumlmi01,,,,,,,,,,,,,,,,,,,,,Miles Plumlee,Did Not Play,MIL,True,False

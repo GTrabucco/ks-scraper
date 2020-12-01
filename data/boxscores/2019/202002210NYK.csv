@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+sabondo01,37.15,8.0,16.0,0.5,0.0,0.0,,8.0,10.0,0.8,4.0,9.0,13.0,3.0,1.0,1.0,3.0,4.0,24.0,7.0,Domantas Sabonis,,IND,False,True
+warretj01,36.6,10.0,21.0,0.476,2.0,5.0,0.4,5.0,5.0,1.0,3.0,5.0,8.0,3.0,2.0,1.0,1.0,5.0,27.0,10.0,T.J. Warren,,IND,False,True
+brogdma01,34.03333333333333,4.0,14.0,0.286,0.0,5.0,0.0,3.0,4.0,0.75,2.0,6.0,8.0,6.0,1.0,0.0,1.0,1.0,11.0,11.0,Malcolm Brogdon,,IND,False,True
+turnemy01,31.083333333333332,3.0,7.0,0.429,1.0,4.0,0.25,1.0,2.0,0.5,1.0,7.0,8.0,0.0,1.0,1.0,0.0,4.0,8.0,17.0,Myles Turner,,IND,False,True
+oladivi01,25.216666666666665,3.0,8.0,0.375,1.0,3.0,0.333,1.0,2.0,0.5,0.0,3.0,3.0,1.0,0.0,0.0,4.0,3.0,8.0,16.0,Victor Oladipo,,IND,False,True
+holidju01,24.75,2.0,6.0,0.333,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,2.0,0.0,3.0,6.0,-3.0,Justin Holiday,,IND,False,False
+lambje01,22.483333333333334,1.0,8.0,0.125,0.0,3.0,0.0,4.0,6.0,0.667,1.0,4.0,5.0,3.0,2.0,0.0,1.0,1.0,6.0,-10.0,Jeremy Lamb,,IND,False,False
+mccontj01,15.116666666666667,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,1.0,0.0,2.0,-3.0,T.J. McConnell,,IND,False,False
+mcderdo01,13.566666666666666,4.0,6.0,0.667,2.0,3.0,0.667,4.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,-5.0,Doug McDermott,,IND,False,False
+sampsja02,,,,,,,,,,,,,,,,,,,,,JaKarr Sampson,Did Not Play,IND,False,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,False,False
+bitadgo01,,,,,,,,,,,,,,,,,,,,,Goga Bitadze,Did Not Play,IND,False,False
+holidaa01,,,,,,,,,,,,,,,,,,,,,Aaron Holiday,Did Not Play,IND,False,False
+ntilila01,32.06666666666667,5.0,11.0,0.455,2.0,4.0,0.5,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,0.0,0.0,2.0,14.0,-5.0,Frank Ntilikina,,NYK,True,True
+randlju01,29.533333333333335,2.0,9.0,0.222,0.0,1.0,0.0,3.0,6.0,0.5,0.0,7.0,7.0,4.0,1.0,0.0,2.0,4.0,7.0,-10.0,Julius Randle,,NYK,True,True
+barrerj01,26.8,8.0,19.0,0.421,0.0,5.0,0.0,1.0,3.0,0.333,0.0,4.0,4.0,2.0,0.0,0.0,3.0,2.0,17.0,-11.0,RJ Barrett,,NYK,True,True
+bullore01,18.5,2.0,4.0,0.5,2.0,2.0,1.0,3.0,4.0,0.75,1.0,3.0,4.0,1.0,1.0,0.0,1.0,2.0,9.0,-3.0,Reggie Bullock,,NYK,True,True
+gibsota01,15.633333333333333,3.0,4.0,0.75,0.0,0.0,,2.0,4.0,0.5,0.0,3.0,3.0,0.0,0.0,1.0,0.0,1.0,8.0,-14.0,Taj Gibson,,NYK,True,True
+portibo01,27.683333333333334,6.0,11.0,0.545,3.0,5.0,0.6,4.0,4.0,1.0,1.0,5.0,6.0,1.0,0.0,1.0,4.0,2.0,19.0,10.0,Bobby Portis,,NYK,True,False
+dotsoda01,22.566666666666666,2.0,8.0,0.25,2.0,4.0,0.5,0.0,0.0,,0.0,3.0,3.0,3.0,1.0,0.0,0.0,1.0,6.0,-3.0,Damyean Dotson,,NYK,True,False
+knoxke01,17.3,1.0,3.0,0.333,0.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,2.0,5.0,4.0,3.0,Kevin Knox,,NYK,True,False
+robinmi01,17.183333333333334,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,0.0,0.0,4.0,1.0,5.0,8.0,4.0,Mitchell Robinson,,NYK,True,False
+harklma01,16.8,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,3.0,-8.0,Maurice Harkless,,NYK,True,False
+smithde03,15.933333333333334,1.0,6.0,0.167,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,6.0,2.0,0.0,1.0,2.0,3.0,-3.0,Dennis Smith,,NYK,True,False
+ellinwa01,,,,,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,NYK,True,False
+trieral01,,,,,,,,,,,,,,,,,,,,,Allonzo Trier,Did Not Play,NYK,True,False

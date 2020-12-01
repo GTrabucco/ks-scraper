@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+vanvlfr01,41.1,7.0,20.0,0.35,5.0,12.0,0.417,3.0,5.0,0.6,1.0,4.0,5.0,4.0,7.0,0.0,3.0,1.0,22.0,9.0,Fred VanVleet,,TOR,False,True
+siakapa01,39.55,4.0,22.0,0.182,1.0,7.0,0.143,1.0,3.0,0.333,5.0,8.0,13.0,5.0,1.0,1.0,3.0,2.0,10.0,13.0,Pascal Siakam,,TOR,False,True
+powelno01,38.63333333333333,12.0,18.0,0.667,5.0,8.0,0.625,4.0,4.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,2.0,4.0,33.0,-3.0,Norman Powell,,TOR,False,True
+anunoog01,35.46666666666667,1.0,5.0,0.2,0.0,3.0,0.0,0.0,2.0,0.0,1.0,6.0,7.0,4.0,3.0,0.0,2.0,5.0,2.0,-1.0,OG Anunoby,,TOR,False,True
+gasolma01,32.233333333333334,1.0,6.0,0.167,0.0,4.0,0.0,4.0,4.0,1.0,1.0,6.0,7.0,1.0,0.0,0.0,0.0,4.0,6.0,10.0,Marc Gasol,,TOR,False,True
+holliro01,21.783333333333335,2.0,3.0,0.667,0.0,0.0,,2.0,2.0,1.0,3.0,3.0,6.0,3.0,1.0,0.0,2.0,0.0,6.0,6.0,Rondae Hollis-Jefferson,,TOR,False,False
+daviste02,14.85,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,0.0,0.0,3.0,4.0,0.0,Terence Davis,,TOR,False,False
+bouchch01,11.883333333333333,2.0,4.0,0.5,0.0,1.0,0.0,3.0,6.0,0.5,0.0,3.0,3.0,1.0,1.0,2.0,1.0,0.0,7.0,-1.0,Chris Boucher,,TOR,False,False
+millema01,4.5,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,Malcolm Miller,,TOR,False,False
+brissos01,,,,,,,,,,,,,,,,,,,,,Oshae Brissett,Did Not Play,TOR,False,False
+hernade01,,,,,,,,,,,,,,,,,,,,,Dewan Hernandez,Did Not Dress,TOR,False,False
+fournev01,33.81666666666667,3.0,9.0,0.333,1.0,6.0,0.167,12.0,14.0,0.857,0.0,4.0,4.0,6.0,2.0,0.0,4.0,2.0,19.0,10.0,Evan Fournier,,ORL,True,True
+gordoaa01,31.733333333333334,2.0,11.0,0.182,1.0,4.0,0.25,3.0,4.0,0.75,1.0,7.0,8.0,2.0,2.0,1.0,0.0,2.0,8.0,0.0,Aaron Gordon,,ORL,True,True
+fultzma01,29.8,5.0,12.0,0.417,1.0,3.0,0.333,4.0,5.0,0.8,1.0,3.0,4.0,3.0,1.0,1.0,5.0,2.0,15.0,-4.0,Markelle Fultz,,ORL,True,True
+isaacjo01,29.35,4.0,13.0,0.308,0.0,3.0,0.0,0.0,0.0,,5.0,5.0,10.0,0.0,0.0,2.0,3.0,1.0,8.0,-13.0,Jonathan Isaac,,ORL,True,True
+birchkh01,27.4,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,1.0,11.0,12.0,0.0,1.0,3.0,2.0,6.0,4.0,-5.0,Khem Birch,,ORL,True,True
+augusdj01,26.4,2.0,7.0,0.286,1.0,4.0,0.25,1.0,1.0,1.0,0.0,3.0,3.0,4.0,2.0,0.0,2.0,1.0,6.0,-5.0,D.J. Augustin,,ORL,True,False
+rosste01,26.383333333333333,3.0,9.0,0.333,1.0,5.0,0.2,0.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,2.0,1.0,3.0,7.0,-8.0,Terrence Ross,,ORL,True,False
+aminual01,18.266666666666666,2.0,7.0,0.286,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,1.0,2.0,0.0,2.0,0.0,5.0,-7.0,Al-Farouq Aminu,,ORL,True,False
+bambamo01,16.85,4.0,6.0,0.667,1.0,1.0,1.0,2.0,2.0,1.0,4.0,3.0,7.0,0.0,0.0,2.0,3.0,2.0,11.0,-3.0,Mohamed Bamba,,ORL,True,False
+magetjo01,,,,,,,,,,,,,,,,,,,,,Josh Magette,Did Not Play,ORL,True,False
+jeffeam01,,,,,,,,,,,,,,,,,,,,,Amile Jefferson,Did Not Play,ORL,True,False
+iwundwe01,,,,,,,,,,,,,,,,,,,,,Wesley Iwundu,Did Not Play,ORL,True,False
+frazime01,,,,,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,True,False

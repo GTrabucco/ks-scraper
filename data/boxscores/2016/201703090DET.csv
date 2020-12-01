@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+irvinky01,39.86666666666667,11.0,22.0,0.5,1.0,6.0,0.167,4.0,6.0,0.667,1.0,4.0,5.0,3.0,0.0,1.0,3.0,1.0,27.0,-7.0,Kyrie Irving,,CLE,False,True
+jamesle01,39.083333333333336,12.0,22.0,0.545,0.0,6.0,0.0,5.0,8.0,0.625,4.0,10.0,14.0,10.0,1.0,0.0,3.0,1.0,29.0,18.0,LeBron James,,CLE,False,True
+shumpim01,35.38333333333333,3.0,8.0,0.375,2.0,5.0,0.4,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,2.0,1.0,8.0,6.0,Iman Shumpert,,CLE,False,True
+jefferi01,33.65,3.0,6.0,0.5,1.0,3.0,0.333,2.0,2.0,1.0,0.0,7.0,7.0,2.0,0.0,0.0,1.0,6.0,9.0,21.0,Richard Jefferson,,CLE,False,True
+thomptr01,25.966666666666665,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,0.0,3.0,1.0,4.0,4.0,1.0,0.0,0.0,4.0,4.0,-22.0,Tristan Thompson,,CLE,False,True
+fryech01,21.95,5.0,7.0,0.714,5.0,7.0,0.714,0.0,0.0,,0.0,9.0,9.0,0.0,1.0,0.0,0.0,2.0,15.0,18.0,Channing Frye,,CLE,False,False
+smithjr01,19.15,1.0,9.0,0.111,1.0,8.0,0.125,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,-28.0,J.R. Smith,,CLE,False,False
+willide01,16.6,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,1.0,4.0,-11.0,Deron Williams,,CLE,False,False
+willide02,8.366666666666667,1.0,4.0,0.25,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,-20.0,Derrick Williams,,CLE,False,False
+jonesja02,,,,,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,False,False
+korveky01,,,,,,,,,,,,,,,,,,,,,Kyle Korver,Did Not Dress,CLE,False,False
+liggide01,,,,,,,,,,,,,,,,,,,,,DeAndre Liggins,Did Not Play,CLE,False,False
+harrito02,41.266666666666666,5.0,18.0,0.278,0.0,3.0,0.0,5.0,6.0,0.833,3.0,6.0,9.0,2.0,0.0,1.0,0.0,1.0,15.0,7.0,Tobias Harris,,DET,True,True
+drumman01,35.766666666666666,10.0,14.0,0.714,0.0,0.0,,0.0,1.0,0.0,7.0,9.0,16.0,4.0,0.0,0.0,1.0,3.0,20.0,9.0,Andre Drummond,,DET,True,True
+caldwke01,33.55,5.0,10.0,0.5,4.0,7.0,0.571,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,15.0,-9.0,Kentavious Caldwell-Pope,,DET,True,True
+morrima03,31.983333333333334,4.0,11.0,0.364,2.0,7.0,0.286,2.0,2.0,1.0,0.0,5.0,5.0,3.0,2.0,0.0,1.0,2.0,12.0,11.0,Marcus Morris,,DET,True,True
+jacksre01,31.083333333333332,8.0,16.0,0.5,1.0,3.0,0.333,4.0,4.0,1.0,1.0,1.0,2.0,5.0,1.0,0.0,3.0,3.0,21.0,13.0,Reggie Jackson,,DET,True,True
+johnsst04,17.933333333333334,3.0,6.0,0.5,0.0,3.0,0.0,2.0,3.0,0.667,0.0,5.0,5.0,1.0,1.0,0.0,1.0,3.0,8.0,1.0,Stanley Johnson,,DET,True,False
+smithis01,16.916666666666668,5.0,9.0,0.556,1.0,1.0,1.0,1.0,2.0,0.5,0.0,3.0,3.0,3.0,1.0,0.0,1.0,0.0,12.0,-8.0,Ish Smith,,DET,True,False
+bullore01,14.45,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,0.0,1.0,3.0,14.0,Reggie Bullock,,DET,True,False
+leuerjo01,12.666666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,-11.0,Jon Leuer,,DET,True,False
+baynear01,4.383333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Aron Baynes,,DET,True,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DET,True,False
+udrihbe01,,,,,,,,,,,,,,,,,,,,,Beno Udrih,Did Not Play,DET,True,False

@@ -4,6 +4,7 @@ import dateutil.parser
 from datetime import date, datetime, timedelta
 from abc import ABC, abstractmethod
 import statistics
+import re
 
 DATA_START_DATE = '1/1/2015'
 
@@ -14,7 +15,7 @@ class Base(ABC):
 		self.path = path
 		self.start_date = start_date if isinstance(start_date, date) or start_date == None else datetime.strptime(start_date, '%Y-%m-%d').date()
 		self.end_date = end_date if isinstance(end_date, date) or end_date == None else datetime.strptime(end_date, '%Y-%m-%d').date()
-		self.season = season
+		self.season = int(season) if season != None else None
 		self.wins = 0
 		self.losses = 0
 		self.win_pct = 0
@@ -32,10 +33,12 @@ class Base(ABC):
 		self.avg_line = 0
 		self.avg_home_line = 0
 		self.avg_away_line = 0
+		self.avg_home_score = 0
+		self.avg_away_score = 0
 		self._initialize_data()
 
 	def _initialize_data(self):
-		self._initialize_schedule(self.start_date, self.end_date, self.season)
+		self._initialize_schedule()
 		self.wins = len([x for x in self.schedule if x.su_record == 'W'])
 		self.losses = len([x for x in self.schedule if x.su_record == 'L'])
 		self.win_pct = self.wins/(self.wins+self.losses) if self.wins > 0 else 0
@@ -53,27 +56,37 @@ class Base(ABC):
 		self.avg_line = 0 if len(self.schedule) == 0 else statistics.mean([x.line for x in self.schedule])
 		self.avg_home_line = 0 if len(self.schedule) == 0 or len([x.total for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.line for x in self.schedule if x.site == 'home'])
 		self.avg_away_line = 0 if len(self.schedule) == 0 or len([x.total for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.line for x in self.schedule if x.site == 'away'])
+		self.avg_home_score = 0 if len(self.schedule) == 0 or len([x.score for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.score for x in self.schedule if x.site == 'home'])
+		self.avg_away_score = 0 if len(self.schedule) == 0 or len([x.score for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.score for x in self.schedule if x.site == 'away'])
+		self.avg_home_opp_score = 0 if len(self.schedule) == 0 or len([x.opponent_score for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.opponent_score for x in self.schedule if x.site == 'home'])
+		self.avg_away_opp_score = 0 if len(self.schedule) == 0 or len([x.opponent_score for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.opponent_score for x in self.schedule if x.site == 'away'])
 
 	def _insert_matchup(self, matchup):
 		self.schedule.append(matchup)
 
-	def _initialize_schedule(self, start_date, end_date, season):
+	def _initialize_schedule(self):
 		try:
 			with open(self.path, 'r') as csvfile:
 				reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
 				next(reader, None)
+				count = 0
 				for raw_row in reader:
 					row = str(raw_row).split(',')
-					m = Matchup(row[0] + row[1] + row[3], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22])	
-					if (start_date is not None and start_date > m.date) or (season is not None and m.season != season):
+					d = row[0] + row[1] + row[3]
+					formatted_date = re.sub('[^0-9a-zA-Z]+', '', d)
+					matchup_date = datetime.strptime(datetime.strptime(formatted_date, "%b%d%Y").strftime("%m/%d/%Y"), "%m/%d/%Y").date()
+					matchup_season = int(row[6])
+					if (self.start_date is not None and self.start_date > matchup_date or (self.season is not None and matchup_season < self.season)):
 						continue
-					elif end_date is not None and end_date < m.date:
+					elif self.end_date is not None and self.end_date < matchup_date or (self.season is not None and matchup_season > self.season):
 						break
-					self._insert_matchup(m)
+					else:
+						m = Matchup(matchup_date, row[5], matchup_season, row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22])		
+						self._insert_matchup(m)
+						count = count + 1
 			csvfile.close()
 		except Exception as e:
-			print('_initialize_schedule()', e)
-			print(raw_row)
+			print('_initialize_schedule()', raw_row, e)
 			exit()
 
 	def get_matchup_by_date(self, date):	

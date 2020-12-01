@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+millspa01,35.28333333333333,6.0,8.0,0.75,2.0,2.0,1.0,1.0,2.0,0.5,0.0,6.0,6.0,2.0,3.0,1.0,3.0,1.0,15.0,5.0,Paul Millsap,,DEN,False,True
+jokicni01,34.93333333333333,6.0,12.0,0.5,2.0,4.0,0.5,1.0,1.0,1.0,3.0,3.0,6.0,11.0,0.0,0.0,1.0,1.0,15.0,-10.0,Nikola Jokić,,DEN,False,True
+harriga01,29.233333333333334,6.0,15.0,0.4,1.0,4.0,0.25,2.0,4.0,0.5,4.0,1.0,5.0,1.0,2.0,0.0,0.0,3.0,15.0,-12.0,Gary Harris,,DEN,False,True
+murraja01,26.05,7.0,14.0,0.5,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,2.0,0.0,2.0,1.0,3.0,15.0,-10.0,Jamal Murray,,DEN,False,True
+bartowi01,19.85,5.0,10.0,0.5,1.0,3.0,0.333,2.0,2.0,1.0,1.0,3.0,4.0,1.0,0.0,0.0,1.0,4.0,13.0,-18.0,Will Barton,,DEN,False,True
+plumlma01,25.783333333333335,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,1.0,10.0,11.0,4.0,1.0,0.0,1.0,2.0,4.0,15.0,Mason Plumlee,,DEN,False,False
+craigto01,25.233333333333334,6.0,11.0,0.545,3.0,6.0,0.5,0.0,0.0,,0.0,1.0,1.0,4.0,1.0,1.0,0.0,4.0,15.0,19.0,Torrey Craig,,DEN,False,False
+morrimo01,22.883333333333333,4.0,5.0,0.8,2.0,2.0,1.0,1.0,2.0,0.5,0.0,0.0,0.0,4.0,1.0,0.0,1.0,1.0,11.0,15.0,Monte Morris,,DEN,False,False
+beaslma01,20.75,4.0,9.0,0.444,2.0,5.0,0.4,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,10.0,21.0,Malik Beasley,,DEN,False,False
+vandeja01,,,,,,,,,,,,,,,,,,,,,Jarred Vanderbilt,Did Not Play,DEN,False,False
+welshth01,,,,,,,,,,,,,,,,,,,,,Thomas Welsh,Did Not Play,DEN,False,False
+hernaju01,,,,,,,,,,,,,,,,,,,,,Juan Hernangómez,Did Not Play,DEN,False,False
+thomais02,,,,,,,,,,,,,,,,,,,,,Isaiah Thomas,Did Not Play,DEN,False,False
+bealbr01,36.45,10.0,19.0,0.526,2.0,7.0,0.286,3.0,3.0,1.0,0.0,2.0,2.0,8.0,3.0,0.0,2.0,2.0,25.0,8.0,Bradley Beal,,WAS,True,True
+portibo01,35.86666666666667,6.0,11.0,0.545,3.0,6.0,0.5,3.0,3.0,1.0,0.0,8.0,8.0,1.0,0.0,0.0,1.0,4.0,18.0,11.0,Bobby Portis,,WAS,True,True
+bryanth01,35.45,9.0,11.0,0.818,0.0,1.0,0.0,4.0,5.0,0.8,1.0,7.0,8.0,0.0,0.0,2.0,0.0,3.0,22.0,6.0,Thomas Bryant,,WAS,True,True
+satorto01,34.416666666666664,5.0,7.0,0.714,2.0,3.0,0.667,4.0,4.0,1.0,2.0,2.0,4.0,10.0,1.0,0.0,4.0,2.0,16.0,0.0,Tomáš Satoranský,,WAS,True,True
+browntr01,32.81666666666667,6.0,10.0,0.6,0.0,2.0,0.0,1.0,1.0,1.0,1.0,4.0,5.0,3.0,0.0,0.0,2.0,1.0,13.0,2.0,Troy Brown,,WAS,True,True
+parkeja01,21.55,3.0,11.0,0.273,0.0,3.0,0.0,0.0,0.0,,2.0,6.0,8.0,1.0,0.0,0.0,2.0,2.0,6.0,-21.0,Jabari Parker,,WAS,True,False
+greenje02,21.15,1.0,6.0,0.167,1.0,4.0,0.25,2.0,2.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,5.0,-14.0,Jeff Green,,WAS,True,False
+randlch01,15.65,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,-16.0,Chasson Randle,,WAS,True,False
+johnswe01,6.65,0.0,1.0,0.0,0.0,0.0,,3.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,-1.0,Wesley Johnson,,WAS,True,False
+dekkesa01,,,,,,,,,,,,,,,,,,,,,Sam Dekker,Did Not Play,WAS,True,False
+arizatr01,,,,,,,,,,,,,,,,,,,,,Trevor Ariza,Did Not Dress,WAS,True,False
+mahinia01,,,,,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Play,WAS,True,False

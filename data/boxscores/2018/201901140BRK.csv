@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+tatumja01,35.61666666666667,12.0,19.0,0.632,3.0,5.0,0.6,7.0,11.0,0.636,0.0,5.0,5.0,3.0,1.0,3.0,0.0,3.0,34.0,-13.0,Jayson Tatum,,BOS,False,True
+brownja02,32.38333333333333,9.0,18.0,0.5,2.0,6.0,0.333,2.0,3.0,0.667,2.0,4.0,6.0,0.0,2.0,1.0,0.0,4.0,22.0,14.0,Jaylen Brown,,BOS,False,True
+roziete01,25.25,3.0,12.0,0.25,1.0,6.0,0.167,0.0,0.0,,1.0,3.0,4.0,5.0,1.0,0.0,3.0,0.0,7.0,-11.0,Terry Rozier,,BOS,False,True
+morrima03,24.266666666666666,3.0,11.0,0.273,1.0,4.0,0.25,1.0,1.0,1.0,0.0,6.0,6.0,0.0,0.0,0.0,3.0,1.0,8.0,-15.0,Marcus Morris,,BOS,False,True
+horfoal01,19.75,3.0,5.0,0.6,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,4.0,0.0,0.0,1.0,3.0,8.0,-4.0,Al Horford,,BOS,False,True
+wanambr01,25.833333333333332,4.0,11.0,0.364,3.0,7.0,0.429,2.0,2.0,1.0,1.0,2.0,3.0,4.0,2.0,0.0,1.0,3.0,13.0,11.0,Brad Wanamaker,,BOS,False,False
+haywago01,24.916666666666668,1.0,6.0,0.167,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,1.0,3.0,-22.0,Gordon Hayward,,BOS,False,False
+theisda01,18.416666666666668,1.0,2.0,0.5,0.0,1.0,0.0,3.0,4.0,0.75,2.0,2.0,4.0,2.0,2.0,1.0,0.0,3.0,5.0,5.0,Daniel Theis,,BOS,False,False
+yabusgu01,12.533333333333333,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,14.0,Guerschon Yabusele,,BOS,False,False
+ojelese01,11.2,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,-6.0,Semi Ojeleye,,BOS,False,False
+williro04,9.833333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,1.0,0.0,2.0,0.0,-8.0,Robert Williams,,BOS,False,False
+doziepj01,,,,,,,,,,,,,,,,,,,,,PJ Dozier,Did Not Play,BOS,False,False
+russeda01,37.06666666666667,13.0,26.0,0.5,7.0,13.0,0.538,1.0,2.0,0.5,1.0,4.0,5.0,7.0,1.0,1.0,5.0,2.0,34.0,2.0,D'Angelo Russell,,BRK,True,True
+harrijo01,34.9,4.0,10.0,0.4,1.0,6.0,0.167,4.0,4.0,1.0,0.0,8.0,8.0,3.0,1.0,0.0,3.0,0.0,13.0,10.0,Joe Harris,,BRK,True,True
+kurucro01,33.21666666666667,7.0,11.0,0.636,2.0,4.0,0.5,3.0,3.0,1.0,3.0,1.0,4.0,1.0,2.0,0.0,1.0,3.0,19.0,-7.0,Rodions Kurucs,,BRK,True,True
+allenja01,33.03333333333333,5.0,9.0,0.556,0.0,0.0,,9.0,10.0,0.9,5.0,7.0,12.0,2.0,1.0,4.0,3.0,0.0,19.0,13.0,Jarrett Allen,,BRK,True,True
+grahatr01,26.9,0.0,5.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,4.0,0.0,7.0,Treveon Graham,,BRK,True,True
+carrode01,32.833333333333336,2.0,15.0,0.133,1.0,8.0,0.125,5.0,6.0,0.833,2.0,12.0,14.0,2.0,0.0,1.0,1.0,2.0,10.0,10.0,DeMarre Carroll,,BRK,True,False
+dinwisp01,27.7,3.0,6.0,0.5,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,1.0,3.0,4.0,8.0,6.0,Spencer Dinwiddie,,BRK,True,False
+davised01,14.35,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,0.0,0.0,0.0,1.0,5.0,6.0,-6.0,Ed Davis,,BRK,True,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,BRK,True,False
+pinsoth01,,,,,,,,,,,,,,,,,,,,,Theo Pinson,Did Not Play,BRK,True,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,BRK,True,False
+willial03,,,,,,,,,,,,,,,,,,,,,Alan Williams,Did Not Play,BRK,True,False

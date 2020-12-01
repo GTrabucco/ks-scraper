@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+drumman01,37.2,8.0,13.0,0.615,0.0,0.0,,6.0,8.0,0.75,6.0,11.0,17.0,2.0,0.0,3.0,3.0,4.0,22.0,-6.0,Andre Drummond,,DET,False,True
+bullore01,33.36666666666667,6.0,14.0,0.429,2.0,4.0,0.5,2.0,2.0,1.0,1.0,3.0,4.0,3.0,2.0,0.0,1.0,1.0,16.0,-1.0,Reggie Bullock,,DET,False,True
+tollian01,31.316666666666666,5.0,9.0,0.556,4.0,8.0,0.5,3.0,4.0,0.75,0.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,17.0,-3.0,Anthony Tolliver,,DET,False,True
+jacksre01,24.883333333333333,8.0,17.0,0.471,1.0,3.0,0.333,0.0,2.0,0.0,1.0,1.0,2.0,5.0,1.0,0.0,0.0,1.0,17.0,7.0,Reggie Jackson,,DET,False,True
+johnsst04,23.35,4.0,8.0,0.5,0.0,3.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,10.0,-12.0,Stanley Johnson,,DET,False,True
+smithis01,22.983333333333334,4.0,9.0,0.444,0.0,1.0,0.0,0.0,0.0,,0.0,4.0,4.0,6.0,0.0,0.0,1.0,1.0,8.0,-1.0,Ish Smith,,DET,False,False
+ennisja01,21.383333333333333,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,9.0,15.0,James Ennis,,DET,False,False
+kennalu01,18.033333333333335,1.0,4.0,0.25,1.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,5.0,10.0,Luke Kennard,,DET,False,False
+ellenhe01,16.683333333333334,3.0,4.0,0.75,1.0,2.0,0.5,2.0,2.0,1.0,1.0,3.0,4.0,3.0,0.0,0.0,0.0,1.0,9.0,9.0,Henry Ellenson,,DET,False,False
+moreler01,10.8,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,0.0,1.0,1.0,2.0,2.0,2.0,12.0,Eric Moreland,,DET,False,False
+nelsoja01,,,,,,,,,,,,,,,,,,,,,Jameer Nelson,Did Not Play,DET,False,False
+gallola01,,,,,,,,,,,,,,,,,,,,,Langston Galloway,Did Not Play,DET,False,False
+buyckdw01,,,,,,,,,,,,,,,,,,,,,Dwight Buycks,Did Not Play,DET,False,False
+burketr01,38.35,7.0,17.0,0.412,2.0,5.0,0.4,2.0,2.0,1.0,1.0,4.0,5.0,15.0,1.0,0.0,1.0,5.0,18.0,-1.0,Trey Burke,,NYK,True,True
+hardati02,35.53333333333333,7.0,17.0,0.412,3.0,7.0,0.429,1.0,1.0,1.0,0.0,2.0,2.0,3.0,1.0,0.0,2.0,1.0,18.0,10.0,Tim Hardaway,,NYK,True,True
+willitr02,32.8,3.0,8.0,0.375,2.0,3.0,0.667,3.0,3.0,1.0,2.0,2.0,4.0,2.0,1.0,0.0,2.0,2.0,11.0,6.0,Troy Williams,,NYK,True,True
+oquinky01,32.15,3.0,5.0,0.6,0.0,1.0,0.0,2.0,2.0,1.0,4.0,11.0,15.0,3.0,0.0,1.0,2.0,2.0,8.0,8.0,Kyle O'Quinn,,NYK,True,True
+beaslmi01,28.983333333333334,14.0,21.0,0.667,3.0,4.0,0.75,1.0,1.0,1.0,0.0,4.0,4.0,3.0,1.0,0.0,2.0,4.0,32.0,1.0,Michael Beasley,,NYK,True,True
+mudiaem01,20.133333333333333,2.0,6.0,0.333,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,2.0,0.0,0.0,3.0,1.0,4.0,-16.0,Emmanuel Mudiay,,NYK,True,False
+dotsoda01,17.183333333333334,3.0,4.0,0.75,0.0,0.0,,1.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,7.0,-17.0,Damyean Dotson,,NYK,True,False
+kornelu01,15.85,1.0,5.0,0.2,1.0,5.0,0.2,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,0.0,1.0,1.0,3.0,-14.0,Luke Kornet,,NYK,True,False
+thomala01,13.85,2.0,5.0,0.4,2.0,2.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,6.0,-12.0,Lance Thomas,,NYK,True,False
+hicksis01,5.166666666666667,1.0,3.0,0.333,0.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,Isaiah Hicks,,NYK,True,False
+ntilila01,,,,,,,,,,,,,,,,,,,,,Frank Ntilikina,Did Not Dress,NYK,True,False
+jackja01,,,,,,,,,,,,,,,,,,,,,Jarrett Jack,Did Not Play,NYK,True,False

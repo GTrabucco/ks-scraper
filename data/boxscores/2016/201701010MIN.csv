@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+crabbal01,40.06666666666667,4.0,10.0,0.4,1.0,5.0,0.2,1.0,2.0,0.5,0.0,8.0,8.0,1.0,0.0,1.0,2.0,3.0,10.0,14.0,Allen Crabbe,,POR,False,True
+mccolcj01,39.233333333333334,16.0,25.0,0.64,3.0,6.0,0.5,8.0,9.0,0.889,1.0,4.0,5.0,3.0,3.0,1.0,3.0,3.0,43.0,7.0,CJ McCollum,,POR,False,True
+aminual01,35.65,1.0,7.0,0.143,0.0,2.0,0.0,0.0,0.0,,0.0,6.0,6.0,3.0,2.0,0.0,0.0,3.0,2.0,10.0,Al-Farouq Aminu,,POR,False,True
+harklma01,32.61666666666667,3.0,7.0,0.429,0.0,2.0,0.0,2.0,3.0,0.667,1.0,4.0,5.0,1.0,2.0,2.0,0.0,2.0,8.0,10.0,Maurice Harkless,,POR,False,True
+plumlma01,29.0,6.0,9.0,0.667,0.0,0.0,,6.0,10.0,0.6,2.0,6.0,8.0,3.0,1.0,0.0,2.0,2.0,18.0,11.0,Mason Plumlee,,POR,False,True
+turneev01,29.733333333333334,5.0,7.0,0.714,1.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,3.0,1.0,2.0,4.0,4.0,2.0,11.0,-10.0,Evan Turner,,POR,False,False
+leoname01,10.433333333333334,0.0,6.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,Meyers Leonard,,POR,False,False
+napiesh01,8.766666666666667,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,3.0,-1.0,Shabazz Napier,,POR,False,False
+davised01,8.0,0.0,0.0,,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,-3.0,Ed Davis,,POR,False,False
+vonleno01,6.5,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,-6.0,Noah Vonleh,,POR,False,False
+connapa01,,,,,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,POR,False,False
+laymaja01,,,,,,,,,,,,,,,,,,,,,Jake Layman,Did Not Play,POR,False,False
+quartti01,,,,,,,,,,,,,,,,,,,,,Tim Quarterman,Did Not Play,POR,False,False
+dienggo01,37.61666666666667,5.0,13.0,0.385,0.0,0.0,,2.0,2.0,1.0,2.0,7.0,9.0,2.0,2.0,0.0,1.0,5.0,12.0,-14.0,Gorgui Dieng,,MIN,True,True
+wiggian01,37.56666666666667,10.0,20.0,0.5,1.0,3.0,0.333,3.0,7.0,0.429,3.0,2.0,5.0,1.0,1.0,0.0,5.0,1.0,24.0,-17.0,Andrew Wiggins,,MIN,True,True
+lavinza01,35.666666666666664,5.0,12.0,0.417,2.0,5.0,0.4,1.0,3.0,0.333,1.0,2.0,3.0,1.0,1.0,0.0,2.0,3.0,13.0,-1.0,Zach LaVine,,MIN,True,True
+townska01,33.61666666666667,3.0,15.0,0.2,0.0,6.0,0.0,5.0,5.0,1.0,4.0,9.0,13.0,6.0,1.0,1.0,3.0,2.0,11.0,-8.0,Karl-Anthony Towns,,MIN,True,True
+rubiori01,26.75,0.0,5.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,3.0,1.0,-18.0,Ricky Rubio,,MIN,True,True
+muhamsh01,22.7,5.0,11.0,0.455,2.0,4.0,0.5,0.0,0.0,,1.0,5.0,6.0,0.0,1.0,0.0,2.0,3.0,12.0,6.0,Shabazz Muhammad,,MIN,True,False
+dunnkr01,21.25,5.0,7.0,0.714,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,4.0,1.0,3.0,2.0,3.0,11.0,12.0,Kris Dunn,,MIN,True,False
+bjeline01,14.95,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,1.0,4.0,5.0,2.0,Nemanja Bjelica,,MIN,True,False
+aldrico01,9.8,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,0.0,1.0,1.0,0.0,1.0,0.0,8.0,Cole Aldrich,,MIN,True,False
+jonesty01,0.06666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tyus Jones,,MIN,True,False
+hilljo01,,,,,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,MIN,True,False
+paynead01,,,,,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,True,False
+rushbr01,,,,,,,,,,,,,,,,,,,,,Brandon Rush,Did Not Play,MIN,True,False

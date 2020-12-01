@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+brogdma01,42.9,11.0,17.0,0.647,4.0,7.0,0.571,8.0,8.0,1.0,0.0,7.0,7.0,14.0,2.0,0.0,5.0,5.0,34.0,-7.0,Malcolm Brogdon,,IND,False,True
+warretj01,40.36666666666667,8.0,18.0,0.444,0.0,3.0,0.0,7.0,7.0,1.0,1.0,5.0,6.0,2.0,5.0,1.0,3.0,4.0,23.0,-6.0,T.J. Warren,,IND,False,True
+turnemy01,38.06666666666667,5.0,9.0,0.556,1.0,2.0,0.5,4.0,8.0,0.5,4.0,8.0,12.0,1.0,0.0,3.0,2.0,4.0,15.0,-2.0,Myles Turner,,IND,False,True
+oladivi01,33.81666666666667,8.0,21.0,0.381,3.0,10.0,0.3,1.0,2.0,0.5,0.0,4.0,4.0,1.0,1.0,0.0,3.0,6.0,20.0,-5.0,Victor Oladipo,,IND,False,True
+holidju01,32.3,3.0,8.0,0.375,3.0,7.0,0.429,0.0,0.0,,2.0,1.0,3.0,1.0,1.0,1.0,0.0,2.0,9.0,5.0,Justin Holiday,,IND,False,True
+holidaa01,22.166666666666668,4.0,5.0,0.8,1.0,2.0,0.5,1.0,3.0,0.333,0.0,1.0,1.0,2.0,1.0,0.0,1.0,4.0,10.0,-12.0,Aaron Holiday,,IND,False,False
+mcderdo01,15.783333333333333,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,-9.0,Doug McDermott,,IND,False,False
+sampsja02,9.933333333333334,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,4.0,2.0,-7.0,JaKarr Sampson,,IND,False,False
+mccontj01,4.666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,-2.0,T.J. McConnell,,IND,False,False
+bitadgo01,,,,,,,,,,,,,,,,,,,,,Goga Bitadze,Did Not Play,IND,False,False
+sumneed01,,,,,,,,,,,,,,,,,,,,,Edmond Sumner,Did Not Play,IND,False,False
+johnsal02,,,,,,,,,,,,,,,,,,,,,Alize Johnson,Did Not Play,IND,False,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,False,False
+butleji01,36.85,5.0,16.0,0.313,0.0,2.0,0.0,17.0,20.0,0.85,4.0,4.0,8.0,4.0,3.0,1.0,5.0,2.0,27.0,-2.0,Jimmy Butler,,MIA,True,True
+dragigo01,35.583333333333336,8.0,17.0,0.471,5.0,10.0,0.5,3.0,5.0,0.6,0.0,2.0,2.0,6.0,3.0,0.0,3.0,1.0,24.0,3.0,Goran Dragić,,MIA,True,True
+adebaba01,33.483333333333334,7.0,11.0,0.636,0.0,0.0,,8.0,9.0,0.889,2.0,9.0,11.0,5.0,1.0,0.0,6.0,3.0,22.0,8.0,Bam Adebayo,,MIA,True,True
+crowdja01,27.55,2.0,8.0,0.25,2.0,8.0,0.25,5.0,6.0,0.833,1.0,7.0,8.0,1.0,2.0,0.0,0.0,2.0,11.0,1.0,Jae Crowder,,MIA,True,True
+robindu01,27.35,4.0,7.0,0.571,2.0,4.0,0.5,5.0,6.0,0.833,0.0,2.0,2.0,1.0,0.0,1.0,1.0,5.0,15.0,10.0,Duncan Robinson,,MIA,True,True
+herroty01,28.7,6.0,12.0,0.5,3.0,6.0,0.5,5.0,5.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,3.0,20.0,8.0,Tyler Herro,,MIA,True,False
+iguodan01,27.716666666666665,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,3.0,9.0,Andre Iguodala,,MIA,True,False
+olynyke01,13.533333333333333,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,9.0,9.0,0.0,0.0,0.0,1.0,2.0,2.0,1.0,Kelly Olynyk,,MIA,True,False
+jonesde02,9.233333333333333,0.0,0.0,,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,7.0,Derrick Jones,,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,True,False
+leoname01,,,,,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Play,MIA,True,False
+nunnke01,,,,,,,,,,,,,,,,,,,,,Kendrick Nunn,Did Not Play,MIA,True,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,MIA,True,False

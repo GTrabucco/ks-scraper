@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,43.083333333333336,10.0,21.0,0.476,3.0,8.0,0.375,21.0,22.0,0.955,1.0,3.0,4.0,7.0,2.0,2.0,4.0,4.0,44.0,5.0,James Harden,,HOU,False,True
+motiedo01,37.96666666666667,6.0,9.0,0.667,1.0,2.0,0.5,4.0,4.0,1.0,0.0,2.0,2.0,3.0,3.0,0.0,2.0,4.0,17.0,3.0,Donatas Motiejūnas,,HOU,False,True
+arizatr01,31.7,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,0.0,11.0,11.0,1.0,2.0,0.0,4.0,3.0,4.0,10.0,Trevor Ariza,,HOU,False,True
+dorsejo01,25.1,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,8.0,8.0,0.0,0.0,1.0,1.0,6.0,0.0,12.0,Joey Dorsey,,HOU,False,True
+beverpa01,19.7,3.0,6.0,0.5,2.0,3.0,0.667,0.0,0.0,,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,8.0,7.0,Patrick Beverley,,HOU,False,True
+smithjo03,28.816666666666666,7.0,14.0,0.5,4.0,6.0,0.667,0.0,0.0,,2.0,3.0,5.0,3.0,1.0,0.0,2.0,2.0,18.0,4.0,Josh Smith,,HOU,False,False
+breweco01,25.316666666666666,2.0,6.0,0.333,1.0,2.0,0.5,6.0,6.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,11.0,6.0,Corey Brewer,,HOU,False,False
+terryja01,18.1,2.0,5.0,0.4,2.0,3.0,0.667,0.0,1.0,0.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,3.0,6.0,1.0,Jason Terry,,HOU,False,False
+prigipa01,10.216666666666667,0.0,0.0,,0.0,0.0,,2.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,Pablo Prigioni,,HOU,False,False
+johnsni01,,,,,,,,,,,,,,,,,,,,,Nick Johnson,Did Not Play,HOU,False,False
+joneste01,,,,,,,,,,,,,,,,,,,,,Terrence Jones,Did Not Play,HOU,False,False
+mcdankj01,,,,,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,HOU,False,False
+hillge01,35.71666666666667,9.0,15.0,0.6,2.0,6.0,0.333,0.0,1.0,0.0,1.0,5.0,6.0,3.0,3.0,3.0,1.0,4.0,20.0,-1.0,George Hill,,IND,True,True
+milescj01,32.18333333333333,3.0,16.0,0.188,0.0,8.0,0.0,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,1.0,2.0,6.0,-9.0,C.J. Miles,,IND,True,True
+hibbero01,31.633333333333333,8.0,12.0,0.667,0.0,0.0,,2.0,2.0,1.0,6.0,4.0,10.0,1.0,1.0,1.0,2.0,3.0,18.0,4.0,Roy Hibbert,,IND,True,True
+westda01,30.833333333333332,4.0,13.0,0.308,0.0,0.0,,2.0,4.0,0.5,1.0,3.0,4.0,5.0,0.0,0.0,2.0,2.0,10.0,1.0,David West,,IND,True,True
+hillso01,25.183333333333334,2.0,6.0,0.333,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,2.0,0.0,0.0,5.0,3.0,5.0,-4.0,Solomon Hill,,IND,True,True
+watsocj01,30.45,7.0,10.0,0.7,4.0,5.0,0.8,5.0,6.0,0.833,1.0,1.0,2.0,5.0,2.0,0.0,1.0,3.0,23.0,-8.0,C.J. Watson,,IND,True,False
+rudezda01,21.383333333333333,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,7.0,-9.0,Damjan Rudež,,IND,True,False
+scolalu01,17.166666666666668,3.0,8.0,0.375,0.0,0.0,,3.0,6.0,0.5,3.0,4.0,7.0,1.0,0.0,0.0,1.0,0.0,9.0,-11.0,Luis Scola,,IND,True,False
+mahinia01,15.433333333333334,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,3.0,5.0,8.0,0.0,1.0,1.0,3.0,5.0,2.0,-13.0,Ian Mahinmi,,IND,True,False
+allenla01,,,,,,,,,,,,,,,,,,,,,Lavoy Allen,Did Not Play,IND,True,False
+copelch01,,,,,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,IND,True,False
+sloando01,,,,,,,,,,,,,,,,,,,,,Donald Sloan,Did Not Play,IND,True,False
+whittsh01,,,,,,,,,,,,,,,,,,,,,Shayne Whittington,Did Not Play,IND,True,False

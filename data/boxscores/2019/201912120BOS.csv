@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+simmobe01,36.483333333333334,2.0,6.0,0.333,0.0,0.0,,3.0,4.0,0.75,0.0,8.0,8.0,6.0,0.0,1.0,5.0,4.0,7.0,-2.0,Ben Simmons,,PHI,False,True
+embiijo01,36.083333333333336,12.0,21.0,0.571,2.0,3.0,0.667,12.0,14.0,0.857,2.0,11.0,13.0,6.0,0.0,1.0,2.0,3.0,38.0,21.0,Joel Embiid,,PHI,False,True
+harrito02,32.75,10.0,20.0,0.5,1.0,3.0,0.333,2.0,3.0,0.667,2.0,6.0,8.0,7.0,1.0,2.0,0.0,2.0,23.0,-2.0,Tobias Harris,,PHI,False,True
+scottmi01,28.866666666666667,5.0,7.0,0.714,5.0,7.0,0.714,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,0.0,1.0,15.0,17.0,Mike Scott,,PHI,False,True
+richajo01,25.85,5.0,11.0,0.455,2.0,3.0,0.667,2.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,14.0,1.0,Josh Richardson,,PHI,False,True
+thybuma01,29.7,2.0,4.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,0.0,1.0,2.0,1.0,2.0,0.0,2.0,6.0,9.0,Matisse Thybulle,,PHI,False,False
+ennisja01,18.383333333333333,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,-10.0,James Ennis,,PHI,False,False
+oquinky01,11.916666666666666,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,3.0,1.0,4.0,3.0,0.0,0.0,1.0,2.0,3.0,-15.0,Kyle O'Quinn,,PHI,False,False
+netora01,11.516666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,8.0,Raul Neto,,PHI,False,False
+korkmfu01,8.45,3.0,4.0,0.75,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,3.0,Furkan Korkmaz,,PHI,False,False
+horfoal01,,,,,,,,,,,,,,,,,,,,,Al Horford,Did Not Play,PHI,False,False
+miltosh01,,,,,,,,,,,,,,,,,,,,,Shake Milton,Did Not Play,PHI,False,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,PHI,False,False
+brownja02,40.983333333333334,3.0,9.0,0.333,0.0,1.0,0.0,2.0,2.0,1.0,1.0,4.0,5.0,2.0,1.0,0.0,3.0,4.0,8.0,-14.0,Jaylen Brown,,BOS,True,True
+haywago01,36.9,8.0,16.0,0.5,2.0,4.0,0.5,1.0,2.0,0.5,1.0,3.0,4.0,5.0,1.0,1.0,1.0,3.0,19.0,-4.0,Gordon Hayward,,BOS,True,True
+walkeke02,36.333333333333336,8.0,21.0,0.381,5.0,13.0,0.385,8.0,10.0,0.8,0.0,1.0,1.0,8.0,0.0,1.0,1.0,2.0,29.0,2.0,Kemba Walker,,BOS,True,True
+tatumja01,33.86666666666667,5.0,18.0,0.278,3.0,8.0,0.375,2.0,2.0,1.0,1.0,2.0,3.0,4.0,0.0,1.0,1.0,4.0,15.0,-2.0,Jayson Tatum,,BOS,True,True
+theisda01,23.716666666666665,7.0,11.0,0.636,1.0,2.0,0.5,1.0,1.0,1.0,3.0,2.0,5.0,1.0,0.0,1.0,0.0,3.0,16.0,-9.0,Daniel Theis,,BOS,True,True
+kanteen01,24.283333333333335,10.0,13.0,0.769,0.0,1.0,0.0,0.0,0.0,,3.0,6.0,9.0,0.0,2.0,2.0,0.0,5.0,20.0,3.0,Enes Kanter,,BOS,True,False
+ojelese01,23.516666666666666,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,1.0,0.0,2.0,0.0,-5.0,Semi Ojeleye,,BOS,True,False
+wanambr01,15.2,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,-1.0,Brad Wanamaker,,BOS,True,False
+greenja02,5.2,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Javonte Green,,BOS,True,False
+poirivi01,,,,,,,,,,,,,,,,,,,,,Vincent Poirier,Did Not Play,BOS,True,False
+watertr01,,,,,,,,,,,,,,,,,,,,,Tremont Waters,Did Not Play,BOS,True,False
+fallta01,,,,,,,,,,,,,,,,,,,,,Tacko Fall,Did Not Play,BOS,True,False
+willigr01,,,,,,,,,,,,,,,,,,,,,Grant Williams,Did Not Play,BOS,True,False

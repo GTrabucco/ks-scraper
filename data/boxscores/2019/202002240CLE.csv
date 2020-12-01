@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+adebaba01,40.983333333333334,9.0,15.0,0.6,0.0,0.0,,4.0,5.0,0.8,1.0,12.0,13.0,9.0,3.0,4.0,6.0,5.0,22.0,7.0,Bam Adebayo,,MIA,False,True
+robindu01,37.15,5.0,14.0,0.357,5.0,11.0,0.455,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,15.0,4.0,Duncan Robinson,,MIA,False,True
+jonesde02,36.666666666666664,5.0,6.0,0.833,0.0,0.0,,0.0,0.0,,3.0,4.0,7.0,0.0,1.0,2.0,0.0,1.0,10.0,2.0,Derrick Jones,,MIA,False,True
+nunnke01,34.28333333333333,9.0,18.0,0.5,2.0,7.0,0.286,1.0,1.0,1.0,1.0,2.0,3.0,4.0,1.0,0.0,0.0,2.0,21.0,6.0,Kendrick Nunn,,MIA,False,True
+olynyke01,14.716666666666667,2.0,5.0,0.4,2.0,4.0,0.5,0.0,0.0,,0.0,5.0,5.0,4.0,1.0,0.0,2.0,2.0,6.0,12.0,Kelly Olynyk,,MIA,False,True
+crowdja01,38.28333333333333,5.0,14.0,0.357,4.0,12.0,0.333,2.0,5.0,0.4,0.0,9.0,9.0,3.0,0.0,0.0,0.0,3.0,16.0,-18.0,Jae Crowder,,MIA,False,False
+dragigo01,34.13333333333333,7.0,16.0,0.438,2.0,7.0,0.286,6.0,7.0,0.857,1.0,3.0,4.0,6.0,0.0,0.0,1.0,4.0,22.0,-17.0,Goran Dragić,,MIA,False,False
+iguodan01,16.85,1.0,5.0,0.2,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,4.0,2.0,2.0,3.0,-13.0,Andre Iguodala,,MIA,False,False
+silvach01,11.933333333333334,1.0,3.0,0.333,0.0,0.0,,2.0,2.0,1.0,3.0,1.0,4.0,2.0,0.0,1.0,0.0,2.0,4.0,-13.0,Chris Silva,,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+vincega01,,,,,,,,,,,,,,,,,,,,,Gabe Vincent,Did Not Play,MIA,False,False
+butleji01,,,,,,,,,,,,,,,,,,,,,Jimmy Butler,Not With Team,MIA,False,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,MIA,False,False
+garlada01,39.7,5.0,12.0,0.417,2.0,4.0,0.5,2.0,2.0,1.0,1.0,4.0,5.0,7.0,2.0,1.0,2.0,0.0,14.0,11.0,Darius Garland,,CLE,True,True
+loveke01,37.916666666666664,4.0,13.0,0.308,2.0,8.0,0.25,7.0,8.0,0.875,2.0,12.0,14.0,4.0,0.0,2.0,3.0,1.0,17.0,10.0,Kevin Love,,CLE,True,True
+sextoco01,27.883333333333333,4.0,10.0,0.4,2.0,5.0,0.4,3.0,3.0,1.0,1.0,1.0,2.0,3.0,0.0,0.0,1.0,3.0,13.0,-24.0,Collin Sexton,,CLE,True,True
+osmande01,24.016666666666666,3.0,8.0,0.375,1.0,6.0,0.167,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,1.0,2.0,7.0,-18.0,Cedi Osman,,CLE,True,True
+drumman01,23.65,5.0,13.0,0.385,2.0,4.0,0.5,1.0,4.0,0.25,1.0,4.0,5.0,0.0,1.0,1.0,1.0,3.0,13.0,-15.0,Andre Drummond,,CLE,True,True
+porteke02,40.68333333333333,9.0,18.0,0.5,4.0,7.0,0.571,8.0,10.0,0.8,3.0,5.0,8.0,3.0,3.0,0.0,2.0,5.0,30.0,22.0,Kevin Porter,,CLE,True,False
+nancela02,31.933333333333334,8.0,11.0,0.727,0.0,0.0,,0.0,0.0,,3.0,5.0,8.0,2.0,2.0,0.0,2.0,3.0,16.0,23.0,Larry Nance,,CLE,True,False
+thomptr01,29.3,5.0,11.0,0.455,1.0,2.0,0.5,4.0,7.0,0.571,2.0,7.0,9.0,3.0,0.0,0.0,0.0,1.0,15.0,20.0,Tristan Thompson,,CLE,True,False
+exumda01,6.433333333333334,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,3.0,Dante Exum,,CLE,True,False
+dellama01,3.4833333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,-2.0,Matthew Dellavedova,,CLE,True,False
+wadede01,,,,,,,,,,,,,,,,,,,,,Dean Wade,Did Not Play,CLE,True,False
+moonema01,,,,,,,,,,,,,,,,,,,,,Matt Mooney,Did Not Play,CLE,True,False
+zizican01,,,,,,,,,,,,,,,,,,,,,Ante Žižić,Did Not Play,CLE,True,False

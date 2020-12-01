@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gallida01,35.15,2.0,12.0,0.167,0.0,6.0,0.0,17.0,18.0,0.944,1.0,10.0,11.0,2.0,1.0,2.0,1.0,0.0,21.0,14.0,Danilo Gallinari,,DEN,False,True
+chandwi01,34.833333333333336,10.0,16.0,0.625,3.0,5.0,0.6,1.0,1.0,1.0,3.0,1.0,4.0,2.0,0.0,2.0,1.0,2.0,24.0,1.0,Wilson Chandler,,DEN,False,True
+jokicni01,34.38333333333333,12.0,18.0,0.667,1.0,2.0,0.5,5.0,5.0,1.0,4.0,12.0,16.0,5.0,1.0,0.0,4.0,2.0,30.0,9.0,Nikola Jokić,,DEN,False,True
+nelsoja01,33.31666666666667,2.0,6.0,0.333,1.0,4.0,0.25,1.0,2.0,0.5,1.0,1.0,2.0,6.0,1.0,0.0,1.0,2.0,6.0,8.0,Jameer Nelson,,DEN,False,True
+harriga01,30.116666666666667,3.0,3.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,4.0,2.0,10.0,0.0,Gary Harris,,DEN,False,True
+bartowi01,23.6,4.0,11.0,0.364,0.0,3.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,2.0,1.0,0.0,0.0,1.0,10.0,5.0,Will Barton,,DEN,False,False
+murraja01,16.95,1.0,6.0,0.167,0.0,4.0,0.0,4.0,4.0,1.0,0.0,1.0,1.0,3.0,1.0,0.0,1.0,3.0,6.0,4.0,Jamal Murray,,DEN,False,False
+plumlma01,16.016666666666666,2.0,4.0,0.5,0.0,0.0,,5.0,6.0,0.833,0.0,2.0,2.0,1.0,2.0,0.0,1.0,3.0,9.0,-3.0,Mason Plumlee,,DEN,False,False
+farieke01,15.633333333333333,3.0,6.0,0.5,0.0,1.0,0.0,3.0,3.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,Kenneth Faried,,DEN,False,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,False,False
+hernaju01,,,,,,,,,,,,,,,,,,,,,Juan Hernangómez,Did Not Play,DEN,False,False
+hibbero01,,,,,,,,,,,,,,,,,,,,,Roy Hibbert,Did Not Play,DEN,False,False
+mudiaem01,,,,,,,,,,,,,,,,,,,,,Emmanuel Mudiay,Did Not Play,DEN,False,False
+turnemy01,35.8,9.0,16.0,0.563,0.0,1.0,0.0,2.0,2.0,1.0,2.0,2.0,4.0,0.0,2.0,4.0,0.0,3.0,20.0,-10.0,Myles Turner,,IND,True,True
+georgpa01,34.55,10.0,18.0,0.556,4.0,5.0,0.8,3.0,5.0,0.6,0.0,9.0,9.0,3.0,3.0,1.0,2.0,5.0,27.0,-14.0,Paul George,,IND,True,True
+teaguje01,32.68333333333333,9.0,16.0,0.563,2.0,5.0,0.4,1.0,2.0,0.5,0.0,2.0,2.0,8.0,2.0,1.0,3.0,5.0,21.0,-6.0,Jeff Teague,,IND,True,True
+youngth01,30.033333333333335,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,1.0,3.0,6.0,-11.0,Thaddeus Young,,IND,True,True
+milescj01,17.766666666666666,2.0,8.0,0.25,1.0,4.0,0.25,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,6.0,7.0,-12.0,C.J. Miles,,IND,True,True
+ellismo01,30.65,7.0,10.0,0.7,3.0,3.0,1.0,0.0,0.0,,1.0,3.0,4.0,1.0,2.0,0.0,0.0,2.0,17.0,4.0,Monta Ellis,,IND,True,False
+allenla01,17.55,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,7.0,1.0,8.0,2.0,0.0,2.0,0.0,0.0,4.0,3.0,Lavoy Allen,,IND,True,False
+brookaa01,15.316666666666666,4.0,8.0,0.5,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,11.0,-2.0,Aaron Brooks,,IND,True,False
+stuckro01,13.45,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,6.0,Rodney Stuckey,,IND,True,False
+jeffeal01,12.2,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,0.0,2.0,1.0,4.0,2.0,Al Jefferson,,IND,True,False
+chrisra01,,,,,,,,,,,,,,,,,,,,,Rakeem Christmas,Did Not Play,IND,True,False
+serapke01,,,,,,,,,,,,,,,,,,,,,Kevin Séraphin,Did Not Play,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False

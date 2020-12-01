@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+derozde01,36.55,12.0,30.0,0.4,1.0,8.0,0.125,3.0,4.0,0.75,1.0,7.0,8.0,6.0,2.0,0.0,3.0,5.0,28.0,-4.0,DeMar DeRozan,,TOR,False,True
+josepco01,34.583333333333336,6.0,11.0,0.545,1.0,3.0,0.333,2.0,2.0,1.0,2.0,0.0,2.0,8.0,4.0,0.0,1.0,3.0,15.0,-1.0,Cory Joseph,,TOR,False,True
+carrode01,32.75,3.0,9.0,0.333,0.0,3.0,0.0,5.0,7.0,0.714,3.0,4.0,7.0,1.0,4.0,2.0,0.0,4.0,11.0,-6.0,DeMarre Carroll,,TOR,False,True
+ibakase01,30.216666666666665,6.0,12.0,0.5,2.0,5.0,0.4,4.0,4.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,4.0,6.0,18.0,-10.0,Serge Ibaka,,TOR,False,True
+valanjo01,30.066666666666666,5.0,12.0,0.417,0.0,0.0,,1.0,1.0,1.0,4.0,8.0,12.0,1.0,2.0,2.0,1.0,4.0,11.0,0.0,Jonas Valančiūnas,,TOR,False,True
+tuckepj01,25.216666666666665,0.0,3.0,0.0,0.0,2.0,0.0,1.0,2.0,0.5,1.0,4.0,5.0,0.0,2.0,0.0,0.0,2.0,1.0,5.0,P.J. Tucker,,TOR,False,False
+pattepa01,18.85,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,-4.0,Patrick Patterson,,TOR,False,False
+powelno01,18.35,4.0,10.0,0.4,0.0,3.0,0.0,4.0,5.0,0.8,1.0,3.0,4.0,0.0,3.0,0.0,2.0,2.0,12.0,-5.0,Norman Powell,,TOR,False,False
+wrighde01,13.416666666666666,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0,-5.0,Delon Wright,,TOR,False,False
+poeltja01,,,,,,,,,,,,,,,,,,,,,Jakob Poeltl,Did Not Play,TOR,False,False
+noguelu01,,,,,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,False,False
+siakapa01,,,,,,,,,,,,,,,,,,,,,Pascal Siakam,Did Not Play,TOR,False,False
+vanvlfr01,,,,,,,,,,,,,,,,,,,,,Fred VanVleet,Did Not Play,TOR,False,False
+millspa01,36.25,7.0,13.0,0.538,1.0,3.0,0.333,6.0,6.0,1.0,1.0,5.0,6.0,4.0,1.0,1.0,4.0,2.0,21.0,6.0,Paul Millsap,,ATL,True,True
+schrode01,35.21666666666667,9.0,18.0,0.5,1.0,4.0,0.25,7.0,8.0,0.875,1.0,5.0,6.0,5.0,0.0,0.0,4.0,0.0,26.0,2.0,Dennis Schröder,,ATL,True,True
+hardati02,34.416666666666664,8.0,13.0,0.615,3.0,5.0,0.6,1.0,1.0,1.0,1.0,1.0,2.0,6.0,2.0,0.0,3.0,2.0,20.0,8.0,Tim Hardaway,,ATL,True,True
+howardw01,33.916666666666664,6.0,9.0,0.667,0.0,0.0,,4.0,10.0,0.4,3.0,7.0,10.0,1.0,1.0,2.0,4.0,4.0,16.0,2.0,Dwight Howard,,ATL,True,True
+bazemke01,28.433333333333334,3.0,8.0,0.375,1.0,4.0,0.25,0.0,2.0,0.0,1.0,6.0,7.0,1.0,2.0,2.0,2.0,2.0,7.0,-2.0,Kent Bazemore,,ATL,True,True
+sefolth01,25.233333333333334,2.0,5.0,0.4,0.0,1.0,0.0,0.0,0.0,,1.0,5.0,6.0,1.0,1.0,1.0,1.0,2.0,4.0,4.0,Thabo Sefolosha,,ATL,True,False
+ilyaser01,24.983333333333334,3.0,7.0,0.429,2.0,4.0,0.5,1.0,2.0,0.5,0.0,6.0,6.0,2.0,0.0,0.0,1.0,5.0,9.0,8.0,Ersan İlyasova,,ATL,True,False
+caldejo01,12.783333333333333,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,1.0,2.0,2.0,4.0,José Calderón,,ATL,True,False
+princta02,8.766666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,-2.0,Taurean Waller-Prince,,ATL,True,False
+bembrde01,,,,,,,,,,,,,,,,,,,,,DeAndre' Bembry,Did Not Play,ATL,True,False
+delanma01,,,,,,,,,,,,,,,,,,,,,Malcolm Delaney,Did Not Play,ATL,True,False
+humphkr01,,,,,,,,,,,,,,,,,,,,,Kris Humphries,Did Not Play,ATL,True,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,ATL,True,False

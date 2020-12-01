@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+kennalu01,37.95,8.0,18.0,0.444,4.0,12.0,0.333,2.0,3.0,0.667,0.0,1.0,1.0,5.0,2.0,0.0,1.0,3.0,22.0,0.0,Luke Kennard,,DET,False,True
+brownbr01,35.5,1.0,5.0,0.2,0.0,0.0,,1.0,2.0,0.5,0.0,7.0,7.0,11.0,0.0,0.0,1.0,2.0,3.0,-16.0,Bruce Brown,,DET,False,True
+drumman01,27.65,6.0,9.0,0.667,0.0,0.0,,4.0,6.0,0.667,4.0,5.0,9.0,0.0,2.0,2.0,5.0,6.0,16.0,-9.0,Andre Drummond,,DET,False,True
+snellto01,23.633333333333333,2.0,7.0,0.286,2.0,6.0,0.333,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,6.0,-17.0,Tony Snell,,DET,False,True
+morrima02,21.016666666666666,4.0,9.0,0.444,3.0,7.0,0.429,2.0,3.0,0.667,0.0,3.0,3.0,3.0,1.0,0.0,1.0,5.0,13.0,-14.0,Markieff Morris,,DET,False,True
+gallola01,28.65,3.0,11.0,0.273,2.0,8.0,0.25,3.0,3.0,1.0,1.0,2.0,3.0,1.0,0.0,1.0,3.0,6.0,11.0,2.0,Langston Galloway,,DET,False,False
+woodch01,26.35,5.0,9.0,0.556,1.0,3.0,0.333,5.0,9.0,0.556,1.0,2.0,3.0,0.0,2.0,2.0,0.0,2.0,16.0,2.0,Christian Wood,,DET,False,False
+makerth01,20.35,3.0,4.0,0.75,1.0,2.0,0.5,5.0,7.0,0.714,1.0,1.0,2.0,1.0,0.0,3.0,1.0,1.0,12.0,0.0,Thon Maker,,DET,False,False
+fraziti01,13.133333333333333,0.0,3.0,0.0,0.0,1.0,0.0,3.0,4.0,0.75,0.0,0.0,0.0,5.0,2.0,1.0,3.0,1.0,3.0,10.0,Tim Frazier,,DET,False,False
+mykhasv01,5.766666666666667,2.0,3.0,0.667,2.0,2.0,1.0,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,1.0,2.0,6.0,-3.0,Sviatoslav Mykhailiuk,,DET,False,False
+griffbl01,,,,,,,,,,,,,,,,,,,,,Blake Griffin,Did Not Play,DET,False,False
+rosede01,,,,,,,,,,,,,,,,,,,,,Derrick Rose,Did Not Play,DET,False,False
+bonejo01,,,,,,,,,,,,,,,,,,,,,Jordan Bone,Did Not Play,DET,False,False
+butleji01,38.95,6.0,13.0,0.462,0.0,2.0,0.0,8.0,11.0,0.727,0.0,3.0,3.0,13.0,2.0,0.0,0.0,0.0,20.0,9.0,Jimmy Butler,,MIA,True,True
+nunnke01,36.65,6.0,16.0,0.375,4.0,8.0,0.5,4.0,5.0,0.8,1.0,2.0,3.0,5.0,2.0,0.0,4.0,2.0,20.0,-2.0,Kendrick Nunn,,MIA,True,True
+robindu01,29.283333333333335,4.0,10.0,0.4,3.0,8.0,0.375,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,4.0,5.0,11.0,0.0,Duncan Robinson,,MIA,True,True
+adebaba01,27.666666666666668,8.0,9.0,0.889,0.0,0.0,,2.0,2.0,1.0,4.0,10.0,14.0,2.0,0.0,0.0,4.0,6.0,18.0,-5.0,Bam Adebayo,,MIA,True,True
+leoname01,18.233333333333334,2.0,2.0,1.0,0.0,0.0,,0.0,1.0,0.0,1.0,4.0,5.0,1.0,0.0,0.0,3.0,2.0,4.0,-2.0,Meyers Leonard,,MIA,True,True
+dragigo01,32.916666666666664,6.0,13.0,0.462,3.0,8.0,0.375,3.0,4.0,0.75,0.0,1.0,1.0,6.0,1.0,0.0,1.0,2.0,18.0,7.0,Goran Dragić,,MIA,True,False
+olynyke01,29.133333333333333,4.0,7.0,0.571,3.0,4.0,0.75,2.0,2.0,1.0,0.0,3.0,3.0,5.0,1.0,0.0,0.0,4.0,13.0,14.0,Kelly Olynyk,,MIA,True,False
+silvach01,15.35,3.0,5.0,0.6,0.0,1.0,0.0,2.0,2.0,1.0,2.0,7.0,9.0,2.0,0.0,1.0,3.0,6.0,8.0,17.0,Chris Silva,,MIA,True,False
+maconda01,6.833333333333333,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,10.0,Daryl Macon,,MIA,True,False
+hasleud01,4.983333333333333,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,-3.0,Udonis Haslem,,MIA,True,False
+jonesde02,,,,,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Dress,MIA,True,False
+herroty01,,,,,,,,,,,,,,,,,,,,,Tyler Herro,Did Not Dress,MIA,True,False
+okpalkz01,,,,,,,,,,,,,,,,,,,,,KZ Okpala,Did Not Dress,MIA,True,False

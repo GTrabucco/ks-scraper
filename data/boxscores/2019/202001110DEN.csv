@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+thomptr01,38.35,7.0,11.0,0.636,0.0,0.0,,4.0,5.0,0.8,7.0,6.0,13.0,2.0,0.0,1.0,2.0,2.0,18.0,5.0,Tristan Thompson,,CLE,False,True
+garlada01,37.65,8.0,16.0,0.5,2.0,9.0,0.222,0.0,0.0,,0.0,0.0,0.0,8.0,2.0,0.0,3.0,1.0,18.0,11.0,Darius Garland,,CLE,False,True
+loveke01,36.81666666666667,7.0,18.0,0.389,2.0,9.0,0.222,3.0,3.0,1.0,0.0,15.0,15.0,2.0,1.0,0.0,3.0,3.0,19.0,10.0,Kevin Love,,CLE,False,True
+osmande01,35.2,4.0,8.0,0.5,2.0,5.0,0.4,1.0,1.0,1.0,0.0,12.0,12.0,4.0,0.0,0.0,3.0,4.0,11.0,18.0,Cedi Osman,,CLE,False,True
+sextoco01,34.3,9.0,18.0,0.5,4.0,7.0,0.571,3.0,4.0,0.75,1.0,2.0,3.0,1.0,0.0,0.0,1.0,1.0,25.0,13.0,Collin Sexton,,CLE,False,True
+mckinal01,24.05,5.0,9.0,0.556,0.0,3.0,0.0,0.0,0.0,,2.0,2.0,4.0,2.0,2.0,0.0,0.0,2.0,10.0,-10.0,Alfonzo McKinnie,,CLE,False,False
+knighbr03,17.983333333333334,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,1.0,2.0,2.0,0.0,0.0,2.0,3.0,8.0,-12.0,Brandon Knight,,CLE,False,False
+zizican01,9.55,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,0.0,0.0,3.0,2.0,1.0,Ante Žižić,,CLE,False,False
+dellama01,6.066666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,Matthew Dellavedova,,CLE,False,False
+wadede01,,,,,,,,,,,,,,,,,,,,,Dean Wade,Did Not Play,CLE,False,False
+cookty01,,,,,,,,,,,,,,,,,,,,,Tyler Cook,Did Not Play,CLE,False,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Did Not Play,CLE,False,False
+bartowi01,38.4,7.0,18.0,0.389,1.0,6.0,0.167,3.0,4.0,0.75,2.0,7.0,9.0,3.0,1.0,2.0,1.0,1.0,18.0,-3.0,Will Barton,,DEN,True,True
+murraja01,35.05,10.0,22.0,0.455,2.0,9.0,0.222,2.0,2.0,1.0,2.0,3.0,5.0,3.0,3.0,0.0,1.0,1.0,24.0,-4.0,Jamal Murray,,DEN,True,True
+jokicni01,33.583333333333336,8.0,12.0,0.667,2.0,5.0,0.4,1.0,1.0,1.0,3.0,9.0,12.0,5.0,0.0,0.0,1.0,2.0,19.0,-2.0,Nikola Jokić,,DEN,True,True
+harriga01,32.81666666666667,3.0,11.0,0.273,1.0,5.0,0.2,1.0,2.0,0.5,0.0,2.0,2.0,4.0,2.0,1.0,0.0,1.0,8.0,-15.0,Gary Harris,,DEN,True,True
+grantje01,27.016666666666666,5.0,11.0,0.455,1.0,5.0,0.2,2.0,2.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,13.0,-11.0,Jerami Grant,,DEN,True,True
+plumlma01,25.7,2.0,3.0,0.667,0.0,0.0,,2.0,3.0,0.667,2.0,3.0,5.0,4.0,1.0,0.0,0.0,5.0,6.0,0.0,Mason Plumlee,,DEN,True,False
+morrimo01,23.566666666666666,5.0,10.0,0.5,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,4.0,1.0,1.0,0.0,1.0,11.0,6.0,Monte Morris,,DEN,True,False
+beaslma01,12.95,0.0,5.0,0.0,0.0,4.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,0.0,0.0,0.0,1.0,0.0,2.0,-4.0,Malik Beasley,,DEN,True,False
+hernaju01,7.616666666666667,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,-1.0,Juan Hernangómez,,DEN,True,False
+portemi01,3.283333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,-6.0,Michael Porter,,DEN,True,False
+cancavl01,,,,,,,,,,,,,,,,,,,,,Vlatko Čančar,Did Not Play,DEN,True,False
+craigto01,,,,,,,,,,,,,,,,,,,,,Torrey Craig,Did Not Play,DEN,True,False

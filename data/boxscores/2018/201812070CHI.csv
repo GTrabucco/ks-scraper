@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,36.46666666666667,6.0,16.0,0.375,2.0,9.0,0.222,5.0,6.0,0.833,0.0,5.0,5.0,7.0,4.0,0.0,3.0,1.0,19.0,2.0,Paul George,,OKC,False,True
+westbru01,35.05,9.0,21.0,0.429,2.0,6.0,0.333,4.0,7.0,0.571,2.0,15.0,17.0,13.0,4.0,0.0,10.0,5.0,24.0,10.0,Russell Westbrook,,OKC,False,True
+grantje01,34.016666666666666,5.0,9.0,0.556,3.0,4.0,0.75,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,2.0,1.0,1.0,13.0,4.0,Jerami Grant,,OKC,False,True
+adamsst01,31.1,9.0,17.0,0.529,0.0,0.0,,3.0,7.0,0.429,9.0,1.0,10.0,0.0,2.0,1.0,4.0,4.0,21.0,7.0,Steven Adams,,OKC,False,True
+fergute01,25.966666666666665,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,7.0,12.0,Terrance Ferguson,,OKC,False,True
+schrode01,26.75,7.0,14.0,0.5,1.0,3.0,0.333,4.0,4.0,1.0,0.0,5.0,5.0,3.0,0.0,0.0,1.0,2.0,19.0,-10.0,Dennis Schröder,,OKC,False,False
+noelne01,15.016666666666667,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,2.0,-11.0,Nerlens Noel,,OKC,False,False
+abrinal01,14.8,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,1.0,3.0,3.0,-15.0,Álex Abrines,,OKC,False,False
+pattepa01,11.15,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.0,Patrick Patterson,,OKC,False,False
+diallha01,9.683333333333334,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,2.0,0.0,2.0,1.0,0.0,0.0,1.0,4.0,4.0,-1.0,Hamidou Diallo,,OKC,False,False
+naderab01,,,,,,,,,,,,,,,,,,,,,Abdel Nader,Did Not Play,OKC,False,False
+burtode02,,,,,,,,,,,,,,,,,,,,,Deonte Burton,Did Not Play,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+holidju01,36.416666666666664,8.0,12.0,0.667,4.0,6.0,0.667,0.0,0.0,,0.0,6.0,6.0,0.0,3.0,0.0,1.0,3.0,20.0,-4.0,Justin Holiday,,CHI,True,True
+lavinza01,36.4,10.0,18.0,0.556,2.0,5.0,0.4,3.0,4.0,0.75,0.0,4.0,4.0,7.0,2.0,0.0,9.0,3.0,25.0,10.0,Zach LaVine,,CHI,True,True
+arcidry01,33.333333333333336,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,5.0,5.0,2.0,2.0,0.0,1.0,2.0,3.0,-8.0,Ryan Arcidiacono,,CHI,True,True
+markkla01,28.466666666666665,8.0,12.0,0.667,4.0,8.0,0.5,4.0,5.0,0.8,1.0,6.0,7.0,2.0,3.0,1.0,2.0,5.0,24.0,8.0,Lauri Markkanen,,CHI,True,True
+cartewe01,20.733333333333334,2.0,5.0,0.4,0.0,0.0,,2.0,3.0,0.667,1.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,6.0,5.0,Wendell Carter,,CHI,True,True
+lopezro01,23.416666666666668,5.0,10.0,0.5,0.0,1.0,0.0,1.0,2.0,0.5,1.0,4.0,5.0,2.0,0.0,0.0,2.0,3.0,11.0,-4.0,Robin Lopez,,CHI,True,False
+parkeja01,23.383333333333333,6.0,14.0,0.429,0.0,1.0,0.0,4.0,5.0,0.8,1.0,6.0,7.0,4.0,1.0,0.0,1.0,3.0,16.0,-5.0,Jabari Parker,,CHI,True,False
+harrish01,14.666666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,2.0,0.0,3.0,2.0,10.0,Shaquille Harrison,,CHI,True,False
+payneca01,11.6,1.0,3.0,0.333,1.0,1.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,5.0,1.0,1.0,2.0,1.0,5.0,-8.0,Cameron Payne,,CHI,True,False
+hutchch01,11.583333333333334,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,6.0,Chandler Hutchison,,CHI,True,False
+blakean01,,,,,,,,,,,,,,,,,,,,,Antonio Blakeney,Did Not Play,CHI,True,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,True,False

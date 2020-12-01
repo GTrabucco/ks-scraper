@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+crowdja01,35.85,3.0,13.0,0.231,2.0,5.0,0.4,7.0,8.0,0.875,0.0,6.0,6.0,4.0,1.0,0.0,3.0,3.0,15.0,2.0,Jae Crowder,,BOS,False,True
+smartma01,35.25,3.0,12.0,0.25,0.0,3.0,0.0,2.0,2.0,1.0,2.0,4.0,6.0,8.0,2.0,0.0,3.0,1.0,8.0,2.0,Marcus Smart,,BOS,False,True
+bradlav01,34.233333333333334,6.0,14.0,0.429,0.0,5.0,0.0,1.0,1.0,1.0,1.0,2.0,3.0,2.0,2.0,0.0,4.0,0.0,13.0,-12.0,Avery Bradley,,BOS,False,True
+horfoal01,33.016666666666666,11.0,16.0,0.688,1.0,2.0,0.5,4.0,5.0,0.8,1.0,7.0,8.0,6.0,1.0,2.0,1.0,1.0,27.0,3.0,Al Horford,,BOS,False,True
+johnsam01,22.983333333333334,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,1.0,1.0,2.0,2.0,3.0,Amir Johnson,,BOS,False,True
+roziete01,25.733333333333334,4.0,12.0,0.333,2.0,7.0,0.286,4.0,4.0,1.0,4.0,6.0,10.0,2.0,1.0,1.0,2.0,2.0,14.0,-5.0,Terry Rozier,,BOS,False,False
+jerebjo01,15.5,0.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,Jonas Jerebko,,BOS,False,False
+greenge01,13.7,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,5.0,-2.0,Gerald Green,,BOS,False,False
+brownja02,12.466666666666667,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,2.0,-10.0,Jaylen Brown,,BOS,False,False
+olynyke01,11.266666666666667,3.0,4.0,0.75,0.0,1.0,0.0,6.0,7.0,0.857,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,12.0,-13.0,Kelly Olynyk,,BOS,False,False
+jacksde01,,,,,,,,,,,,,,,,,,,,,Demetrius Jackson,Did Not Play,BOS,False,False
+youngja01,,,,,,,,,,,,,,,,,,,,,James Young,Did Not Play,BOS,False,False
+zellety01,,,,,,,,,,,,,,,,,,,,,Tyler Zeller,Did Not Play,BOS,False,False
+covinro01,36.483333333333334,7.0,15.0,0.467,2.0,7.0,0.286,0.0,0.0,,1.0,6.0,7.0,0.0,2.0,1.0,4.0,2.0,16.0,16.0,Robert Covington,,PHI,True,True
+saricda01,32.25,10.0,20.0,0.5,2.0,4.0,0.5,1.0,1.0,1.0,0.0,6.0,6.0,4.0,2.0,0.0,1.0,3.0,23.0,-11.0,Dario Šarić,,PHI,True,True
+luwawti01,29.416666666666668,4.0,12.0,0.333,3.0,8.0,0.375,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,13.0,-15.0,Timothé Luwawu-Cabarrot,,PHI,True,True
+mccontj01,27.6,3.0,6.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,7.0,1.0,0.0,1.0,1.0,6.0,3.0,T.J. McConnell,,PHI,True,True
+okafoja01,11.533333333333333,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,4.0,-11.0,Jahlil Okafor,,PHI,True,True
+stausni01,29.566666666666666,3.0,8.0,0.375,3.0,7.0,0.429,0.0,0.0,,0.0,6.0,6.0,4.0,1.0,2.0,3.0,2.0,9.0,20.0,Nik Stauskas,,PHI,True,False
+holmeri01,29.483333333333334,4.0,6.0,0.667,0.0,1.0,0.0,0.0,0.0,,1.0,7.0,8.0,5.0,2.0,4.0,0.0,1.0,8.0,13.0,Richaun Holmes,,PHI,True,False
+rodrise01,20.4,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,7.0,1.0,0.0,2.0,3.0,9.0,3.0,Sergio Rodríguez,,PHI,True,False
+hendege02,16.75,1.0,7.0,0.143,1.0,3.0,0.333,6.0,8.0,0.75,0.0,3.0,3.0,1.0,0.0,0.0,1.0,2.0,9.0,6.0,Gerald Henderson,,PHI,True,False
+longsh01,6.516666666666667,3.0,4.0,0.75,0.0,0.0,,2.0,4.0,0.5,3.0,1.0,4.0,0.0,0.0,0.0,0.0,5.0,8.0,6.0,Shawn Long,,PHI,True,False
+anderju01,,,,,,,,,,,,,,,,,,,,,Justin Anderson,Not With Team,PHI,True,False
+splitti01,,,,,,,,,,,,,,,,,,,,,Tiago Splitter,Did Not Dress,PHI,True,False

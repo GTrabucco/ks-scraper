@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+covinro01,44.2,6.0,11.0,0.545,3.0,4.0,0.75,1.0,2.0,0.5,2.0,6.0,8.0,2.0,1.0,1.0,1.0,5.0,16.0,-1.0,Robert Covington,,PHI,False,True
+embiijo01,38.68333333333333,11.0,20.0,0.55,0.0,4.0,0.0,11.0,14.0,0.786,1.0,10.0,11.0,7.0,0.0,3.0,1.0,5.0,33.0,3.0,Joel Embiid,,PHI,False,True
+saricda01,37.68333333333333,5.0,16.0,0.313,2.0,11.0,0.182,2.0,3.0,0.667,1.0,7.0,8.0,5.0,1.0,1.0,1.0,4.0,14.0,1.0,Dario Šarić,,PHI,False,True
+shamela01,24.4,2.0,5.0,0.4,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,5.0,-5.0,Landry Shamet,,PHI,False,True
+fultzma01,20.983333333333334,6.0,9.0,0.667,1.0,2.0,0.5,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,1.0,2.0,3.0,13.0,2.0,Markelle Fultz,,PHI,False,True
+redicjj01,37.333333333333336,9.0,21.0,0.429,6.0,15.0,0.4,6.0,7.0,0.857,0.0,5.0,5.0,6.0,0.0,0.0,0.0,1.0,30.0,7.0,J.J. Redick,,PHI,False,False
+mccontj01,32.016666666666666,5.0,8.0,0.625,0.0,1.0,0.0,0.0,0.0,,0.0,4.0,4.0,8.0,1.0,0.0,4.0,0.0,10.0,-3.0,T.J. McConnell,,PHI,False,False
+muscami01,16.7,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,2.0,0.0,1.0,5.0,-2.0,Mike Muscala,,PHI,False,False
+johnsam01,13.0,3.0,5.0,0.6,0.0,0.0,,0.0,2.0,0.0,1.0,3.0,4.0,1.0,0.0,0.0,2.0,3.0,6.0,-7.0,Amir Johnson,,PHI,False,False
+boldejo01,,,,,,,,,,,,,,,,,,,,,Jonah Bolden,Did Not Play,PHI,False,False
+korkmfu01,,,,,,,,,,,,,,,,,,,,,Furkan Korkmaz,Did Not Play,PHI,False,False
+jacksde01,,,,,,,,,,,,,,,,,,,,,Demetrius Jackson,Did Not Play,PHI,False,False
+griffbl01,44.03333333333333,20.0,35.0,0.571,5.0,10.0,0.5,5.0,11.0,0.455,3.0,11.0,14.0,6.0,0.0,1.0,1.0,4.0,50.0,4.0,Blake Griffin,,DET,True,True
+bullore01,41.416666666666664,6.0,14.0,0.429,2.0,7.0,0.286,3.0,3.0,1.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,17.0,9.0,Reggie Bullock,,DET,True,True
+jacksre01,38.733333333333334,7.0,14.0,0.5,3.0,6.0,0.5,6.0,6.0,1.0,1.0,2.0,3.0,3.0,0.0,0.0,1.0,4.0,23.0,10.0,Reggie Jackson,,DET,True,True
+drumman01,35.55,6.0,20.0,0.3,0.0,2.0,0.0,2.0,4.0,0.5,5.0,11.0,16.0,2.0,3.0,2.0,5.0,4.0,14.0,4.0,Andre Drummond,,DET,True,True
+johnsst04,19.266666666666666,0.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,Stanley Johnson,,DET,True,True
+smithis01,32.766666666666666,9.0,12.0,0.75,2.0,3.0,0.667,1.0,1.0,1.0,0.0,1.0,1.0,3.0,0.0,1.0,0.0,1.0,21.0,0.0,Ish Smith,,DET,True,False
+gallola01,24.716666666666665,1.0,3.0,0.333,0.0,2.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,3.0,4.0,-6.0,Langston Galloway,,DET,True,False
+pachuza01,17.25,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,0.0,1.0,0.0,1.0,5.0,2.0,-8.0,Zaza Pachulia,,DET,True,False
+kennalu01,11.266666666666667,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,-8.0,Luke Kennard,,DET,True,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,DET,True,False
+leuerjo01,,,,,,,,,,,,,,,,,,,,,Jon Leuer,Did Not Play,DET,True,False
+caldejo01,,,,,,,,,,,,,,,,,,,,,José Calderón,Did Not Play,DET,True,False
+brownbr01,,,,,,,,,,,,,,,,,,,,,Bruce Brown,Did Not Play,DET,True,False

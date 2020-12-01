@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bradlav01,42.21666666666667,10.0,18.0,0.556,3.0,6.0,0.5,4.0,4.0,1.0,0.0,3.0,3.0,1.0,4.0,0.0,2.0,3.0,27.0,0.0,Avery Bradley,,BOS,False,True
+thomais02,38.7,8.0,24.0,0.333,5.0,13.0,0.385,6.0,6.0,1.0,0.0,3.0,3.0,7.0,0.0,0.0,5.0,5.0,27.0,5.0,Isaiah Thomas,,BOS,False,True
+horfoal01,37.15,8.0,12.0,0.667,2.0,4.0,0.5,2.0,2.0,1.0,1.0,5.0,6.0,3.0,0.0,1.0,2.0,1.0,20.0,3.0,Al Horford,,BOS,False,True
+crowdja01,37.016666666666666,3.0,9.0,0.333,1.0,4.0,0.25,3.0,4.0,0.75,0.0,7.0,7.0,8.0,0.0,0.0,0.0,1.0,10.0,3.0,Jae Crowder,,BOS,False,True
+johnsam01,14.316666666666666,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,0.0,2.0,2.0,-5.0,Amir Johnson,,BOS,False,True
+smartma01,27.766666666666666,0.0,3.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,2.0,3.0,5.0,4.0,0.0,0.0,0.0,2.0,1.0,-8.0,Marcus Smart,,BOS,False,False
+olynyke01,21.033333333333335,2.0,4.0,0.5,0.0,2.0,0.0,0.0,0.0,,1.0,7.0,8.0,0.0,1.0,1.0,1.0,4.0,4.0,-6.0,Kelly Olynyk,,BOS,False,False
+brownja02,11.15,0.0,5.0,0.0,0.0,3.0,0.0,0.0,0.0,,2.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Jaylen Brown,,BOS,False,False
+roziete01,10.65,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,Terry Rozier,,BOS,False,False
+zellety01,,,,,,,,,,,,,,,,,,,,,Tyler Zeller,Did Not Play,BOS,False,False
+youngja01,,,,,,,,,,,,,,,,,,,,,James Young,Did Not Play,BOS,False,False
+jerebjo01,,,,,,,,,,,,,,,,,,,,,Jonas Jerebko,Did Not Play,BOS,False,False
+greenge01,,,,,,,,,,,,,,,,,,,,,Gerald Green,Did Not Play,BOS,False,False
+bealbr01,42.916666666666664,15.0,26.0,0.577,1.0,8.0,0.125,2.0,2.0,1.0,2.0,1.0,3.0,5.0,1.0,0.0,1.0,3.0,33.0,0.0,Bradley Beal,,WAS,True,True
+walljo01,41.833333333333336,9.0,25.0,0.36,2.0,5.0,0.4,6.0,8.0,0.75,1.0,1.0,2.0,8.0,0.0,2.0,3.0,3.0,26.0,2.0,John Wall,,WAS,True,True
+morrima02,39.4,5.0,14.0,0.357,2.0,5.0,0.4,4.0,5.0,0.8,2.0,9.0,11.0,2.0,1.0,1.0,3.0,4.0,16.0,2.0,Markieff Morris,,WAS,True,True
+porteot01,35.86666666666667,0.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,,3.0,4.0,7.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,Otto Porter,,WAS,True,True
+gortama01,25.233333333333334,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,3.0,9.0,12.0,2.0,1.0,1.0,2.0,4.0,4.0,6.0,Marcin Gortat,,WAS,True,True
+bogdabo02,16.8,2.0,6.0,0.333,0.0,3.0,0.0,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,4.0,5.0,Bojan Bogdanović,,WAS,True,False
+mahinia01,15.283333333333333,3.0,3.0,1.0,0.0,0.0,,0.0,4.0,0.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,4.0,6.0,-2.0,Ian Mahinmi,,WAS,True,False
+jennibr01,8.366666666666667,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brandon Jennings,,WAS,True,False
+smithja02,7.45,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,-3.0,Jason Smith,,WAS,True,False
+oubreke01,6.85,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,3.0,0.0,-5.0,Kelly Oubre,,WAS,True,False
+satorto01,,,,,,,,,,,,,,,,,,,,,Tomáš Satoranský,Did Not Play,WAS,True,False
+mcclesh01,,,,,,,,,,,,,,,,,,,,,Sheldon Mac,Did Not Play,WAS,True,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,WAS,True,False

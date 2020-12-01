@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+holidju01,39.7,5.0,11.0,0.455,1.0,5.0,0.2,0.0,0.0,,1.0,3.0,4.0,1.0,4.0,0.0,2.0,3.0,11.0,3.0,Justin Holiday,,CHI,False,True
+markkla01,39.06666666666667,6.0,14.0,0.429,4.0,7.0,0.571,2.0,2.0,1.0,0.0,10.0,10.0,1.0,2.0,0.0,3.0,2.0,18.0,-10.0,Lauri Markkanen,,CHI,False,True
+cartewe01,33.11666666666667,6.0,10.0,0.6,0.0,1.0,0.0,4.0,4.0,1.0,4.0,7.0,11.0,1.0,0.0,0.0,3.0,0.0,16.0,9.0,Wendell Carter,,CHI,False,True
+lavinza01,32.833333333333336,3.0,17.0,0.176,0.0,3.0,0.0,7.0,7.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,1.0,6.0,13.0,3.0,Zach LaVine,,CHI,False,True
+dunnkr01,31.3,6.0,15.0,0.4,0.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,8.0,0.0,2.0,4.0,3.0,14.0,9.0,Kris Dunn,,CHI,False,True
+arcidry01,22.0,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,3.0,-10.0,Ryan Arcidiacono,,CHI,False,False
+hutchch01,14.4,5.0,5.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,11.0,-1.0,Chandler Hutchison,,CHI,False,False
+lopezro01,14.316666666666666,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,0.0,2.0,1.0,0.0,-17.0,Robin Lopez,,CHI,False,False
+harrish01,13.266666666666667,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,0.333,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,3.0,-16.0,Shaquille Harrison,,CHI,False,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,False,False
+parkeja01,,,,,,,,,,,,,,,,,,,,,Jabari Parker,Did Not Play,CHI,False,False
+blakean01,,,,,,,,,,,,,,,,,,,,,Antonio Blakeney,Did Not Play,CHI,False,False
+payneca01,,,,,,,,,,,,,,,,,,,,,Cameron Payne,Did Not Play,CHI,False,False
+leonaka01,34.38333333333333,8.0,22.0,0.364,1.0,6.0,0.167,10.0,11.0,0.909,1.0,8.0,9.0,0.0,0.0,0.0,2.0,0.0,27.0,1.0,Kawhi Leonard,,TOR,True,True
+siakapa01,33.733333333333334,7.0,12.0,0.583,1.0,1.0,1.0,5.0,6.0,0.833,6.0,6.0,12.0,4.0,0.0,0.0,3.0,3.0,20.0,2.0,Pascal Siakam,,TOR,True,True
+vanvlfr01,33.2,3.0,12.0,0.25,2.0,7.0,0.286,2.0,2.0,1.0,1.0,4.0,5.0,7.0,1.0,0.0,2.0,2.0,10.0,-2.0,Fred VanVleet,,TOR,True,True
+greenda02,29.066666666666666,4.0,8.0,0.5,2.0,5.0,0.4,0.0,0.0,,1.0,3.0,4.0,0.0,2.0,2.0,0.0,1.0,10.0,5.0,Danny Green,,TOR,True,True
+ibakase01,24.216666666666665,4.0,10.0,0.4,0.0,2.0,0.0,0.0,0.0,,3.0,4.0,7.0,2.0,1.0,2.0,4.0,5.0,8.0,5.0,Serge Ibaka,,TOR,True,True
+powelno01,22.95,2.0,9.0,0.222,0.0,5.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,7.0,Norman Powell,,TOR,True,False
+anunoog01,20.583333333333332,2.0,6.0,0.333,1.0,3.0,0.333,0.0,0.0,,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,5.0,4.0,OG Anunoby,,TOR,True,False
+monrogr01,18.383333333333333,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,0.0,0.0,2.0,0.0,2.0,0.0,3.0,Greg Monroe,,TOR,True,False
+wrighde01,14.8,3.0,8.0,0.375,1.0,2.0,0.5,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,8.0,8.0,Delon Wright,,TOR,True,False
+bouchch01,5.4,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,3.0,-2.0,Chris Boucher,,TOR,True,False
+brownlo01,3.283333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,Lorenzo Brown,,TOR,True,False
+milescj01,,,,,,,,,,,,,,,,,,,,,C.J. Miles,Did Not Play,TOR,True,False
+richama01,,,,,,,,,,,,,,,,,,,,,Malachi Richardson,Did Not Play,TOR,True,False

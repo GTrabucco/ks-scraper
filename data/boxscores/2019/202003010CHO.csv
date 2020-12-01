@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+antetgi01,34.916666666666664,17.0,28.0,0.607,1.0,4.0,0.25,6.0,7.0,0.857,2.0,18.0,20.0,6.0,1.0,0.0,3.0,2.0,41.0,22.0,Giannis Antetokounmpo,,MIL,False,True
+divindo01,27.583333333333332,1.0,5.0,0.2,0.0,3.0,0.0,0.0,0.0,,1.0,6.0,7.0,5.0,0.0,1.0,2.0,0.0,2.0,14.0,Donte DiVincenzo,,MIL,False,True
+matthwe02,27.133333333333333,3.0,11.0,0.273,2.0,7.0,0.286,0.0,0.0,,4.0,4.0,8.0,2.0,2.0,0.0,0.0,0.0,8.0,11.0,Wesley Matthews,,MIL,False,True
+lopezbr01,26.416666666666668,4.0,11.0,0.364,1.0,5.0,0.2,7.0,9.0,0.778,2.0,5.0,7.0,0.0,0.0,3.0,0.0,2.0,16.0,16.0,Brook Lopez,,MIL,False,True
+bledser01,22.283333333333335,2.0,8.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,4.0,6.0,Eric Bledsoe,,MIL,False,True
+hillge01,25.716666666666665,4.0,11.0,0.364,1.0,4.0,0.25,2.0,3.0,0.667,2.0,3.0,5.0,2.0,2.0,0.0,3.0,1.0,11.0,2.0,George Hill,,MIL,False,False
+connapa01,24.866666666666667,2.0,5.0,0.4,1.0,4.0,0.25,1.0,2.0,0.5,2.0,3.0,5.0,1.0,0.0,0.0,1.0,2.0,6.0,0.0,Pat Connaughton,,MIL,False,False
+willima02,19.616666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,-11.0,Marvin Williams,,MIL,False,False
+brownst02,18.166666666666668,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,3.0,-8.0,Sterling Brown,,MIL,False,False
+lopezro01,13.3,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,2.0,1.0,2.0,-12.0,Robin Lopez,,MIL,False,False
+ilyaser01,,,,,,,,,,,,,,,,,,,,,Ersan İlyasova,Did Not Play,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+antetth01,,,,,,,,,,,,,,,,,,,,,Thanasis Antetokounmpo,Did Not Play,MIL,False,False
+roziete01,36.083333333333336,6.0,18.0,0.333,0.0,3.0,0.0,1.0,1.0,1.0,2.0,1.0,3.0,4.0,1.0,0.0,2.0,2.0,13.0,-20.0,Terry Rozier,,CHO,True,True
+bridgmi02,35.25,3.0,13.0,0.231,1.0,7.0,0.143,0.0,0.0,,2.0,3.0,5.0,2.0,2.0,2.0,2.0,2.0,7.0,-4.0,Miles Bridges,,CHO,True,True
+grahade01,32.35,7.0,18.0,0.389,3.0,8.0,0.375,0.0,1.0,0.0,0.0,2.0,2.0,3.0,1.0,0.0,0.0,2.0,17.0,-14.0,Devonte' Graham,,CHO,True,True
+washipj01,31.866666666666667,5.0,14.0,0.357,1.0,8.0,0.125,1.0,1.0,1.0,1.0,5.0,6.0,3.0,0.0,2.0,2.0,3.0,12.0,-13.0,P.J. Washington,,CHO,True,True
+biyombi01,22.116666666666667,2.0,8.0,0.25,0.0,0.0,,4.0,4.0,1.0,4.0,5.0,9.0,2.0,0.0,2.0,1.0,3.0,8.0,-15.0,Bismack Biyombo,,CHO,True,True
+martico01,29.133333333333333,4.0,8.0,0.5,2.0,5.0,0.4,1.0,1.0,1.0,0.0,5.0,5.0,2.0,0.0,1.0,1.0,2.0,11.0,2.0,Cody Martin,,CHO,True,False
+martica02,23.5,2.0,6.0,0.333,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,1.0,3.0,5.0,13.0,Caleb Martin,,CHO,True,False
+hernawi01,20.35,4.0,9.0,0.444,0.0,1.0,0.0,2.0,2.0,1.0,2.0,10.0,12.0,4.0,2.0,0.0,1.0,0.0,10.0,11.0,Willy Hernangómez,,CHO,True,False
+mcdanja01,9.35,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,Jalen McDaniels,,CHO,True,False
+zelleco01,,,,,,,,,,,,,,,,,,,,,Cody Zeller,Did Not Play,CHO,True,False
+chealjo01,,,,,,,,,,,,,,,,,,,,,Joe Chealey,Did Not Play,CHO,True,False
+batumni01,,,,,,,,,,,,,,,,,,,,,Nicolas Batum,Did Not Play,CHO,True,False
+monkma01,,,,,,,,,,,,,,,,,,,,,Malik Monk,Did Not Play,CHO,True,False

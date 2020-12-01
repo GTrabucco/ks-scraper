@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+oladivi01,39.85,7.0,24.0,0.292,3.0,10.0,0.3,5.0,6.0,0.833,1.0,9.0,10.0,7.0,2.0,0.0,3.0,4.0,22.0,-17.0,Victor Oladipo,,IND,False,True
+bogdabo02,37.18333333333333,6.0,11.0,0.545,3.0,5.0,0.6,5.0,5.0,1.0,0.0,6.0,6.0,6.0,3.0,0.0,3.0,3.0,20.0,9.0,Bojan Bogdanović,,IND,False,True
+collida01,34.733333333333334,5.0,10.0,0.5,3.0,5.0,0.6,0.0,1.0,0.0,1.0,2.0,3.0,3.0,0.0,1.0,2.0,2.0,13.0,-12.0,Darren Collison,,IND,False,True
+turnemy01,24.166666666666668,3.0,7.0,0.429,0.0,0.0,,3.0,3.0,1.0,1.0,2.0,3.0,1.0,0.0,3.0,0.0,4.0,9.0,-7.0,Myles Turner,,IND,False,True
+youngth01,23.216666666666665,6.0,9.0,0.667,0.0,2.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,13.0,-12.0,Thaddeus Young,,IND,False,True
+josepco01,26.933333333333334,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,2.0,1.0,0.0,0.0,2.0,5.0,-6.0,Cory Joseph,,IND,False,False
+sabondo01,22.233333333333334,4.0,4.0,1.0,0.0,0.0,,3.0,6.0,0.5,1.0,5.0,6.0,2.0,0.0,1.0,4.0,3.0,11.0,0.0,Domantas Sabonis,,IND,False,False
+evansty01,19.0,2.0,7.0,0.286,0.0,2.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,2.0,1.0,1.0,2.0,6.0,-13.0,Tyreke Evans,,IND,False,False
+mcderdo01,8.15,1.0,2.0,0.5,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,4.0,Doug McDermott,,IND,False,False
+oquinky01,4.533333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-11.0,Kyle O'Quinn,,IND,False,False
+holidaa01,,,,,,,,,,,,,,,,,,,,,Aaron Holiday,Did Not Play,IND,False,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,False,False
+tuckepj01,39.833333333333336,4.0,6.0,0.667,4.0,6.0,0.667,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,0.0,1.0,3.0,12.0,21.0,P.J. Tucker,,HOU,True,True
+hardeja01,37.983333333333334,9.0,20.0,0.45,8.0,18.0,0.444,14.0,15.0,0.933,0.0,7.0,7.0,9.0,1.0,1.0,9.0,5.0,40.0,14.0,James Harden,,HOU,True,True
+paulch01,35.06666666666667,8.0,13.0,0.615,5.0,8.0,0.625,5.0,7.0,0.714,0.0,5.0,5.0,5.0,3.0,0.0,2.0,3.0,26.0,8.0,Chris Paul,,HOU,True,True
+capelca01,28.766666666666666,8.0,9.0,0.889,0.0,0.0,,2.0,5.0,0.4,3.0,4.0,7.0,1.0,0.0,1.0,1.0,1.0,18.0,-2.0,Clint Capela,,HOU,True,True
+ennisja01,21.7,0.0,3.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,-11.0,James Ennis,,HOU,True,True
+clarkga01,32.93333333333333,2.0,5.0,0.4,1.0,4.0,0.25,1.0,1.0,1.0,4.0,4.0,8.0,1.0,1.0,1.0,0.0,2.0,6.0,16.0,Gary Clark,,HOU,True,False
+gordoer01,31.05,3.0,14.0,0.214,2.0,9.0,0.222,1.0,2.0,0.5,0.0,4.0,4.0,0.0,0.0,1.0,2.0,4.0,9.0,3.0,Eric Gordon,,HOU,True,False
+harteis01,12.666666666666666,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,4.0,16.0,Isaiah Hartenstein,,HOU,True,False
+chrisma01,,,,,,,,,,,,,,,,,,,,,Marquese Chriss,Did Not Play,HOU,True,False
+anthoca01,,,,,,,,,,,,,,,,,,,,,Carmelo Anthony,Did Not Dress,HOU,True,False
+cartemi01,,,,,,,,,,,,,,,,,,,,,Michael Carter-Williams,Did Not Play,HOU,True,False
+edwarvi01,,,,,,,,,,,,,,,,,,,,,Vince Edwards,Did Not Play,HOU,True,False

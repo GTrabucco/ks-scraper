@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+derozde01,37.1,12.0,19.0,0.632,0.0,0.0,,2.0,3.0,0.667,1.0,8.0,9.0,3.0,2.0,1.0,6.0,2.0,26.0,-2.0,DeMar DeRozan,,SAS,False,True
+whitede01,36.25,6.0,9.0,0.667,1.0,3.0,0.333,2.0,2.0,1.0,0.0,4.0,4.0,5.0,2.0,1.0,1.0,2.0,15.0,-11.0,Derrick White,,SAS,False,True
+aldrila01,34.733333333333334,5.0,12.0,0.417,1.0,1.0,1.0,2.0,2.0,1.0,2.0,3.0,5.0,6.0,1.0,3.0,2.0,1.0,13.0,0.0,LaMarcus Aldridge,,SAS,False,True
+forbebr01,31.4,5.0,9.0,0.556,4.0,6.0,0.667,0.0,0.0,,1.0,5.0,6.0,2.0,0.0,0.0,1.0,1.0,14.0,10.0,Bryn Forbes,,SAS,False,True
+gayru01,30.416666666666668,7.0,11.0,0.636,0.0,2.0,0.0,3.0,3.0,1.0,0.0,4.0,4.0,3.0,2.0,0.0,2.0,4.0,17.0,-5.0,Rudy Gay,,SAS,False,True
+millspa02,23.05,6.0,10.0,0.6,3.0,7.0,0.429,2.0,3.0,0.667,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,17.0,2.0,Patty Mills,,SAS,False,False
+belinma01,22.883333333333333,5.0,9.0,0.556,4.0,7.0,0.571,2.0,2.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,2.0,2.0,16.0,-4.0,Marco Belinelli,,SAS,False,False
+poeltja01,13.25,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,-2.0,Jakob Poeltl,,SAS,False,False
+cunnida01,10.916666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,2.0,0.0,2.0,Dante Cunningham,,SAS,False,False
+metuch01,,,,,,,,,,,,,,,,,,,,,Chimezie Metu,Did Not Play,SAS,False,False
+gasolpa01,,,,,,,,,,,,,,,,,,,,,Pau Gasol,Did Not Play,SAS,False,False
+pondequ01,,,,,,,,,,,,,,,,,,,,,Quincy Pondexter,Did Not Play,SAS,False,False
+walkelo01,,,,,,,,,,,,,,,,,,,,,Lonnie Walker,Did Not Play,SAS,False,False
+embiijo01,37.03333333333333,13.0,28.0,0.464,2.0,4.0,0.5,5.0,6.0,0.833,7.0,12.0,19.0,3.0,0.0,1.0,3.0,3.0,33.0,12.0,Joel Embiid,,PHI,True,True
+redicjj01,36.416666666666664,6.0,16.0,0.375,6.0,13.0,0.462,1.0,1.0,1.0,1.0,2.0,3.0,3.0,0.0,1.0,0.0,1.0,19.0,3.0,J.J. Redick,,PHI,True,True
+chandwi01,36.016666666666666,2.0,6.0,0.333,2.0,5.0,0.4,0.0,0.0,,1.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,6.0,-1.0,Wilson Chandler,,PHI,True,True
+simmobe01,35.38333333333333,9.0,14.0,0.643,0.0,0.0,,3.0,4.0,0.75,2.0,8.0,10.0,15.0,1.0,0.0,3.0,2.0,21.0,2.0,Ben Simmons,,PHI,True,True
+breweco01,27.683333333333334,3.0,7.0,0.429,2.0,3.0,0.667,1.0,2.0,0.5,0.0,1.0,1.0,2.0,2.0,0.0,2.0,3.0,9.0,2.0,Corey Brewer,,PHI,True,True
+shamela01,22.316666666666666,5.0,7.0,0.714,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,2.0,14.0,2.0,Landry Shamet,,PHI,True,False
+mccontj01,21.466666666666665,5.0,7.0,0.714,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,8.0,1.0,0.0,1.0,1.0,10.0,-6.0,T.J. McConnell,,PHI,True,False
+muscami01,12.716666666666667,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,Mike Muscala,,PHI,True,False
+boldejo01,10.966666666666667,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,2.0,0.0,1.0,7.0,-10.0,Jonah Bolden,,PHI,True,False
+johnsam01,,,,,,,,,,,,,,,,,,,,,Amir Johnson,Did Not Play,PHI,True,False
+korkmfu01,,,,,,,,,,,,,,,,,,,,,Furkan Korkmaz,Did Not Play,PHI,True,False

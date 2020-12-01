@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,40.93333333333333,11.0,29.0,0.379,3.0,17.0,0.176,3.0,3.0,1.0,0.0,7.0,7.0,6.0,1.0,1.0,3.0,3.0,28.0,-10.0,Paul George,,OKC,False,True
+westbru01,39.03333333333333,18.0,30.0,0.6,4.0,12.0,0.333,4.0,4.0,1.0,3.0,11.0,14.0,11.0,1.0,2.0,5.0,3.0,44.0,-15.0,Russell Westbrook,,OKC,False,True
+fergute01,36.166666666666664,2.0,9.0,0.222,2.0,7.0,0.286,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,1.0,0.0,5.0,6.0,-18.0,Terrance Ferguson,,OKC,False,True
+adamsst01,35.516666666666666,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,4.0,1.0,5.0,2.0,2.0,1.0,2.0,1.0,4.0,-11.0,Steven Adams,,OKC,False,True
+pattepa01,15.4,2.0,8.0,0.25,0.0,4.0,0.0,1.0,1.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,1.0,2.0,5.0,-20.0,Patrick Patterson,,OKC,False,True
+feltora01,23.016666666666666,3.0,4.0,0.75,1.0,2.0,0.5,2.0,2.0,1.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,1.0,9.0,13.0,Raymond Felton,,OKC,False,False
+noelne01,21.733333333333334,10.0,16.0,0.625,0.0,0.0,,2.0,2.0,1.0,8.0,5.0,13.0,1.0,2.0,0.0,1.0,3.0,22.0,4.0,Nerlens Noel,,OKC,False,False
+burtode02,14.333333333333334,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,2.0,5.0,Deonte Burton,,OKC,False,False
+naderab01,13.866666666666667,1.0,2.0,0.5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,2.0,7.0,Abdel Nader,,OKC,False,False
+hopsosc01,,,,,,,,,,,,,,,,,,,,,Scotty Hopson,Did Not Play,OKC,False,False
+solomri01,,,,,,,,,,,,,,,,,,,,,Richard Solomon,Did Not Play,OKC,False,False
+diallha01,,,,,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,False,False
+grantdo01,,,,,,,,,,,,,,,,,,,,,Donte Grantham,Did Not Play,OKC,False,False
+randlju01,38.9,11.0,21.0,0.524,2.0,3.0,0.667,9.0,12.0,0.75,4.0,7.0,11.0,6.0,1.0,1.0,4.0,3.0,33.0,19.0,Julius Randle,,NOP,True,True
+holidjr01,38.8,12.0,27.0,0.444,3.0,8.0,0.375,5.0,5.0,1.0,0.0,5.0,5.0,7.0,2.0,3.0,2.0,1.0,32.0,19.0,Jrue Holiday,,NOP,True,True
+milleda01,34.65,3.0,7.0,0.429,2.0,5.0,0.4,0.0,0.0,,1.0,3.0,4.0,5.0,1.0,0.0,0.0,4.0,8.0,19.0,Darius Miller,,NOP,True,True
+willike04,34.43333333333333,4.0,7.0,0.571,1.0,4.0,0.25,0.0,0.0,,2.0,10.0,12.0,4.0,1.0,1.0,1.0,2.0,9.0,5.0,Kenrich Williams,,NOP,True,True
+davisan02,15.85,5.0,10.0,0.5,1.0,2.0,0.5,3.0,4.0,0.75,0.0,4.0,4.0,2.0,1.0,1.0,2.0,1.0,14.0,10.0,Anthony Davis,,NOP,True,True
+okafoja01,22.8,5.0,6.0,0.833,0.0,0.0,,2.0,3.0,0.667,4.0,4.0,8.0,2.0,0.0,0.0,2.0,1.0,12.0,4.0,Jahlil Okafor,,NOP,True,False
+diallch01,17.833333333333332,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,1.0,1.0,0.0,6.0,-10.0,Cheick Diallo,,NOP,True,False
+mooreet01,17.083333333333332,6.0,7.0,0.857,3.0,3.0,1.0,0.0,0.0,,0.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,15.0,-13.0,E'Twaun Moore,,NOP,True,False
+jacksfr01,10.15,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,2.0,-2.0,Frank Jackson,,NOP,True,False
+fraziti01,7.333333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,-6.0,Tim Frazier,,NOP,True,False
+clarkia01,2.1666666666666665,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ian Clark,,NOP,True,False
+johnsst04,,,,,,,,,,,,,,,,,,,,,Stanley Johnson,Did Not Play,NOP,True,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,NOP,True,False

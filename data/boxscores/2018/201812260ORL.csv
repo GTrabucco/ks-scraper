@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bookede01,39.86666666666667,13.0,24.0,0.542,5.0,8.0,0.625,4.0,5.0,0.8,0.0,7.0,7.0,8.0,2.0,1.0,5.0,3.0,35.0,-3.0,Devin Booker,,PHO,False,True
+warretj01,36.28333333333333,9.0,18.0,0.5,3.0,5.0,0.6,3.0,4.0,0.75,2.0,2.0,4.0,0.0,2.0,0.0,2.0,3.0,24.0,-3.0,T.J. Warren,,PHO,False,True
+bridgmi01,35.38333333333333,2.0,8.0,0.25,1.0,3.0,0.333,0.0,0.0,,3.0,2.0,5.0,4.0,1.0,1.0,1.0,1.0,5.0,-3.0,Mikal Bridges,,PHO,False,True
+aytonde01,34.06666666666667,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,3.0,9.0,12.0,3.0,0.0,3.0,3.0,2.0,8.0,-10.0,Deandre Ayton,,PHO,False,True
+meltode01,18.183333333333334,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,1.0,2.0,4.0,4.0,-13.0,De'Anthony Melton,,PHO,False,True
+oubreke01,30.916666666666668,6.0,13.0,0.462,3.0,6.0,0.5,4.0,4.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,2.0,3.0,19.0,15.0,Kelly Oubre,,PHO,False,False
+jacksjo02,27.35,5.0,9.0,0.556,0.0,0.0,,0.0,2.0,0.0,1.0,6.0,7.0,4.0,2.0,0.0,2.0,1.0,10.0,4.0,Josh Jackson,,PHO,False,False
+okoboel01,24.016666666666666,4.0,7.0,0.571,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,9.0,11.0,Elie Okobo,,PHO,False,False
+holmeri01,18.933333333333334,3.0,6.0,0.5,0.0,0.0,,2.0,2.0,1.0,2.0,2.0,4.0,0.0,1.0,2.0,0.0,1.0,8.0,12.0,Richaun Holmes,,PHO,False,False
+danietr01,,,,,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,PHO,False,False
+evansja01,,,,,,,,,,,,,,,,,,,,,Jawun Evans,Did Not Play,PHO,False,False
+bendedr01,,,,,,,,,,,,,,,,,,,,,Dragan Bender,Did Not Play,PHO,False,False
+moreler01,,,,,,,,,,,,,,,,,,,,,Eric Moreland,Did Not Play,PHO,False,False
+gordoaa01,42.3,5.0,10.0,0.5,1.0,3.0,0.333,0.0,0.0,,1.0,8.0,9.0,2.0,2.0,1.0,0.0,2.0,11.0,8.0,Aaron Gordon,,ORL,True,True
+augusdj01,41.35,8.0,18.0,0.444,3.0,8.0,0.375,8.0,9.0,0.889,1.0,1.0,2.0,6.0,3.0,0.0,3.0,1.0,27.0,13.0,D.J. Augustin,,ORL,True,True
+vucevni01,39.05,10.0,20.0,0.5,2.0,5.0,0.4,0.0,0.0,,3.0,10.0,13.0,2.0,2.0,0.0,4.0,1.0,22.0,1.0,Nikola Vučević,,ORL,True,True
+fournev01,35.05,6.0,12.0,0.5,4.0,7.0,0.571,0.0,0.0,,1.0,3.0,4.0,5.0,0.0,0.0,2.0,5.0,16.0,8.0,Evan Fournier,,ORL,True,True
+isaacjo01,25.566666666666666,4.0,9.0,0.444,0.0,1.0,0.0,3.0,4.0,0.75,2.0,3.0,5.0,1.0,0.0,0.0,1.0,4.0,11.0,10.0,Jonathan Isaac,,ORL,True,True
+rosste01,36.1,6.0,14.0,0.429,4.0,9.0,0.444,2.0,3.0,0.667,1.0,1.0,2.0,1.0,2.0,0.0,0.0,1.0,18.0,-23.0,Terrence Ross,,ORL,True,False
+simmojo02,20.066666666666666,4.0,7.0,0.571,0.0,1.0,0.0,3.0,4.0,0.75,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,11.0,-11.0,Jonathon Simmons,,ORL,True,False
+bambamo01,13.933333333333334,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,0.0,2.0,2.0,2.0,-3.0,Mohamed Bamba,,ORL,True,False
+grantje02,11.533333333333333,0.0,1.0,0.0,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,3.0,0.0,0.0,1.0,1.0,2.0,-13.0,Jerian Grant,,ORL,True,False
+birchkh01,,,,,,,,,,,,,,,,,,,,,Khem Birch,Did Not Play,ORL,True,False
+martija01,,,,,,,,,,,,,,,,,,,,,Jarell Martin,Did Not Play,ORL,True,False
+briscis01,,,,,,,,,,,,,,,,,,,,,Isaiah Briscoe,Did Not Play,ORL,True,False
+iwundwe01,,,,,,,,,,,,,,,,,,,,,Wesley Iwundu,Did Not Play,ORL,True,False

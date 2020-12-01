@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+tuckepj01,39.016666666666666,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,1.0,2.0,3.0,1.0,4.0,0.0,1.0,5.0,0.0,9.0,P.J. Tucker,,HOU,False,True
+hardeja01,38.666666666666664,9.0,28.0,0.321,4.0,16.0,0.25,13.0,14.0,0.929,0.0,4.0,4.0,6.0,3.0,0.0,4.0,3.0,35.0,3.0,James Harden,,HOU,False,True
+gordoer01,36.75,10.0,19.0,0.526,4.0,13.0,0.308,3.0,4.0,0.75,0.0,4.0,4.0,0.0,0.0,2.0,2.0,0.0,27.0,-5.0,Eric Gordon,,HOU,False,True
+paulch01,36.18333333333333,5.0,9.0,0.556,3.0,6.0,0.5,4.0,7.0,0.571,1.0,2.0,3.0,4.0,3.0,0.0,5.0,1.0,17.0,-7.0,Chris Paul,,HOU,False,True
+capelca01,26.816666666666666,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,0.0,6.0,6.0,2.0,0.0,0.0,0.0,2.0,4.0,-17.0,Clint Capela,,HOU,False,True
+shumpim01,20.9,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,4.0,3.0,3.0,Iman Shumpert,,HOU,False,False
+houseda01,20.9,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,3.0,3.0,Danuel House,,HOU,False,False
+hilarne01,13.566666666666666,3.0,3.0,1.0,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,3.0,8.0,7.0,Nenê Hilário,,HOU,False,False
+greenge01,7.2,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3.0,-16.0,Gerald Green,,HOU,False,False
+chiozch01,,,,,,,,,,,,,,,,,,,,,Chris Chiozza,Did Not Play,HOU,False,False
+harteis01,,,,,,,,,,,,,,,,,,,,,Isaiah Hartenstein,Did Not Play,HOU,False,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,HOU,False,False
+clarkga01,,,,,,,,,,,,,,,,,,,,,Gary Clark,Did Not Play,HOU,False,False
+duranke01,43.38333333333333,11.0,25.0,0.44,1.0,3.0,0.333,12.0,15.0,0.8,0.0,5.0,5.0,3.0,1.0,1.0,6.0,2.0,35.0,0.0,Kevin Durant,,GSW,True,True
+thompkl01,41.38333333333333,5.0,13.0,0.385,2.0,5.0,0.4,1.0,1.0,1.0,0.0,4.0,4.0,3.0,2.0,0.0,3.0,4.0,13.0,3.0,Klay Thompson,,GSW,True,True
+greendr01,39.983333333333334,7.0,9.0,0.778,0.0,1.0,0.0,0.0,0.0,,3.0,6.0,9.0,9.0,1.0,1.0,5.0,1.0,14.0,10.0,Draymond Green,,GSW,True,True
+curryst01,37.05,5.0,12.0,0.417,3.0,10.0,0.3,5.0,5.0,1.0,0.0,7.0,7.0,4.0,1.0,0.0,3.0,5.0,18.0,4.0,Stephen Curry,,GSW,True,True
+iguodan01,34.233333333333334,6.0,7.0,0.857,1.0,2.0,0.5,1.0,4.0,0.25,2.0,2.0,4.0,2.0,0.0,1.0,1.0,5.0,14.0,5.0,Andre Iguodala,,GSW,True,True
+looneke01,15.583333333333334,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,0.0,2.0,2.0,6.0,-3.0,Kevon Looney,,GSW,True,False
+livinsh01,14.483333333333333,0.0,2.0,0.0,0.0,0.0,,2.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,2.0,11.0,Shaun Livingston,,GSW,True,False
+mckinal01,9.016666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,-7.0,Alfonzo McKinnie,,GSW,True,False
+bogutan01,4.816666666666666,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,2.0,-3.0,Andrew Bogut,,GSW,True,False
+belljo01,0.06666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Jordan Bell,,GSW,True,False
+evansja02,,,,,,,,,,,,,,,,,,,,,Jacob Evans,Did Not Play,GSW,True,False
+jerebjo01,,,,,,,,,,,,,,,,,,,,,Jonas Jerebko,Did Not Play,GSW,True,False
+cookqu01,,,,,,,,,,,,,,,,,,,,,Quinn Cook,Did Not Play,GSW,True,False

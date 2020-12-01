@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+brownja02,38.6,9.0,23.0,0.391,0.0,5.0,0.0,0.0,2.0,0.0,3.0,7.0,10.0,0.0,2.0,1.0,2.0,2.0,18.0,-7.0,Jaylen Brown,,BOS,False,True
+haywago01,36.2,5.0,13.0,0.385,0.0,5.0,0.0,5.0,6.0,0.833,2.0,5.0,7.0,3.0,0.0,0.0,2.0,2.0,15.0,-9.0,Gordon Hayward,,BOS,False,True
+tatumja01,33.166666666666664,6.0,11.0,0.545,2.0,5.0,0.4,9.0,9.0,1.0,1.0,6.0,7.0,1.0,1.0,1.0,4.0,5.0,23.0,1.0,Jayson Tatum,,BOS,False,True
+walkeke02,26.65,4.0,9.0,0.444,4.0,7.0,0.571,3.0,4.0,0.75,0.0,1.0,1.0,4.0,0.0,0.0,1.0,1.0,15.0,-3.0,Kemba Walker,,BOS,False,True
+theisda01,26.35,4.0,5.0,0.8,1.0,1.0,1.0,2.0,2.0,1.0,1.0,4.0,5.0,2.0,0.0,1.0,2.0,2.0,11.0,4.0,Daniel Theis,,BOS,False,True
+wanambr01,21.3,3.0,7.0,0.429,2.0,3.0,0.667,0.0,0.0,,1.0,2.0,3.0,3.0,1.0,0.0,3.0,1.0,8.0,4.0,Brad Wanamaker,,BOS,False,False
+ojelese01,19.416666666666668,1.0,6.0,0.167,1.0,5.0,0.2,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,0.0,0.0,3.0,3.0,-3.0,Semi Ojeleye,,BOS,False,False
+smartma01,15.933333333333334,0.0,5.0,0.0,0.0,2.0,0.0,3.0,4.0,0.75,1.0,0.0,1.0,0.0,2.0,0.0,1.0,6.0,3.0,-16.0,Marcus Smart,,BOS,False,False
+kanteen01,15.2,5.0,6.0,0.833,0.0,0.0,,0.0,0.0,,5.0,0.0,5.0,1.0,0.0,0.0,0.0,1.0,10.0,4.0,Enes Kanter,,BOS,False,False
+langfro01,3.7333333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Romeo Langford,,BOS,False,False
+willigr01,3.2333333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,-3.0,Grant Williams,,BOS,False,False
+williro04,0.21666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,-3.0,Robert Williams,,BOS,False,False
+edwarca01,,,,,,,,,,,,,,,,,,,,,Carsen Edwards,Did Not Play,BOS,False,False
+olynyke01,32.1,4.0,11.0,0.364,2.0,7.0,0.286,5.0,6.0,0.833,1.0,5.0,6.0,8.0,2.0,1.0,1.0,4.0,15.0,-6.0,Kelly Olynyk,,MIA,True,True
+adebaba01,31.683333333333334,5.0,12.0,0.417,0.0,0.0,,11.0,18.0,0.611,3.0,9.0,12.0,2.0,1.0,1.0,1.0,3.0,21.0,11.0,Bam Adebayo,,MIA,True,True
+robindu01,29.416666666666668,6.0,12.0,0.5,5.0,11.0,0.455,4.0,4.0,1.0,1.0,2.0,3.0,2.0,0.0,1.0,2.0,3.0,21.0,13.0,Duncan Robinson,,MIA,True,True
+crowdja01,28.383333333333333,3.0,5.0,0.6,2.0,4.0,0.5,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,0.0,0.0,1.0,8.0,7.0,Jae Crowder,,MIA,True,True
+nunnke01,16.5,2.0,6.0,0.333,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,2.0,1.0,4.0,7.0,Kendrick Nunn,,MIA,True,True
+iguodan01,30.85,2.0,6.0,0.333,1.0,5.0,0.2,1.0,2.0,0.5,3.0,5.0,8.0,4.0,1.0,2.0,1.0,0.0,6.0,3.0,Andre Iguodala,,MIA,True,False
+dragigo01,28.266666666666666,6.0,12.0,0.5,1.0,5.0,0.2,7.0,7.0,1.0,1.0,2.0,3.0,3.0,2.0,0.0,3.0,2.0,20.0,3.0,Goran Dragić,,MIA,True,False
+herroty01,21.95,4.0,10.0,0.4,3.0,7.0,0.429,0.0,0.0,,0.0,3.0,3.0,3.0,1.0,0.0,1.0,1.0,11.0,-8.0,Tyler Herro,,MIA,True,False
+jonesde02,20.85,2.0,3.0,0.667,1.0,1.0,1.0,1.0,2.0,0.5,2.0,0.0,2.0,0.0,0.0,0.0,1.0,4.0,6.0,0.0,Derrick Jones,,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,True,False
+leoname01,,,,,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Play,MIA,True,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,MIA,True,False
+vincega01,,,,,,,,,,,,,,,,,,,,,Gabe Vincent,Did Not Play,MIA,True,False

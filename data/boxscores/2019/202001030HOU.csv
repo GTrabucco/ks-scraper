@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+simmobe01,42.2,13.0,20.0,0.65,0.0,0.0,,3.0,7.0,0.429,6.0,7.0,13.0,11.0,3.0,4.0,3.0,5.0,29.0,-8.0,Ben Simmons,,PHI,False,True
+harrito02,41.5,8.0,18.0,0.444,2.0,4.0,0.5,6.0,6.0,1.0,0.0,2.0,2.0,2.0,0.0,1.0,0.0,3.0,24.0,-7.0,Tobias Harris,,PHI,False,True
+richajo01,38.53333333333333,2.0,10.0,0.2,2.0,6.0,0.333,1.0,2.0,0.5,0.0,0.0,0.0,8.0,1.0,0.0,3.0,3.0,7.0,-10.0,Josh Richardson,,PHI,False,True
+horfoal01,34.06666666666667,3.0,8.0,0.375,1.0,4.0,0.25,0.0,0.0,,2.0,6.0,8.0,2.0,0.0,0.0,0.0,1.0,7.0,-6.0,Al Horford,,PHI,False,True
+embiijo01,32.916666666666664,7.0,17.0,0.412,0.0,3.0,0.0,6.0,6.0,1.0,1.0,11.0,12.0,3.0,2.0,1.0,3.0,4.0,20.0,-4.0,Joel Embiid,,PHI,False,True
+korkmfu01,18.5,3.0,6.0,0.5,1.0,4.0,0.25,1.0,2.0,0.5,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,8.0,2.0,Furkan Korkmaz,,PHI,False,False
+burketr01,16.283333333333335,5.0,7.0,0.714,0.0,1.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,3.0,0.0,0.0,1.0,3.0,11.0,-1.0,Trey Burke,,PHI,False,False
+scottmi01,12.016666666666667,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,2.0,0.0,-7.0,Mike Scott,,PHI,False,False
+netora01,3.9833333333333334,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,-9.0,Raul Neto,,PHI,False,False
+smithzh01,,,,,,,,,,,,,,,,,,,,,Zhaire Smith,Did Not Play,PHI,False,False
+oquinky01,,,,,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,PHI,False,False
+miltosh01,,,,,,,,,,,,,,,,,,,,,Shake Milton,Did Not Play,PHI,False,False
+pelleno01,,,,,,,,,,,,,,,,,,,,,Norvel Pelle,Did Not Play,PHI,False,False
+hardeja01,40.81666666666667,13.0,24.0,0.542,6.0,12.0,0.5,12.0,12.0,1.0,1.0,10.0,11.0,11.0,1.0,1.0,5.0,3.0,44.0,10.0,James Harden,,HOU,True,True
+capelca01,36.9,12.0,16.0,0.75,0.0,0.0,,6.0,8.0,0.75,3.0,11.0,14.0,3.0,2.0,1.0,0.0,4.0,30.0,10.0,Clint Capela,,HOU,True,True
+tuckepj01,36.88333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,1.0,0.0,3.0,0.0,11.0,P.J. Tucker,,HOU,True,True
+westbru01,35.333333333333336,9.0,22.0,0.409,1.0,2.0,0.5,1.0,5.0,0.2,1.0,6.0,7.0,4.0,3.0,0.0,4.0,4.0,20.0,-3.0,Russell Westbrook,,HOU,True,True
+houseda01,29.166666666666668,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,3.0,3.0,1.0,Danuel House,,HOU,True,True
+gordoer01,29.95,3.0,13.0,0.231,2.0,10.0,0.2,4.0,5.0,0.8,1.0,1.0,2.0,2.0,0.0,0.0,1.0,2.0,12.0,8.0,Eric Gordon,,HOU,True,False
+mclembe01,13.35,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,3.0,0.0,Ben McLemore,,HOU,True,False
+harteis01,11.1,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Isaiah Hartenstein,,HOU,True,False
+riverau01,6.5,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,13.0,Austin Rivers,,HOU,True,False
+clemoch01,,,,,,,,,,,,,,,,,,,,,Chris Clemons,Did Not Play,HOU,True,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,True,False
+clarkga01,,,,,,,,,,,,,,,,,,,,,Gary Clark,Did Not Play,HOU,True,False
+sefolth01,,,,,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,True,False

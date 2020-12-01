@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+foxde01,37.416666666666664,11.0,17.0,0.647,2.0,4.0,0.5,6.0,8.0,0.75,0.0,5.0,5.0,8.0,1.0,0.0,3.0,3.0,30.0,19.0,De'Aaron Fox,,SAC,False,True
+barneha02,37.416666666666664,3.0,9.0,0.333,1.0,4.0,0.25,4.0,4.0,1.0,0.0,8.0,8.0,0.0,1.0,0.0,0.0,0.0,11.0,9.0,Harrison Barnes,,SAC,False,True
+hieldbu01,36.11666666666667,7.0,22.0,0.318,4.0,13.0,0.308,1.0,1.0,1.0,1.0,3.0,4.0,2.0,0.0,1.0,1.0,1.0,19.0,11.0,Buddy Hield,,SAC,False,True
+bogdabo01,29.8,2.0,9.0,0.222,2.0,7.0,0.286,3.0,4.0,0.75,1.0,3.0,4.0,3.0,0.0,0.0,1.0,2.0,9.0,-3.0,Bogdan Bogdanović,,SAC,False,True
+caulewi01,28.7,3.0,7.0,0.429,0.0,0.0,,1.0,2.0,0.5,3.0,9.0,12.0,1.0,0.0,0.0,0.0,1.0,7.0,4.0,Willie Cauley-Stein,,SAC,False,True
+bjeline01,28.783333333333335,5.0,13.0,0.385,2.0,5.0,0.4,1.0,1.0,1.0,2.0,8.0,10.0,2.0,2.0,2.0,0.0,1.0,13.0,10.0,Nemanja Bjelica,,SAC,False,False
+gilesha01,19.3,2.0,11.0,0.182,0.0,0.0,,2.0,2.0,1.0,4.0,1.0,5.0,0.0,1.0,0.0,1.0,3.0,6.0,4.0,Harry Giles,,SAC,False,False
+breweco01,11.883333333333333,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,-3.0,Corey Brewer,,SAC,False,False
+ferreyo01,10.583333333333334,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,5.0,-11.0,Yogi Ferrell,,SAC,False,False
+swanica01,,,,,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,SAC,False,False
+burksal01,,,,,,,,,,,,,,,,,,,,,Alec Burks,Did Not Play,SAC,False,False
+koufoko01,,,,,,,,,,,,,,,,,,,,,Kosta Koufos,Did Not Play,SAC,False,False
+masonfr01,,,,,,,,,,,,,,,,,,,,,Frank Mason,Did Not Play,SAC,False,False
+dotsoda01,33.3,2.0,12.0,0.167,0.0,4.0,0.0,1.0,2.0,0.5,0.0,6.0,6.0,3.0,0.0,0.0,0.0,0.0,5.0,-12.0,Damyean Dotson,,NYK,True,True
+smithde03,32.38333333333333,7.0,19.0,0.368,2.0,7.0,0.286,2.0,3.0,0.667,1.0,4.0,5.0,5.0,0.0,0.0,1.0,1.0,18.0,-4.0,Dennis Smith,,NYK,True,True
+jordade01,26.05,6.0,9.0,0.667,0.0,0.0,,2.0,2.0,1.0,6.0,9.0,15.0,1.0,0.0,1.0,1.0,4.0,14.0,-4.0,DeAndre Jordan,,NYK,True,True
+thomala01,25.116666666666667,4.0,9.0,0.444,2.0,5.0,0.4,0.0,0.0,,1.0,6.0,7.0,0.0,0.0,0.0,0.0,4.0,10.0,3.0,Lance Thomas,,NYK,True,True
+knoxke01,23.016666666666666,3.0,12.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,2.0,0.0,0.0,2.0,2.0,7.0,3.0,Kevin Knox,,NYK,True,True
+trieral01,24.15,3.0,10.0,0.3,0.0,5.0,0.0,4.0,8.0,0.5,0.0,3.0,3.0,0.0,1.0,0.0,1.0,2.0,10.0,-11.0,Allonzo Trier,,NYK,True,False
+mudiaem01,23.65,4.0,8.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,0.0,3.0,2.0,9.0,-7.0,Emmanuel Mudiay,,NYK,True,False
+robinmi01,21.95,2.0,4.0,0.5,0.0,0.0,,4.0,4.0,1.0,3.0,6.0,9.0,0.0,1.0,3.0,1.0,4.0,8.0,-4.0,Mitchell Robinson,,NYK,True,False
+kornelu01,13.266666666666667,1.0,4.0,0.25,1.0,4.0,0.25,1.0,2.0,0.5,1.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,4.0,0.0,Luke Kornet,,NYK,True,False
+jenkijo01,12.65,3.0,5.0,0.6,3.0,3.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,John Jenkins,,NYK,True,False
+ellenhe01,4.466666666666667,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,-6.0,Henry Ellenson,,NYK,True,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,NYK,True,False

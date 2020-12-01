@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,42.05,8.0,18.0,0.444,2.0,6.0,0.333,5.0,6.0,0.833,2.0,9.0,11.0,6.0,1.0,0.0,6.0,3.0,23.0,6.0,Paul George,,OKC,False,True
+westbru01,41.6,11.0,25.0,0.44,0.0,5.0,0.0,8.0,9.0,0.889,3.0,8.0,11.0,7.0,3.0,1.0,9.0,3.0,30.0,8.0,Russell Westbrook,,OKC,False,True
+adamsst01,38.483333333333334,4.0,4.0,1.0,0.0,0.0,,1.0,1.0,1.0,9.0,3.0,12.0,2.0,0.0,1.0,4.0,4.0,9.0,4.0,Steven Adams,,OKC,False,True
+anthoca01,36.516666666666666,5.0,14.0,0.357,2.0,7.0,0.286,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,0.0,1.0,4.0,12.0,-2.0,Carmelo Anthony,,OKC,False,True
+huestjo01,22.15,2.0,5.0,0.4,2.0,5.0,0.4,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,-5.0,Josh Huestis,,OKC,False,True
+feltora01,23.15,4.0,9.0,0.444,2.0,3.0,0.667,0.0,0.0,,1.0,4.0,5.0,2.0,0.0,0.0,1.0,4.0,10.0,-7.0,Raymond Felton,,OKC,False,False
+abrinal01,19.816666666666666,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,3.0,-2.0,Álex Abrines,,OKC,False,False
+pattepa01,15.516666666666667,2.0,5.0,0.4,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,4.0,0.0,Patrick Patterson,,OKC,False,False
+grantje01,15.483333333333333,4.0,7.0,0.571,1.0,2.0,0.5,3.0,3.0,1.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,2.0,12.0,0.0,Jerami Grant,,OKC,False,False
+fergute01,10.233333333333333,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,3.0,Terrance Ferguson,,OKC,False,False
+singlky01,,,,,,,,,,,,,,,,,,,,,Kyle Singler,Did Not Play,OKC,False,False
+johnsda04,,,,,,,,,,,,,,,,,,,,,Dakari Johnson,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+matthwe02,42.05,4.0,14.0,0.286,3.0,10.0,0.3,0.0,0.0,,3.0,4.0,7.0,1.0,2.0,0.0,2.0,2.0,11.0,-6.0,Wesley Matthews,,DAL,True,True
+smithde03,39.833333333333336,6.0,18.0,0.333,2.0,7.0,0.286,3.0,4.0,0.75,0.0,2.0,2.0,6.0,1.0,0.0,1.0,3.0,17.0,-1.0,Dennis Smith,,DAL,True,True
+barneha02,38.833333333333336,9.0,16.0,0.563,3.0,4.0,0.75,5.0,5.0,1.0,2.0,3.0,5.0,5.0,2.0,0.0,5.0,2.0,26.0,-6.0,Harrison Barnes,,DAL,True,True
+poweldw01,37.166666666666664,10.0,13.0,0.769,0.0,0.0,,1.0,6.0,0.167,2.0,6.0,8.0,3.0,3.0,0.0,2.0,3.0,21.0,4.0,Dwight Powell,,DAL,True,True
+nowitdi01,23.75,5.0,9.0,0.556,2.0,4.0,0.5,0.0,0.0,,0.0,5.0,5.0,4.0,1.0,0.0,0.0,4.0,12.0,10.0,Dirk Nowitzki,,DAL,True,True
+bareajo01,25.566666666666666,5.0,10.0,0.5,2.0,7.0,0.286,0.0,0.0,,0.0,2.0,2.0,7.0,0.0,0.0,2.0,1.0,12.0,-4.0,J.J. Barea,,DAL,True,False
+ferreyo01,24.566666666666666,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,4.0,-2.0,Yogi Ferrell,,DAL,True,False
+mcderdo01,17.4,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,3.0,5.0,Doug McDermott,,DAL,True,False
+noelne01,15.833333333333334,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,1.0,3.0,4.0,4.0,-5.0,Nerlens Noel,,DAL,True,False
+mejrisa01,,,,,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,True,False
+klebima01,,,,,,,,,,,,,,,,,,,,,Maxi Kleber,Did Not Play,DAL,True,False
+hopsosc01,,,,,,,,,,,,,,,,,,,,,Scotty Hopson,Did Not Play,DAL,True,False
+colliky01,,,,,,,,,,,,,,,,,,,,,Kyle Collinsworth,Did Not Play,DAL,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jokicni01,47.483333333333334,12.0,22.0,0.545,4.0,5.0,0.8,6.0,6.0,1.0,5.0,10.0,15.0,3.0,1.0,0.0,5.0,5.0,34.0,1.0,Nikola Jokić,,DEN,False,True
+chandwi01,47.416666666666664,11.0,16.0,0.688,3.0,7.0,0.429,1.0,2.0,0.5,1.0,4.0,5.0,0.0,2.0,1.0,1.0,5.0,26.0,-16.0,Wilson Chandler,,DEN,False,True
+bartowi01,45.9,8.0,21.0,0.381,3.0,10.0,0.3,3.0,3.0,1.0,1.0,3.0,4.0,3.0,4.0,2.0,0.0,4.0,22.0,-7.0,Will Barton,,DEN,False,True
+millspa01,45.06666666666667,5.0,11.0,0.455,1.0,2.0,0.5,3.0,4.0,0.75,1.0,7.0,8.0,2.0,2.0,1.0,2.0,2.0,14.0,-12.0,Paul Millsap,,DEN,False,True
+murraja01,43.0,5.0,16.0,0.313,4.0,8.0,0.5,9.0,11.0,0.818,1.0,4.0,5.0,5.0,0.0,0.0,1.0,4.0,23.0,-10.0,Jamal Murray,,DEN,False,True
+harride01,26.983333333333334,2.0,8.0,0.25,1.0,4.0,0.25,8.0,8.0,1.0,0.0,2.0,2.0,9.0,0.0,0.0,3.0,2.0,13.0,3.0,Devin Harris,,DEN,False,False
+plumlma01,23.333333333333332,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,0.333,1.0,3.0,4.0,1.0,1.0,1.0,0.0,2.0,3.0,-3.0,Mason Plumlee,,DEN,False,False
+craigto01,10.7,2.0,4.0,0.5,2.0,2.0,1.0,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,1.0,1.0,6.0,6.0,Torrey Craig,,DEN,False,False
+beaslma01,0.11666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Malik Beasley,,DEN,False,False
+lylestr01,,,,,,,,,,,,,,,,,,,,,Trey Lyles,Did Not Play,DEN,False,False
+jefferi01,,,,,,,,,,,,,,,,,,,,,Richard Jefferson,Did Not Play,DEN,False,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,DEN,False,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,False,False
+johnsja01,46.25,13.0,17.0,0.765,4.0,6.0,0.667,1.0,3.0,0.333,0.0,11.0,11.0,6.0,1.0,1.0,1.0,4.0,31.0,13.0,James Johnson,,MIA,True,True
+dragigo01,42.06666666666667,6.0,15.0,0.4,1.0,3.0,0.333,7.0,8.0,0.875,1.0,4.0,5.0,8.0,1.0,0.0,3.0,4.0,20.0,10.0,Goran Dragić,,MIA,True,True
+richajo01,41.21666666666667,6.0,13.0,0.462,2.0,4.0,0.5,3.0,3.0,1.0,1.0,4.0,5.0,5.0,1.0,4.0,1.0,4.0,17.0,4.0,Josh Richardson,,MIA,True,True
+adebaba01,27.0,3.0,9.0,0.333,0.0,0.0,,1.0,6.0,0.167,4.0,4.0,8.0,3.0,0.0,0.0,2.0,2.0,7.0,-17.0,Bam Adebayo,,MIA,True,True
+johnsty01,20.833333333333332,3.0,9.0,0.333,2.0,3.0,0.667,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,1.0,0.0,1.0,8.0,-3.0,Tyler Johnson,,MIA,True,True
+olynyke01,41.11666666666667,11.0,16.0,0.688,4.0,6.0,0.667,4.0,5.0,0.8,1.0,7.0,8.0,6.0,1.0,4.0,2.0,3.0,30.0,18.0,Kelly Olynyk,,MIA,True,False
+ellinwa01,40.416666666666664,8.0,14.0,0.571,6.0,11.0,0.545,1.0,2.0,0.5,0.0,3.0,3.0,2.0,0.0,0.0,1.0,5.0,23.0,13.0,Wayne Ellington,,MIA,True,False
+winslju01,21.816666666666666,5.0,8.0,0.625,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,1.0,1.0,3.0,11.0,-1.0,Justise Winslow,,MIA,True,False
+mcgruro01,9.283333333333333,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,Rodney McGruder,,MIA,True,False
+mickejo01,,,,,,,,,,,,,,,,,,,,,Jordan Mickey,Did Not Play,MIA,True,False
+jonesde02,,,,,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Play,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,True,False
+babbilu01,,,,,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,MIA,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+siakapa01,42.333333333333336,6.0,20.0,0.3,2.0,9.0,0.222,1.0,2.0,0.5,2.0,4.0,6.0,3.0,1.0,1.0,1.0,3.0,15.0,1.0,Pascal Siakam,,TOR,False,True
+leonaka01,42.21666666666667,10.0,26.0,0.385,1.0,5.0,0.2,10.0,10.0,1.0,1.0,8.0,9.0,2.0,3.0,0.0,3.0,2.0,31.0,-4.0,Kawhi Leonard,,TOR,False,True
+lowryky01,40.166666666666664,10.0,15.0,0.667,7.0,9.0,0.778,3.0,4.0,0.75,3.0,5.0,8.0,2.0,1.0,0.0,4.0,5.0,30.0,-10.0,Kyle Lowry,,TOR,False,True
+gasolma01,39.916666666666664,2.0,11.0,0.182,2.0,7.0,0.286,0.0,0.0,,0.0,12.0,12.0,5.0,0.0,2.0,1.0,3.0,6.0,1.0,Marc Gasol,,TOR,False,True
+greenda02,35.166666666666664,1.0,5.0,0.2,1.0,4.0,0.25,3.0,4.0,0.75,1.0,5.0,6.0,2.0,2.0,0.0,3.0,3.0,6.0,5.0,Danny Green,,TOR,False,True
+ibakase01,17.033333333333335,2.0,6.0,0.333,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,1.0,0.0,2.0,4.0,-17.0,Serge Ibaka,,TOR,False,False
+vanvlfr01,13.266666666666667,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,-10.0,Fred VanVleet,,TOR,False,False
+powelno01,9.9,2.0,5.0,0.4,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,-6.0,Norman Powell,,TOR,False,False
+linje01,,,,,,,,,,,,,,,,,,,,,Jeremy Lin,Did Not Play,TOR,False,False
+meeksjo01,,,,,,,,,,,,,,,,,,,,,Jodie Meeks,Did Not Play,TOR,False,False
+bouchch01,,,,,,,,,,,,,,,,,,,,,Chris Boucher,Did Not Play,TOR,False,False
+moreler01,,,,,,,,,,,,,,,,,,,,,Eric Moreland,Did Not Play,TOR,False,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,False,False
+antetgi01,37.25,7.0,16.0,0.438,1.0,3.0,0.333,9.0,12.0,0.75,4.0,10.0,14.0,6.0,2.0,3.0,5.0,1.0,24.0,8.0,Giannis Antetokounmpo,,MIL,True,True
+middlkh01,34.9,4.0,12.0,0.333,1.0,6.0,0.167,2.0,2.0,1.0,0.0,11.0,11.0,4.0,1.0,0.0,4.0,4.0,11.0,10.0,Khris Middleton,,MIL,True,True
+lopezbr01,34.666666666666664,12.0,21.0,0.571,4.0,11.0,0.364,1.0,2.0,0.5,4.0,7.0,11.0,2.0,0.0,4.0,0.0,3.0,29.0,7.0,Brook Lopez,,MIL,True,True
+bledser01,29.5,3.0,12.0,0.25,0.0,6.0,0.0,3.0,3.0,1.0,1.0,4.0,5.0,2.0,1.0,0.0,0.0,1.0,9.0,1.0,Eric Bledsoe,,MIL,True,True
+mirotni01,24.866666666666667,3.0,9.0,0.333,1.0,6.0,0.167,6.0,6.0,1.0,3.0,3.0,6.0,0.0,0.0,1.0,2.0,1.0,13.0,-5.0,Nikola Mirotić,,MIL,True,True
+hillge01,27.333333333333332,0.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.0,4.0,1.0,0.0,2.0,0.0,0.0,George Hill,,MIL,True,False
+brogdma01,26.65,5.0,9.0,0.556,3.0,6.0,0.5,2.0,2.0,1.0,1.0,2.0,3.0,3.0,0.0,0.0,1.0,4.0,15.0,18.0,Malcolm Brogdon,,MIL,True,False
+ilyaser01,14.25,3.0,6.0,0.5,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,7.0,0.0,Ersan İlyasova,,MIL,True,False
+connapa01,10.583333333333334,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Pat Connaughton,,MIL,True,False
+fraziti01,,,,,,,,,,,,,,,,,,,,,Tim Frazier,Did Not Play,MIL,True,False
+snellto01,,,,,,,,,,,,,,,,,,,,,Tony Snell,Did Not Play,MIL,True,False
+brownst02,,,,,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,True,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,True,False

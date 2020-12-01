@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bookede01,37.36666666666667,14.0,24.0,0.583,3.0,9.0,0.333,6.0,6.0,1.0,0.0,4.0,4.0,5.0,0.0,0.0,4.0,2.0,37.0,-4.0,Devin Booker,,PHO,False,True
+arizatr01,36.03333333333333,1.0,5.0,0.2,1.0,3.0,0.333,2.0,2.0,1.0,0.0,2.0,2.0,4.0,3.0,0.0,2.0,3.0,5.0,2.0,Trevor Ariza,,PHO,False,True
+bridgmi01,34.18333333333333,1.0,8.0,0.125,0.0,3.0,0.0,0.0,0.0,,4.0,3.0,7.0,3.0,0.0,0.0,2.0,0.0,2.0,-6.0,Mikal Bridges,,PHO,False,True
+aytonde01,32.2,11.0,13.0,0.846,0.0,0.0,,3.0,4.0,0.75,4.0,9.0,13.0,2.0,0.0,3.0,3.0,3.0,25.0,-3.0,Deandre Ayton,,PHO,False,True
+warretj01,14.95,3.0,8.0,0.375,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,2.0,0.0,1.0,3.0,6.0,-4.0,T.J. Warren,,PHO,False,True
+crawfja01,25.766666666666666,4.0,8.0,0.5,3.0,4.0,0.75,1.0,2.0,0.5,0.0,2.0,2.0,5.0,0.0,0.0,1.0,2.0,12.0,-12.0,Jamal Crawford,,PHO,False,False
+jacksjo02,23.966666666666665,4.0,8.0,0.5,1.0,4.0,0.25,1.0,2.0,0.5,1.0,3.0,4.0,1.0,1.0,0.0,2.0,3.0,10.0,-3.0,Josh Jackson,,PHO,False,False
+canaais01,19.733333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,-17.0,Isaiah Canaan,,PHO,False,False
+holmeri01,15.8,4.0,6.0,0.667,0.0,0.0,,2.0,5.0,0.4,1.0,5.0,6.0,0.0,0.0,3.0,1.0,5.0,10.0,-8.0,Richaun Holmes,,PHO,False,False
+bendedr01,,,,,,,,,,,,,,,,,,,,,Dragan Bender,Did Not Play,PHO,False,False
+danietr01,,,,,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,PHO,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Play,PHO,False,False
+okoboel01,,,,,,,,,,,,,,,,,,,,,Elie Okobo,Did Not Play,PHO,False,False
+griffbl01,35.3,7.0,16.0,0.438,2.0,8.0,0.25,0.0,0.0,,0.0,3.0,3.0,11.0,0.0,0.0,5.0,2.0,16.0,7.0,Blake Griffin,,DET,True,True
+bullore01,31.483333333333334,5.0,10.0,0.5,2.0,5.0,0.4,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,13.0,-6.0,Reggie Bullock,,DET,True,True
+jacksre01,31.266666666666666,6.0,20.0,0.3,4.0,15.0,0.267,3.0,3.0,1.0,0.0,2.0,2.0,8.0,2.0,0.0,1.0,4.0,19.0,0.0,Reggie Jackson,,DET,True,True
+drumman01,30.683333333333334,9.0,14.0,0.643,0.0,0.0,,1.0,8.0,0.125,7.0,9.0,16.0,1.0,5.0,0.0,3.0,4.0,19.0,-3.0,Andre Drummond,,DET,True,True
+robingl02,14.4,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,-6.0,Glenn Robinson,,DET,True,True
+gallola01,26.583333333333332,4.0,6.0,0.667,4.0,6.0,0.667,3.0,3.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,15.0,18.0,Langston Galloway,,DET,True,False
+johnsst04,24.7,5.0,9.0,0.556,2.0,3.0,0.667,2.0,2.0,1.0,1.0,3.0,4.0,0.0,2.0,0.0,1.0,1.0,14.0,16.0,Stanley Johnson,,DET,True,False
+smithis01,16.733333333333334,3.0,10.0,0.3,2.0,4.0,0.5,1.0,2.0,0.5,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,9.0,11.0,Ish Smith,,DET,True,False
+brownbr01,15.916666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,2.0,6.0,Bruce Brown,,DET,True,False
+pachuza01,12.933333333333334,1.0,3.0,0.333,0.0,0.0,,5.0,6.0,0.833,3.0,7.0,10.0,2.0,0.0,0.0,0.0,4.0,7.0,12.0,Zaza Pachulia,,DET,True,False
+thomakh01,,,,,,,,,,,,,,,,,,,,,Khyri Thomas,Did Not Play,DET,True,False
+caldejo01,,,,,,,,,,,,,,,,,,,,,José Calderón,Did Not Play,DET,True,False
+leuerjo01,,,,,,,,,,,,,,,,,,,,,Jon Leuer,Did Not Play,DET,True,False

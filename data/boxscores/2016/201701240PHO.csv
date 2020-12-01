@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+wiggian01,38.65,11.0,22.0,0.5,2.0,4.0,0.5,7.0,8.0,0.875,2.0,4.0,6.0,3.0,2.0,0.0,2.0,1.0,31.0,0.0,Andrew Wiggins,,MIN,False,True
+townska01,38.583333333333336,7.0,12.0,0.583,0.0,0.0,,4.0,5.0,0.8,0.0,10.0,10.0,2.0,2.0,1.0,3.0,5.0,18.0,2.0,Karl-Anthony Towns,,MIN,False,True
+lavinza01,33.916666666666664,5.0,9.0,0.556,1.0,4.0,0.25,0.0,2.0,0.0,0.0,1.0,1.0,4.0,2.0,0.0,2.0,2.0,11.0,4.0,Zach LaVine,,MIN,False,True
+dienggo01,33.9,8.0,11.0,0.727,0.0,0.0,,0.0,0.0,,4.0,5.0,9.0,2.0,1.0,3.0,2.0,4.0,16.0,12.0,Gorgui Dieng,,MIN,False,True
+rubiori01,33.7,4.0,8.0,0.5,1.0,1.0,1.0,5.0,6.0,0.833,2.0,2.0,4.0,10.0,1.0,0.0,1.0,3.0,14.0,-3.0,Ricky Rubio,,MIN,False,True
+muhamsh01,26.583333333333332,6.0,9.0,0.667,2.0,3.0,0.667,2.0,3.0,0.667,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,16.0,-7.0,Shabazz Muhammad,,MIN,False,False
+dunnkr01,14.3,1.0,7.0,0.143,0.0,3.0,0.0,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,5.0,2.0,2.0,4.0,Kris Dunn,,MIN,False,False
+bjeline01,12.783333333333333,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,-6.0,Nemanja Bjelica,,MIN,False,False
+aldrico01,7.583333333333333,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,0.0,0.0,2.0,4.0,-1.0,Cole Aldrich,,MIN,False,False
+rushbr01,,,,,,,,,,,,,,,,,,,,,Brandon Rush,Did Not Play,MIN,False,False
+paynead01,,,,,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,False,False
+jonesty01,,,,,,,,,,,,,,,,,,,,,Tyus Jones,Did Not Play,MIN,False,False
+hilljo01,,,,,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,MIN,False,False
+bookede01,43.28333333333333,9.0,23.0,0.391,4.0,7.0,0.571,4.0,4.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,4.0,3.0,26.0,-2.0,Devin Booker,,PHO,True,True
+chandty01,35.083333333333336,9.0,9.0,1.0,0.0,0.0,,4.0,5.0,0.8,7.0,10.0,17.0,0.0,0.0,2.0,0.0,3.0,22.0,-9.0,Tyson Chandler,,PHO,True,True
+warretj01,30.1,4.0,11.0,0.364,0.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,2.0,4.0,8.0,6.0,T.J. Warren,,PHO,True,True
+bledser01,29.433333333333334,5.0,18.0,0.278,1.0,5.0,0.2,7.0,7.0,1.0,0.0,1.0,1.0,7.0,1.0,0.0,5.0,4.0,18.0,-8.0,Eric Bledsoe,,PHO,True,True
+chrisma01,11.8,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,0.0,4.0,5.0,-13.0,Marquese Chriss,,PHO,True,True
+tuckepj01,33.75,1.0,3.0,0.333,0.0,0.0,,6.0,8.0,0.75,0.0,6.0,6.0,6.0,4.0,1.0,0.0,0.0,8.0,5.0,P.J. Tucker,,PHO,True,False
+lenal01,23.883333333333333,4.0,5.0,0.8,0.0,0.0,,3.0,3.0,1.0,5.0,5.0,10.0,0.0,0.0,0.0,3.0,1.0,11.0,6.0,Alex Len,,PHO,True,False
+knighbr03,22.366666666666667,3.0,7.0,0.429,0.0,1.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,10.0,11.0,Brandon Knight,,PHO,True,False
+ulisty01,5.916666666666667,1.0,3.0,0.333,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,-5.0,Tyler Ulis,,PHO,True,False
+barbole01,4.383333333333334,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,Leandro Barbosa,,PHO,True,False
+willial03,,,,,,,,,,,,,,,,,,,,,Alan Williams,Did Not Play,PHO,True,False
+jonesde02,,,,,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Play,PHO,True,False
+bendedr01,,,,,,,,,,,,,,,,,,,,,Dragan Bender,Did Not Play,PHO,True,False

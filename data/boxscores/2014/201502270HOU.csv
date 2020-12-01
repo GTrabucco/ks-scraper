@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+johnsjo02,40.03333333333333,5.0,13.0,0.385,0.0,2.0,0.0,3.0,4.0,0.75,0.0,9.0,9.0,6.0,1.0,0.0,1.0,1.0,13.0,1.0,Joe Johnson,,BRK,False,True
+anderal01,36.96666666666667,4.0,6.0,0.667,1.0,2.0,0.5,4.0,4.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,3.0,1.0,13.0,-2.0,Alan Anderson,,BRK,False,True
+brownma02,35.35,5.0,12.0,0.417,2.0,5.0,0.4,2.0,2.0,1.0,1.0,3.0,4.0,1.0,2.0,0.0,1.0,5.0,14.0,0.0,Markel Brown,,BRK,False,True
+willide01,34.333333333333336,6.0,15.0,0.4,0.0,3.0,0.0,3.0,3.0,1.0,0.0,5.0,5.0,3.0,3.0,0.0,1.0,2.0,15.0,-10.0,Deron Williams,,BRK,False,True
+plumlma01,22.483333333333334,7.0,10.0,0.7,0.0,0.0,,1.0,1.0,1.0,2.0,2.0,4.0,0.0,1.0,2.0,2.0,4.0,15.0,2.0,Mason Plumlee,,BRK,False,True
+jackja01,22.55,2.0,9.0,0.222,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,5.0,1.0,1.0,4.0,2.0,4.0,-6.0,Jarrett Jack,,BRK,False,False
+lopezbr01,22.1,4.0,12.0,0.333,0.0,0.0,,4.0,4.0,1.0,8.0,4.0,12.0,1.0,0.0,1.0,3.0,4.0,12.0,-6.0,Brook Lopez,,BRK,False,False
+youngth01,16.3,4.0,7.0,0.571,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,9.0,-4.0,Thaddeus Young,,BRK,False,False
+jeffeco01,9.9,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,0.5,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,Cory Jefferson,,BRK,False,False
+bogdabo02,,,,,,,,,,,,,,,,,,,,,Bojan Bogdanović,Did Not Dress,BRK,False,False
+jordaje01,,,,,,,,,,,,,,,,,,,,,Jerome Jordan,Did Not Play,BRK,False,False
+karasse01,,,,,,,,,,,,,,,,,,,,,Sergey Karasev,Did Not Play,BRK,False,False
+morrida01,,,,,,,,,,,,,,,,,,,,,Darius Morris,Did Not Play,BRK,False,False
+hardeja01,38.333333333333336,4.0,15.0,0.267,0.0,4.0,0.0,7.0,7.0,1.0,0.0,5.0,5.0,12.0,1.0,0.0,4.0,3.0,15.0,3.0,James Harden,,HOU,True,True
+arizatr01,36.583333333333336,7.0,11.0,0.636,5.0,9.0,0.556,1.0,1.0,1.0,0.0,5.0,5.0,2.0,2.0,0.0,2.0,2.0,20.0,-3.0,Trevor Ariza,,HOU,True,True
+joneste01,36.28333333333333,11.0,16.0,0.688,0.0,1.0,0.0,4.0,4.0,1.0,3.0,9.0,12.0,0.0,0.0,1.0,2.0,2.0,26.0,8.0,Terrence Jones,,HOU,True,True
+beverpa01,34.46666666666667,3.0,9.0,0.333,2.0,7.0,0.286,1.0,1.0,1.0,1.0,3.0,4.0,3.0,3.0,0.0,1.0,4.0,9.0,4.0,Patrick Beverley,,HOU,True,True
+motiedo01,23.716666666666665,5.0,11.0,0.455,1.0,2.0,0.5,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,0.0,1.0,4.0,11.0,1.0,Donatas Motiejūnas,,HOU,True,True
+smithjo03,28.65,5.0,10.0,0.5,0.0,5.0,0.0,0.0,2.0,0.0,1.0,8.0,9.0,2.0,0.0,4.0,2.0,5.0,10.0,2.0,Josh Smith,,HOU,True,False
+breweco01,16.533333333333335,3.0,9.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,2.0,Corey Brewer,,HOU,True,False
+prigipa01,12.233333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,0.0,1.0,5.0,2.0,0.0,0.0,1.0,0.0,5.0,Pablo Prigioni,,HOU,True,False
+terryja01,11.033333333333333,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,5.0,-2.0,Jason Terry,,HOU,True,False
+dorsejo01,2.183333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Joey Dorsey,,HOU,True,False
+johnsni01,,,,,,,,,,,,,,,,,,,,,Nick Johnson,Did Not Play,HOU,True,False
+mcdankj01,,,,,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,HOU,True,False

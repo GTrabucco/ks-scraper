@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+ingrabr01,38.68333333333333,14.0,22.0,0.636,4.0,7.0,0.571,3.0,5.0,0.6,1.0,14.0,15.0,5.0,0.0,0.0,3.0,3.0,35.0,-1.0,Brandon Ingram,,NOP,False,True
+balllo01,35.65,6.0,13.0,0.462,4.0,9.0,0.444,2.0,2.0,1.0,0.0,2.0,2.0,10.0,3.0,0.0,0.0,2.0,18.0,0.0,Lonzo Ball,,NOP,False,True
+hartjo01,33.68333333333333,8.0,17.0,0.471,5.0,12.0,0.417,2.0,2.0,1.0,0.0,3.0,3.0,1.0,2.0,1.0,1.0,1.0,23.0,-1.0,Josh Hart,,NOP,False,True
+redicjj01,28.15,4.0,16.0,0.25,4.0,11.0,0.364,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,5.0,5.0,14.0,-2.0,J.J. Redick,,NOP,False,True
+favorde01,18.416666666666668,2.0,5.0,0.4,0.0,1.0,0.0,0.0,0.0,,3.0,2.0,5.0,2.0,1.0,0.0,4.0,2.0,4.0,-9.0,Derrick Favors,,NOP,False,True
+willike04,32.36666666666667,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,2.0,3.0,5.0,3.0,2.0,0.0,0.0,4.0,2.0,-1.0,Kenrich Williams,,NOP,False,False
+jacksfr01,18.083333333333332,3.0,9.0,0.333,1.0,5.0,0.2,2.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,9.0,-2.0,Frank Jackson,,NOP,False,False
+alexani01,12.35,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,-3.0,Nickeil Alexander-Walker,,NOP,False,False
+okafoja01,11.583333333333334,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,2.0,0.0,1.0,0.0,6.0,6.0,2.0,Jahlil Okafor,,NOP,False,False
+mellini01,11.033333333333333,4.0,6.0,0.667,0.0,1.0,0.0,2.0,3.0,0.667,0.0,2.0,2.0,1.0,0.0,0.0,1.0,3.0,10.0,2.0,Nicolò Melli,,NOP,False,False
+cheatzy01,,,,,,,,,,,,,,,,,,,,,Zylan Cheatham,Did Not Play,NOP,False,False
+mooreet01,,,,,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,NOP,False,False
+hayesja02,,,,,,,,,,,,,,,,,,,,,Jaxson Hayes,Did Not Play,NOP,False,False
+tuckepj01,38.266666666666666,6.0,9.0,0.667,2.0,3.0,0.667,2.0,2.0,1.0,2.0,3.0,5.0,3.0,1.0,1.0,2.0,3.0,16.0,16.0,P.J. Tucker,,HOU,True,True
+hardeja01,36.083333333333336,8.0,29.0,0.276,2.0,18.0,0.111,11.0,12.0,0.917,0.0,4.0,4.0,5.0,1.0,0.0,8.0,3.0,29.0,7.0,James Harden,,HOU,True,True
+westbru01,33.583333333333336,9.0,17.0,0.529,1.0,3.0,0.333,9.0,10.0,0.9,0.0,10.0,10.0,13.0,1.0,0.0,4.0,3.0,28.0,-7.0,Russell Westbrook,,HOU,True,True
+houseda01,30.1,4.0,6.0,0.667,4.0,5.0,0.8,3.0,3.0,1.0,1.0,7.0,8.0,0.0,0.0,1.0,0.0,1.0,15.0,0.0,Danuel House,,HOU,True,True
+capelca01,24.583333333333332,7.0,9.0,0.778,0.0,0.0,,1.0,1.0,1.0,2.0,4.0,6.0,2.0,1.0,2.0,2.0,5.0,15.0,2.0,Clint Capela,,HOU,True,True
+gordoer01,36.166666666666664,5.0,13.0,0.385,2.0,9.0,0.222,1.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,13.0,0.0,Eric Gordon,,HOU,True,False
+riverau01,16.4,3.0,6.0,0.5,2.0,4.0,0.5,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,3.0,8.0,0.0,Austin Rivers,,HOU,True,False
+sefolth01,13.883333333333333,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,2.0,4.0,6.0,3.0,1.0,0.0,1.0,1.0,0.0,-1.0,Thabo Sefolosha,,HOU,True,False
+chandty01,6.9,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,2.0,-2.0,Tyson Chandler,,HOU,True,False
+mclembe01,4.033333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Ben McLemore,,HOU,True,False
+clemoch01,,,,,,,,,,,,,,,,,,,,,Chris Clemons,Did Not Play,HOU,True,False
+clarkga01,,,,,,,,,,,,,,,,,,,,,Gary Clark,Did Not Play,HOU,True,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Play,HOU,True,False

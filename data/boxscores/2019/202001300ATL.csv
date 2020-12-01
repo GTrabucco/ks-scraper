@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+simmobe01,42.333333333333336,10.0,15.0,0.667,0.0,0.0,,11.0,13.0,0.846,4.0,2.0,6.0,5.0,4.0,0.0,3.0,2.0,31.0,-13.0,Ben Simmons,,PHI,False,True
+miltosh01,35.43333333333333,7.0,12.0,0.583,5.0,9.0,0.556,8.0,10.0,0.8,0.0,5.0,5.0,6.0,1.0,0.0,1.0,4.0,27.0,8.0,Shake Milton,,PHI,False,True
+harrito02,35.18333333333333,6.0,15.0,0.4,0.0,4.0,0.0,9.0,10.0,0.9,0.0,9.0,9.0,4.0,0.0,0.0,3.0,4.0,21.0,1.0,Tobias Harris,,PHI,False,True
+embiijo01,34.5,8.0,14.0,0.571,3.0,6.0,0.5,2.0,7.0,0.286,2.0,12.0,14.0,3.0,0.0,1.0,2.0,3.0,21.0,-2.0,Joel Embiid,,PHI,False,True
+thybuma01,17.483333333333334,1.0,2.0,0.5,0.0,1.0,0.0,1.0,3.0,0.333,1.0,1.0,2.0,0.0,2.0,0.0,0.0,4.0,3.0,-10.0,Matisse Thybulle,,PHI,False,True
+korkmfu01,21.183333333333334,0.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,-10.0,Furkan Korkmaz,,PHI,False,False
+netora01,20.1,0.0,6.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,2.0,3.0,0.0,-5.0,Raul Neto,,PHI,False,False
+scottmi01,19.083333333333332,5.0,9.0,0.556,1.0,5.0,0.2,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,1.0,0.0,0.0,11.0,-8.0,Mike Scott,,PHI,False,False
+smithzh01,8.616666666666667,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,-13.0,Zhaire Smith,,PHI,False,False
+ennisja01,6.083333333333333,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,2.0,James Ennis,,PHI,False,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,PHI,False,False
+boldejo01,,,,,,,,,,,,,,,,,,,,,Jonah Bolden,Did Not Play,PHI,False,False
+oquinky01,,,,,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,PHI,False,False
+youngtr01,38.11666666666667,9.0,22.0,0.409,3.0,9.0,0.333,18.0,20.0,0.9,1.0,5.0,6.0,18.0,2.0,0.0,7.0,2.0,39.0,17.0,Trae Young,,ATL,True,True
+huntede01,36.46666666666667,6.0,12.0,0.5,2.0,5.0,0.4,1.0,2.0,0.5,0.0,2.0,2.0,4.0,0.0,0.0,2.0,4.0,15.0,9.0,De'Andre Hunter,,ATL,True,True
+collijo01,33.85,8.0,13.0,0.615,0.0,3.0,0.0,1.0,1.0,1.0,4.0,16.0,20.0,0.0,0.0,0.0,0.0,5.0,17.0,11.0,John Collins,,ATL,True,True
+huertke01,32.55,5.0,8.0,0.625,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,1.0,5.0,12.0,8.0,Kevin Huerter,,ATL,True,True
+jonesda03,26.05,6.0,8.0,0.75,0.0,0.0,,2.0,4.0,0.5,4.0,3.0,7.0,1.0,1.0,2.0,1.0,1.0,14.0,-1.0,Damian Jones,,ATL,True,True
+reddica01,29.916666666666668,4.0,10.0,0.4,2.0,5.0,0.4,2.0,2.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,5.0,12.0,7.0,Cam Reddish,,ATL,True,False
+cartevi01,23.816666666666666,4.0,8.0,0.5,2.0,6.0,0.333,4.0,4.0,1.0,0.0,6.0,6.0,0.0,1.0,2.0,1.0,4.0,14.0,1.0,Vince Carter,,ATL,True,False
+teaguje01,13.433333333333334,0.0,4.0,0.0,0.0,1.0,0.0,4.0,4.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0,3.0,2.0,4.0,-2.0,Jeff Teague,,ATL,True,False
+grahatr01,5.8,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Treveon Graham,,ATL,True,False
+goodwbr01,,,,,,,,,,,,,,,,,,,,,Brandon Goodwin,Did Not Play,ATL,True,False
+brownch02,,,,,,,,,,,,,,,,,,,,,Charlie Brown,Did Not Play,ATL,True,False
+fernabr01,,,,,,,,,,,,,,,,,,,,,Bruno Fernando,Did Not Dress,ATL,True,False

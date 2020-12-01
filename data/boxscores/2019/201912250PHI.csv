@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+middlkh01,33.0,12.0,21.0,0.571,5.0,9.0,0.556,2.0,2.0,1.0,3.0,5.0,8.0,4.0,1.0,0.0,1.0,3.0,31.0,-7.0,Khris Middleton,,MIL,False,True
+lopezbr01,32.71666666666667,4.0,8.0,0.5,3.0,5.0,0.6,0.0,0.0,,1.0,4.0,5.0,1.0,0.0,1.0,0.0,2.0,11.0,5.0,Brook Lopez,,MIL,False,True
+antetgi01,30.316666666666666,8.0,27.0,0.296,0.0,7.0,0.0,2.0,4.0,0.5,2.0,12.0,14.0,7.0,1.0,1.0,3.0,3.0,18.0,-18.0,Giannis Antetokounmpo,,MIL,False,True
+divindo01,26.283333333333335,3.0,5.0,0.6,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,2.0,2.0,0.0,1.0,2.0,6.0,-8.0,Donte DiVincenzo,,MIL,False,True
+matthwe02,24.683333333333334,2.0,5.0,0.4,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,4.0,-19.0,Wesley Matthews,,MIL,False,True
+hillge01,26.266666666666666,6.0,7.0,0.857,3.0,3.0,1.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,15.0,-8.0,George Hill,,MIL,False,False
+korveky01,20.483333333333334,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,0.0,5.0,5.0,2.0,0.0,0.0,0.0,1.0,3.0,-2.0,Kyle Korver,,MIL,False,False
+ilyaser01,15.083333333333334,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,2.0,2.0,0.0,7.0,-9.0,Ersan İlyasova,,MIL,False,False
+brownst02,12.0,3.0,4.0,0.75,0.0,0.0,,1.0,1.0,1.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,7.0,15.0,Sterling Brown,,MIL,False,False
+connapa01,11.483333333333333,2.0,5.0,0.4,0.0,0.0,,1.0,1.0,1.0,1.0,3.0,4.0,1.0,2.0,1.0,2.0,0.0,5.0,3.0,Pat Connaughton,,MIL,False,False
+lopezro01,7.683333333333334,1.0,4.0,0.25,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,-12.0,Robin Lopez,,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+antetth01,,,,,,,,,,,,,,,,,,,,,Thanasis Antetokounmpo,Did Not Play,MIL,False,False
+simmobe01,38.05,7.0,10.0,0.7,0.0,0.0,,1.0,2.0,0.5,1.0,6.0,7.0,14.0,3.0,2.0,2.0,3.0,15.0,9.0,Ben Simmons,,PHI,True,True
+richajo01,36.86666666666667,7.0,20.0,0.35,4.0,11.0,0.364,0.0,0.0,,3.0,2.0,5.0,4.0,1.0,1.0,1.0,1.0,18.0,4.0,Josh Richardson,,PHI,True,True
+harrito02,34.85,8.0,16.0,0.5,5.0,7.0,0.714,1.0,1.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,1.0,0.0,22.0,5.0,Tobias Harris,,PHI,True,True
+horfoal01,32.9,3.0,12.0,0.25,3.0,7.0,0.429,2.0,2.0,1.0,2.0,8.0,10.0,5.0,1.0,1.0,0.0,1.0,11.0,-2.0,Al Horford,,PHI,True,True
+embiijo01,28.433333333333334,11.0,21.0,0.524,3.0,6.0,0.5,6.0,6.0,1.0,2.0,9.0,11.0,3.0,0.0,2.0,1.0,5.0,31.0,15.0,Joel Embiid,,PHI,True,True
+korkmfu01,25.166666666666668,5.0,10.0,0.5,4.0,5.0,0.8,2.0,4.0,0.5,1.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,16.0,20.0,Furkan Korkmaz,,PHI,True,False
+scottmi01,17.4,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,3.0,10.0,Mike Scott,,PHI,True,False
+ennisja01,16.383333333333333,1.0,6.0,0.167,0.0,4.0,0.0,0.0,0.0,,3.0,4.0,7.0,1.0,0.0,0.0,1.0,0.0,2.0,-4.0,James Ennis,,PHI,True,False
+burketr01,9.95,1.0,3.0,0.333,1.0,1.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,3.0,Trey Burke,,PHI,True,False
+oquinky01,,,,,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,PHI,True,False
+pelleno01,,,,,,,,,,,,,,,,,,,,,Norvel Pelle,Did Not Play,PHI,True,False
+miltosh01,,,,,,,,,,,,,,,,,,,,,Shake Milton,Did Not Play,PHI,True,False
+netora01,,,,,,,,,,,,,,,,,,,,,Raul Neto,Did Not Play,PHI,True,False

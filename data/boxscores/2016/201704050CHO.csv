@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+richajo01,36.11666666666667,6.0,14.0,0.429,4.0,7.0,0.571,3.0,3.0,1.0,0.0,5.0,5.0,5.0,0.0,1.0,1.0,4.0,19.0,19.0,Josh Richardson,,MIA,False,True
+dragigo01,33.21666666666667,13.0,21.0,0.619,5.0,9.0,0.556,2.0,2.0,1.0,0.0,1.0,1.0,4.0,2.0,0.0,1.0,1.0,33.0,15.0,Goran Dragić,,MIA,False,True
+mcgruro01,33.2,1.0,9.0,0.111,1.0,5.0,0.2,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,1.0,1.0,3.0,3.0,19.0,Rodney McGruder,,MIA,False,True
+johnsja01,32.25,10.0,12.0,0.833,6.0,7.0,0.857,0.0,0.0,,0.0,4.0,4.0,3.0,2.0,0.0,2.0,0.0,26.0,23.0,James Johnson,,MIA,False,True
+whiteha01,31.383333333333333,5.0,9.0,0.556,0.0,0.0,,3.0,3.0,1.0,4.0,16.0,20.0,0.0,1.0,3.0,1.0,3.0,13.0,23.0,Hassan Whiteside,,MIA,False,True
+johnsty01,28.766666666666666,3.0,9.0,0.333,3.0,5.0,0.6,3.0,4.0,0.75,1.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,12.0,-11.0,Tyler Johnson,,MIA,False,False
+whiteok01,17.466666666666665,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,-9.0,Okaro White,,MIA,False,False
+reedwi02,14.9,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,2.0,0.0,2.0,0.0,-11.0,Willie Reed,,MIA,False,False
+ellinwa01,12.716666666666667,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,2.0,3.0,-3.0,Wayne Ellington,,MIA,False,False
+babbilu01,,,,,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Dress,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+waitedi01,,,,,,,,,,,,,,,,,,,,,Dion Waiters,Not With Team,MIA,False,False
+batumni01,36.1,6.0,13.0,0.462,0.0,4.0,0.0,12.0,12.0,1.0,0.0,3.0,3.0,7.0,1.0,1.0,1.0,1.0,24.0,-16.0,Nicolas Batum,,CHO,True,True
+willima02,36.03333333333333,6.0,10.0,0.6,3.0,6.0,0.5,0.0,0.0,,3.0,9.0,12.0,0.0,0.0,1.0,0.0,1.0,15.0,-14.0,Marvin Williams,,CHO,True,True
+walkeke02,34.18333333333333,6.0,17.0,0.353,3.0,8.0,0.375,3.0,5.0,0.6,0.0,2.0,2.0,5.0,0.0,0.0,3.0,3.0,18.0,-14.0,Kemba Walker,,CHO,True,True
+zelleco01,30.016666666666666,4.0,12.0,0.333,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,1.0,0.0,3.0,8.0,-17.0,Cody Zeller,,CHO,True,True
+kiddgmi01,28.366666666666667,3.0,5.0,0.6,0.0,0.0,,2.0,2.0,1.0,0.0,5.0,5.0,1.0,1.0,2.0,1.0,3.0,8.0,-13.0,Michael Kidd-Gilchrist,,CHO,True,True
+lambje01,23.316666666666666,2.0,5.0,0.4,0.0,1.0,0.0,2.0,2.0,1.0,0.0,5.0,5.0,1.0,0.0,1.0,0.0,1.0,6.0,4.0,Jeremy Lamb,,CHO,True,False
+kaminfr01,21.516666666666666,5.0,9.0,0.556,1.0,3.0,0.333,2.0,3.0,0.667,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,13.0,3.0,Frank Kaminsky,,CHO,True,False
+roberbr01,13.816666666666666,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,7.0,1.0,Brian Roberts,,CHO,True,False
+plumlmi01,8.45,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Miles Plumlee,,CHO,True,False
+belinma01,8.216666666666667,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,-1.0,Marco Belinelli,,CHO,True,False
+grahatr01,,,,,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Play,CHO,True,False
+weberbr01,,,,,,,,,,,,,,,,,,,,,Briante Weber,Did Not Play,CHO,True,False
+woodch01,,,,,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,CHO,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bookede01,35.9,8.0,21.0,0.381,2.0,7.0,0.286,9.0,9.0,1.0,0.0,5.0,5.0,4.0,1.0,0.0,5.0,4.0,27.0,24.0,Devin Booker,,PHO,False,True
+aytonde01,34.86666666666667,11.0,14.0,0.786,2.0,3.0,0.667,0.0,0.0,,3.0,9.0,12.0,3.0,0.0,2.0,1.0,2.0,24.0,12.0,Deandre Ayton,,PHO,False,True
+bridgmi01,33.65,4.0,8.0,0.5,1.0,5.0,0.2,4.0,6.0,0.667,0.0,3.0,3.0,3.0,1.0,0.0,1.0,2.0,13.0,7.0,Mikal Bridges,,PHO,False,True
+rubiori01,29.116666666666667,3.0,7.0,0.429,1.0,3.0,0.333,8.0,8.0,1.0,0.0,1.0,1.0,9.0,3.0,0.0,3.0,4.0,15.0,-8.0,Ricky Rubio,,PHO,False,True
+johnsca02,24.783333333333335,5.0,8.0,0.625,1.0,3.0,0.333,1.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,1.0,5.0,12.0,0.0,Cameron Johnson,,PHO,False,True
+saricda01,27.233333333333334,4.0,6.0,0.667,2.0,3.0,0.667,6.0,6.0,1.0,0.0,6.0,6.0,3.0,1.0,0.0,4.0,4.0,16.0,-2.0,Dario Šarić,,PHO,False,False
+carteje01,24.916666666666668,2.0,5.0,0.4,1.0,4.0,0.25,2.0,2.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,7.0,5.0,Jevon Carter,,PHO,False,False
+payneca01,18.95,4.0,7.0,0.571,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,2.0,2.0,1.0,1.0,0.0,9.0,21.0,Cameron Payne,,PHO,False,False
+kaminfr01,10.583333333333334,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,6.0,Frank Kaminsky,,PHO,False,False
+okoboel01,,,,,,,,,,,,,,,,,,,,,Elie Okobo,Did Not Play,PHO,False,False
+diallch01,,,,,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,PHO,False,False
+jeromty01,,,,,,,,,,,,,,,,,,,,,Ty Jerome,Did Not Play,PHO,False,False
+baynear01,,,,,,,,,,,,,,,,,,,,,Aron Baynes,Did Not Play,PHO,False,False
+bryanth01,33.55,4.0,12.0,0.333,1.0,4.0,0.25,1.0,2.0,0.5,1.0,6.0,7.0,3.0,2.0,0.0,0.0,2.0,10.0,-9.0,Thomas Bryant,,WAS,True,True
+hachiru01,29.783333333333335,8.0,15.0,0.533,0.0,0.0,,5.0,5.0,1.0,3.0,5.0,8.0,1.0,1.0,0.0,5.0,2.0,21.0,-12.0,Rui Hachimura,,WAS,True,True
+napiesh01,26.616666666666667,4.0,13.0,0.308,1.0,5.0,0.2,3.0,3.0,1.0,0.0,3.0,3.0,3.0,1.0,1.0,4.0,2.0,12.0,-14.0,Shabazz Napier,,WAS,True,True
+browntr01,26.55,6.0,11.0,0.545,0.0,2.0,0.0,3.0,3.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,4.0,15.0,-14.0,Troy Brown,,WAS,True,True
+bongais01,22.116666666666667,2.0,6.0,0.333,0.0,1.0,0.0,5.0,5.0,1.0,1.0,3.0,4.0,1.0,1.0,0.0,2.0,3.0,9.0,-11.0,Isaac Bonga,,WAS,True,True
+robinje01,31.65,7.0,9.0,0.778,4.0,6.0,0.667,2.0,3.0,0.667,0.0,1.0,1.0,1.0,1.0,0.0,2.0,3.0,20.0,-11.0,Jerome Robinson,,WAS,True,False
+smithis01,26.933333333333334,8.0,18.0,0.444,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,7.0,0.0,0.0,3.0,2.0,17.0,-3.0,Ish Smith,,WAS,True,False
+wagnemo01,14.45,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,2.0,3.0,2.0,-4.0,Moritz Wagner,,WAS,True,False
+willijo04,12.6,0.0,0.0,,0.0,0.0,,1.0,2.0,0.5,1.0,1.0,2.0,0.0,0.0,1.0,0.0,2.0,1.0,5.0,Johnathan Williams,,WAS,True,False
+grantje02,10.133333333333333,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,5.0,14.0,Jerian Grant,,WAS,True,False
+schofad01,5.616666666666667,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,-6.0,Admiral Schofield,,WAS,True,False
+pasecan01,,,,,,,,,,,,,,,,,,,,,Anžejs Pasečņiks,Did Not Play,WAS,True,False
+mahinia01,,,,,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Play,WAS,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jokicni01,36.68333333333333,17.0,23.0,0.739,2.0,3.0,0.667,4.0,5.0,0.8,4.0,5.0,9.0,5.0,2.0,0.0,2.0,2.0,40.0,19.0,Nikola Jokić,,DEN,False,True
+chandwi01,36.55,9.0,14.0,0.643,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,4.0,3.0,2.0,2.0,2.0,2.0,19.0,11.0,Wilson Chandler,,DEN,False,True
+nelsoja01,35.65,6.0,10.0,0.6,4.0,6.0,0.667,0.0,0.0,,0.0,4.0,4.0,12.0,0.0,0.0,2.0,2.0,16.0,19.0,Jameer Nelson,,DEN,False,True
+harriga01,34.06666666666667,6.0,10.0,0.6,3.0,6.0,0.5,1.0,1.0,1.0,2.0,5.0,7.0,2.0,1.0,0.0,2.0,0.0,16.0,22.0,Gary Harris,,DEN,False,True
+arthuda01,20.85,5.0,9.0,0.556,3.0,6.0,0.5,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,1.0,1.0,13.0,-1.0,Darrell Arthur,,DEN,False,True
+bartowi01,34.13333333333333,6.0,15.0,0.4,1.0,4.0,0.25,2.0,4.0,0.5,6.0,4.0,10.0,4.0,0.0,2.0,2.0,2.0,15.0,-7.0,Will Barton,,DEN,False,False
+hernaju01,16.116666666666667,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,8.0,-4.0,Juan Hernangómez,,DEN,False,False
+murraja01,14.633333333333333,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,2.0,-8.0,Jamal Murray,,DEN,False,False
+nurkiju01,11.316666666666666,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,1.0,1.0,2.0,-11.0,Jusuf Nurkić,,DEN,False,False
+beaslma01,,,,,,,,,,,,,,,,,,,,,Malik Beasley,Did Not Play,DEN,False,False
+millemi01,,,,,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,DEN,False,False
+mudiaem01,,,,,,,,,,,,,,,,,,,,,Emmanuel Mudiay,Did Not Dress,DEN,False,False
+obryajo01,,,,,,,,,,,,,,,,,,,,,Johnny O'Bryant,Did Not Play,DEN,False,False
+jennibr01,39.233333333333334,2.0,10.0,0.2,2.0,6.0,0.333,0.0,0.0,,1.0,1.0,2.0,13.0,1.0,0.0,0.0,1.0,6.0,-2.0,Brandon Jennings,,NYK,True,True
+anthoca01,35.45,13.0,20.0,0.65,6.0,10.0,0.6,1.0,2.0,0.5,1.0,5.0,6.0,4.0,2.0,0.0,2.0,2.0,33.0,-13.0,Carmelo Anthony,,NYK,True,True
+porzikr01,33.016666666666666,7.0,14.0,0.5,2.0,4.0,0.5,1.0,2.0,0.5,2.0,2.0,4.0,2.0,1.0,1.0,1.0,3.0,17.0,-3.0,Kristaps Porziņģis,,NYK,True,True
+leeco01,31.033333333333335,6.0,10.0,0.6,3.0,7.0,0.429,0.0,0.0,,0.0,3.0,3.0,4.0,2.0,0.0,2.0,5.0,15.0,-8.0,Courtney Lee,,NYK,True,True
+rosede01,27.9,6.0,9.0,0.667,0.0,0.0,,1.0,1.0,1.0,1.0,2.0,3.0,4.0,1.0,0.0,1.0,0.0,13.0,-15.0,Derrick Rose,,NYK,True,True
+oquinky01,22.216666666666665,8.0,9.0,0.889,0.0,1.0,0.0,0.0,0.0,,2.0,4.0,6.0,3.0,0.0,4.0,2.0,2.0,16.0,6.0,Kyle O'Quinn,,NYK,True,False
+holidju01,20.233333333333334,3.0,8.0,0.375,3.0,8.0,0.375,0.0,0.0,,0.0,2.0,2.0,2.0,2.0,0.0,1.0,0.0,9.0,2.0,Justin Holiday,,NYK,True,False
+bakerro01,19.833333333333332,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.0,1.0,0.0,0.0,1.0,2.0,2.0,Ron Baker,,NYK,True,False
+hernawi01,8.566666666666666,6.0,7.0,0.857,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,12.0,-6.0,Willy Hernangómez,,NYK,True,False
+ndourma01,2.5166666666666666,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Maurice Ndour,,NYK,True,False
+kuzmimi01,,,,,,,,,,,,,,,,,,,,,Mindaugas Kuzminskas,Did Not Play,NYK,True,False
+plumlma02,,,,,,,,,,,,,,,,,,,,,Marshall Plumlee,Did Not Play,NYK,True,False
+vujacsa01,,,,,,,,,,,,,,,,,,,,,Sasha Vujačić,Did Not Play,NYK,True,False

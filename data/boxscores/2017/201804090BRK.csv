@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+nwabada01,30.483333333333334,5.0,11.0,0.455,1.0,1.0,1.0,0.0,0.0,,6.0,4.0,10.0,1.0,0.0,0.0,4.0,4.0,11.0,-4.0,David Nwaba,,CHI,False,True
+feliccr01,27.6,5.0,8.0,0.625,0.0,1.0,0.0,0.0,0.0,,1.0,4.0,5.0,2.0,1.0,0.0,3.0,3.0,10.0,-13.0,Cristiano Felício,,CHI,False,True
+markkla01,25.95,3.0,14.0,0.214,2.0,5.0,0.4,2.0,4.0,0.5,2.0,4.0,6.0,2.0,2.0,1.0,1.0,0.0,10.0,-5.0,Lauri Markkanen,,CHI,False,True
+payneca01,24.033333333333335,6.0,10.0,0.6,3.0,5.0,0.6,0.0,0.0,,0.0,3.0,3.0,6.0,2.0,0.0,3.0,3.0,15.0,-11.0,Cameron Payne,,CHI,False,True
+holidju01,21.9,5.0,12.0,0.417,2.0,7.0,0.286,1.0,1.0,1.0,0.0,4.0,4.0,4.0,0.0,0.0,0.0,2.0,13.0,-2.0,Justin Holiday,,CHI,False,True
+kilpase01,26.1,6.0,13.0,0.462,2.0,4.0,0.5,2.0,4.0,0.5,0.0,3.0,3.0,1.0,2.0,1.0,1.0,0.0,16.0,-7.0,Sean Kilpatrick,,CHI,False,False
+arcidry01,23.966666666666665,4.0,5.0,0.8,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,4.0,0.0,0.0,0.0,2.0,9.0,2.0,Ryan Arcidiacono,,CHI,False,False
+grantje02,23.85,2.0,7.0,0.286,1.0,3.0,0.333,2.0,3.0,0.667,0.0,2.0,2.0,4.0,0.0,1.0,3.0,2.0,7.0,-6.0,Jerian Grant,,CHI,False,False
+portibo01,22.016666666666666,7.0,9.0,0.778,0.0,0.0,,0.0,0.0,,1.0,6.0,7.0,2.0,0.0,2.0,3.0,1.0,14.0,2.0,Bobby Portis,,CHI,False,False
+asikom01,14.1,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,-1.0,Ömer Aşık,,CHI,False,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Dress,CHI,False,False
+lopezro01,,,,,,,,,,,,,,,,,,,,,Robin Lopez,Did Not Play,CHI,False,False
+russeda01,35.5,9.0,21.0,0.429,3.0,12.0,0.25,0.0,0.0,,0.0,6.0,6.0,11.0,2.0,0.0,5.0,2.0,21.0,16.0,D'Angelo Russell,,BRK,True,True
+dinwisp01,35.36666666666667,6.0,13.0,0.462,3.0,9.0,0.333,5.0,6.0,0.833,0.0,3.0,3.0,7.0,0.0,0.0,4.0,1.0,20.0,0.0,Spencer Dinwiddie,,BRK,True,True
+crabbal01,33.7,12.0,15.0,0.8,8.0,11.0,0.727,9.0,9.0,1.0,0.0,5.0,5.0,4.0,1.0,1.0,1.0,2.0,41.0,14.0,Allen Crabbe,,BRK,True,True
+holliro01,31.566666666666666,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,4.0,1.0,2.0,4.0,2.0,4.0,8.0,Rondae Hollis-Jefferson,,BRK,True,True
+allenja01,28.233333333333334,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,0.0,1.0,4.0,2.0,1.0,8.0,3.0,Jarrett Allen,,BRK,True,True
+cunnida01,20.583333333333332,2.0,7.0,0.286,1.0,2.0,0.5,0.0,0.0,,3.0,2.0,5.0,2.0,1.0,1.0,1.0,0.0,5.0,6.0,Dante Cunningham,,BRK,True,False
+acyqu01,19.7,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,4.0,0.0,2.0,0.0,0.0,2.0,5.0,2.0,Quincy Acy,,BRK,True,False
+stausni01,19.35,1.0,7.0,0.143,0.0,3.0,0.0,0.0,0.0,,1.0,0.0,1.0,4.0,0.0,1.0,0.0,1.0,2.0,5.0,Nik Stauskas,,BRK,True,False
+doylemi01,16.0,3.0,4.0,0.75,2.0,3.0,0.667,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,0.0,4.0,8.0,-9.0,Milton Doyle,,BRK,True,False
+webbja01,,,,,,,,,,,,,,,,,,,,,James Webb,Did Not Play,BRK,True,False
+okafoja01,,,,,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,BRK,True,False
+mozgoti01,,,,,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,BRK,True,False
+harrijo01,,,,,,,,,,,,,,,,,,,,,Joe Harris,Did Not Play,BRK,True,False

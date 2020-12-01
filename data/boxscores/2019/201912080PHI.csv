@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lowryky01,37.75,7.0,14.0,0.5,4.0,8.0,0.5,8.0,9.0,0.889,2.0,4.0,6.0,5.0,2.0,0.0,4.0,4.0,26.0,0.0,Kyle Lowry,,TOR,False,True
+siakapa01,36.46666666666667,7.0,18.0,0.389,0.0,4.0,0.0,2.0,3.0,0.667,3.0,4.0,7.0,2.0,1.0,0.0,1.0,1.0,16.0,0.0,Pascal Siakam,,TOR,False,True
+anunoog01,35.483333333333334,8.0,14.0,0.571,2.0,4.0,0.5,1.0,1.0,1.0,3.0,7.0,10.0,2.0,4.0,1.0,0.0,2.0,19.0,2.0,OG Anunoby,,TOR,False,True
+gasolma01,30.216666666666665,0.0,6.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,5.0,5.0,3.0,0.0,1.0,2.0,5.0,0.0,9.0,Marc Gasol,,TOR,False,True
+vanvlfr01,12.116666666666667,0.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,1.0,0.0,2.0,0.0,Fred VanVleet,,TOR,False,True
+ibakase01,27.766666666666666,5.0,15.0,0.333,2.0,5.0,0.4,0.0,1.0,0.0,3.0,4.0,7.0,3.0,0.0,0.0,3.0,6.0,12.0,-2.0,Serge Ibaka,,TOR,False,False
+powelno01,22.733333333333334,3.0,8.0,0.375,1.0,4.0,0.25,1.0,1.0,1.0,1.0,1.0,2.0,0.0,3.0,1.0,4.0,2.0,8.0,-12.0,Norman Powell,,TOR,False,False
+daviste02,16.95,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,3.0,1.0,0.0,1.0,1.0,6.0,-8.0,Terence Davis,,TOR,False,False
+holliro01,16.033333333333335,4.0,6.0,0.667,1.0,2.0,0.5,3.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,12.0,-16.0,Rondae Hollis-Jefferson,,TOR,False,False
+bouchch01,4.466666666666667,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,-3.0,Chris Boucher,,TOR,False,False
+thomama02,,,,,,,,,,,,,,,,,,,,,Matt Thomas,Did Not Play,TOR,False,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,False,False
+simmobe01,39.166666666666664,8.0,11.0,0.727,0.0,0.0,,0.0,0.0,,3.0,8.0,11.0,9.0,0.0,0.0,5.0,2.0,16.0,4.0,Ben Simmons,,PHI,True,True
+harrito02,38.9,10.0,22.0,0.455,4.0,8.0,0.5,2.0,2.0,1.0,0.0,6.0,6.0,3.0,0.0,1.0,2.0,1.0,26.0,-6.0,Tobias Harris,,PHI,True,True
+horfoal01,31.15,5.0,9.0,0.556,0.0,2.0,0.0,1.0,2.0,0.5,0.0,4.0,4.0,5.0,1.0,2.0,0.0,3.0,11.0,-9.0,Al Horford,,PHI,True,True
+embiijo01,30.483333333333334,3.0,7.0,0.429,0.0,1.0,0.0,4.0,6.0,0.667,1.0,7.0,8.0,6.0,1.0,1.0,7.0,2.0,10.0,-4.0,Joel Embiid,,PHI,True,True
+korkmfu01,26.366666666666667,1.0,6.0,0.167,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,0.0,2.0,3.0,-2.0,Furkan Korkmaz,,PHI,True,True
+thybuma01,31.55,6.0,9.0,0.667,5.0,8.0,0.625,3.0,3.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,3.0,4.0,20.0,13.0,Matisse Thybulle,,PHI,True,False
+ennisja01,22.866666666666667,3.0,8.0,0.375,1.0,4.0,0.25,4.0,4.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,11.0,19.0,James Ennis,,PHI,True,False
+netora01,10.4,2.0,3.0,0.667,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,5.0,3.0,Raul Neto,,PHI,True,False
+scottmi01,9.1,2.0,4.0,0.5,2.0,4.0,0.5,2.0,4.0,0.5,0.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,8.0,12.0,Mike Scott,,PHI,True,False
+shayoma01,,,,,,,,,,,,,,,,,,,,,Marial Shayok,Did Not Play,PHI,True,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,PHI,True,False
+oquinky01,,,,,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,PHI,True,False
+miltosh01,,,,,,,,,,,,,,,,,,,,,Shake Milton,Did Not Play,PHI,True,False

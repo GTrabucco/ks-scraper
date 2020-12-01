@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+barneha02,32.03333333333333,3.0,7.0,0.429,2.0,5.0,0.4,2.0,2.0,1.0,0.0,1.0,1.0,4.0,0.0,0.0,1.0,3.0,10.0,-8.0,Harrison Barnes,,SAC,False,True
+hieldbu01,30.15,6.0,21.0,0.286,5.0,12.0,0.417,1.0,1.0,1.0,1.0,5.0,6.0,3.0,0.0,0.0,1.0,4.0,18.0,-11.0,Buddy Hield,,SAC,False,True
+foxde01,27.416666666666668,3.0,16.0,0.188,1.0,4.0,0.25,2.0,2.0,1.0,2.0,4.0,6.0,4.0,6.0,1.0,2.0,3.0,9.0,-14.0,De'Aaron Fox,,SAC,False,True
+bjeline01,20.133333333333333,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,2.0,1.0,0.0,0.0,3.0,8.0,-6.0,Nemanja Bjelica,,SAC,False,True
+caulewi01,17.183333333333334,5.0,8.0,0.625,0.0,0.0,,0.0,2.0,0.0,3.0,6.0,9.0,1.0,2.0,1.0,0.0,3.0,10.0,-9.0,Willie Cauley-Stein,,SAC,False,True
+baglema01,36.03333333333333,10.0,19.0,0.526,2.0,3.0,0.667,3.0,8.0,0.375,5.0,6.0,11.0,2.0,1.0,1.0,1.0,1.0,25.0,11.0,Marvin Bagley,,SAC,False,False
+bogdabo01,29.966666666666665,6.0,12.0,0.5,3.0,4.0,0.75,2.0,4.0,0.5,2.0,0.0,2.0,4.0,1.0,1.0,1.0,2.0,17.0,5.0,Bogdan Bogdanović,,SAC,False,False
+ferreyo01,20.566666666666666,2.0,9.0,0.222,1.0,5.0,0.2,4.0,4.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,0.0,9.0,9.0,Yogi Ferrell,,SAC,False,False
+breweco01,14.983333333333333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,3.0,1.0,0.0,0.0,0.0,0.0,11.0,Corey Brewer,,SAC,False,False
+koufoko01,11.5,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,-13.0,Kosta Koufos,,SAC,False,False
+burksal01,,,,,,,,,,,,,,,,,,,,,Alec Burks,Did Not Play,SAC,False,False
+gilesha01,,,,,,,,,,,,,,,,,,,,,Harry Giles,Did Not Dress,SAC,False,False
+masonfr01,,,,,,,,,,,,,,,,,,,,,Frank Mason,Did Not Play,SAC,False,False
+kuzmaky01,40.15,10.0,22.0,0.455,5.0,14.0,0.357,4.0,5.0,0.8,1.0,5.0,6.0,2.0,0.0,1.0,3.0,4.0,29.0,6.0,Kyle Kuzma,,LAL,True,True
+rondora01,37.2,1.0,6.0,0.167,1.0,4.0,0.25,0.0,0.0,,1.0,4.0,5.0,9.0,1.0,0.0,3.0,5.0,3.0,11.0,Rajon Rondo,,LAL,True,True
+jamesle01,35.266666666666666,9.0,22.0,0.409,3.0,6.0,0.5,8.0,9.0,0.889,2.0,9.0,11.0,11.0,2.0,1.0,4.0,1.0,29.0,5.0,LeBron James,,LAL,True,True
+caldwke01,33.15,5.0,15.0,0.333,4.0,12.0,0.333,2.0,2.0,1.0,1.0,7.0,8.0,4.0,0.0,0.0,2.0,2.0,16.0,4.0,Kentavious Caldwell-Pope,,LAL,True,True
+mcgeeja01,28.85,8.0,8.0,1.0,0.0,0.0,,1.0,2.0,0.5,2.0,11.0,13.0,0.0,1.0,5.0,2.0,4.0,17.0,16.0,JaVale McGee,,LAL,True,True
+stephla01,25.016666666666666,3.0,4.0,0.75,0.0,0.0,,2.0,2.0,1.0,1.0,6.0,7.0,3.0,0.0,0.0,2.0,0.0,8.0,-8.0,Lance Stephenson,,LAL,True,False
+carusal01,18.083333333333332,2.0,6.0,0.333,0.0,3.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,3.0,6.0,2.0,Alex Caruso,,LAL,True,False
+chandty01,15.9,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,0.5,1.0,2.0,3.0,0.0,0.0,1.0,3.0,1.0,3.0,-2.0,Tyson Chandler,,LAL,True,False
+wagnemo01,4.733333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,-4.0,Moritz Wagner,,LAL,True,False
+machasc01,1.6333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,Scott Machado,,LAL,True,False
+bongais01,,,,,,,,,,,,,,,,,,,,,Isaac Bonga,Did Not Play,LAL,True,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Dress,LAL,True,False
+willijo04,,,,,,,,,,,,,,,,,,,,,Johnathan Williams,Did Not Play,LAL,True,False

@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bartowi01,36.63333333333333,9.0,18.0,0.5,3.0,9.0,0.333,1.0,1.0,1.0,1.0,7.0,8.0,4.0,0.0,0.0,2.0,3.0,22.0,-1.0,Will Barton,,DEN,False,True
+jokicni01,32.3,4.0,11.0,0.364,0.0,3.0,0.0,0.0,1.0,0.0,2.0,6.0,8.0,8.0,1.0,0.0,4.0,3.0,8.0,0.0,Nikola Jokić,,DEN,False,True
+harriga01,30.883333333333333,7.0,8.0,0.875,3.0,3.0,1.0,1.0,2.0,0.5,0.0,1.0,1.0,1.0,5.0,0.0,1.0,0.0,18.0,-2.0,Gary Harris,,DEN,False,True
+murraja01,30.8,7.0,14.0,0.5,3.0,7.0,0.429,0.0,0.0,,4.0,1.0,5.0,7.0,0.0,0.0,2.0,2.0,17.0,1.0,Jamal Murray,,DEN,False,True
+millspa01,26.533333333333335,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,4.0,2.0,8.0,-3.0,Paul Millsap,,DEN,False,True
+morrimo01,22.15,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,7.0,-3.0,Monte Morris,,DEN,False,False
+grantje01,21.466666666666665,3.0,8.0,0.375,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,1.0,4.0,0.0,1.0,3.0,7.0,1.0,Jerami Grant,,DEN,False,False
+portemi01,15.75,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,7.0,-3.0,Michael Porter,,DEN,False,False
+plumlma01,15.7,2.0,5.0,0.4,0.0,0.0,,1.0,4.0,0.25,1.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,5.0,-2.0,Mason Plumlee,,DEN,False,False
+craigto01,7.783333333333333,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,1.0,5.0,3.0,2.0,Torrey Craig,,DEN,False,False
+doziepj01,,,,,,,,,,,,,,,,,,,,,PJ Dozier,Did Not Play,DEN,False,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,DEN,False,False
+danietr01,,,,,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,DEN,False,False
+sextoco01,40.31666666666667,11.0,19.0,0.579,1.0,4.0,0.25,2.0,2.0,1.0,0.0,6.0,6.0,5.0,2.0,0.0,6.0,2.0,25.0,7.0,Collin Sexton,,CLE,True,True
+osmande01,38.416666666666664,7.0,12.0,0.583,5.0,6.0,0.833,1.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,2.0,4.0,20.0,5.0,Cedi Osman,,CLE,True,True
+thomptr01,37.916666666666664,4.0,10.0,0.4,0.0,1.0,0.0,1.0,4.0,0.25,3.0,10.0,13.0,5.0,0.0,2.0,3.0,3.0,9.0,-2.0,Tristan Thompson,,CLE,True,True
+loveke01,36.88333333333333,9.0,17.0,0.529,5.0,11.0,0.455,4.0,5.0,0.8,1.0,5.0,6.0,3.0,0.0,0.0,1.0,2.0,27.0,11.0,Kevin Love,,CLE,True,True
+dellama01,31.1,3.0,4.0,0.75,1.0,2.0,0.5,0.0,0.0,,2.0,4.0,6.0,14.0,1.0,0.0,4.0,3.0,7.0,-3.0,Matthew Dellavedova,,CLE,True,True
+nancela02,30.766666666666666,4.0,7.0,0.571,0.0,2.0,0.0,0.0,0.0,,2.0,0.0,2.0,4.0,2.0,0.0,4.0,1.0,8.0,0.0,Larry Nance,,CLE,True,False
+mckinal01,20.433333333333334,4.0,6.0,0.667,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,0.0,1.0,2.0,8.0,-6.0,Alfonzo McKinnie,,CLE,True,False
+zizican01,4.166666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Ante Žižić,,CLE,True,False
+garlada01,,,,,,,,,,,,,,,,,,,,,Darius Garland,Did Not Dress,CLE,True,False
+drumman01,,,,,,,,,,,,,,,,,,,,,Andre Drummond,Did Not Dress,CLE,True,False
+wadede01,,,,,,,,,,,,,,,,,,,,,Dean Wade,Did Not Dress,CLE,True,False

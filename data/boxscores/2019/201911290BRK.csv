@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+tatumja01,37.05,10.0,19.0,0.526,4.0,8.0,0.5,2.0,2.0,1.0,1.0,8.0,9.0,0.0,4.0,0.0,6.0,0.0,26.0,13.0,Jayson Tatum,,BOS,False,True
+brownja02,34.0,4.0,8.0,0.5,0.0,1.0,0.0,0.0,1.0,0.0,2.0,4.0,6.0,1.0,2.0,0.0,3.0,2.0,8.0,-21.0,Jaylen Brown,,BOS,False,True
+smartma01,32.55,4.0,13.0,0.308,1.0,6.0,0.167,6.0,7.0,0.857,2.0,0.0,2.0,2.0,1.0,1.0,3.0,5.0,15.0,-17.0,Marcus Smart,,BOS,False,True
+walkeke02,31.533333333333335,6.0,19.0,0.316,1.0,8.0,0.125,4.0,5.0,0.8,3.0,2.0,5.0,6.0,0.0,0.0,1.0,2.0,17.0,-10.0,Kemba Walker,,BOS,False,True
+theisda01,6.933333333333334,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,-14.0,Daniel Theis,,BOS,False,True
+kanteen01,20.85,5.0,10.0,0.5,0.0,0.0,,0.0,0.0,,4.0,2.0,6.0,1.0,0.0,1.0,0.0,1.0,10.0,10.0,Enes Kanter,,BOS,False,False
+wanambr01,18.316666666666666,4.0,7.0,0.571,1.0,1.0,1.0,2.0,3.0,0.667,2.0,6.0,8.0,3.0,0.0,1.0,0.0,2.0,11.0,6.0,Brad Wanamaker,,BOS,False,False
+williro04,17.216666666666665,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,1.0,2.0,1.0,2.0,0.0,6.0,-3.0,Robert Williams,,BOS,False,False
+ojelese01,15.616666666666667,2.0,2.0,1.0,1.0,1.0,1.0,2.0,3.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0,-3.0,Semi Ojeleye,,BOS,False,False
+edwarca01,13.6,1.0,5.0,0.2,1.0,3.0,0.333,0.0,0.0,,0.0,4.0,4.0,2.0,2.0,0.0,1.0,0.0,3.0,11.0,Carsen Edwards,,BOS,False,False
+willigr01,8.65,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,6.0,Grant Williams,,BOS,False,False
+greenja02,3.6833333333333336,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-3.0,Javonte Green,,BOS,False,False
+poirivi01,,,,,,,,,,,,,,,,,,,,,Vincent Poirier,Did Not Play,BOS,False,False
+templga01,37.36666666666667,4.0,8.0,0.5,3.0,6.0,0.5,1.0,2.0,0.5,0.0,5.0,5.0,7.0,1.0,1.0,1.0,3.0,12.0,0.0,Garrett Temple,,BRK,True,True
+dinwisp01,35.1,10.0,19.0,0.526,6.0,8.0,0.75,6.0,6.0,1.0,0.0,5.0,5.0,11.0,2.0,2.0,4.0,5.0,32.0,11.0,Spencer Dinwiddie,,BRK,True,True
+harrijo01,33.86666666666667,5.0,12.0,0.417,2.0,7.0,0.286,0.0,0.0,,1.0,5.0,6.0,4.0,2.0,1.0,1.0,4.0,12.0,17.0,Joe Harris,,BRK,True,True
+princta02,33.25,6.0,16.0,0.375,4.0,10.0,0.4,0.0,0.0,,2.0,2.0,4.0,1.0,0.0,0.0,2.0,2.0,16.0,12.0,Taurean Prince,,BRK,True,True
+allenja01,25.3,7.0,12.0,0.583,0.0,0.0,,0.0,2.0,0.0,4.0,7.0,11.0,1.0,1.0,1.0,2.0,4.0,14.0,14.0,Jarrett Allen,,BRK,True,True
+jordade01,22.616666666666667,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,3.0,8.0,11.0,1.0,1.0,1.0,1.0,0.0,8.0,-10.0,DeAndre Jordan,,BRK,True,False
+shumpim01,18.716666666666665,4.0,8.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,9.0,-8.0,Iman Shumpert,,BRK,True,False
+pinsoth01,17.033333333333335,2.0,8.0,0.25,0.0,5.0,0.0,1.0,1.0,1.0,1.0,3.0,4.0,3.0,0.0,0.0,3.0,4.0,5.0,-8.0,Theo Pinson,,BRK,True,False
+musadz01,16.75,1.0,4.0,0.25,1.0,3.0,0.333,1.0,2.0,0.5,1.0,1.0,2.0,2.0,1.0,0.0,3.0,1.0,4.0,-3.0,Džanan Musa,,BRK,True,False
+nwabada01,,,,,,,,,,,,,,,,,,,,,David Nwaba,Did Not Play,BRK,True,False
+luwawti01,,,,,,,,,,,,,,,,,,,,,Timothé Luwawu-Cabarrot,Did Not Play,BRK,True,False
+ellenhe01,,,,,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,BRK,True,False
+claxtni01,,,,,,,,,,,,,,,,,,,,,Nicolas Claxton,Did Not Play,BRK,True,False

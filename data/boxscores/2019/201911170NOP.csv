@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+robingl02,35.333333333333336,6.0,13.0,0.462,1.0,4.0,0.25,1.0,1.0,1.0,1.0,5.0,6.0,2.0,0.0,0.0,0.0,2.0,14.0,-5.0,Glenn Robinson,,GSW,False,True
+pascher01,34.666666666666664,10.0,17.0,0.588,2.0,4.0,0.5,8.0,10.0,0.8,3.0,4.0,7.0,2.0,0.0,0.0,1.0,2.0,30.0,3.0,Eric Paschall,,GSW,False,True
+greendr01,32.5,2.0,10.0,0.2,1.0,3.0,0.333,2.0,2.0,1.0,0.0,6.0,6.0,4.0,2.0,1.0,3.0,2.0,7.0,-15.0,Draymond Green,,GSW,False,True
+burksal01,29.733333333333334,2.0,13.0,0.154,0.0,4.0,0.0,3.0,4.0,0.75,1.0,3.0,4.0,5.0,0.0,0.0,0.0,3.0,7.0,-14.0,Alec Burks,,GSW,False,True
+caulewi01,24.633333333333333,4.0,5.0,0.8,0.0,0.0,,1.0,1.0,1.0,0.0,4.0,4.0,1.0,3.0,1.0,0.0,3.0,9.0,-6.0,Willie Cauley-Stein,,GSW,False,True
+bowmaky01,27.65,8.0,16.0,0.5,3.0,7.0,0.429,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,0.0,2.0,19.0,2.0,Ky Bowman,,GSW,False,False
+poolejo01,23.15,0.0,7.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,5.0,5.0,3.0,0.0,0.0,2.0,1.0,0.0,3.0,Jordan Poole,,GSW,False,False
+chrisma01,18.366666666666667,3.0,6.0,0.5,0.0,0.0,,4.0,4.0,1.0,3.0,4.0,7.0,2.0,1.0,1.0,3.0,3.0,10.0,1.0,Marquese Chriss,,GSW,False,False
+spellom01,13.95,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,4.0,-9.0,Omari Spellman,,GSW,False,False
+evansja02,,,,,,,,,,,,,,,,,,,,,Jacob Evans,Did Not Dress,GSW,False,False
+russeda01,,,,,,,,,,,,,,,,,,,,,D'Angelo Russell,Did Not Dress,GSW,False,False
+holidjr01,37.46666666666667,9.0,23.0,0.391,0.0,5.0,0.0,4.0,4.0,1.0,4.0,4.0,8.0,9.0,1.0,1.0,4.0,1.0,22.0,7.0,Jrue Holiday,,NOP,True,True
+redicjj01,35.833333333333336,8.0,16.0,0.5,6.0,11.0,0.545,4.0,4.0,1.0,1.0,2.0,3.0,3.0,0.0,0.0,1.0,2.0,26.0,1.0,J.J. Redick,,NOP,True,True
+willike04,35.833333333333336,2.0,8.0,0.25,0.0,4.0,0.0,1.0,1.0,1.0,2.0,8.0,10.0,4.0,0.0,1.0,2.0,1.0,5.0,12.0,Kenrich Williams,,NOP,True,True
+hayesja02,31.95,3.0,5.0,0.6,0.0,0.0,,4.0,6.0,0.667,2.0,8.0,10.0,0.0,1.0,3.0,2.0,2.0,10.0,12.0,Jaxson Hayes,,NOP,True,True
+mooreet01,24.466666666666665,3.0,10.0,0.3,2.0,5.0,0.4,2.0,4.0,0.5,2.0,5.0,7.0,0.0,0.0,0.0,0.0,5.0,10.0,13.0,E'Twaun Moore,,NOP,True,True
+alexani01,34.516666666666666,7.0,18.0,0.389,5.0,13.0,0.385,0.0,0.0,,0.0,5.0,5.0,4.0,1.0,0.0,1.0,4.0,19.0,0.0,Nickeil Alexander-Walker,,NOP,True,False
+mellini01,26.8,5.0,8.0,0.625,5.0,7.0,0.714,1.0,1.0,1.0,0.0,5.0,5.0,3.0,0.0,0.0,1.0,5.0,16.0,-2.0,Nicolò Melli,,NOP,True,False
+grayjo01,7.266666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,3.0,Josh Gray,,NOP,True,False
+cheatzy01,5.866666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,Zylan Cheatham,,NOP,True,False
+jacksfr01,,,,,,,,,,,,,,,,,,,,,Frank Jackson,Did Not Play,NOP,True,False
+okafoja01,,,,,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,NOP,True,False
+ingrabr01,,,,,,,,,,,,,,,,,,,,,Brandon Ingram,Did Not Play,NOP,True,False
+hartjo01,,,,,,,,,,,,,,,,,,,,,Josh Hart,Did Not Dress,NOP,True,False

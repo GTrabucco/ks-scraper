@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jacksju01,41.583333333333336,7.0,11.0,0.636,3.0,5.0,0.6,2.0,2.0,1.0,2.0,6.0,8.0,4.0,1.0,1.0,1.0,3.0,19.0,3.0,Justin Jackson,,SAC,False,True
+foxde01,38.65,3.0,14.0,0.214,2.0,4.0,0.5,6.0,6.0,1.0,2.0,7.0,9.0,5.0,1.0,1.0,1.0,2.0,14.0,6.0,De'Aaron Fox,,SAC,False,True
+caulewi01,37.05,8.0,17.0,0.471,0.0,0.0,,2.0,6.0,0.333,2.0,5.0,7.0,3.0,1.0,2.0,1.0,4.0,18.0,1.0,Willie Cauley-Stein,,SAC,False,True
+bogdabo01,36.96666666666667,8.0,21.0,0.381,4.0,9.0,0.444,2.0,3.0,0.667,0.0,3.0,3.0,4.0,0.0,0.0,3.0,4.0,22.0,3.0,Bogdan Bogdanović,,SAC,False,True
+cartevi01,20.716666666666665,2.0,4.0,0.5,1.0,3.0,0.333,2.0,2.0,1.0,1.0,3.0,4.0,1.0,0.0,0.0,1.0,3.0,7.0,4.0,Vince Carter,,SAC,False,True
+hieldbu01,25.466666666666665,4.0,11.0,0.364,1.0,2.0,0.5,1.0,2.0,0.5,2.0,2.0,4.0,0.0,2.0,0.0,2.0,4.0,10.0,-9.0,Buddy Hield,,SAC,False,False
+hayesni01,21.85,1.0,6.0,0.167,0.0,3.0,0.0,0.0,0.0,,1.0,1.0,2.0,2.0,0.0,0.0,1.0,3.0,2.0,-12.0,Nigel Hayes,,SAC,False,False
+masonfr01,13.1,0.0,5.0,0.0,0.0,1.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,-10.0,Frank Mason,,SAC,False,False
+cabocbr01,4.616666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,Bruno Caboclo,,SAC,False,False
+templga01,,,,,,,,,,,,,,,,,,,,,Garrett Temple,Did Not Play,SAC,False,False
+shumpim01,,,,,,,,,,,,,,,,,,,,,Iman Shumpert,Did Not Play,SAC,False,False
+labissk01,,,,,,,,,,,,,,,,,,,,,Skal Labissière,Did Not Play,SAC,False,False
+koufoko01,,,,,,,,,,,,,,,,,,,,,Kosta Koufos,Did Not Play,SAC,False,False
+jacksjo02,38.583333333333336,10.0,23.0,0.435,2.0,2.0,1.0,6.0,8.0,0.75,1.0,5.0,6.0,2.0,2.0,1.0,3.0,3.0,28.0,2.0,Josh Jackson,,PHO,True,True
+ulisty01,36.45,4.0,12.0,0.333,0.0,3.0,0.0,5.0,6.0,0.833,0.0,3.0,3.0,9.0,1.0,0.0,1.0,1.0,13.0,-6.0,Tyler Ulis,,PHO,True,True
+chrisma01,27.3,2.0,7.0,0.286,0.0,1.0,0.0,2.0,2.0,1.0,0.0,13.0,13.0,0.0,0.0,1.0,2.0,2.0,6.0,-4.0,Marquese Chriss,,PHO,True,True
+bendedr01,21.45,3.0,7.0,0.429,1.0,5.0,0.2,1.0,2.0,0.5,1.0,6.0,7.0,0.0,0.0,2.0,0.0,2.0,8.0,4.0,Dragan Bender,,PHO,True,True
+danietr01,8.533333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-10.0,Troy Daniels,,PHO,True,True
+lenal01,32.38333333333333,6.0,9.0,0.667,1.0,1.0,1.0,4.0,8.0,0.5,4.0,11.0,15.0,1.0,0.0,0.0,2.0,3.0,17.0,9.0,Alex Len,,PHO,True,False
+houseda01,28.233333333333334,5.0,9.0,0.556,2.0,4.0,0.5,2.0,2.0,1.0,0.0,6.0,6.0,5.0,0.0,0.0,3.0,3.0,14.0,12.0,Danuel House,,PHO,True,False
+harrish01,22.7,5.0,7.0,0.714,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,2.0,2.0,10.0,-3.0,Shaquille Harrison,,PHO,True,False
+peteral01,11.483333333333333,0.0,0.0,,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,Alec Peters,,PHO,True,False
+reedda01,9.916666666666666,0.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,1.0,11.0,Davon Reed,,PHO,True,False
+willial03,2.966666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,-5.0,Alan Williams,,PHO,True,False
+dudleja01,,,,,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Play,PHO,True,False
+bookede01,,,,,,,,,,,,,,,,,,,,,Devin Booker,Did Not Play,PHO,True,False

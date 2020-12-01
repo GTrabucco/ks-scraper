@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mccolcj01,43.9,9.0,21.0,0.429,0.0,6.0,0.0,7.0,8.0,0.875,1.0,3.0,4.0,7.0,3.0,1.0,2.0,3.0,25.0,7.0,CJ McCollum,,POR,False,True
+lillada01,43.86666666666667,13.0,22.0,0.591,8.0,14.0,0.571,8.0,9.0,0.889,0.0,3.0,3.0,12.0,2.0,0.0,1.0,1.0,42.0,-1.0,Damian Lillard,,POR,False,True
+anthoca01,36.68333333333333,4.0,12.0,0.333,1.0,4.0,0.25,0.0,0.0,,3.0,4.0,7.0,1.0,1.0,0.0,2.0,5.0,9.0,13.0,Carmelo Anthony,,POR,False,True
+nurkiju01,32.75,11.0,17.0,0.647,0.0,0.0,,0.0,1.0,0.0,2.0,8.0,10.0,3.0,1.0,0.0,1.0,5.0,22.0,10.0,Jusuf Nurkić,,POR,False,True
+colliza01,17.066666666666666,1.0,7.0,0.143,0.0,2.0,0.0,0.0,0.0,,3.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,2.0,-4.0,Zach Collins,,POR,False,True
+trentga02,36.666666666666664,6.0,13.0,0.462,4.0,10.0,0.4,0.0,0.0,,0.0,1.0,1.0,1.0,2.0,1.0,1.0,5.0,16.0,-6.0,Gary Trent,,POR,False,False
+whiteha01,15.25,5.0,6.0,0.833,0.0,0.0,,6.0,6.0,1.0,5.0,4.0,9.0,1.0,1.0,2.0,1.0,2.0,16.0,-9.0,Hassan Whiteside,,POR,False,False
+hezonma01,11.45,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,-6.0,Mario Hezonja,,POR,False,False
+simonan01,2.3666666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Anfernee Simons,,POR,False,False
+adamsja01,,,,,,,,,,,,,,,,,,,,,Jaylen Adams,Did Not Play,POR,False,False
+hoardja01,,,,,,,,,,,,,,,,,,,,,Jaylen Hoard,Did Not Play,POR,False,False
+gabriwe01,,,,,,,,,,,,,,,,,,,,,Wenyen Gabriel,Did Not Play,POR,False,False
+allenja01,37.36666666666667,5.0,8.0,0.625,0.0,0.0,,4.0,9.0,0.444,6.0,5.0,11.0,4.0,0.0,3.0,1.0,1.0,14.0,16.0,Jarrett Allen,,BRK,True,True
+templga01,36.9,4.0,10.0,0.4,3.0,7.0,0.429,4.0,4.0,1.0,1.0,9.0,10.0,4.0,0.0,0.0,0.0,2.0,15.0,12.0,Garrett Temple,,BRK,True,True
+harrijo01,34.416666666666664,9.0,14.0,0.643,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,3.0,4.0,0.0,0.0,3.0,5.0,19.0,-20.0,Joe Harris,,BRK,True,True
+leverca01,32.8,16.0,29.0,0.552,1.0,5.0,0.2,4.0,4.0,1.0,1.0,5.0,6.0,9.0,2.0,1.0,6.0,1.0,37.0,4.0,Caris LeVert,,BRK,True,True
+kurucro01,22.883333333333333,3.0,5.0,0.6,1.0,2.0,0.5,1.0,2.0,0.5,1.0,4.0,5.0,2.0,0.0,1.0,1.0,4.0,8.0,4.0,Rodions Kurucs,,BRK,True,True
+luwawti01,31.966666666666665,7.0,13.0,0.538,5.0,9.0,0.556,0.0,0.0,,2.0,6.0,8.0,1.0,0.0,0.0,2.0,5.0,19.0,6.0,Timothé Luwawu-Cabarrot,,BRK,True,False
+johnsty01,24.433333333333334,7.0,13.0,0.538,2.0,4.0,0.5,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,16.0,4.0,Tyler Johnson,,BRK,True,False
+martije02,9.4,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,-14.0,Jeremiah Martin,,BRK,True,False
+anderju01,5.616666666666667,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,3.0,-6.0,Justin Anderson,,BRK,True,False
+thomala01,4.216666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-11.0,Lance Thomas,,BRK,True,False
+musadz01,,,,,,,,,,,,,,,,,,,,,Džanan Musa,Did Not Play,BRK,True,False
+halldo01,,,,,,,,,,,,,,,,,,,,,Donta Hall,Did Not Play,BRK,True,False
+chiozch01,,,,,,,,,,,,,,,,,,,,,Chris Chiozza,Did Not Play,BRK,True,False

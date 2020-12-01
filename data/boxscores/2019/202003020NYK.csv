@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,39.13333333333333,8.0,22.0,0.364,3.0,13.0,0.231,16.0,16.0,1.0,1.0,1.0,2.0,8.0,4.0,0.0,3.0,4.0,35.0,9.0,James Harden,,HOU,False,True
+westbru01,37.36666666666667,9.0,19.0,0.474,1.0,3.0,0.333,5.0,7.0,0.714,3.0,6.0,9.0,3.0,0.0,1.0,6.0,3.0,24.0,-9.0,Russell Westbrook,,HOU,False,True
+covinro01,34.4,7.0,14.0,0.5,6.0,11.0,0.545,0.0,0.0,,2.0,11.0,13.0,2.0,2.0,1.0,0.0,4.0,20.0,8.0,Robert Covington,,HOU,False,True
+tuckepj01,33.63333333333333,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,4.0,5.0,3.0,1.0,0.0,1.0,5.0,0.0,6.0,P.J. Tucker,,HOU,False,True
+houseda01,29.566666666666666,7.0,15.0,0.467,4.0,11.0,0.364,2.0,2.0,1.0,0.0,2.0,2.0,1.0,1.0,2.0,0.0,2.0,20.0,2.0,Danuel House,,HOU,False,True
+gordoer01,22.616666666666667,4.0,11.0,0.364,3.0,9.0,0.333,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,1.0,0.0,11.0,-6.0,Eric Gordon,,HOU,False,False
+mclembe01,16.916666666666668,3.0,6.0,0.5,3.0,6.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,2.0,0.0,0.0,2.0,9.0,-5.0,Ben McLemore,,HOU,False,False
+greenje02,14.366666666666667,1.0,2.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,4.0,-8.0,Jeff Green,,HOU,False,False
+riverau01,12.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,-7.0,Austin Rivers,,HOU,False,False
+carrode01,,,,,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,HOU,False,False
+cabocbr01,,,,,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,HOU,False,False
+sefolth01,,,,,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+barrerj01,30.45,10.0,18.0,0.556,3.0,8.0,0.375,4.0,7.0,0.571,0.0,5.0,5.0,5.0,1.0,0.0,3.0,2.0,27.0,-2.0,RJ Barrett,,NYK,True,True
+randlju01,29.916666666666668,5.0,14.0,0.357,0.0,1.0,0.0,6.0,8.0,0.75,6.0,10.0,16.0,4.0,0.0,1.0,3.0,2.0,16.0,-9.0,Julius Randle,,NYK,True,True
+harklma01,29.633333333333333,4.0,8.0,0.5,0.0,1.0,0.0,3.0,6.0,0.5,4.0,2.0,6.0,2.0,0.0,0.0,2.0,5.0,11.0,0.0,Maurice Harkless,,NYK,True,True
+gibsota01,23.683333333333334,3.0,7.0,0.429,0.0,0.0,,2.0,2.0,1.0,4.0,6.0,10.0,2.0,0.0,1.0,1.0,2.0,8.0,-4.0,Taj Gibson,,NYK,True,True
+paytoel01,19.483333333333334,2.0,7.0,0.286,0.0,1.0,0.0,0.0,0.0,,0.0,6.0,6.0,6.0,2.0,0.0,3.0,2.0,4.0,4.0,Elfrid Payton,,NYK,True,True
+ntilila01,28.516666666666666,5.0,10.0,0.5,1.0,6.0,0.167,0.0,0.0,,0.0,0.0,0.0,4.0,2.0,0.0,2.0,2.0,11.0,-2.0,Frank Ntilikina,,NYK,True,False
+robinmi01,24.3,5.0,8.0,0.625,0.0,0.0,,2.0,4.0,0.5,5.0,8.0,13.0,0.0,0.0,0.0,0.0,1.0,12.0,5.0,Mitchell Robinson,,NYK,True,False
+ellinwa01,19.216666666666665,5.0,8.0,0.625,5.0,8.0,0.625,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,2.0,0.0,1.0,15.0,1.0,Wayne Ellington,,NYK,True,False
+portibo01,18.083333333333332,6.0,10.0,0.6,2.0,3.0,0.667,1.0,2.0,0.5,1.0,4.0,5.0,0.0,1.0,2.0,2.0,1.0,15.0,11.0,Bobby Portis,,NYK,True,False
+knoxke01,16.716666666666665,2.0,7.0,0.286,1.0,2.0,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,6.0,6.0,Kevin Knox,,NYK,True,False
+trieral01,,,,,,,,,,,,,,,,,,,,,Allonzo Trier,Did Not Play,NYK,True,False
+dotsoda01,,,,,,,,,,,,,,,,,,,,,Damyean Dotson,Did Not Play,NYK,True,False

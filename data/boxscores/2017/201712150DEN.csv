@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+davisan02,43.81666666666667,12.0,22.0,0.545,0.0,1.0,0.0,4.0,4.0,1.0,2.0,10.0,12.0,1.0,1.0,5.0,3.0,0.0,28.0,1.0,Anthony Davis,,NOP,False,True
+holidjr01,43.1,10.0,21.0,0.476,5.0,9.0,0.556,0.0,0.0,,1.0,7.0,8.0,6.0,3.0,0.0,3.0,1.0,25.0,-2.0,Jrue Holiday,,NOP,False,True
+mooreet01,39.7,2.0,8.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,1.0,3.0,4.0,-20.0,E'Twaun Moore,,NOP,False,True
+couside01,33.43333333333333,9.0,17.0,0.529,5.0,8.0,0.625,6.0,10.0,0.6,2.0,2.0,4.0,4.0,1.0,1.0,9.0,5.0,29.0,-9.0,DeMarcus Cousins,,NOP,False,True
+rondora01,28.733333333333334,4.0,5.0,0.8,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,4.0,6.0,1.0,1.0,1.0,2.0,9.0,-13.0,Rajon Rondo,,NOP,False,True
+cunnida01,28.766666666666666,2.0,7.0,0.286,1.0,4.0,0.25,0.0,0.0,,1.0,5.0,6.0,1.0,0.0,1.0,0.0,1.0,5.0,-4.0,Dante Cunningham,,NOP,False,False
+nelsoja01,23.783333333333335,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,7.0,1.0,0.0,1.0,1.0,3.0,7.0,Jameer Nelson,,NOP,False,False
+milleda01,23.683333333333334,3.0,7.0,0.429,2.0,5.0,0.4,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,8.0,10.0,Darius Miller,,NOP,False,False
+diallch01,,,,,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,NOP,False,False
+clarkia01,,,,,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,NOP,False,False
+asikom01,,,,,,,,,,,,,,,,,,,,,Ömer Aşık,Did Not Play,NOP,False,False
+allento01,,,,,,,,,,,,,,,,,,,,,Tony Allen,Not With Team,NOP,False,False
+harriga01,42.56666666666667,9.0,16.0,0.563,2.0,6.0,0.333,1.0,2.0,0.5,0.0,2.0,2.0,5.0,2.0,0.0,2.0,0.0,21.0,4.0,Gary Harris,,DEN,True,True
+murraja01,38.78333333333333,5.0,14.0,0.357,3.0,6.0,0.5,2.0,2.0,1.0,0.0,5.0,5.0,3.0,3.0,0.0,1.0,0.0,15.0,4.0,Jamal Murray,,DEN,True,True
+plumlma01,30.8,4.0,8.0,0.5,0.0,0.0,,1.0,2.0,0.5,2.0,7.0,9.0,2.0,1.0,2.0,1.0,5.0,9.0,10.0,Mason Plumlee,,DEN,True,True
+chandwi01,25.566666666666666,3.0,9.0,0.333,3.0,5.0,0.6,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,2.0,2.0,9.0,7.0,Wilson Chandler,,DEN,True,True
+craigto01,18.516666666666666,2.0,6.0,0.333,1.0,4.0,0.25,1.0,2.0,0.5,0.0,4.0,4.0,2.0,1.0,2.0,1.0,2.0,6.0,2.0,Torrey Craig,,DEN,True,True
+bartowi01,32.233333333333334,8.0,14.0,0.571,2.0,4.0,0.5,1.0,2.0,0.5,2.0,2.0,4.0,6.0,2.0,0.0,4.0,2.0,19.0,2.0,Will Barton,,DEN,True,False
+lylestr01,29.983333333333334,6.0,12.0,0.5,4.0,7.0,0.571,3.0,4.0,0.75,1.0,6.0,7.0,3.0,3.0,0.0,1.0,2.0,19.0,2.0,Trey Lyles,,DEN,True,False
+jokicni01,22.2,6.0,13.0,0.462,1.0,2.0,0.5,0.0,0.0,,3.0,8.0,11.0,4.0,0.0,0.0,1.0,2.0,13.0,-4.0,Nikola Jokić,,DEN,True,False
+beaslma01,10.433333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Malik Beasley,,DEN,True,False
+mudiaem01,8.416666666666666,2.0,4.0,0.5,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,2.0,1.0,4.0,-1.0,Emmanuel Mudiay,,DEN,True,False
+farieke01,5.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,Kenneth Faried,,DEN,True,False
+jefferi01,,,,,,,,,,,,,,,,,,,,,Richard Jefferson,Did Not Play,DEN,True,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,True,False

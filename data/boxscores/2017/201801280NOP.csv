@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+griffbl01,37.233333333333334,10.0,22.0,0.455,4.0,6.0,0.667,3.0,3.0,1.0,0.0,12.0,12.0,7.0,1.0,0.0,0.0,3.0,27.0,17.0,Blake Griffin,,LAC,False,True
+jordade01,34.68333333333333,6.0,8.0,0.75,0.0,0.0,,0.0,3.0,0.0,5.0,14.0,19.0,0.0,0.0,1.0,0.0,4.0,12.0,16.0,DeAndre Jordan,,LAC,False,True
+wallaty01,32.4,6.0,12.0,0.5,0.0,2.0,0.0,7.0,7.0,1.0,3.0,3.0,6.0,6.0,1.0,0.0,3.0,3.0,19.0,22.0,Tyrone Wallace,,LAC,False,True
+johnswe01,31.266666666666666,4.0,12.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,2.0,1.0,1.0,3.0,8.0,9.0,Wesley Johnson,,LAC,False,True
+teodomi01,27.85,5.0,13.0,0.385,2.0,7.0,0.286,0.0,0.0,,1.0,3.0,4.0,6.0,1.0,0.0,4.0,2.0,12.0,-3.0,Miloš Teodosić,,LAC,False,True
+willilo02,35.416666666666664,9.0,22.0,0.409,2.0,10.0,0.2,2.0,3.0,0.667,1.0,3.0,4.0,6.0,2.0,0.0,3.0,0.0,22.0,3.0,Lou Williams,,LAC,False,False
+thornsi01,17.066666666666666,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,3.0,-4.0,Sindarius Thornwell,,LAC,False,False
+harremo01,13.316666666666666,3.0,4.0,0.75,0.0,0.0,,1.0,2.0,0.5,0.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,7.0,-7.0,Montrezl Harrell,,LAC,False,False
+dekkesa01,10.766666666666667,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,-8.0,Sam Dekker,,LAC,False,False
+reedwi02,,,,,,,,,,,,,,,,,,,,,Willie Reed,Did Not Play,LAC,False,False
+gallida01,,,,,,,,,,,,,,,,,,,,,Danilo Gallinari,Did Not Play,LAC,False,False
+evansja01,,,,,,,,,,,,,,,,,,,,,Jawun Evans,Not With Team,LAC,False,False
+davisan02,40.56666666666667,8.0,17.0,0.471,0.0,2.0,0.0,9.0,12.0,0.75,2.0,15.0,17.0,6.0,2.0,1.0,4.0,3.0,25.0,-21.0,Anthony Davis,,NOP,True,True
+holidjr01,37.18333333333333,7.0,15.0,0.467,1.0,4.0,0.25,5.0,5.0,1.0,3.0,6.0,9.0,7.0,1.0,3.0,3.0,3.0,20.0,-3.0,Jrue Holiday,,NOP,True,True
+mooreet01,32.06666666666667,7.0,11.0,0.636,1.0,4.0,0.25,3.0,4.0,0.75,0.0,2.0,2.0,1.0,0.0,0.0,2.0,1.0,18.0,-17.0,E'Twaun Moore,,NOP,True,True
+cunnida01,28.083333333333332,3.0,7.0,0.429,1.0,5.0,0.2,1.0,4.0,0.25,1.0,6.0,7.0,0.0,1.0,0.0,2.0,1.0,8.0,-16.0,Dante Cunningham,,NOP,True,True
+rondora01,23.066666666666666,2.0,11.0,0.182,2.0,7.0,0.286,0.0,0.0,,1.0,4.0,5.0,3.0,0.0,0.0,2.0,2.0,6.0,-10.0,Rajon Rondo,,NOP,True,True
+milleda01,27.0,1.0,6.0,0.167,1.0,6.0,0.167,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,1.0,1.0,5.0,3.0,4.0,Darius Miller,,NOP,True,False
+clarkia01,20.366666666666667,4.0,8.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,2.0,2.0,1.0,1.0,3.0,9.0,8.0,Ian Clark,,NOP,True,False
+liggide01,15.933333333333334,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,5.0,8.0,DeAndre Liggins,,NOP,True,False
+nelsoja01,8.3,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,-10.0,Jameer Nelson,,NOP,True,False
+asikom01,7.433333333333334,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,12.0,Ömer Aşık,,NOP,True,False
+jamesmi02,,,,,,,,,,,,,,,,,,,,,Mike James,Did Not Play,NOP,True,False
+diallch01,,,,,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,NOP,True,False
+couside01,,,,,,,,,,,,,,,,,,,,,DeMarcus Cousins,Not With Team,NOP,True,False

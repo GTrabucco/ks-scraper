@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bookede01,38.45,12.0,26.0,0.462,0.0,5.0,0.0,11.0,11.0,1.0,3.0,9.0,12.0,9.0,0.0,1.0,4.0,1.0,35.0,-4.0,Devin Booker,,PHO,False,True
+oubreke01,38.3,7.0,17.0,0.412,3.0,6.0,0.5,8.0,9.0,0.889,2.0,9.0,11.0,1.0,4.0,0.0,2.0,3.0,25.0,-12.0,Kelly Oubre,,PHO,False,True
+johnsty01,31.4,2.0,10.0,0.2,1.0,6.0,0.167,2.0,2.0,1.0,1.0,3.0,4.0,3.0,0.0,1.0,0.0,2.0,7.0,-8.0,Tyler Johnson,,PHO,False,True
+kaminfr01,29.183333333333334,3.0,9.0,0.333,3.0,5.0,0.6,0.0,0.0,,1.0,4.0,5.0,3.0,0.0,1.0,1.0,2.0,9.0,-18.0,Frank Kaminsky,,PHO,False,True
+saricda01,24.2,3.0,11.0,0.273,1.0,5.0,0.2,0.0,0.0,,2.0,3.0,5.0,2.0,1.0,0.0,0.0,4.0,7.0,8.0,Dario Šarić,,PHO,False,True
+bridgmi01,22.766666666666666,1.0,5.0,0.2,0.0,1.0,0.0,2.0,2.0,1.0,1.0,4.0,5.0,2.0,2.0,0.0,0.0,1.0,4.0,11.0,Mikal Bridges,,PHO,False,False
+okoboel01,21.733333333333334,1.0,7.0,0.143,1.0,3.0,0.333,1.0,2.0,0.5,1.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,4.0,20.0,Elie Okobo,,PHO,False,False
+johnsca02,21.15,1.0,8.0,0.125,1.0,4.0,0.25,0.0,0.0,,0.0,3.0,3.0,0.0,2.0,0.0,0.0,0.0,3.0,4.0,Cameron Johnson,,PHO,False,False
+diallch01,12.816666666666666,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,2.0,0.0,0.0,0.0,4.0,6.0,9.0,Cheick Diallo,,PHO,False,False
+baynear01,,,,,,,,,,,,,,,,,,,,,Aron Baynes,Did Not Play,PHO,False,False
+rubiori01,,,,,,,,,,,,,,,,,,,,,Ricky Rubio,Did Not Play,PHO,False,False
+carteje01,,,,,,,,,,,,,,,,,,,,,Jevon Carter,Did Not Play,PHO,False,False
+aytonde01,,,,,,,,,,,,,,,,,,,,,Deandre Ayton,Did Not Play,PHO,False,False
+townska01,38.61666666666667,11.0,19.0,0.579,6.0,12.0,0.5,3.0,3.0,1.0,2.0,15.0,17.0,4.0,0.0,1.0,5.0,2.0,31.0,11.0,Karl-Anthony Towns,,MIN,True,True
+wiggian01,36.46666666666667,9.0,21.0,0.429,2.0,6.0,0.333,1.0,3.0,0.333,1.0,3.0,4.0,3.0,0.0,3.0,4.0,6.0,21.0,-1.0,Andrew Wiggins,,MIN,True,True
+teaguje01,33.3,2.0,5.0,0.4,0.0,1.0,0.0,3.0,4.0,0.75,1.0,5.0,6.0,8.0,1.0,1.0,0.0,2.0,7.0,3.0,Jeff Teague,,MIN,True,True
+culveja01,26.933333333333334,5.0,13.0,0.385,1.0,5.0,0.2,0.0,0.0,,0.0,5.0,5.0,3.0,0.0,2.0,1.0,4.0,11.0,8.0,Jarrett Culver,,MIN,True,True
+vonleno01,7.583333333333333,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,-6.0,Noah Vonleh,,MIN,True,True
+bateske01,37.1,9.0,18.0,0.5,3.0,10.0,0.3,1.0,2.0,0.5,0.0,4.0,4.0,2.0,0.0,0.0,1.0,4.0,22.0,3.0,Keita Bates-Diop,,MIN,True,False
+martike03,17.6,0.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,1.0,2.0,0.0,-15.0,Kelan Martin,,MIN,True,False
+belljo01,17.2,1.0,1.0,1.0,0.0,0.0,,1.0,4.0,0.25,4.0,5.0,9.0,1.0,0.0,2.0,0.0,0.0,3.0,8.0,Jordan Bell,,MIN,True,False
+nowelja01,13.616666666666667,1.0,4.0,0.25,0.0,3.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,1.0,1.0,3.0,-8.0,Jaylen Nowell,,MIN,True,False
+dienggo01,11.583333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,1.0,0.0,1.0,0.0,2.0,0.0,-13.0,Gorgui Dieng,,MIN,True,False
+grahatr01,,,,,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Play,MIN,True,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,MIN,True,False
+okogijo01,,,,,,,,,,,,,,,,,,,,,Josh Okogie,Did Not Play,MIN,True,False

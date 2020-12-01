@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+westbru01,37.733333333333334,16.0,27.0,0.593,0.0,0.0,,13.0,13.0,1.0,0.0,6.0,6.0,10.0,1.0,0.0,3.0,2.0,45.0,3.0,Russell Westbrook,,HOU,False,True
+tuckepj01,36.03333333333333,0.0,2.0,0.0,0.0,2.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,5.0,4.0,0.0,0.0,5.0,2.0,1.0,P.J. Tucker,,HOU,False,True
+hardeja01,34.516666666666666,3.0,13.0,0.231,0.0,6.0,0.0,6.0,6.0,1.0,0.0,4.0,4.0,5.0,0.0,3.0,3.0,4.0,12.0,-7.0,James Harden,,HOU,False,True
+capelca01,33.96666666666667,9.0,12.0,0.75,0.0,0.0,,0.0,3.0,0.0,4.0,5.0,9.0,0.0,0.0,5.0,1.0,1.0,18.0,-4.0,Clint Capela,,HOU,False,True
+mclembe01,16.316666666666666,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,0.0,2.0,0.0,1.0,0.0,3.0,4.0,Ben McLemore,,HOU,False,True
+gordoer01,35.733333333333334,8.0,19.0,0.421,6.0,13.0,0.462,5.0,7.0,0.714,0.0,5.0,5.0,3.0,0.0,0.0,1.0,3.0,27.0,18.0,Eric Gordon,,HOU,False,False
+houseda01,26.6,3.0,5.0,0.6,2.0,4.0,0.5,0.0,0.0,,1.0,5.0,6.0,0.0,2.0,1.0,2.0,1.0,8.0,18.0,Danuel House,,HOU,False,False
+riverau01,19.083333333333332,7.0,8.0,0.875,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,1.0,2.0,0.0,0.0,2.0,16.0,2.0,Austin Rivers,,HOU,False,False
+sefolth01,,,,,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+frazimi01,,,,,,,,,,,,,,,,,,,,,Michael Frazier,Did Not Play,HOU,False,False
+harteis01,,,,,,,,,,,,,,,,,,,,,Isaiah Hartenstein,Did Not Play,HOU,False,False
+wiggian01,33.15,11.0,19.0,0.579,3.0,7.0,0.429,3.0,4.0,0.75,0.0,5.0,5.0,3.0,1.0,0.0,2.0,4.0,28.0,-6.0,Andrew Wiggins,,MIN,True,True
+okogijo01,32.03333333333333,6.0,9.0,0.667,0.0,0.0,,5.0,5.0,1.0,4.0,2.0,6.0,4.0,3.0,0.0,2.0,0.0,17.0,1.0,Josh Okogie,,MIN,True,True
+covinro01,29.45,4.0,13.0,0.308,2.0,8.0,0.25,0.0,0.0,,1.0,6.0,7.0,1.0,0.0,2.0,0.0,4.0,10.0,-8.0,Robert Covington,,MIN,True,True
+townska01,27.6,12.0,23.0,0.522,2.0,5.0,0.4,4.0,4.0,1.0,3.0,9.0,12.0,3.0,0.0,2.0,4.0,4.0,30.0,5.0,Karl-Anthony Towns,,MIN,True,True
+napiesh01,24.483333333333334,3.0,4.0,0.75,1.0,1.0,1.0,2.0,2.0,1.0,1.0,3.0,4.0,5.0,2.0,0.0,4.0,2.0,9.0,-13.0,Shabazz Napier,,MIN,True,True
+mclaujo01,23.516666666666666,3.0,6.0,0.5,1.0,2.0,0.5,1.0,2.0,0.5,0.0,2.0,2.0,4.0,0.0,0.0,3.0,1.0,8.0,6.0,Jordan McLaughlin,,MIN,True,False
+crabbal01,21.933333333333334,3.0,6.0,0.5,1.0,4.0,0.25,1.0,2.0,0.5,0.0,2.0,2.0,0.0,0.0,0.0,1.0,4.0,8.0,6.0,Allen Crabbe,,MIN,True,False
+bateske01,18.433333333333334,2.0,6.0,0.333,0.0,0.0,,1.0,1.0,1.0,3.0,3.0,6.0,6.0,1.0,3.0,0.0,2.0,5.0,1.0,Keita Bates-Diop,,MIN,True,False
+culveja01,17.816666666666666,3.0,9.0,0.333,1.0,4.0,0.25,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,1.0,0.0,3.0,7.0,-15.0,Jarrett Culver,,MIN,True,False
+dienggo01,11.55,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,2.0,0.0,0.0,1.0,2.0,2.0,-12.0,Gorgui Dieng,,MIN,True,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,MIN,True,False
+belljo01,,,,,,,,,,,,,,,,,,,,,Jordan Bell,Did Not Play,MIN,True,False
+reidna01,,,,,,,,,,,,,,,,,,,,,Naz Reid,Did Not Play,MIN,True,False

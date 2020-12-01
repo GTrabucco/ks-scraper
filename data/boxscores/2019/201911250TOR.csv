@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+simmobe01,40.7,4.0,8.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,3.0,6.0,9.0,14.0,2.0,0.0,7.0,2.0,10.0,-8.0,Ben Simmons,,PHI,False,True
+harrito02,38.333333333333336,7.0,17.0,0.412,3.0,7.0,0.429,1.0,1.0,1.0,0.0,5.0,5.0,2.0,1.0,0.0,2.0,3.0,18.0,-10.0,Tobias Harris,,PHI,False,True
+richajo01,36.71666666666667,9.0,19.0,0.474,5.0,9.0,0.556,2.0,5.0,0.4,1.0,5.0,6.0,1.0,0.0,1.0,1.0,1.0,25.0,-5.0,Josh Richardson,,PHI,False,True
+embiijo01,31.95,0.0,11.0,0.0,0.0,4.0,0.0,0.0,3.0,0.0,3.0,10.0,13.0,2.0,0.0,0.0,4.0,5.0,0.0,-9.0,Joel Embiid,,PHI,False,True
+horfoal01,31.816666666666666,5.0,7.0,0.714,1.0,1.0,1.0,0.0,0.0,,4.0,6.0,10.0,4.0,0.0,2.0,1.0,0.0,11.0,-8.0,Al Horford,,PHI,False,True
+scottmi01,20.716666666666665,3.0,5.0,0.6,3.0,5.0,0.6,3.0,4.0,0.75,0.0,2.0,2.0,0.0,1.0,0.0,0.0,1.0,12.0,5.0,Mike Scott,,PHI,False,False
+korkmfu01,15.883333333333333,4.0,10.0,0.4,1.0,6.0,0.167,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,1.0,2.0,9.0,8.0,Furkan Korkmaz,,PHI,False,False
+ennisja01,13.15,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,5.0,2.0,James Ennis,,PHI,False,False
+netora01,7.3,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,Raul Neto,,PHI,False,False
+thybuma01,3.4333333333333336,1.0,3.0,0.333,0.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,-3.0,Matisse Thybulle,,PHI,False,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,PHI,False,False
+miltosh01,,,,,,,,,,,,,,,,,,,,,Shake Milton,Did Not Play,PHI,False,False
+boldejo01,,,,,,,,,,,,,,,,,,,,,Jonah Bolden,Did Not Play,PHI,False,False
+siakapa01,39.81666666666667,9.0,19.0,0.474,2.0,6.0,0.333,5.0,6.0,0.833,0.0,7.0,7.0,3.0,1.0,2.0,1.0,3.0,25.0,12.0,Pascal Siakam,,TOR,True,True
+vanvlfr01,37.766666666666666,9.0,15.0,0.6,3.0,6.0,0.5,3.0,4.0,0.75,0.0,3.0,3.0,8.0,2.0,0.0,3.0,3.0,24.0,7.0,Fred VanVleet,,TOR,True,True
+anunoog01,34.95,5.0,10.0,0.5,2.0,5.0,0.4,0.0,2.0,0.0,0.0,3.0,3.0,2.0,1.0,1.0,2.0,2.0,12.0,2.0,OG Anunoby,,TOR,True,True
+gasolma01,34.56666666666667,1.0,8.0,0.125,1.0,6.0,0.167,0.0,2.0,0.0,1.0,5.0,6.0,9.0,0.0,2.0,1.0,3.0,3.0,5.0,Marc Gasol,,TOR,True,True
+powelno01,28.316666666666666,3.0,11.0,0.273,2.0,5.0,0.4,2.0,2.0,1.0,0.0,5.0,5.0,1.0,1.0,0.0,2.0,1.0,10.0,10.0,Norman Powell,,TOR,True,True
+holliro01,30.883333333333333,6.0,11.0,0.545,0.0,0.0,,4.0,6.0,0.667,3.0,7.0,10.0,3.0,0.0,0.0,0.0,1.0,16.0,-4.0,Rondae Hollis-Jefferson,,TOR,True,False
+daviste02,20.533333333333335,5.0,8.0,0.625,1.0,4.0,0.25,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,0.0,1.0,3.0,11.0,-9.0,Terence Davis,,TOR,True,False
+bouchch01,13.166666666666666,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,Chris Boucher,,TOR,True,False
+pondssh01,,,,,,,,,,,,,,,,,,,,,Shamorie Ponds,Did Not Play,TOR,True,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,True,False
+brissos01,,,,,,,,,,,,,,,,,,,,,Oshae Brissett,Did Not Play,TOR,True,False

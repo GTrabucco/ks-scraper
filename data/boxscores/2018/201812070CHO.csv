@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+murraja01,36.7,8.0,20.0,0.4,0.0,4.0,0.0,4.0,5.0,0.8,2.0,3.0,5.0,7.0,2.0,0.0,1.0,4.0,20.0,-2.0,Jamal Murray,,DEN,False,True
+hernaju01,36.5,6.0,9.0,0.667,1.0,3.0,0.333,2.0,3.0,0.667,2.0,8.0,10.0,2.0,1.0,2.0,0.0,2.0,15.0,0.0,Juan Hernangómez,,DEN,False,True
+jokicni01,33.36666666666667,6.0,18.0,0.333,0.0,6.0,0.0,4.0,5.0,0.8,4.0,7.0,11.0,6.0,1.0,2.0,4.0,5.0,16.0,8.0,Nikola Jokić,,DEN,False,True
+millspa01,18.783333333333335,4.0,8.0,0.5,0.0,1.0,0.0,8.0,9.0,0.889,2.0,1.0,3.0,1.0,1.0,2.0,1.0,4.0,16.0,-6.0,Paul Millsap,,DEN,False,True
+craigto01,18.5,0.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,,2.0,2.0,4.0,0.0,0.0,0.0,0.0,6.0,0.0,-7.0,Torrey Craig,,DEN,False,True
+beaslma01,32.78333333333333,5.0,13.0,0.385,4.0,10.0,0.4,2.0,2.0,1.0,2.0,5.0,7.0,2.0,0.0,0.0,1.0,2.0,16.0,-4.0,Malik Beasley,,DEN,False,False
+morrimo01,24.5,5.0,12.0,0.417,2.0,4.0,0.5,0.0,0.0,,2.0,1.0,3.0,2.0,0.0,1.0,0.0,0.0,12.0,0.0,Monte Morris,,DEN,False,False
+plumlma01,20.15,3.0,5.0,0.6,0.0,0.0,,1.0,2.0,0.5,3.0,4.0,7.0,2.0,0.0,2.0,1.0,5.0,7.0,-12.0,Mason Plumlee,,DEN,False,False
+lylestr01,18.716666666666665,2.0,11.0,0.182,1.0,5.0,0.2,0.0,0.0,,1.0,4.0,5.0,2.0,1.0,3.0,1.0,0.0,5.0,-7.0,Trey Lyles,,DEN,False,False
+akoonde01,,,,,,,,,,,,,,,,,,,,,DeVaughn Akoon-Purcell,Did Not Play,DEN,False,False
+lydonty01,,,,,,,,,,,,,,,,,,,,,Tyler Lydon,Did Not Play,DEN,False,False
+goodwbr01,,,,,,,,,,,,,,,,,,,,,Brandon Goodwin,Did Not Play,DEN,False,False
+walkeke02,36.35,4.0,11.0,0.364,2.0,8.0,0.25,11.0,12.0,0.917,0.0,6.0,6.0,8.0,1.0,1.0,5.0,2.0,21.0,-10.0,Kemba Walker,,CHO,True,True
+willima02,32.6,4.0,12.0,0.333,3.0,7.0,0.429,3.0,4.0,0.75,4.0,6.0,10.0,2.0,1.0,0.0,1.0,1.0,14.0,13.0,Marvin Williams,,CHO,True,True
+zelleco01,31.55,2.0,7.0,0.286,0.0,0.0,,4.0,4.0,1.0,0.0,4.0,4.0,1.0,2.0,1.0,1.0,5.0,8.0,-2.0,Cody Zeller,,CHO,True,True
+batumni01,26.433333333333334,0.0,4.0,0.0,0.0,0.0,,4.0,4.0,1.0,2.0,5.0,7.0,1.0,0.0,1.0,1.0,4.0,4.0,19.0,Nicolas Batum,,CHO,True,True
+lambje01,20.55,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,0.0,4.0,4.0,0.0,1.0,0.0,0.0,2.0,7.0,-12.0,Jeremy Lamb,,CHO,True,True
+parketo01,22.383333333333333,6.0,14.0,0.429,1.0,2.0,0.5,6.0,8.0,0.75,3.0,1.0,4.0,3.0,2.0,1.0,1.0,0.0,19.0,6.0,Tony Parker,,CHO,True,False
+monkma01,22.016666666666666,5.0,12.0,0.417,3.0,8.0,0.375,3.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,16.0,21.0,Malik Monk,,CHO,True,False
+kaminfr01,16.45,4.0,8.0,0.5,2.0,4.0,0.5,1.0,1.0,1.0,1.0,5.0,6.0,2.0,0.0,1.0,0.0,1.0,11.0,8.0,Frank Kaminsky,,CHO,True,False
+bridgmi02,16.216666666666665,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,7.0,-6.0,Miles Bridges,,CHO,True,False
+kiddgmi01,15.45,2.0,4.0,0.5,0.0,0.0,,2.0,2.0,1.0,2.0,3.0,5.0,0.0,0.0,1.0,0.0,3.0,6.0,-7.0,Michael Kidd-Gilchrist,,CHO,True,False
+grahade01,,,,,,,,,,,,,,,,,,,,,Devonte' Graham,Did Not Play,CHO,True,False
+hernawi01,,,,,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,CHO,True,False
+bacondw01,,,,,,,,,,,,,,,,,,,,,Dwayne Bacon,Did Not Play,CHO,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+sabondo01,41.05,11.0,17.0,0.647,0.0,2.0,0.0,5.0,6.0,0.833,3.0,11.0,14.0,11.0,0.0,1.0,3.0,4.0,27.0,-7.0,Domantas Sabonis,,IND,False,True
+lambje01,33.53333333333333,10.0,15.0,0.667,2.0,3.0,0.667,6.0,6.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,28.0,-11.0,Jeremy Lamb,,IND,False,True
+warretj01,29.116666666666667,5.0,13.0,0.385,0.0,2.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,3.0,14.0,-16.0,T.J. Warren,,IND,False,True
+mccontj01,27.933333333333334,3.0,10.0,0.3,0.0,0.0,,1.0,1.0,1.0,1.0,2.0,3.0,8.0,1.0,0.0,0.0,2.0,7.0,-7.0,T.J. McConnell,,IND,False,True
+sampsja02,17.183333333333334,0.0,3.0,0.0,0.0,0.0,,2.0,2.0,1.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,2.0,-18.0,JaKarr Sampson,,IND,False,True
+mcderdo01,29.85,6.0,11.0,0.545,6.0,8.0,0.75,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,19.0,11.0,Doug McDermott,,IND,False,False
+holidaa01,26.683333333333334,7.0,11.0,0.636,3.0,5.0,0.6,0.0,0.0,,0.0,1.0,1.0,4.0,0.0,0.0,0.0,1.0,17.0,-3.0,Aaron Holiday,,IND,False,False
+holidju01,21.683333333333334,4.0,9.0,0.444,2.0,6.0,0.333,1.0,1.0,1.0,0.0,4.0,4.0,1.0,2.0,0.0,0.0,1.0,11.0,3.0,Justin Holiday,,IND,False,False
+sumneed01,7.85,2.0,4.0,0.5,0.0,2.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,4.0,1.0,Edmond Sumner,,IND,False,False
+bitadgo01,5.116666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-3.0,Goga Bitadze,,IND,False,False
+leaftj01,,,,,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,False,False
+bowenbr02,,,,,,,,,,,,,,,,,,,,,Brian Bowen,Did Not Play,IND,False,False
+johnsal02,,,,,,,,,,,,,,,,,,,,,Alize Johnson,Did Not Play,IND,False,False
+lillada01,38.46666666666667,14.0,23.0,0.609,8.0,12.0,0.667,14.0,16.0,0.875,0.0,6.0,6.0,13.0,1.0,0.0,1.0,0.0,50.0,19.0,Damian Lillard,,POR,True,True
+whiteha01,35.733333333333334,9.0,11.0,0.818,0.0,0.0,,3.0,5.0,0.6,6.0,8.0,14.0,1.0,0.0,6.0,2.0,5.0,21.0,13.0,Hassan Whiteside,,POR,True,True
+mccolcj01,35.7,11.0,21.0,0.524,6.0,9.0,0.667,0.0,0.0,,0.0,1.0,1.0,5.0,0.0,0.0,1.0,3.0,28.0,12.0,CJ McCollum,,POR,True,True
+anthoca01,33.45,5.0,12.0,0.417,2.0,3.0,0.667,2.0,2.0,1.0,2.0,6.0,8.0,2.0,0.0,0.0,1.0,4.0,14.0,14.0,Carmelo Anthony,,POR,True,True
+arizatr01,31.966666666666665,3.0,7.0,0.429,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,3.0,2.0,7.0,18.0,Trevor Ariza,,POR,True,True
+trentga02,26.066666666666666,2.0,5.0,0.4,2.0,4.0,0.5,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,1.0,0.0,1.0,6.0,-8.0,Gary Trent,,POR,True,False
+simonan01,14.6,1.0,5.0,0.2,0.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,2.0,4.0,-9.0,Anfernee Simons,,POR,True,False
+swanica01,12.083333333333334,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,4.0,4.0,8.0,1.0,0.0,0.0,3.0,2.0,4.0,-5.0,Caleb Swanigan,,POR,True,False
+littlna01,11.933333333333334,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,5.0,-4.0,Nassir Little,,POR,True,False
+nurkiju01,,,,,,,,,,,,,,,,,,,,,Jusuf Nurkić,Did Not Dress,POR,True,False
+hezonma01,,,,,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Play,POR,True,False
+gabriwe01,,,,,,,,,,,,,,,,,,,,,Wenyen Gabriel,Did Not Play,POR,True,False

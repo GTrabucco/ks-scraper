@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+chandwi01,37.25,8.0,16.0,0.5,3.0,8.0,0.375,2.0,3.0,0.667,1.0,3.0,4.0,2.0,2.0,1.0,3.0,2.0,21.0,-4.0,Wilson Chandler,,DEN,False,True
+gallida01,32.06666666666667,7.0,15.0,0.467,2.0,7.0,0.286,3.0,4.0,0.75,1.0,7.0,8.0,4.0,2.0,0.0,1.0,3.0,19.0,-9.0,Danilo Gallinari,,DEN,False,True
+harriga01,31.15,5.0,12.0,0.417,0.0,3.0,0.0,1.0,2.0,0.5,3.0,1.0,4.0,3.0,2.0,0.0,0.0,3.0,11.0,-10.0,Gary Harris,,DEN,False,True
+mudiaem01,30.666666666666668,4.0,11.0,0.364,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,1.0,2.0,8.0,-8.0,Emmanuel Mudiay,,DEN,False,True
+jokicni01,24.8,8.0,17.0,0.471,1.0,2.0,0.5,4.0,4.0,1.0,8.0,5.0,13.0,5.0,1.0,0.0,2.0,2.0,21.0,-5.0,Nikola Jokić,,DEN,False,True
+bartowi01,26.766666666666666,6.0,11.0,0.545,2.0,5.0,0.4,0.0,0.0,,2.0,5.0,7.0,4.0,0.0,0.0,2.0,2.0,14.0,4.0,Will Barton,,DEN,False,False
+nurkiju01,21.116666666666667,6.0,8.0,0.75,0.0,0.0,,3.0,4.0,0.75,0.0,6.0,6.0,4.0,1.0,1.0,1.0,3.0,15.0,-4.0,Jusuf Nurkić,,DEN,False,False
+murraja01,18.85,2.0,7.0,0.286,1.0,5.0,0.2,0.0,0.0,,1.0,3.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,-4.0,Jamal Murray,,DEN,False,False
+nelsoja01,17.333333333333332,2.0,4.0,0.5,0.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,4.0,5.0,0.0,Jameer Nelson,,DEN,False,False
+millemi01,,,,,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,DEN,False,False
+hernaju01,,,,,,,,,,,,,,,,,,,,,Juan Hernangómez,Did Not Play,DEN,False,False
+geeal01,,,,,,,,,,,,,,,,,,,,,Alonzo Gee,Did Not Play,DEN,False,False
+beaslma01,,,,,,,,,,,,,,,,,,,,,Malik Beasley,Did Not Play,DEN,False,False
+thompkl01,37.0,9.0,19.0,0.474,4.0,7.0,0.571,3.0,3.0,1.0,0.0,5.0,5.0,1.0,0.0,1.0,0.0,1.0,25.0,7.0,Klay Thompson,,GSW,True,True
+greendr01,36.083333333333336,5.0,8.0,0.625,1.0,2.0,0.5,4.0,6.0,0.667,3.0,7.0,10.0,13.0,0.0,0.0,5.0,3.0,15.0,11.0,Draymond Green,,GSW,True,True
+curryst01,35.05,8.0,18.0,0.444,3.0,9.0,0.333,3.0,3.0,1.0,0.0,3.0,3.0,5.0,0.0,0.0,3.0,2.0,22.0,7.0,Stephen Curry,,GSW,True,True
+duranke01,34.45,10.0,19.0,0.526,1.0,4.0,0.25,0.0,0.0,,0.0,3.0,3.0,2.0,1.0,1.0,2.0,2.0,21.0,-4.0,Kevin Durant,,GSW,True,True
+pachuza01,19.433333333333334,4.0,8.0,0.5,0.0,0.0,,3.0,3.0,1.0,4.0,5.0,9.0,1.0,0.0,0.0,2.0,4.0,11.0,17.0,Zaza Pachulia,,GSW,True,True
+iguodan01,22.2,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,3.0,3.0,2.0,0.0,1.0,0.0,4.0,-10.0,Andre Iguodala,,GSW,True,False
+livinsh01,18.3,3.0,6.0,0.5,0.0,0.0,,0.0,1.0,0.0,2.0,1.0,3.0,4.0,1.0,0.0,0.0,0.0,6.0,9.0,Shaun Livingston,,GSW,True,False
+clarkia01,15.8,4.0,5.0,0.8,2.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,12.0,5.0,Ian Clark,,GSW,True,False
+westda01,12.7,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,3.0,0.0,0.0,0.0,1.0,2.0,-2.0,David West,,GSW,True,False
+mcgeeja01,8.983333333333333,4.0,4.0,1.0,0.0,0.0,,1.0,3.0,0.333,1.0,3.0,4.0,0.0,1.0,0.0,0.0,0.0,9.0,0.0,JaVale McGee,,GSW,True,False
+varejan01,,,,,,,,,,,,,,,,,,,,,Anderson Varejão,Did Not Play,GSW,True,False
+mcadoja01,,,,,,,,,,,,,,,,,,,,,James Michael McAdoo,Did Not Play,GSW,True,False
+looneke01,,,,,,,,,,,,,,,,,,,,,Kevon Looney,Did Not Play,GSW,True,False

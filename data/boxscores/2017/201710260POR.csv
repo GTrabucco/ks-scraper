@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+griffbl01,40.36666666666667,10.0,16.0,0.625,2.0,5.0,0.4,3.0,8.0,0.375,2.0,6.0,8.0,5.0,1.0,0.0,3.0,1.0,25.0,3.0,Blake Griffin,,LAC,False,True
+gallida01,38.4,4.0,13.0,0.308,0.0,5.0,0.0,8.0,8.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,1.0,2.0,16.0,1.0,Danilo Gallinari,,LAC,False,True
+jordade01,38.3,2.0,6.0,0.333,0.0,0.0,,3.0,6.0,0.5,5.0,13.0,18.0,1.0,0.0,3.0,0.0,0.0,7.0,6.0,DeAndre Jordan,,LAC,False,True
+riverau01,34.53333333333333,5.0,11.0,0.455,3.0,5.0,0.6,3.0,4.0,0.75,0.0,1.0,1.0,0.0,2.0,0.0,3.0,6.0,16.0,-6.0,Austin Rivers,,LAC,False,True
+beverpa01,34.25,6.0,12.0,0.5,1.0,5.0,0.2,0.0,1.0,0.0,5.0,2.0,7.0,0.0,1.0,0.0,3.0,4.0,13.0,-2.0,Patrick Beverley,,LAC,False,True
+willilo02,18.533333333333335,5.0,9.0,0.556,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,13.0,6.0,Lou Williams,,LAC,False,False
+johnswe01,14.75,1.0,5.0,0.2,1.0,3.0,0.333,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,2.0,1.0,2.0,3.0,-5.0,Wesley Johnson,,LAC,False,False
+thornsi01,8.533333333333333,1.0,2.0,0.5,0.0,0.0,,4.0,4.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,6.0,3.0,Sindarius Thornwell,,LAC,False,False
+reedwi02,8.533333333333333,2.0,2.0,1.0,0.0,0.0,,1.0,3.0,0.333,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,Willie Reed,,LAC,False,False
+dekkesa01,3.8166666666666664,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,-2.0,Sam Dekker,,LAC,False,False
+johnsbr02,,,,,,,,,,,,,,,,,,,,,Brice Johnson,Did Not Play,LAC,False,False
+harremo01,,,,,,,,,,,,,,,,,,,,,Montrezl Harrell,Did Not Play,LAC,False,False
+evansja01,,,,,,,,,,,,,,,,,,,,,Jawun Evans,Did Not Play,LAC,False,False
+mccolcj01,38.85,8.0,18.0,0.444,2.0,3.0,0.667,5.0,7.0,0.714,3.0,2.0,5.0,4.0,0.0,0.0,0.0,2.0,23.0,3.0,CJ McCollum,,POR,True,True
+lillada01,38.333333333333336,7.0,19.0,0.368,4.0,9.0,0.444,7.0,7.0,1.0,0.0,2.0,2.0,6.0,0.0,0.0,1.0,3.0,25.0,1.0,Damian Lillard,,POR,True,True
+harklma01,35.7,4.0,9.0,0.444,1.0,4.0,0.25,4.0,4.0,1.0,2.0,2.0,4.0,2.0,1.0,1.0,1.0,3.0,13.0,2.0,Maurice Harkless,,POR,True,True
+aminual01,32.833333333333336,6.0,11.0,0.545,5.0,8.0,0.625,2.0,2.0,1.0,1.0,5.0,6.0,2.0,3.0,1.0,2.0,3.0,19.0,7.0,Al-Farouq Aminu,,POR,True,True
+nurkiju01,27.166666666666668,6.0,12.0,0.5,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,1.0,0.0,1.0,3.0,5.0,12.0,-10.0,Jusuf Nurkić,,POR,True,True
+davised01,21.816666666666666,0.0,7.0,0.0,0.0,0.0,,1.0,2.0,0.5,7.0,3.0,10.0,0.0,0.0,0.0,1.0,5.0,1.0,-4.0,Ed Davis,,POR,True,False
+turneev01,21.783333333333335,2.0,6.0,0.333,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,1.0,0.0,3.0,4.0,0.0,Evan Turner,,POR,True,False
+connapa01,10.583333333333334,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,-1.0,Pat Connaughton,,POR,True,False
+napiesh01,8.266666666666667,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,3.0,-3.0,Shabazz Napier,,POR,True,False
+swanica01,4.666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Caleb Swanigan,,POR,True,False
+leoname01,,,,,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Dress,POR,True,False
+laymaja01,,,,,,,,,,,,,,,,,,,,,Jake Layman,Did Not Play,POR,True,False
+colliza01,,,,,,,,,,,,,,,,,,,,,Zach Collins,Did Not Play,POR,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,43.166666666666664,12.0,22.0,0.545,2.0,6.0,0.333,8.0,10.0,0.8,0.0,7.0,7.0,5.0,1.0,1.0,3.0,4.0,34.0,0.0,Kevin Durant,,GSW,False,True
+curryst01,43.166666666666664,12.0,25.0,0.48,4.0,14.0,0.286,2.0,2.0,1.0,0.0,4.0,4.0,8.0,1.0,0.0,3.0,3.0,30.0,4.0,Stephen Curry,,GSW,False,True
+greendr01,40.8,6.0,11.0,0.545,0.0,1.0,0.0,3.0,5.0,0.6,2.0,8.0,10.0,5.0,2.0,1.0,2.0,3.0,15.0,5.0,Draymond Green,,GSW,False,True
+thompkl01,36.18333333333333,5.0,15.0,0.333,1.0,6.0,0.167,0.0,0.0,,1.0,6.0,7.0,1.0,1.0,0.0,2.0,5.0,11.0,-12.0,Klay Thompson,,GSW,False,True
+iguodan01,29.466666666666665,3.0,9.0,0.333,1.0,4.0,0.25,0.0,2.0,0.0,3.0,5.0,8.0,3.0,0.0,0.0,0.0,3.0,7.0,-17.0,Andre Iguodala,,GSW,False,True
+looneke01,22.033333333333335,2.0,2.0,1.0,0.0,0.0,,3.0,4.0,0.75,1.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,7.0,1.0,Kevon Looney,,GSW,False,False
+livinsh01,13.533333333333333,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,2.0,-7.0,Shaun Livingston,,GSW,False,False
+mckinal01,11.466666666666667,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,5.0,Alfonzo McKinnie,,GSW,False,False
+belljo01,0.11666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Jordan Bell,,GSW,False,False
+cookqu01,0.06666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,Quinn Cook,,GSW,False,False
+jerebjo01,,,,,,,,,,,,,,,,,,,,,Jonas Jerebko,Did Not Play,GSW,False,False
+evansja02,,,,,,,,,,,,,,,,,,,,,Jacob Evans,Did Not Play,GSW,False,False
+bogutan01,,,,,,,,,,,,,,,,,,,,,Andrew Bogut,Did Not Play,GSW,False,False
+tuckepj01,41.81666666666667,6.0,12.0,0.5,3.0,6.0,0.5,2.0,2.0,1.0,5.0,5.0,10.0,3.0,2.0,1.0,0.0,4.0,17.0,11.0,P.J. Tucker,,HOU,True,True
+hardeja01,39.95,13.0,29.0,0.448,6.0,17.0,0.353,6.0,8.0,0.75,1.0,9.0,10.0,4.0,0.0,2.0,2.0,4.0,38.0,7.0,James Harden,,HOU,True,True
+gordoer01,39.95,6.0,17.0,0.353,2.0,12.0,0.167,6.0,6.0,1.0,1.0,3.0,4.0,1.0,1.0,1.0,3.0,3.0,20.0,1.0,Eric Gordon,,HOU,True,True
+paulch01,35.88333333333333,4.0,11.0,0.364,2.0,6.0,0.333,3.0,4.0,0.75,2.0,6.0,8.0,5.0,1.0,1.0,2.0,3.0,13.0,7.0,Chris Paul,,HOU,True,True
+capelca01,21.416666666666668,3.0,4.0,0.75,0.0,0.0,,0.0,2.0,0.0,4.0,5.0,9.0,2.0,0.0,0.0,3.0,2.0,6.0,1.0,Clint Capela,,HOU,True,True
+riverau01,33.38333333333333,4.0,10.0,0.4,2.0,5.0,0.4,0.0,0.0,,0.0,6.0,6.0,3.0,2.0,0.0,1.0,4.0,10.0,-2.0,Austin Rivers,,HOU,True,False
+shumpim01,21.45,2.0,4.0,0.5,1.0,2.0,0.5,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,3.0,5.0,1.0,Iman Shumpert,,HOU,True,False
+hilarne01,3.5,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,-4.0,Nenê Hilário,,HOU,True,False
+greenge01,2.65,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,-2.0,Gerald Green,,HOU,True,False
+frazimi01,,,,,,,,,,,,,,,,,,,,,Michael Frazier,Did Not Play,HOU,True,False
+harteis01,,,,,,,,,,,,,,,,,,,,,Isaiah Hartenstein,Did Not Play,HOU,True,False
+clarkga01,,,,,,,,,,,,,,,,,,,,,Gary Clark,Did Not Play,HOU,True,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,HOU,True,False

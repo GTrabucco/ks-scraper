@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,38.56666666666667,10.0,29.0,0.345,5.0,15.0,0.333,5.0,6.0,0.833,2.0,10.0,12.0,3.0,1.0,0.0,2.0,3.0,30.0,-3.0,Paul George,,OKC,False,True
+westbru01,36.75,6.0,20.0,0.3,1.0,6.0,0.167,3.0,6.0,0.5,0.0,5.0,5.0,7.0,0.0,0.0,1.0,3.0,16.0,-20.0,Russell Westbrook,,OKC,False,True
+fergute01,36.15,4.0,4.0,1.0,3.0,3.0,1.0,2.0,2.0,1.0,1.0,2.0,3.0,3.0,2.0,0.0,0.0,2.0,13.0,-18.0,Terrance Ferguson,,OKC,False,True
+adamsst01,31.9,1.0,7.0,0.143,0.0,0.0,,0.0,0.0,,6.0,2.0,8.0,0.0,4.0,3.0,1.0,2.0,2.0,-20.0,Steven Adams,,OKC,False,True
+grantje01,24.2,3.0,8.0,0.375,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,2.0,5.0,7.0,-29.0,Jerami Grant,,OKC,False,True
+schrode01,36.53333333333333,9.0,14.0,0.643,2.0,4.0,0.5,5.0,6.0,0.833,1.0,2.0,3.0,3.0,0.0,0.0,2.0,3.0,25.0,3.0,Dennis Schröder,,OKC,False,False
+morrima02,13.4,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,2.0,4.0,4.0,1.0,Markieff Morris,,OKC,False,False
+naderab01,11.85,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,2.0,6.0,Abdel Nader,,OKC,False,False
+burtode02,7.95,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,2.0,13.0,Deonte Burton,,OKC,False,False
+noelne01,2.7,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,7.0,Nerlens Noel,,OKC,False,False
+diallha01,,,,,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,False,False
+pattepa01,,,,,,,,,,,,,,,,,,,,,Patrick Patterson,Did Not Play,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+dorsety01,38.666666666666664,7.0,13.0,0.538,3.0,5.0,0.6,4.0,7.0,0.571,3.0,5.0,8.0,5.0,0.0,0.0,0.0,4.0,21.0,15.0,Tyler Dorsey,,MEM,True,True
+cabocbr01,35.18333333333333,8.0,13.0,0.615,4.0,7.0,0.571,4.0,4.0,1.0,3.0,8.0,11.0,2.0,1.0,1.0,1.0,2.0,24.0,17.0,Bruno Caboclo,,MEM,True,True
+wrighde01,35.016666666666666,8.0,14.0,0.571,0.0,3.0,0.0,2.0,3.0,0.667,1.0,2.0,3.0,13.0,4.0,0.0,3.0,2.0,18.0,3.0,Delon Wright,,MEM,True,True
+holidju01,32.63333333333333,6.0,13.0,0.462,3.0,8.0,0.375,2.0,2.0,1.0,1.0,6.0,7.0,5.0,2.0,0.0,1.0,4.0,17.0,21.0,Justin Holiday,,MEM,True,True
+valanjo01,32.21666666666667,6.0,12.0,0.5,0.0,0.0,,6.0,8.0,0.75,0.0,14.0,14.0,1.0,0.0,2.0,1.0,3.0,18.0,19.0,Jonas Valančiūnas,,MEM,True,True
+parsoch01,24.55,3.0,9.0,0.333,1.0,4.0,0.25,1.0,1.0,1.0,0.0,3.0,3.0,0.0,0.0,0.0,2.0,1.0,8.0,1.0,Chandler Parsons,,MEM,True,False
+rabbiv01,17.533333333333335,2.0,6.0,0.333,0.0,0.0,,3.0,4.0,0.75,2.0,3.0,5.0,0.0,0.0,0.0,1.0,1.0,7.0,-8.0,Ivan Rabb,,MEM,True,False
+carteje01,16.75,0.0,7.0,0.0,0.0,4.0,0.0,2.0,2.0,1.0,3.0,3.0,6.0,5.0,1.0,0.0,2.0,0.0,2.0,8.0,Jevon Carter,,MEM,True,False
+washbju01,7.45,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-16.0,Julian Washburn,,MEM,True,False
+watanyu01,,,,,,,,,,,,,,,,,,,,,Yuta Watanabe,Did Not Play,MEM,True,False
+conlemi01,,,,,,,,,,,,,,,,,,,,,Mike Conley,Did Not Dress,MEM,True,False
+bradlav01,,,,,,,,,,,,,,,,,,,,,Avery Bradley,Did Not Dress,MEM,True,False

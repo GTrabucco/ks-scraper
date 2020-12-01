@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+middlkh01,39.483333333333334,7.0,17.0,0.412,1.0,4.0,0.25,1.0,2.0,0.5,2.0,5.0,7.0,7.0,0.0,0.0,1.0,5.0,16.0,-7.0,Khris Middleton,,MIL,False,True
+snellto01,38.4,5.0,8.0,0.625,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,1.0,0.0,2.0,12.0,0.0,Tony Snell,,MIL,False,True
+antetgi01,38.05,13.0,27.0,0.481,1.0,4.0,0.25,2.0,2.0,1.0,1.0,3.0,4.0,3.0,1.0,4.0,3.0,2.0,29.0,9.0,Giannis Antetokounmpo,,MIL,False,True
+brogdma01,34.5,8.0,13.0,0.615,3.0,5.0,0.6,2.0,2.0,1.0,0.0,2.0,2.0,10.0,0.0,0.0,3.0,3.0,21.0,4.0,Malcolm Brogdon,,MIL,False,True
+hensojo01,26.883333333333333,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,2.0,11.0,13.0,3.0,1.0,0.0,0.0,3.0,4.0,0.0,John Henson,,MIL,False,True
+dellama01,17.133333333333333,1.0,4.0,0.25,1.0,3.0,0.333,2.0,2.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,3.0,3.0,5.0,-15.0,Matthew Dellavedova,,MIL,False,False
+makerth01,15.933333333333334,3.0,4.0,0.75,2.0,3.0,0.667,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,2.0,3.0,9.0,-8.0,Thon Maker,,MIL,False,False
+teletmi01,10.966666666666667,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,-8.0,Mirza Teletović,,MIL,False,False
+vaughra01,8.066666666666666,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-7.0,Rashad Vaughn,,MIL,False,False
+terryja01,5.483333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,-6.0,Jason Terry,,MIL,False,False
+liggide01,5.1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-7.0,DeAndre Liggins,,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+brownst02,,,,,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,False,False
+johnsst04,38.18333333333333,4.0,10.0,0.4,0.0,4.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,3.0,3.0,0.0,0.0,3.0,8.0,2.0,Stanley Johnson,,DET,True,True
+bradlav01,34.96666666666667,8.0,19.0,0.421,3.0,6.0,0.5,4.0,4.0,1.0,1.0,1.0,2.0,2.0,3.0,1.0,3.0,0.0,23.0,1.0,Avery Bradley,,DET,True,True
+harrito02,34.85,5.0,13.0,0.385,3.0,6.0,0.5,0.0,0.0,,0.0,1.0,1.0,3.0,1.0,0.0,0.0,0.0,13.0,7.0,Tobias Harris,,DET,True,True
+jacksre01,29.583333333333332,3.0,11.0,0.273,1.0,4.0,0.25,2.0,2.0,1.0,1.0,2.0,3.0,8.0,0.0,0.0,2.0,1.0,9.0,6.0,Reggie Jackson,,DET,True,True
+drumman01,27.75,5.0,7.0,0.714,0.0,0.0,,14.0,16.0,0.875,2.0,12.0,14.0,0.0,1.0,2.0,0.0,2.0,24.0,-8.0,Andre Drummond,,DET,True,True
+moreler01,20.25,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,2.0,7.0,9.0,1.0,0.0,1.0,2.0,3.0,6.0,17.0,Eric Moreland,,DET,True,False
+tollian01,18.583333333333332,2.0,4.0,0.5,0.0,2.0,0.0,3.0,4.0,0.75,1.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,7.0,10.0,Anthony Tolliver,,DET,True,False
+smithis01,18.416666666666668,5.0,6.0,0.833,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,0.0,2.0,1.0,10.0,3.0,Ish Smith,,DET,True,False
+gallola01,13.033333333333333,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,8.0,Langston Galloway,,DET,True,False
+bullore01,4.383333333333334,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,Reggie Bullock,,DET,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DET,True,False
+kennalu01,,,,,,,,,,,,,,,,,,,,,Luke Kennard,Did Not Play,DET,True,False
+ellenhe01,,,,,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,DET,True,False

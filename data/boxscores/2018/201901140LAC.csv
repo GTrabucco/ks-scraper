@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+davisan02,38.9,16.0,34.0,0.471,2.0,5.0,0.4,12.0,12.0,1.0,5.0,11.0,16.0,4.0,3.0,1.0,1.0,4.0,46.0,1.0,Anthony Davis,,NOP,False,True
+holidjr01,38.7,8.0,24.0,0.333,2.0,6.0,0.333,1.0,3.0,0.333,3.0,2.0,5.0,8.0,3.0,2.0,1.0,2.0,19.0,24.0,Jrue Holiday,,NOP,False,True
+randlju01,33.06666666666667,10.0,19.0,0.526,0.0,3.0,0.0,7.0,9.0,0.778,1.0,5.0,6.0,5.0,1.0,0.0,3.0,2.0,27.0,21.0,Julius Randle,,NOP,False,True
+paytoel01,29.4,5.0,10.0,0.5,1.0,3.0,0.333,0.0,2.0,0.0,1.0,5.0,6.0,3.0,0.0,0.0,0.0,0.0,11.0,6.0,Elfrid Payton,,NOP,False,True
+mooreet01,29.316666666666666,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,4.0,3.0,1.0,0.0,0.0,2.0,3.0,7.0,E'Twaun Moore,,NOP,False,True
+milleda01,28.666666666666668,2.0,3.0,0.667,2.0,3.0,0.667,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,4.0,0.0,3.0,6.0,-19.0,Darius Miller,,NOP,False,False
+mirotni01,17.4,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,1.0,4.0,0.0,-9.0,Nikola Mirotić,,NOP,False,False
+jacksfr01,14.816666666666666,1.0,2.0,0.5,0.0,1.0,0.0,1.0,2.0,0.5,1.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,-10.0,Frank Jackson,,NOP,False,False
+okafoja01,9.733333333333333,3.0,6.0,0.5,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,1.0,0.0,0.0,0.0,1.0,6.0,-1.0,Jahlil Okafor,,NOP,False,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,NOP,False,False
+johnswe01,,,,,,,,,,,,,,,,,,,,,Wesley Johnson,Did Not Play,NOP,False,False
+clarkia01,,,,,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,NOP,False,False
+fraziti01,,,,,,,,,,,,,,,,,,,,,Tim Frazier,Did Not Play,NOP,False,False
+harrito02,35.88333333333333,7.0,11.0,0.636,5.0,7.0,0.714,2.0,3.0,0.667,0.0,6.0,6.0,3.0,0.0,1.0,1.0,3.0,21.0,-1.0,Tobias Harris,,LAC,True,True
+gallida01,33.36666666666667,8.0,13.0,0.615,6.0,9.0,0.667,3.0,3.0,1.0,0.0,4.0,4.0,6.0,2.0,0.0,4.0,5.0,25.0,-6.0,Danilo Gallinari,,LAC,True,True
+bradlav01,29.933333333333334,3.0,9.0,0.333,3.0,8.0,0.375,0.0,0.0,,0.0,2.0,2.0,5.0,0.0,0.0,2.0,1.0,9.0,-13.0,Avery Bradley,,LAC,True,True
+gortama01,14.4,3.0,5.0,0.6,0.0,0.0,,1.0,3.0,0.333,1.0,5.0,6.0,0.0,0.0,1.0,1.0,2.0,7.0,-19.0,Marcin Gortat,,LAC,True,True
+gilgesh01,12.983333333333333,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,1.0,2.0,2.0,0.0,-13.0,Shai Gilgeous-Alexander,,LAC,True,True
+harremo01,33.6,10.0,16.0,0.625,0.0,1.0,0.0,6.0,9.0,0.667,2.0,8.0,10.0,4.0,0.0,0.0,3.0,1.0,26.0,15.0,Montrezl Harrell,,LAC,True,False
+willilo02,30.233333333333334,6.0,19.0,0.316,1.0,6.0,0.167,5.0,6.0,0.833,1.0,4.0,5.0,5.0,1.0,0.0,1.0,2.0,18.0,2.0,Lou Williams,,LAC,True,False
+beverpa01,24.666666666666668,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,2.0,9.0,11.0,7.0,0.0,3.0,2.0,2.0,3.0,16.0,Patrick Beverley,,LAC,True,False
+wallaty01,19.966666666666665,2.0,6.0,0.333,1.0,1.0,1.0,0.0,0.0,,2.0,3.0,5.0,1.0,1.0,0.0,0.0,1.0,5.0,5.0,Tyrone Wallace,,LAC,True,False
+scottmi01,4.966666666666667,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,1.0,0.0,2.0,3.0,-6.0,Mike Scott,,LAC,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,LAC,True,False
+thornsi01,,,,,,,,,,,,,,,,,,,,,Sindarius Thornwell,Did Not Play,LAC,True,False
+motlejo01,,,,,,,,,,,,,,,,,,,,,Johnathan Motley,Did Not Play,LAC,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,37.333333333333336,6.0,14.0,0.429,3.0,5.0,0.6,11.0,13.0,0.846,1.0,6.0,7.0,5.0,2.0,0.0,6.0,5.0,26.0,-12.0,James Harden,,HOU,False,True
+arizatr01,36.85,6.0,17.0,0.353,4.0,11.0,0.364,0.0,0.0,,1.0,4.0,5.0,3.0,0.0,0.0,4.0,5.0,16.0,-2.0,Trevor Ariza,,HOU,False,True
+beverpa01,27.783333333333335,1.0,7.0,0.143,1.0,5.0,0.2,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,1.0,1.0,1.0,3.0,-8.0,Patrick Beverley,,HOU,False,True
+motiedo01,21.366666666666667,3.0,8.0,0.375,1.0,1.0,1.0,0.0,0.0,,4.0,4.0,8.0,1.0,0.0,0.0,2.0,3.0,7.0,-7.0,Donatas Motiejūnas,,HOU,False,True
+dorsejo01,11.2,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,1.0,1.0,1.0,0.0,1.0,6.0,1.0,Joey Dorsey,,HOU,False,True
+joneste01,29.566666666666666,3.0,7.0,0.429,0.0,0.0,,3.0,4.0,0.75,3.0,6.0,9.0,2.0,1.0,4.0,1.0,1.0,9.0,-4.0,Terrence Jones,,HOU,False,False
+smithjo03,26.283333333333335,7.0,12.0,0.583,1.0,3.0,0.333,0.0,4.0,0.0,2.0,2.0,4.0,1.0,0.0,1.0,5.0,3.0,15.0,-13.0,Josh Smith,,HOU,False,False
+breweco01,25.616666666666667,4.0,11.0,0.364,0.0,5.0,0.0,2.0,5.0,0.4,0.0,4.0,4.0,1.0,0.0,1.0,1.0,1.0,10.0,-7.0,Corey Brewer,,HOU,False,False
+terryja01,22.866666666666667,3.0,8.0,0.375,2.0,7.0,0.286,0.0,0.0,,1.0,2.0,3.0,2.0,4.0,1.0,1.0,2.0,8.0,-3.0,Jason Terry,,HOU,False,False
+papanko01,1.1333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Kostas Papanikolaou,,HOU,False,False
+capelca01,,,,,,,,,,,,,,,,,,,,,Clint Capela,Did Not Play,HOU,False,False
+mcdankj01,,,,,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,HOU,False,False
+prigipa01,,,,,,,,,,,,,,,,,,,,,Pablo Prigioni,Did Not Play,HOU,False,False
+chandty01,35.03333333333333,5.0,9.0,0.556,0.0,0.0,,0.0,0.0,,5.0,9.0,14.0,0.0,1.0,0.0,4.0,3.0,10.0,4.0,Tyson Chandler,,DAL,True,True
+ellismo01,34.55,5.0,13.0,0.385,0.0,1.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,4.0,2.0,0.0,3.0,5.0,12.0,12.0,Monta Ellis,,DAL,True,True
+parsoch01,29.45,4.0,9.0,0.444,1.0,3.0,0.333,4.0,4.0,1.0,1.0,3.0,4.0,3.0,2.0,0.0,1.0,1.0,13.0,11.0,Chandler Parsons,,DAL,True,True
+nowitdi01,26.666666666666668,6.0,13.0,0.462,0.0,1.0,0.0,0.0,0.0,,1.0,5.0,6.0,2.0,1.0,0.0,0.0,3.0,12.0,15.0,Dirk Nowitzki,,DAL,True,True
+rondora01,20.866666666666667,6.0,9.0,0.667,0.0,0.0,,1.0,4.0,0.25,0.0,0.0,0.0,3.0,0.0,0.0,6.0,0.0,13.0,-8.0,Rajon Rondo,,DAL,True,True
+aminual01,29.866666666666667,6.0,11.0,0.545,1.0,4.0,0.25,4.0,4.0,1.0,5.0,7.0,12.0,1.0,0.0,2.0,0.0,3.0,17.0,12.0,Al-Farouq Aminu,,DAL,True,False
+harride01,29.616666666666667,7.0,18.0,0.389,3.0,9.0,0.333,0.0,0.0,,0.0,6.0,6.0,7.0,2.0,0.0,2.0,3.0,17.0,16.0,Devin Harris,,DAL,True,False
+villach01,13.833333333333334,4.0,5.0,0.8,3.0,3.0,1.0,2.0,2.0,1.0,0.0,4.0,4.0,1.0,1.0,0.0,1.0,0.0,13.0,-10.0,Charlie Villanueva,,DAL,True,False
+bareajo01,12.483333333333333,0.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,5.0,0.0,0.0,0.0,1.0,0.0,3.0,J.J. Barea,,DAL,True,False
+jefferi01,7.633333333333333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,Richard Jefferson,,DAL,True,False
+feltora01,,,,,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,DAL,True,False
+jamesbe01,,,,,,,,,,,,,,,,,,,,,Bernard James,Did Not Play,DAL,True,False
+smithgr02,,,,,,,,,,,,,,,,,,,,,Greg Smith,Did Not Play,DAL,True,False

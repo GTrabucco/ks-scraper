@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+middlkh01,40.71666666666667,15.0,28.0,0.536,2.0,8.0,0.25,8.0,8.0,1.0,0.0,5.0,5.0,5.0,3.0,0.0,2.0,3.0,40.0,6.0,Khris Middleton,,MIL,False,True
+bledser01,33.016666666666666,7.0,11.0,0.636,4.0,6.0,0.667,5.0,6.0,0.833,0.0,7.0,7.0,10.0,0.0,0.0,4.0,2.0,23.0,15.0,Eric Bledsoe,,MIL,False,True
+lopezro01,32.88333333333333,4.0,5.0,0.8,3.0,4.0,0.75,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,3.0,0.0,3.0,11.0,7.0,Robin Lopez,,MIL,False,True
+antetgi01,24.85,8.0,12.0,0.667,0.0,0.0,,6.0,8.0,0.75,2.0,12.0,14.0,2.0,0.0,1.0,8.0,6.0,22.0,14.0,Giannis Antetokounmpo,,MIL,False,True
+matthwe02,23.95,3.0,6.0,0.5,3.0,5.0,0.6,1.0,3.0,0.333,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,10.0,8.0,Wesley Matthews,,MIL,False,True
+divindo01,28.533333333333335,4.0,5.0,0.8,2.0,3.0,0.667,2.0,2.0,1.0,2.0,8.0,10.0,2.0,0.0,0.0,3.0,2.0,12.0,-5.0,Donte DiVincenzo,,MIL,False,False
+hillge01,23.766666666666666,6.0,12.0,0.5,2.0,6.0,0.333,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,3.0,14.0,-13.0,George Hill,,MIL,False,False
+willima02,22.316666666666666,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,0.0,-8.0,Marvin Williams,,MIL,False,False
+ilyaser01,16.0,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,4.0,2.0,-11.0,Ersan İlyasova,,MIL,False,False
+connapa01,13.666666666666666,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,3.0,-1.0,Pat Connaughton,,MIL,False,False
+brownst02,5.3,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,Sterling Brown,,MIL,False,False
+masonfr01,,,,,,,,,,,,,,,,,,,,,Frank Mason,Did Not Play,MIL,False,False
+antetth01,,,,,,,,,,,,,,,,,,,,,Thanasis Antetokounmpo,Did Not Play,MIL,False,False
+hachiru01,46.1,4.0,12.0,0.333,1.0,2.0,0.5,3.0,4.0,0.75,1.0,3.0,4.0,2.0,1.0,0.0,1.0,1.0,12.0,0.0,Rui Hachimura,,WAS,True,True
+bealbr01,41.016666666666666,19.0,33.0,0.576,8.0,13.0,0.615,9.0,10.0,0.9,1.0,1.0,2.0,3.0,0.0,0.0,9.0,4.0,55.0,-4.0,Bradley Beal,,WAS,True,True
+smithis01,25.916666666666668,5.0,11.0,0.455,2.0,3.0,0.667,1.0,1.0,1.0,0.0,2.0,2.0,7.0,2.0,0.0,2.0,1.0,13.0,-8.0,Ish Smith,,WAS,True,True
+mahinia01,24.533333333333335,4.0,6.0,0.667,0.0,2.0,0.0,2.0,5.0,0.4,1.0,4.0,5.0,1.0,1.0,0.0,0.0,4.0,10.0,-14.0,Ian Mahinmi,,WAS,True,True
+bongais01,24.016666666666666,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,2.0,7.0,9.0,0.0,1.0,0.0,1.0,4.0,0.0,-17.0,Isaac Bonga,,WAS,True,True
+napiesh01,36.1,10.0,17.0,0.588,3.0,7.0,0.429,4.0,5.0,0.8,0.0,4.0,4.0,7.0,2.0,0.0,2.0,5.0,27.0,7.0,Shabazz Napier,,WAS,True,False
+wagnemo01,28.466666666666665,1.0,3.0,0.333,0.0,0.0,,6.0,8.0,0.75,1.0,9.0,10.0,5.0,0.0,0.0,0.0,6.0,8.0,11.0,Moritz Wagner,,WAS,True,False
+browntr01,21.15,2.0,9.0,0.222,0.0,5.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,4.0,9.0,Troy Brown,,WAS,True,False
+robinje01,17.7,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,1.0,1.0,5.0,1.0,Jerome Robinson,,WAS,True,False
+schofad01,,,,,,,,,,,,,,,,,,,,,Admiral Schofield,Did Not Play,WAS,True,False
+pasecan01,,,,,,,,,,,,,,,,,,,,,Anžejs Pasečņiks,Did Not Play,WAS,True,False
+paytoga02,,,,,,,,,,,,,,,,,,,,,Gary Payton,Did Not Play,WAS,True,False

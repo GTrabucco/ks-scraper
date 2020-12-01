@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mccolcj01,40.2,9.0,25.0,0.36,3.0,9.0,0.333,2.0,2.0,1.0,0.0,3.0,3.0,5.0,1.0,0.0,1.0,1.0,23.0,0.0,CJ McCollum,,POR,False,True
+lillada01,36.666666666666664,7.0,19.0,0.368,2.0,7.0,0.286,4.0,4.0,1.0,2.0,3.0,5.0,10.0,1.0,0.0,4.0,3.0,20.0,-7.0,Damian Lillard,,POR,False,True
+anthoca01,35.6,1.0,15.0,0.067,0.0,4.0,0.0,3.0,4.0,0.75,6.0,9.0,15.0,0.0,1.0,1.0,1.0,2.0,5.0,-5.0,Carmelo Anthony,,POR,False,True
+arizatr01,35.083333333333336,4.0,11.0,0.364,2.0,7.0,0.286,2.0,2.0,1.0,1.0,5.0,6.0,1.0,2.0,1.0,0.0,1.0,12.0,-2.0,Trevor Ariza,,POR,False,True
+whiteha01,34.21666666666667,6.0,8.0,0.75,0.0,0.0,,4.0,8.0,0.5,3.0,8.0,11.0,2.0,1.0,0.0,3.0,3.0,16.0,-1.0,Hassan Whiteside,,POR,False,True
+simonan01,27.833333333333332,7.0,12.0,0.583,6.0,7.0,0.857,2.0,2.0,1.0,2.0,5.0,7.0,1.0,0.0,0.0,1.0,2.0,22.0,1.0,Anfernee Simons,,POR,False,False
+trentga02,16.166666666666668,1.0,5.0,0.2,0.0,3.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,-12.0,Gary Trent,,POR,False,False
+swanica01,12.483333333333333,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,2.0,1.0,1.0,1.0,4.0,2.0,-7.0,Caleb Swanigan,,POR,False,False
+gabriwe01,1.4333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Wenyen Gabriel,,POR,False,False
+brownmo01,0.31666666666666665,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Moses Brown,,POR,False,False
+hoardja01,,,,,,,,,,,,,,,,,,,,,Jaylen Hoard,Did Not Play,POR,False,False
+hoodro01,,,,,,,,,,,,,,,,,,,,,Rodney Hood,Did Not Dress,POR,False,False
+littlna01,,,,,,,,,,,,,,,,,,,,,Nassir Little,Did Not Dress,POR,False,False
+jacksja02,33.21666666666667,1.0,6.0,0.167,1.0,4.0,0.25,5.0,6.0,0.833,0.0,5.0,5.0,1.0,1.0,3.0,3.0,5.0,8.0,-5.0,Jaren Jackson,,MEM,True,True
+moranja01,32.13333333333333,9.0,23.0,0.391,0.0,5.0,0.0,2.0,2.0,1.0,4.0,1.0,5.0,9.0,1.0,0.0,2.0,0.0,20.0,2.0,Ja Morant,,MEM,True,True
+valanjo01,27.483333333333334,5.0,11.0,0.455,0.0,0.0,,2.0,4.0,0.5,5.0,13.0,18.0,2.0,0.0,3.0,1.0,3.0,12.0,-14.0,Jonas Valančiūnas,,MEM,True,True
+anderky01,26.383333333333333,3.0,4.0,0.75,0.0,1.0,0.0,0.0,0.0,,2.0,7.0,9.0,1.0,1.0,1.0,1.0,2.0,6.0,-11.0,Kyle Anderson,,MEM,True,True
+brookdi01,22.816666666666666,4.0,16.0,0.25,3.0,6.0,0.5,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,11.0,13.0,Dillon Brooks,,MEM,True,True
+meltode01,25.95,4.0,7.0,0.571,1.0,3.0,0.333,3.0,5.0,0.6,0.0,4.0,4.0,4.0,0.0,0.0,3.0,0.0,12.0,-4.0,De'Anthony Melton,,MEM,True,False
+clarkbr01,22.75,12.0,14.0,0.857,0.0,0.0,,3.0,5.0,0.6,2.0,4.0,6.0,1.0,2.0,1.0,0.0,2.0,27.0,21.0,Brandon Clarke,,MEM,True,False
+jacksjo02,20.85,2.0,3.0,0.667,0.0,1.0,0.0,0.0,0.0,,0.0,5.0,5.0,2.0,1.0,0.0,0.0,0.0,4.0,16.0,Josh Jackson,,MEM,True,False
+jonesty01,15.866666666666667,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,4.0,5.0,Tyus Jones,,MEM,True,False
+dienggo01,12.55,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,3.0,2.0,2.0,1.0,1.0,2.0,7.0,12.0,Gorgui Dieng,,MEM,True,False
+belljo01,,,,,,,,,,,,,,,,,,,,,Jordan Bell,Did Not Play,MEM,True,False
+gudurma01,,,,,,,,,,,,,,,,,,,,,Marko Guduric,Did Not Play,MEM,True,False
+watanyu01,,,,,,,,,,,,,,,,,,,,,Yuta Watanabe,Did Not Play,MEM,True,False

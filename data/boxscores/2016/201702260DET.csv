@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+horfoal01,36.46666666666667,2.0,11.0,0.182,0.0,3.0,0.0,0.0,0.0,,0.0,9.0,9.0,5.0,0.0,1.0,0.0,3.0,4.0,5.0,Al Horford,,BOS,False,True
+thomais02,34.833333333333336,10.0,23.0,0.435,5.0,12.0,0.417,8.0,9.0,0.889,0.0,2.0,2.0,3.0,3.0,0.0,2.0,3.0,33.0,9.0,Isaiah Thomas,,BOS,False,True
+crowdja01,33.416666666666664,3.0,8.0,0.375,1.0,4.0,0.25,7.0,9.0,0.778,0.0,11.0,11.0,5.0,1.0,0.0,0.0,3.0,14.0,3.0,Jae Crowder,,BOS,False,True
+brownja02,25.65,5.0,9.0,0.556,2.0,2.0,1.0,1.0,3.0,0.333,2.0,3.0,5.0,1.0,2.0,0.0,4.0,2.0,13.0,13.0,Jaylen Brown,,BOS,False,True
+johnsam01,19.45,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,1.0,8.0,9.0,3.0,0.0,0.0,2.0,5.0,4.0,16.0,Amir Johnson,,BOS,False,True
+smartma01,31.0,5.0,10.0,0.5,0.0,3.0,0.0,4.0,5.0,0.8,4.0,1.0,5.0,2.0,1.0,0.0,2.0,3.0,14.0,-6.0,Marcus Smart,,BOS,False,False
+olynyke01,19.266666666666666,2.0,8.0,0.25,1.0,3.0,0.333,0.0,0.0,,0.0,6.0,6.0,1.0,1.0,0.0,3.0,3.0,5.0,-11.0,Kelly Olynyk,,BOS,False,False
+roziete01,17.733333333333334,4.0,5.0,0.8,3.0,4.0,0.75,2.0,2.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,1.0,3.0,13.0,5.0,Terry Rozier,,BOS,False,False
+jerebjo01,12.716666666666667,1.0,6.0,0.167,0.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,1.0,Jonas Jerebko,,BOS,False,False
+youngja01,5.616666666666667,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,James Young,,BOS,False,False
+zellety01,3.85,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,Tyler Zeller,,BOS,False,False
+mickejo01,,,,,,,,,,,,,,,,,,,,,Jordan Mickey,Did Not Play,BOS,False,False
+jacksde01,,,,,,,,,,,,,,,,,,,,,Demetrius Jackson,Did Not Play,BOS,False,False
+morrima03,37.86666666666667,5.0,15.0,0.333,2.0,7.0,0.286,4.0,5.0,0.8,5.0,5.0,10.0,4.0,1.0,0.0,5.0,3.0,16.0,-10.0,Marcus Morris,,DET,True,True
+caldwke01,36.2,6.0,14.0,0.429,3.0,8.0,0.375,3.0,5.0,0.6,0.0,3.0,3.0,3.0,1.0,2.0,1.0,3.0,18.0,-18.0,Kentavious Caldwell-Pope,,DET,True,True
+drumman01,35.95,8.0,13.0,0.615,0.0,0.0,,1.0,11.0,0.091,2.0,13.0,15.0,0.0,2.0,0.0,3.0,2.0,17.0,-13.0,Andre Drummond,,DET,True,True
+jacksre01,33.63333333333333,6.0,12.0,0.5,3.0,5.0,0.6,2.0,2.0,1.0,1.0,3.0,4.0,6.0,1.0,0.0,3.0,2.0,17.0,-13.0,Reggie Jackson,,DET,True,True
+leuerjo01,25.316666666666666,4.0,11.0,0.364,2.0,7.0,0.286,0.0,2.0,0.0,1.0,3.0,4.0,1.0,0.0,0.0,3.0,2.0,10.0,-3.0,Jon Leuer,,DET,True,True
+harrito02,32.81666666666667,2.0,8.0,0.25,1.0,5.0,0.2,3.0,6.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,2.0,5.0,8.0,1.0,Tobias Harris,,DET,True,False
+smithis01,14.366666666666667,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,1.0,0.0,5.0,2.0,7.0,Ish Smith,,DET,True,False
+baynear01,12.05,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,0.5,1.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,7.0,Aron Baynes,,DET,True,False
+johnsst04,11.8,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,7.0,12.0,Stanley Johnson,,DET,True,False
+udrihbe01,,,,,,,,,,,,,,,,,,,,,Beno Udrih,Did Not Play,DET,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DET,True,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,True,False
+bullore01,,,,,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Play,DET,True,False

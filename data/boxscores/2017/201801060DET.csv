@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+paulch01,35.1,5.0,10.0,0.5,3.0,8.0,0.375,3.0,3.0,1.0,1.0,6.0,7.0,13.0,2.0,0.0,5.0,2.0,16.0,0.0,Chris Paul,,HOU,False,True
+arizatr01,34.916666666666664,5.0,15.0,0.333,2.0,9.0,0.222,3.0,3.0,1.0,0.0,4.0,4.0,1.0,0.0,0.0,0.0,2.0,15.0,-5.0,Trevor Ariza,,HOU,False,True
+gordoer01,34.21666666666667,6.0,13.0,0.462,3.0,7.0,0.429,0.0,0.0,,0.0,3.0,3.0,7.0,0.0,0.0,2.0,2.0,15.0,-6.0,Eric Gordon,,HOU,False,True
+capelca01,27.766666666666666,7.0,15.0,0.467,0.0,0.0,,0.0,0.0,,6.0,5.0,11.0,0.0,0.0,2.0,3.0,2.0,14.0,-15.0,Clint Capela,,HOU,False,True
+anderry01,23.15,2.0,9.0,0.222,1.0,6.0,0.167,0.0,0.0,,1.0,2.0,3.0,2.0,0.0,0.0,0.0,1.0,5.0,-24.0,Ryan Anderson,,HOU,False,True
+greenge01,28.916666666666668,5.0,14.0,0.357,4.0,12.0,0.333,1.0,1.0,1.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,15.0,-9.0,Gerald Green,,HOU,False,False
+tuckepj01,24.616666666666667,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,1.0,3.0,4.0,3.0,1.0,0.0,1.0,3.0,3.0,18.0,P.J. Tucker,,HOU,False,False
+blackta01,20.233333333333334,6.0,6.0,1.0,0.0,0.0,,1.0,2.0,0.5,3.0,3.0,6.0,0.0,0.0,1.0,2.0,5.0,13.0,8.0,Tarik Black,,HOU,False,False
+weberbr01,11.083333333333334,1.0,3.0,0.333,1.0,1.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,3.0,2.0,1.0,0.0,3.0,5.0,-2.0,Briante Weber,,HOU,False,False
+onuakch01,,,,,,,,,,,,,,,,,,,,,Chinanu Onuaku,Did Not Play,HOU,False,False
+mbahalu01,,,,,,,,,,,,,,,,,,,,,Luc Mbah a Moute,Did Not Play,HOU,False,False
+bradlav01,39.31666666666667,5.0,15.0,0.333,2.0,7.0,0.286,0.0,0.0,,0.0,1.0,1.0,3.0,1.0,0.0,2.0,3.0,12.0,5.0,Avery Bradley,,DET,True,True
+moreler01,35.833333333333336,3.0,5.0,0.6,0.0,0.0,,2.0,2.0,1.0,2.0,6.0,8.0,4.0,2.0,1.0,1.0,1.0,8.0,-2.0,Eric Moreland,,DET,True,True
+bullore01,33.0,5.0,6.0,0.833,3.0,4.0,0.75,1.0,2.0,0.5,1.0,1.0,2.0,2.0,0.0,0.0,0.0,2.0,14.0,-1.0,Reggie Bullock,,DET,True,True
+harrito02,32.93333333333333,8.0,15.0,0.533,3.0,6.0,0.5,8.0,11.0,0.727,0.0,8.0,8.0,1.0,1.0,0.0,0.0,0.0,27.0,0.0,Tobias Harris,,DET,True,True
+smithis01,25.916666666666668,7.0,12.0,0.583,0.0,1.0,0.0,3.0,4.0,0.75,0.0,3.0,3.0,4.0,2.0,0.0,0.0,2.0,17.0,2.0,Ish Smith,,DET,True,True
+kennalu01,23.666666666666668,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,5.0,5.0,3.0,2.0,0.0,1.0,1.0,0.0,10.0,Luke Kennard,,DET,True,False
+buyckdw01,22.083333333333332,5.0,9.0,0.556,4.0,5.0,0.8,2.0,2.0,1.0,0.0,2.0,2.0,2.0,0.0,1.0,4.0,2.0,16.0,5.0,Dwight Buycks,,DET,True,False
+tollian01,15.3,1.0,3.0,0.333,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,4.0,8.0,Anthony Tolliver,,DET,True,False
+marjabo01,11.95,4.0,8.0,0.5,0.0,0.0,,2.0,4.0,0.5,2.0,3.0,5.0,1.0,0.0,2.0,3.0,2.0,10.0,8.0,Boban Marjanović,,DET,True,False
+montelu01,,,,,,,,,,,,,,,,,,,,,Luis Montero,Did Not Play,DET,True,False
+gallola01,,,,,,,,,,,,,,,,,,,,,Langston Galloway,Did Not Play,DET,True,False
+ellenhe01,,,,,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,DET,True,False
+drumman01,,,,,,,,,,,,,,,,,,,,,Andre Drummond,Did Not Dress,DET,True,False

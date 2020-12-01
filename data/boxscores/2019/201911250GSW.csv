@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+paulch01,34.916666666666664,7.0,15.0,0.467,4.0,8.0,0.5,2.0,2.0,1.0,1.0,6.0,7.0,5.0,1.0,0.0,3.0,2.0,20.0,-1.0,Chris Paul,,OKC,False,True
+gallida01,33.583333333333336,5.0,12.0,0.417,3.0,8.0,0.375,2.0,2.0,1.0,0.0,7.0,7.0,6.0,1.0,0.0,2.0,1.0,15.0,15.0,Danilo Gallinari,,OKC,False,True
+gilgesh01,31.5,5.0,12.0,0.417,0.0,0.0,,2.0,2.0,1.0,0.0,5.0,5.0,3.0,2.0,1.0,3.0,3.0,12.0,13.0,Shai Gilgeous-Alexander,,OKC,False,True
+adamsst01,27.616666666666667,4.0,6.0,0.667,0.0,0.0,,2.0,4.0,0.5,4.0,6.0,10.0,5.0,0.0,3.0,2.0,1.0,10.0,10.0,Steven Adams,,OKC,False,True
+fergute01,27.283333333333335,3.0,7.0,0.429,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,2.0,0.0,3.0,6.0,8.0,Terrance Ferguson,,OKC,False,True
+schrode01,34.13333333333333,9.0,17.0,0.529,4.0,8.0,0.5,0.0,0.0,,0.0,1.0,1.0,5.0,0.0,0.0,2.0,1.0,22.0,8.0,Dennis Schröder,,OKC,False,False
+noelne01,20.383333333333333,4.0,6.0,0.667,0.0,0.0,,1.0,1.0,1.0,1.0,4.0,5.0,0.0,0.0,5.0,2.0,3.0,9.0,-7.0,Nerlens Noel,,OKC,False,False
+bazleda01,12.333333333333334,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,2.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,2.0,-13.0,Darius Bazley,,OKC,False,False
+naderab01,10.516666666666667,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,-11.0,Abdel Nader,,OKC,False,False
+burtode02,7.733333333333333,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,2.0,-7.0,Deonte Burton,,OKC,False,False
+pattoju01,,,,,,,,,,,,,,,,,,,,,Justin Patton,Did Not Play,OKC,False,False
+hallde01,,,,,,,,,,,,,,,,,,,,,Devon Hall,Did Not Play,OKC,False,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,OKC,False,False
+bowmaky01,38.55,9.0,17.0,0.529,2.0,3.0,0.667,4.0,4.0,1.0,2.0,1.0,3.0,5.0,3.0,1.0,1.0,3.0,24.0,6.0,Ky Bowman,,GSW,True,True
+robingl02,36.13333333333333,9.0,14.0,0.643,3.0,4.0,0.75,4.0,5.0,0.8,1.0,1.0,2.0,5.0,2.0,1.0,1.0,1.0,25.0,-13.0,Glenn Robinson,,GSW,True,True
+burksal01,32.96666666666667,3.0,17.0,0.176,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,3.0,1.0,0.0,3.0,1.0,7.0,-15.0,Alec Burks,,GSW,True,True
+pascher01,31.416666666666668,6.0,9.0,0.667,0.0,0.0,,1.0,1.0,1.0,2.0,8.0,10.0,1.0,0.0,1.0,5.0,5.0,13.0,-4.0,Eric Paschall,,GSW,True,True
+caulewi01,29.4,2.0,7.0,0.286,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,1.0,2.0,0.0,0.0,3.0,4.0,-10.0,Willie Cauley-Stein,,GSW,True,True
+poolejo01,24.366666666666667,3.0,13.0,0.231,2.0,5.0,0.4,3.0,4.0,0.75,1.0,5.0,6.0,4.0,1.0,0.0,1.0,1.0,11.0,3.0,Jordan Poole,,GSW,True,False
+spellom01,23.8,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,0.0,5.0,5.0,1.0,0.0,2.0,1.0,1.0,7.0,12.0,Omari Spellman,,GSW,True,False
+chrisma01,23.366666666666667,2.0,5.0,0.4,0.0,1.0,0.0,2.0,2.0,1.0,1.0,4.0,5.0,7.0,1.0,2.0,0.0,2.0,6.0,6.0,Marquese Chriss,,GSW,True,False
+russeda01,,,,,,,,,,,,,,,,,,,,,D'Angelo Russell,Did Not Dress,GSW,True,False
+evansja02,,,,,,,,,,,,,,,,,,,,,Jacob Evans,Did Not Dress,GSW,True,False
+greendr01,,,,,,,,,,,,,,,,,,,,,Draymond Green,Did Not Dress,GSW,True,False

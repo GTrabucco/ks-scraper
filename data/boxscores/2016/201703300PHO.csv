@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+griffbl01,38.2,12.0,19.0,0.632,2.0,2.0,1.0,5.0,7.0,0.714,0.0,7.0,7.0,2.0,2.0,0.0,3.0,4.0,31.0,7.0,Blake Griffin,,LAC,False,True
+paulch01,35.28333333333333,10.0,17.0,0.588,1.0,4.0,0.25,8.0,9.0,0.889,1.0,4.0,5.0,10.0,1.0,0.0,1.0,2.0,29.0,8.0,Chris Paul,,LAC,False,True
+jordade01,34.88333333333333,3.0,6.0,0.5,0.0,0.0,,1.0,4.0,0.25,6.0,11.0,17.0,2.0,0.0,3.0,2.0,3.0,7.0,11.0,DeAndre Jordan,,LAC,False,True
+mbahalu01,31.666666666666668,3.0,5.0,0.6,2.0,2.0,1.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,0.0,2.0,0.0,9.0,4.0,Luc Mbah a Moute,,LAC,False,True
+redicjj01,30.216666666666665,4.0,10.0,0.4,3.0,6.0,0.5,3.0,4.0,0.75,0.0,1.0,1.0,0.0,0.0,0.0,2.0,5.0,14.0,7.0,J.J. Redick,,LAC,False,True
+crawfja01,26.933333333333334,6.0,11.0,0.545,1.0,2.0,0.5,6.0,8.0,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,4.0,Jamal Crawford,,LAC,False,False
+feltora01,15.9,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,1.0,3.0,7.0,-1.0,Raymond Felton,,LAC,False,False
+speigma01,13.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,1.0,2.0,3.0,5.0,-6.0,Marreese Speights,,LAC,False,False
+piercpa01,9.8,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,3.0,-1.0,Paul Pierce,,LAC,False,False
+anderal01,4.116666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Alan Anderson,,LAC,False,False
+bassbr01,,,,,,,,,,,,,,,,,,,,,Brandon Bass,Did Not Play,LAC,False,False
+johnswe01,,,,,,,,,,,,,,,,,,,,,Wesley Johnson,Did Not Play,LAC,False,False
+riverau01,,,,,,,,,,,,,,,,,,,,,Austin Rivers,Did Not Dress,LAC,False,False
+ulisty01,39.63333333333333,8.0,15.0,0.533,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,13.0,1.0,0.0,2.0,2.0,16.0,-3.0,Tyler Ulis,,PHO,True,True
+warretj01,38.016666666666666,6.0,15.0,0.4,0.0,0.0,,2.0,6.0,0.333,4.0,6.0,10.0,0.0,1.0,1.0,2.0,2.0,14.0,-5.0,T.J. Warren,,PHO,True,True
+bookede01,37.3,13.0,22.0,0.591,4.0,7.0,0.571,3.0,6.0,0.5,0.0,2.0,2.0,9.0,1.0,0.0,3.0,6.0,33.0,-2.0,Devin Booker,,PHO,True,True
+chrisma01,34.2,9.0,13.0,0.692,2.0,5.0,0.4,0.0,0.0,,1.0,5.0,6.0,2.0,1.0,0.0,4.0,5.0,20.0,-10.0,Marquese Chriss,,PHO,True,True
+lenal01,18.066666666666666,4.0,4.0,1.0,0.0,0.0,,4.0,6.0,0.667,1.0,2.0,3.0,0.0,0.0,1.0,2.0,3.0,12.0,-6.0,Alex Len,,PHO,True,True
+dudleja01,24.85,3.0,7.0,0.429,1.0,4.0,0.25,0.0,0.0,,1.0,6.0,7.0,0.0,0.0,0.0,1.0,5.0,7.0,-3.0,Jared Dudley,,PHO,True,False
+jonesde02,19.383333333333333,4.0,5.0,0.8,0.0,0.0,,2.0,2.0,1.0,3.0,1.0,4.0,0.0,1.0,0.0,0.0,1.0,10.0,-1.0,Derrick Jones,,PHO,True,False
+willial03,18.883333333333333,2.0,6.0,0.333,0.0,0.0,,2.0,4.0,0.5,2.0,5.0,7.0,0.0,0.0,0.0,0.0,1.0,6.0,7.0,Alan Williams,,PHO,True,False
+pricero01,9.666666666666666,0.0,5.0,0.0,0.0,5.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,-7.0,Ronnie Price,,PHO,True,False
+bledser01,,,,,,,,,,,,,,,,,,,,,Eric Bledsoe,Did Not Play,PHO,True,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,PHO,True,False
+eddieja01,,,,,,,,,,,,,,,,,,,,,Jarell Eddie,Did Not Play,PHO,True,False
+knighbr03,,,,,,,,,,,,,,,,,,,,,Brandon Knight,Did Not Play,PHO,True,False

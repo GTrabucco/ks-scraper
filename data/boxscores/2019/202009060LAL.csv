@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,39.45,6.0,12.0,0.5,4.0,8.0,0.5,11.0,13.0,0.846,0.0,2.0,2.0,7.0,2.0,0.0,5.0,2.0,27.0,8.0,James Harden,,HOU,False,True
+covinro01,38.4,5.0,10.0,0.5,4.0,8.0,0.5,3.0,3.0,1.0,0.0,3.0,3.0,0.0,1.0,1.0,1.0,3.0,17.0,5.0,Robert Covington,,HOU,False,True
+gordoer01,36.3,8.0,16.0,0.5,6.0,12.0,0.5,2.0,4.0,0.5,0.0,1.0,1.0,3.0,0.0,0.0,1.0,2.0,24.0,1.0,Eric Gordon,,HOU,False,True
+tuckepj01,34.03333333333333,7.0,10.0,0.7,4.0,7.0,0.571,0.0,0.0,,4.0,7.0,11.0,2.0,1.0,1.0,0.0,4.0,18.0,18.0,P.J. Tucker,,HOU,False,True
+westbru01,32.916666666666664,4.0,15.0,0.267,1.0,7.0,0.143,1.0,3.0,0.333,4.0,9.0,13.0,4.0,2.0,0.0,7.0,5.0,10.0,-14.0,Russell Westbrook,,HOU,False,True
+houseda01,27.366666666666667,5.0,10.0,0.5,3.0,7.0,0.429,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,0.0,0.0,1.0,13.0,-17.0,Danuel House,,HOU,False,False
+greenje02,21.766666666666666,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,1.0,4.0,0.0,-26.0,Jeff Green,,HOU,False,False
+riverau01,6.683333333333334,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,-18.0,Austin Rivers,,HOU,False,False
+mclembe01,3.0833333333333335,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,Ben McLemore,,HOU,False,False
+carrode01,,,,,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,HOU,False,False
+mbahalu01,,,,,,,,,,,,,,,,,,,,,Luc Mbah a Moute,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+frazimi01,,,,,,,,,,,,,,,,,,,,,Michael Frazier,Did Not Play,HOU,False,False
+jamesle01,39.266666666666666,10.0,17.0,0.588,1.0,5.0,0.2,7.0,10.0,0.7,0.0,11.0,11.0,9.0,4.0,2.0,7.0,3.0,28.0,15.0,LeBron James,,LAL,True,True
+davisan02,36.18333333333333,15.0,24.0,0.625,1.0,1.0,1.0,3.0,6.0,0.5,3.0,7.0,10.0,4.0,0.0,1.0,2.0,1.0,34.0,-7.0,Anthony Davis,,LAL,True,True
+greenda02,30.8,3.0,6.0,0.5,3.0,5.0,0.6,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,3.0,9.0,-10.0,Danny Green,,LAL,True,True
+caldwke01,25.083333333333332,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,5.0,-6.0,Kentavious Caldwell-Pope,,LAL,True,True
+mcgeeja01,8.016666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,-8.0,JaVale McGee,,LAL,True,True
+rondora01,28.933333333333334,4.0,9.0,0.444,1.0,5.0,0.2,1.0,2.0,0.5,0.0,3.0,3.0,9.0,5.0,0.0,1.0,2.0,10.0,28.0,Rajon Rondo,,LAL,True,False
+carusal01,25.55,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,1.0,0.0,1.0,4.0,1.0,0.0,2.0,3.0,2.0,7.0,Alex Caruso,,LAL,True,False
+morrima02,22.733333333333334,6.0,8.0,0.75,4.0,5.0,0.8,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,0.0,0.0,1.0,16.0,15.0,Markieff Morris,,LAL,True,False
+kuzmaky01,20.8,6.0,7.0,0.857,1.0,1.0,1.0,0.0,0.0,,4.0,2.0,6.0,0.0,1.0,1.0,2.0,3.0,13.0,8.0,Kyle Kuzma,,LAL,True,False
+waitedi01,2.6333333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Dion Waiters,,LAL,True,False
+dudleja01,,,,,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Play,LAL,True,False
+smithjr01,,,,,,,,,,,,,,,,,,,,,J.R. Smith,Did Not Play,LAL,True,False
+howardw01,,,,,,,,,,,,,,,,,,,,,Dwight Howard,Did Not Play,LAL,True,False

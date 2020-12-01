@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+osmande01,37.11666666666667,5.0,9.0,0.556,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,3.0,4.0,2.0,0.0,2.0,2.0,11.0,22.0,Cedi Osman,,CLE,False,True
+thomptr01,35.96666666666667,8.0,12.0,0.667,0.0,0.0,,5.0,6.0,0.833,9.0,3.0,12.0,3.0,3.0,2.0,2.0,2.0,21.0,11.0,Tristan Thompson,,CLE,False,True
+garlada01,31.766666666666666,6.0,11.0,0.545,1.0,2.0,0.5,2.0,2.0,1.0,1.0,1.0,2.0,6.0,2.0,0.0,2.0,1.0,15.0,13.0,Darius Garland,,CLE,False,True
+sextoco01,31.45,7.0,19.0,0.368,2.0,5.0,0.4,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,1.0,4.0,16.0,6.0,Collin Sexton,,CLE,False,True
+loveke01,28.883333333333333,3.0,6.0,0.5,0.0,3.0,0.0,10.0,13.0,0.769,2.0,10.0,12.0,2.0,0.0,2.0,3.0,3.0,16.0,4.0,Kevin Love,,CLE,False,True
+clarkjo01,21.666666666666668,4.0,14.0,0.286,1.0,7.0,0.143,1.0,1.0,1.0,2.0,2.0,4.0,0.0,1.0,0.0,0.0,2.0,10.0,-1.0,Jordan Clarkson,,CLE,False,False
+porteke02,21.1,5.0,11.0,0.455,0.0,3.0,0.0,3.0,3.0,1.0,0.0,3.0,3.0,0.0,1.0,0.0,1.0,1.0,13.0,2.0,Kevin Porter,,CLE,False,False
+nancela02,20.933333333333334,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,1.0,6.0,7.0,1.0,1.0,1.0,0.0,0.0,4.0,0.0,Larry Nance,,CLE,False,False
+dellama01,11.116666666666667,2.0,6.0,0.333,1.0,4.0,0.25,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,2.0,7.0,8.0,Matthew Dellavedova,,CLE,False,False
+mckinal01,,,,,,,,,,,,,,,,,,,,,Alfonzo McKinnie,Did Not Play,CLE,False,False
+cookty01,,,,,,,,,,,,,,,,,,,,,Tyler Cook,Did Not Play,CLE,False,False
+knighbr03,,,,,,,,,,,,,,,,,,,,,Brandon Knight,Did Not Play,CLE,False,False
+bealbr01,38.983333333333334,8.0,21.0,0.381,3.0,9.0,0.333,1.0,2.0,0.5,1.0,4.0,5.0,9.0,0.0,0.0,4.0,3.0,20.0,-2.0,Bradley Beal,,WAS,True,True
+hachiru01,35.3,10.0,13.0,0.769,0.0,0.0,,1.0,2.0,0.5,4.0,3.0,7.0,3.0,2.0,0.0,2.0,3.0,21.0,-15.0,Rui Hachimura,,WAS,True,True
+bryanth01,33.583333333333336,11.0,16.0,0.688,0.0,3.0,0.0,1.0,2.0,0.5,3.0,5.0,8.0,4.0,1.0,1.0,3.0,2.0,23.0,-8.0,Thomas Bryant,,WAS,True,True
+thomais02,28.766666666666666,5.0,9.0,0.556,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,5.0,0.0,0.0,3.0,3.0,11.0,-12.0,Isaiah Thomas,,WAS,True,True
+browntr01,19.166666666666668,1.0,8.0,0.125,1.0,2.0,0.5,0.0,0.0,,5.0,1.0,6.0,1.0,2.0,0.0,3.0,2.0,3.0,-13.0,Troy Brown,,WAS,True,True
+bertada01,26.333333333333332,2.0,10.0,0.2,1.0,8.0,0.125,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,1.0,0.0,1.0,5.0,4.0,Dāvis Bertāns,,WAS,True,False
+smithis01,19.233333333333334,3.0,4.0,0.75,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,7.0,-1.0,Ish Smith,,WAS,True,False
+milescj01,15.2,0.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,0.0,0.0,2.0,0.0,-2.0,C.J. Miles,,WAS,True,False
+wagnemo01,14.416666666666666,4.0,6.0,0.667,0.0,1.0,0.0,0.0,0.0,,2.0,6.0,8.0,0.0,0.0,3.0,1.0,4.0,8.0,-5.0,Moritz Wagner,,WAS,True,False
+mcraejo01,9.016666666666667,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,2.0,3.0,2.0,-11.0,Jordan McRae,,WAS,True,False
+robinju01,,,,,,,,,,,,,,,,,,,,,Justin Robinson,Did Not Play,WAS,True,False
+schofad01,,,,,,,,,,,,,,,,,,,,,Admiral Schofield,Did Not Play,WAS,True,False
+bongais01,,,,,,,,,,,,,,,,,,,,,Isaac Bonga,Did Not Play,WAS,True,False

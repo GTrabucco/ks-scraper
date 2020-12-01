@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+westbru01,36.56666666666667,10.0,27.0,0.37,0.0,3.0,0.0,5.0,7.0,0.714,2.0,8.0,10.0,7.0,2.0,1.0,3.0,1.0,25.0,5.0,Russell Westbrook,,OKC,False,True
+georgpa01,35.483333333333334,6.0,14.0,0.429,2.0,5.0,0.4,3.0,4.0,0.75,3.0,5.0,8.0,0.0,1.0,1.0,2.0,2.0,17.0,-1.0,Paul George,,OKC,False,True
+anthoca01,33.46666666666667,3.0,14.0,0.214,0.0,5.0,0.0,1.0,2.0,0.5,1.0,9.0,10.0,1.0,0.0,0.0,0.0,2.0,7.0,3.0,Carmelo Anthony,,OKC,False,True
+adamsst01,31.1,7.0,11.0,0.636,0.0,0.0,,0.0,0.0,,7.0,4.0,11.0,1.0,3.0,4.0,3.0,5.0,14.0,6.0,Steven Adams,,OKC,False,True
+fergute01,17.5,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,1.0,1.0,3.0,3.0,9.0,Terrance Ferguson,,OKC,False,True
+grantje01,21.183333333333334,3.0,3.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,1.0,0.0,2.0,9.0,1.0,Jerami Grant,,OKC,False,False
+huestjo01,17.35,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,2.0,1.0,0.0,1.0,3.0,4.0,Josh Huestis,,OKC,False,False
+pattepa01,16.9,1.0,6.0,0.167,1.0,3.0,0.333,3.0,4.0,0.75,1.0,4.0,5.0,1.0,0.0,0.0,0.0,2.0,6.0,4.0,Patrick Patterson,,OKC,False,False
+feltora01,16.233333333333334,4.0,10.0,0.4,0.0,1.0,0.0,0.0,0.0,,2.0,2.0,4.0,5.0,0.0,0.0,0.0,3.0,8.0,6.0,Raymond Felton,,OKC,False,False
+abrinal01,14.216666666666667,3.0,7.0,0.429,2.0,3.0,0.667,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,9.0,13.0,Álex Abrines,,OKC,False,False
+singlky01,,,,,,,,,,,,,,,,,,,,,Kyle Singler,Did Not Play,OKC,False,False
+johnsda04,,,,,,,,,,,,,,,,,,,,,Dakari Johnson,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+howardw01,34.03333333333333,4.0,9.0,0.444,0.0,0.0,,3.0,6.0,0.5,5.0,12.0,17.0,0.0,1.0,3.0,0.0,3.0,11.0,-2.0,Dwight Howard,,CHO,True,True
+walkeke02,33.85,5.0,17.0,0.294,2.0,7.0,0.286,7.0,8.0,0.875,0.0,3.0,3.0,2.0,1.0,0.0,5.0,2.0,19.0,-4.0,Kemba Walker,,CHO,True,True
+batumni01,33.61666666666667,4.0,13.0,0.308,2.0,7.0,0.286,2.0,3.0,0.667,1.0,2.0,3.0,2.0,1.0,1.0,4.0,1.0,12.0,-4.0,Nicolas Batum,,CHO,True,True
+kiddgmi01,29.833333333333332,2.0,9.0,0.222,0.0,0.0,,2.0,2.0,1.0,0.0,2.0,2.0,2.0,0.0,1.0,2.0,1.0,6.0,-10.0,Michael Kidd-Gilchrist,,CHO,True,True
+willima02,27.6,6.0,9.0,0.667,3.0,5.0,0.6,1.0,1.0,1.0,0.0,9.0,9.0,4.0,0.0,0.0,0.0,0.0,16.0,-7.0,Marvin Williams,,CHO,True,True
+kaminfr01,18.533333333333335,2.0,6.0,0.333,0.0,2.0,0.0,1.0,1.0,1.0,1.0,4.0,5.0,2.0,0.0,0.0,1.0,3.0,5.0,-3.0,Frank Kaminsky,,CHO,True,False
+lambje01,18.166666666666668,3.0,8.0,0.375,0.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,4.0,0.0,0.0,1.0,0.0,0.0,6.0,0.0,Jeremy Lamb,,CHO,True,False
+grahatr01,17.583333333333332,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,1.0,3.0,4.0,-6.0,Treveon Graham,,CHO,True,False
+cartemi01,15.183333333333334,3.0,4.0,0.75,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,1.0,1.0,0.0,7.0,-3.0,Michael Carter-Williams,,CHO,True,False
+monkma01,11.6,2.0,5.0,0.4,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,5.0,-11.0,Malik Monk,,CHO,True,False
+stoneju01,,,,,,,,,,,,,,,,,,,,,Julyan Stone,Did Not Play,CHO,True,False
+obryajo01,,,,,,,,,,,,,,,,,,,,,Johnny O'Bryant,Did Not Play,CHO,True,False
+bacondw01,,,,,,,,,,,,,,,,,,,,,Dwayne Bacon,Did Not Play,CHO,True,False

@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+antetgi01,37.9,14.0,24.0,0.583,0.0,1.0,0.0,4.0,7.0,0.571,1.0,4.0,5.0,5.0,1.0,2.0,3.0,2.0,32.0,11.0,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,35.78333333333333,8.0,13.0,0.615,1.0,4.0,0.25,4.0,5.0,0.8,0.0,9.0,9.0,7.0,2.0,0.0,5.0,4.0,21.0,4.0,Khris Middleton,,MIL,False,True
+bledser01,33.45,6.0,10.0,0.6,2.0,3.0,0.667,4.0,4.0,1.0,0.0,3.0,3.0,8.0,1.0,0.0,3.0,4.0,18.0,3.0,Eric Bledsoe,,MIL,False,True
+snellto01,27.1,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,3.0,4.0,Tony Snell,,MIL,False,True
+makerth01,26.166666666666668,5.0,8.0,0.625,1.0,3.0,0.333,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,1.0,0.0,2.0,13.0,9.0,Thon Maker,,MIL,False,True
+kilpase01,23.983333333333334,3.0,9.0,0.333,1.0,5.0,0.2,2.0,2.0,1.0,1.0,3.0,4.0,3.0,2.0,0.0,0.0,0.0,9.0,-1.0,Sean Kilpatrick,,MIL,False,False
+zellety01,21.833333333333332,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,3.0,5.0,8.0,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,Tyler Zeller,,MIL,False,False
+brownst02,19.233333333333334,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,,3.0,3.0,6.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,Sterling Brown,,MIL,False,False
+terryja01,14.55,4.0,7.0,0.571,3.0,5.0,0.6,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,11.0,4.0,Jason Terry,,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+plumlma02,,,,,,,,,,,,,,,,,,,,,Marshall Plumlee,Did Not Play,MIL,False,False
+munfoxa02,,,,,,,,,,,,,,,,,,,,,Xavier Munford,Did Not Play,MIL,False,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Did Not Dress,MIL,False,False
+hezonma01,35.333333333333336,8.0,16.0,0.5,1.0,5.0,0.2,6.0,7.0,0.857,0.0,3.0,3.0,0.0,3.0,0.0,2.0,3.0,23.0,-7.0,Mario Hezonja,,ORL,True,True
+fournev01,29.45,8.0,15.0,0.533,2.0,5.0,0.4,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,3.0,1.0,20.0,-6.0,Evan Fournier,,ORL,True,True
+simmojo02,25.966666666666665,4.0,14.0,0.286,1.0,6.0,0.167,0.0,0.0,,1.0,1.0,2.0,3.0,1.0,0.0,0.0,3.0,9.0,-13.0,Jonathon Simmons,,ORL,True,True
+augusdj01,23.433333333333334,2.0,7.0,0.286,0.0,4.0,0.0,7.0,7.0,1.0,1.0,3.0,4.0,5.0,0.0,0.0,1.0,0.0,11.0,-7.0,D.J. Augustin,,ORL,True,True
+biyombi01,20.033333333333335,1.0,5.0,0.2,0.0,0.0,,2.0,2.0,1.0,2.0,5.0,7.0,2.0,0.0,1.0,0.0,0.0,4.0,-6.0,Bismack Biyombo,,ORL,True,True
+macksh01,27.633333333333333,8.0,10.0,0.8,2.0,4.0,0.5,1.0,2.0,0.5,0.0,4.0,4.0,10.0,2.0,1.0,4.0,2.0,19.0,-1.0,Shelvin Mack,,ORL,True,False
+birchkh01,24.466666666666665,2.0,5.0,0.4,0.0,0.0,,2.0,4.0,0.5,4.0,5.0,9.0,1.0,1.0,0.0,0.0,0.0,6.0,-5.0,Khem Birch,,ORL,True,False
+iwundwe01,22.216666666666665,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,4.0,4.0,Wesley Iwundu,,ORL,True,False
+afflaar01,19.933333333333334,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,0.0,0.0,1.0,5.0,6.0,Arron Afflalo,,ORL,True,False
+speigma01,11.55,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,2.0,2.0,3.0,0.0,Marreese Speights,,ORL,True,False
+gordoaa01,,,,,,,,,,,,,,,,,,,,,Aaron Gordon,Did Not Dress,ORL,True,False

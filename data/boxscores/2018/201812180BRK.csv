@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+kuzmaky01,42.6,9.0,21.0,0.429,2.0,8.0,0.25,2.0,2.0,1.0,0.0,11.0,11.0,3.0,1.0,0.0,3.0,0.0,22.0,-1.0,Kyle Kuzma,,LAL,False,True
+jamesle01,41.2,13.0,23.0,0.565,2.0,7.0,0.286,8.0,13.0,0.615,1.0,12.0,13.0,8.0,1.0,1.0,5.0,1.0,36.0,4.0,LeBron James,,LAL,False,True
+balllo01,39.416666666666664,9.0,16.0,0.563,5.0,9.0,0.556,0.0,2.0,0.0,2.0,4.0,6.0,3.0,2.0,0.0,3.0,6.0,23.0,-8.0,Lonzo Ball,,LAL,False,True
+hartjo01,34.36666666666667,2.0,10.0,0.2,1.0,5.0,0.2,1.0,2.0,0.5,2.0,3.0,5.0,1.0,1.0,0.0,0.0,0.0,6.0,-5.0,Josh Hart,,LAL,False,True
+chandty01,17.133333333333333,2.0,2.0,1.0,0.0,0.0,,1.0,2.0,0.5,2.0,2.0,4.0,3.0,0.0,2.0,0.0,2.0,5.0,-3.0,Tyson Chandler,,LAL,False,True
+caldwke01,37.5,3.0,7.0,0.429,0.0,4.0,0.0,0.0,0.0,,1.0,4.0,5.0,2.0,1.0,0.0,1.0,3.0,6.0,1.0,Kentavious Caldwell-Pope,,LAL,False,False
+stephla01,11.866666666666667,3.0,7.0,0.429,2.0,4.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,8.0,-10.0,Lance Stephenson,,LAL,False,False
+wagnemo01,8.0,1.0,2.0,0.5,1.0,2.0,0.5,1.0,2.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,4.0,-9.0,Moritz Wagner,,LAL,False,False
+mykhasv01,5.5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,3.0,Sviatoslav Mykhailiuk,,LAL,False,False
+zubaciv01,2.4166666666666665,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,3.0,Ivica Zubac,,LAL,False,False
+mcgeeja01,,,,,,,,,,,,,,,,,,,,,JaVale McGee,Not With Team,LAL,False,False
+beaslmi01,,,,,,,,,,,,,,,,,,,,,Michael Beasley,Not With Team,LAL,False,False
+bongais01,,,,,,,,,,,,,,,,,,,,,Isaac Bonga,Did Not Play,LAL,False,False
+harrijo01,37.86666666666667,7.0,13.0,0.538,3.0,4.0,0.75,2.0,2.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,0.0,3.0,19.0,6.0,Joe Harris,,BRK,True,True
+holliro01,37.55,5.0,12.0,0.417,0.0,2.0,0.0,7.0,9.0,0.778,0.0,8.0,8.0,3.0,1.0,0.0,1.0,3.0,17.0,-6.0,Rondae Hollis-Jefferson,,BRK,True,True
+russeda01,34.06666666666667,9.0,21.0,0.429,4.0,9.0,0.444,0.0,0.0,,0.0,4.0,4.0,13.0,0.0,1.0,4.0,1.0,22.0,7.0,D'Angelo Russell,,BRK,True,True
+allenja01,20.45,3.0,7.0,0.429,0.0,1.0,0.0,0.0,1.0,0.0,0.0,8.0,8.0,1.0,2.0,2.0,2.0,3.0,6.0,-2.0,Jarrett Allen,,BRK,True,True
+kurucro01,17.05,1.0,5.0,0.2,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,4.0,3.0,0.0,Rodions Kurucs,,BRK,True,True
+dinwisp01,33.68333333333333,6.0,11.0,0.545,2.0,5.0,0.4,4.0,7.0,0.571,0.0,1.0,1.0,6.0,0.0,0.0,3.0,0.0,18.0,-6.0,Spencer Dinwiddie,,BRK,True,False
+dudleja01,24.066666666666666,6.0,8.0,0.75,1.0,3.0,0.333,0.0,0.0,,2.0,3.0,5.0,2.0,1.0,0.0,1.0,1.0,13.0,3.0,Jared Dudley,,BRK,True,False
+carrode01,23.566666666666666,5.0,12.0,0.417,3.0,7.0,0.429,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,13.0,11.0,DeMarre Carroll,,BRK,True,False
+davised01,11.7,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,0.0,0.0,2.0,4.0,12.0,Ed Davis,,BRK,True,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,BRK,True,False
+grahatr01,,,,,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Dress,BRK,True,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,BRK,True,False

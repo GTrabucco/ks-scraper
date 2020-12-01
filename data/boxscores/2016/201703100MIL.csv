@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,42.38333333333333,5.0,14.0,0.357,0.0,5.0,0.0,8.0,8.0,1.0,1.0,10.0,11.0,6.0,2.0,0.0,3.0,4.0,18.0,-9.0,Paul George,,IND,False,True
+teaguje01,35.2,7.0,12.0,0.583,1.0,2.0,0.5,2.0,2.0,1.0,0.0,4.0,4.0,4.0,3.0,0.0,7.0,4.0,17.0,-12.0,Jeff Teague,,IND,False,True
+turnemy01,32.61666666666667,3.0,9.0,0.333,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,3.0,2.0,1.0,3.0,6.0,-2.0,Myles Turner,,IND,False,True
+milescj01,25.816666666666666,3.0,7.0,0.429,1.0,5.0,0.2,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,0.0,2.0,7.0,-9.0,C.J. Miles,,IND,False,True
+youngth01,18.516666666666666,5.0,8.0,0.625,0.0,0.0,,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,0.0,2.0,3.0,10.0,2.0,Thaddeus Young,,IND,False,True
+ellismo01,27.5,4.0,7.0,0.571,0.0,2.0,0.0,4.0,6.0,0.667,1.0,1.0,2.0,1.0,0.0,0.0,2.0,5.0,12.0,-10.0,Monta Ellis,,IND,False,False
+allenla01,15.05,3.0,5.0,0.6,0.0,0.0,,1.0,1.0,1.0,2.0,1.0,3.0,1.0,0.0,0.0,1.0,0.0,7.0,-10.0,Lavoy Allen,,IND,False,False
+robingl02,14.733333333333333,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,2.0,-6.0,Glenn Robinson,,IND,False,False
+stuckro01,12.8,0.0,3.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,-2.0,Rodney Stuckey,,IND,False,False
+jeffeal01,12.733333333333333,2.0,7.0,0.286,0.0,0.0,,2.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,6.0,-7.0,Al Jefferson,,IND,False,False
+chrisra01,2.65,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,Rakeem Christmas,,IND,False,False
+brookaa01,,,,,,,,,,,,,,,,,,,,,Aaron Brooks,Did Not Play,IND,False,False
+serapke01,,,,,,,,,,,,,,,,,,,,,Kevin Séraphin,Did Not Play,IND,False,False
+antetgi01,39.36666666666667,7.0,13.0,0.538,1.0,3.0,0.333,6.0,6.0,1.0,0.0,8.0,8.0,5.0,5.0,1.0,6.0,3.0,21.0,13.0,Giannis Antetokounmpo,,MIL,True,True
+middlkh01,37.46666666666667,7.0,14.0,0.5,3.0,5.0,0.6,4.0,6.0,0.667,0.0,3.0,3.0,2.0,2.0,0.0,7.0,2.0,21.0,6.0,Khris Middleton,,MIL,True,True
+snellto01,31.6,2.0,5.0,0.4,1.0,2.0,0.5,5.0,5.0,1.0,0.0,1.0,1.0,3.0,1.0,0.0,0.0,3.0,10.0,7.0,Tony Snell,,MIL,True,True
+dellama01,24.25,2.0,7.0,0.286,1.0,2.0,0.5,3.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,8.0,5.0,Matthew Dellavedova,,MIL,True,True
+makerth01,4.8,1.0,2.0,0.5,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,-9.0,Thon Maker,,MIL,True,True
+monrogr01,27.3,6.0,7.0,0.857,0.0,0.0,,6.0,7.0,0.857,1.0,6.0,7.0,2.0,1.0,1.0,3.0,3.0,18.0,18.0,Greg Monroe,,MIL,True,False
+terryja01,25.933333333333334,3.0,5.0,0.6,1.0,2.0,0.5,1.0,2.0,0.5,0.0,3.0,3.0,1.0,3.0,0.0,0.0,3.0,8.0,13.0,Jason Terry,,MIL,True,False
+vaughra01,24.75,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,0.0,0.0,5.0,2.0,11.0,Rashad Vaughn,,MIL,True,False
+hensojo01,20.566666666666666,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,3.0,4.0,7.0,0.0,1.0,4.0,1.0,1.0,8.0,10.0,John Henson,,MIL,True,False
+hawessp01,3.966666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,Spencer Hawes,,MIL,True,False
+brogdma01,,,,,,,,,,,,,,,,,,,,,Malcolm Brogdon,Not With Team,MIL,True,False
+teletmi01,,,,,,,,,,,,,,,,,,,,,Mirza Teletović,Did Not Dress,MIL,True,False
+joneste01,,,,,,,,,,,,,,,,,,,,,Terrence Jones,Did Not Play,MIL,True,False

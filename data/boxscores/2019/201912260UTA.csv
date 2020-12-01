@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mccolcj01,38.166666666666664,10.0,23.0,0.435,3.0,8.0,0.375,2.0,2.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,1.0,1.0,25.0,-4.0,CJ McCollum,,POR,False,True
+lillada01,37.46666666666667,10.0,21.0,0.476,7.0,13.0,0.538,7.0,8.0,0.875,1.0,3.0,4.0,8.0,0.0,0.0,1.0,4.0,34.0,-26.0,Damian Lillard,,POR,False,True
+anthoca01,37.28333333333333,5.0,13.0,0.385,1.0,4.0,0.25,1.0,3.0,0.333,3.0,4.0,7.0,0.0,1.0,0.0,3.0,5.0,12.0,-4.0,Carmelo Anthony,,POR,False,True
+bazemke01,23.8,2.0,7.0,0.286,2.0,4.0,0.5,0.0,0.0,,0.0,5.0,5.0,0.0,1.0,0.0,3.0,1.0,6.0,-23.0,Kent Bazemore,,POR,False,True
+whiteha01,21.666666666666668,3.0,5.0,0.6,0.0,0.0,,2.0,3.0,0.667,2.0,4.0,6.0,1.0,0.0,1.0,1.0,3.0,8.0,-28.0,Hassan Whiteside,,POR,False,True
+simonan01,28.016666666666666,7.0,9.0,0.778,1.0,3.0,0.333,0.0,0.0,,1.0,9.0,10.0,0.0,0.0,0.0,1.0,3.0,15.0,22.0,Anfernee Simons,,POR,False,False
+labissk01,26.066666666666666,4.0,6.0,0.667,0.0,0.0,,2.0,3.0,0.667,3.0,4.0,7.0,3.0,0.0,0.0,2.0,3.0,10.0,19.0,Skal Labissière,,POR,False,False
+trentga02,16.816666666666666,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,16.0,Gary Trent,,POR,False,False
+littlna01,10.716666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,Nassir Little,,POR,False,False
+hezonma01,,,,,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Play,POR,False,False
+hoodro01,,,,,,,,,,,,,,,,,,,,,Rodney Hood,Did Not Play,POR,False,False
+tollian01,,,,,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,POR,False,False
+mitchdo01,38.416666666666664,12.0,19.0,0.632,3.0,6.0,0.5,8.0,11.0,0.727,1.0,2.0,3.0,7.0,0.0,0.0,2.0,1.0,35.0,12.0,Donovan Mitchell,,UTA,True,True
+bogdabo02,36.55,5.0,15.0,0.333,1.0,7.0,0.143,5.0,5.0,1.0,0.0,4.0,4.0,1.0,1.0,0.0,3.0,1.0,16.0,12.0,Bojan Bogdanović,,UTA,True,True
+goberru01,35.666666666666664,7.0,7.0,1.0,0.0,0.0,,2.0,6.0,0.333,4.0,11.0,15.0,2.0,0.0,1.0,0.0,3.0,16.0,13.0,Rudy Gobert,,UTA,True,True
+inglejo01,35.5,10.0,15.0,0.667,6.0,10.0,0.6,0.0,0.0,,0.0,5.0,5.0,4.0,1.0,0.0,1.0,1.0,26.0,2.0,Joe Ingles,,UTA,True,True
+onealro01,31.116666666666667,3.0,4.0,0.75,2.0,3.0,0.667,0.0,0.0,,0.0,7.0,7.0,4.0,0.0,0.0,1.0,2.0,8.0,20.0,Royce O'Neale,,UTA,True,True
+clarkjo01,20.766666666666666,4.0,12.0,0.333,1.0,6.0,0.167,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,9.0,-14.0,Jordan Clarkson,,UTA,True,False
+mudiaem01,15.6,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.0,0.0,0.0,1.0,1.0,4.0,-3.0,Emmanuel Mudiay,,UTA,True,False
+niangge01,14.05,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,5.0,-5.0,Georges Niang,,UTA,True,False
+davised01,9.1,0.0,0.0,,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,-2.0,Ed Davis,,UTA,True,False
+bradlto01,3.2333333333333334,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,-5.0,Tony Bradley,,UTA,True,False
+morgaju01,,,,,,,,,,,,,,,,,,,,,Juwan Morgan,Did Not Play,UTA,True,False
+willini01,,,,,,,,,,,,,,,,,,,,,Nigel Williams-Goss,Did Not Play,UTA,True,False
+tuckera01,,,,,,,,,,,,,,,,,,,,,Rayjon Tucker,Did Not Play,UTA,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+millspa01,35.86666666666667,8.0,14.0,0.571,3.0,5.0,0.6,2.0,3.0,0.667,0.0,6.0,6.0,2.0,0.0,1.0,4.0,5.0,21.0,3.0,Paul Millsap,,ATL,False,True
+howardw01,34.05,6.0,10.0,0.6,0.0,0.0,,4.0,5.0,0.8,2.0,10.0,12.0,2.0,1.0,1.0,1.0,0.0,16.0,10.0,Dwight Howard,,ATL,False,True
+sefolth01,33.31666666666667,6.0,8.0,0.75,3.0,4.0,0.75,3.0,4.0,0.75,1.0,2.0,3.0,0.0,1.0,0.0,1.0,0.0,18.0,-9.0,Thabo Sefolosha,,ATL,False,True
+bazemke01,32.916666666666664,7.0,14.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,5.0,6.0,7.0,1.0,3.0,1.0,3.0,16.0,6.0,Kent Bazemore,,ATL,False,True
+schrode01,32.61666666666667,7.0,15.0,0.467,4.0,6.0,0.667,6.0,6.0,1.0,0.0,2.0,2.0,9.0,1.0,0.0,3.0,4.0,24.0,9.0,Dennis Schröder,,ATL,False,True
+hardati02,32.833333333333336,6.0,11.0,0.545,4.0,6.0,0.667,1.0,1.0,1.0,0.0,2.0,2.0,5.0,0.0,0.0,2.0,3.0,17.0,17.0,Tim Hardaway,,ATL,False,False
+delanma01,18.05,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,4.0,0.0,0.0,0.0,2.0,2.0,2.0,Malcolm Delaney,,ATL,False,False
+humphkr01,13.783333333333333,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,5.0,5.0,0.0,1.0,0.0,0.0,2.0,2.0,-3.0,Kris Humphries,,ATL,False,False
+dunlemi02,6.583333333333333,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,-10.0,Mike Dunleavy,,ATL,False,False
+bembrde01,,,,,,,,,,,,,,,,,,,,,DeAndre' Bembry,Did Not Play,ATL,False,False
+nealga01,,,,,,,,,,,,,,,,,,,,,Gary Neal,Did Not Play,ATL,False,False
+princta02,,,,,,,,,,,,,,,,,,,,,Taurean Waller-Prince,Did Not Play,ATL,False,False
+scottmi01,,,,,,,,,,,,,,,,,,,,,Mike Scott,Did Not Play,ATL,False,False
+butleji01,40.13333333333333,13.0,22.0,0.591,4.0,8.0,0.5,10.0,10.0,1.0,2.0,2.0,4.0,3.0,3.0,0.0,1.0,0.0,40.0,-3.0,Jimmy Butler,,CHI,True,True
+wadedw01,30.816666666666666,14.0,24.0,0.583,0.0,1.0,0.0,5.0,8.0,0.625,2.0,2.0,4.0,2.0,2.0,1.0,1.0,2.0,33.0,1.0,Dwyane Wade,,CHI,True,True
+lopezro01,28.1,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,2.0,0.0,1.0,1.0,2.0,2.0,-1.0,Robin Lopez,,CHI,True,True
+gibsota01,27.85,3.0,10.0,0.3,0.0,1.0,0.0,0.0,2.0,0.0,5.0,5.0,10.0,1.0,0.0,1.0,0.0,3.0,6.0,-5.0,Taj Gibson,,CHI,True,True
+grantje02,19.45,2.0,6.0,0.333,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,2.0,5.0,-5.0,Jerian Grant,,CHI,True,True
+mcderdo01,23.033333333333335,4.0,9.0,0.444,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,10.0,1.0,Doug McDermott,,CHI,True,False
+zipsepa01,22.7,0.0,4.0,0.0,0.0,3.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,1.0,2.0,-7.0,Paul Zipser,,CHI,True,False
+feliccr01,19.9,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,2.0,1.0,0.0,0.0,1.0,4.0,-4.0,Cristiano Felício,,CHI,True,False
+mirotni01,18.25,3.0,11.0,0.273,1.0,5.0,0.2,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,2.0,4.0,9.0,3.0,Nikola Mirotić,,CHI,True,False
+rondora01,9.766666666666667,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,3.0,-5.0,Rajon Rondo,,CHI,True,False
+cartemi01,,,,,,,,,,,,,,,,,,,,,Michael Carter-Williams,Did Not Play,CHI,True,False
+portibo01,,,,,,,,,,,,,,,,,,,,,Bobby Portis,Did Not Play,CHI,True,False
+valende01,,,,,,,,,,,,,,,,,,,,,Denzel Valentine,Did Not Play,CHI,True,False

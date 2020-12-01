@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+townska01,40.96666666666667,11.0,19.0,0.579,1.0,3.0,0.333,11.0,12.0,0.917,2.0,15.0,17.0,2.0,2.0,3.0,1.0,5.0,34.0,-5.0,Karl-Anthony Towns,,MIN,False,True
+wiggian01,37.65,7.0,20.0,0.35,2.0,5.0,0.4,5.0,5.0,1.0,2.0,3.0,5.0,3.0,0.0,1.0,4.0,6.0,21.0,-8.0,Andrew Wiggins,,MIN,False,True
+teaguje01,36.05,5.0,14.0,0.357,1.0,3.0,0.333,2.0,2.0,1.0,1.0,4.0,5.0,5.0,2.0,1.0,5.0,1.0,13.0,-7.0,Jeff Teague,,MIN,False,True
+bjeline01,34.483333333333334,4.0,5.0,0.8,0.0,1.0,0.0,0.0,0.0,,1.0,11.0,12.0,0.0,1.0,1.0,1.0,2.0,8.0,-5.0,Nemanja Bjelica,,MIN,False,True
+gibsota01,29.333333333333332,4.0,8.0,0.5,0.0,1.0,0.0,1.0,2.0,0.5,1.0,3.0,4.0,0.0,0.0,0.0,2.0,3.0,9.0,6.0,Taj Gibson,,MIN,False,True
+crawfja01,24.95,5.0,13.0,0.385,0.0,6.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,1.0,2.0,10.0,-5.0,Jamal Crawford,,MIN,False,False
+dienggo01,23.566666666666666,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,1.0,4.0,2.0,-14.0,Gorgui Dieng,,MIN,False,False
+jonesty01,12.75,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,Tyus Jones,,MIN,False,False
+georgma01,0.25,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Marcus Georges-Hunt,,MIN,False,False
+butleji01,,,,,,,,,,,,,,,,,,,,,Jimmy Butler,Not With Team,MIN,False,False
+brookaa01,,,,,,,,,,,,,,,,,,,,,Aaron Brooks,Not With Team,MIN,False,False
+aldrico01,,,,,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,False,False
+lillada01,38.03333333333333,9.0,22.0,0.409,4.0,12.0,0.333,13.0,16.0,0.813,3.0,4.0,7.0,4.0,1.0,0.0,1.0,1.0,35.0,8.0,Damian Lillard,,POR,True,True
+mccolcj01,37.9,7.0,18.0,0.389,3.0,6.0,0.5,2.0,3.0,0.667,0.0,4.0,4.0,2.0,1.0,1.0,1.0,1.0,19.0,5.0,CJ McCollum,,POR,True,True
+aminual01,28.766666666666666,3.0,7.0,0.429,1.0,4.0,0.25,3.0,5.0,0.6,2.0,10.0,12.0,1.0,1.0,1.0,2.0,3.0,10.0,4.0,Al-Farouq Aminu,,POR,True,True
+nurkiju01,19.133333333333333,7.0,11.0,0.636,0.0,0.0,,2.0,2.0,1.0,3.0,3.0,6.0,0.0,1.0,1.0,2.0,3.0,16.0,-1.0,Jusuf Nurkić,,POR,True,True
+harklma01,7.75,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,-1.0,Maurice Harkless,,POR,True,True
+davised01,27.533333333333335,5.0,6.0,0.833,0.0,0.0,,0.0,0.0,,4.0,7.0,11.0,1.0,0.0,2.0,1.0,3.0,10.0,8.0,Ed Davis,,POR,True,False
+napiesh01,27.1,4.0,11.0,0.364,1.0,4.0,0.25,7.0,9.0,0.778,0.0,3.0,3.0,2.0,2.0,0.0,1.0,1.0,16.0,20.0,Shabazz Napier,,POR,True,False
+turneev01,21.733333333333334,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,6.0,0.0,0.0,0.0,2.0,0.0,-7.0,Evan Turner,,POR,True,False
+colliza01,18.566666666666666,1.0,6.0,0.167,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,1.0,0.0,3.0,2.0,4.0,Zach Collins,,POR,True,False
+connapa01,13.483333333333333,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,Pat Connaughton,,POR,True,False
+swanica01,,,,,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,POR,True,False
+leoname01,,,,,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Play,POR,True,False
+laymaja01,,,,,,,,,,,,,,,,,,,,,Jake Layman,Did Not Play,POR,True,False

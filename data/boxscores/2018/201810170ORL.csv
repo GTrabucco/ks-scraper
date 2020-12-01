@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+richajo01,37.583333333333336,8.0,21.0,0.381,2.0,10.0,0.2,3.0,3.0,1.0,1.0,4.0,5.0,3.0,1.0,1.0,3.0,3.0,21.0,-5.0,Josh Richardson,,MIA,False,True
+whiteha01,33.583333333333336,6.0,15.0,0.4,0.0,1.0,0.0,0.0,1.0,0.0,4.0,14.0,18.0,0.0,1.0,2.0,1.0,2.0,12.0,4.0,Hassan Whiteside,,MIA,False,True
+dragigo01,32.9,9.0,14.0,0.643,3.0,7.0,0.429,5.0,7.0,0.714,0.0,4.0,4.0,4.0,0.0,1.0,3.0,5.0,26.0,20.0,Goran Dragić,,MIA,False,True
+mcgruro01,31.5,2.0,9.0,0.222,2.0,5.0,0.4,2.0,3.0,0.667,0.0,3.0,3.0,3.0,0.0,1.0,1.0,3.0,8.0,4.0,Rodney McGruder,,MIA,False,True
+jonesde02,17.216666666666665,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,2.0,0.0,0.0,2.0,6.0,5.0,4.0,Derrick Jones,,MIA,False,True
+wadedw01,26.033333333333335,3.0,13.0,0.231,0.0,1.0,0.0,3.0,4.0,0.75,5.0,6.0,11.0,2.0,0.0,0.0,4.0,2.0,9.0,-7.0,Dwyane Wade,,MIA,False,False
+johnsty01,23.75,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,7.0,-13.0,Tyler Johnson,,MIA,False,False
+adebaba01,21.983333333333334,4.0,9.0,0.444,0.0,1.0,0.0,1.0,2.0,0.5,2.0,6.0,8.0,2.0,1.0,0.0,1.0,3.0,9.0,-6.0,Bam Adebayo,,MIA,False,False
+olynyke01,15.416666666666666,1.0,4.0,0.25,0.0,3.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,4.0,-16.0,Kelly Olynyk,,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+matenya01,,,,,,,,,,,,,,,,,,,,,Yante Maten,Did Not Play,MIA,False,False
+ellinwa01,,,,,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,MIA,False,False
+robindu01,,,,,,,,,,,,,,,,,,,,,Duncan Robinson,Did Not Play,MIA,False,False
+gordoaa01,38.3,9.0,18.0,0.5,4.0,5.0,0.8,4.0,6.0,0.667,4.0,12.0,16.0,2.0,0.0,0.0,4.0,3.0,26.0,9.0,Aaron Gordon,,ORL,True,True
+vucevni01,28.1,4.0,12.0,0.333,0.0,0.0,,4.0,5.0,0.8,2.0,6.0,8.0,4.0,1.0,0.0,4.0,2.0,12.0,-17.0,Nikola Vučević,,ORL,True,True
+fournev01,23.533333333333335,5.0,15.0,0.333,0.0,5.0,0.0,3.0,6.0,0.5,0.0,2.0,2.0,5.0,1.0,0.0,1.0,4.0,13.0,-14.0,Evan Fournier,,ORL,True,True
+augusdj01,22.266666666666666,4.0,10.0,0.4,1.0,2.0,0.5,2.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,11.0,-8.0,D.J. Augustin,,ORL,True,True
+isaacjo01,18.133333333333333,2.0,4.0,0.5,1.0,1.0,1.0,1.0,2.0,0.5,2.0,4.0,6.0,1.0,0.0,0.0,1.0,4.0,6.0,-7.0,Jonathan Isaac,,ORL,True,True
+simmojo02,33.43333333333333,4.0,11.0,0.364,0.0,4.0,0.0,4.0,6.0,0.667,2.0,3.0,5.0,1.0,0.0,1.0,0.0,4.0,12.0,12.0,Jonathon Simmons,,ORL,True,False
+grantje02,25.7,3.0,7.0,0.429,0.0,2.0,0.0,1.0,2.0,0.5,0.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,7.0,11.0,Jerian Grant,,ORL,True,False
+rosste01,25.533333333333335,2.0,9.0,0.222,0.0,4.0,0.0,0.0,0.0,,0.0,4.0,4.0,4.0,2.0,4.0,1.0,4.0,4.0,16.0,Terrence Ross,,ORL,True,False
+bambamo01,24.966666666666665,6.0,8.0,0.75,1.0,2.0,0.5,0.0,2.0,0.0,4.0,3.0,7.0,0.0,0.0,2.0,0.0,1.0,13.0,13.0,Mohamed Bamba,,ORL,True,False
+birchkh01,,,,,,,,,,,,,,,,,,,,,Khem Birch,Did Not Play,ORL,True,False
+iwundwe01,,,,,,,,,,,,,,,,,,,,,Wesley Iwundu,Did Not Play,ORL,True,False
+martija01,,,,,,,,,,,,,,,,,,,,,Jarell Martin,Did Not Play,ORL,True,False
+briscis01,,,,,,,,,,,,,,,,,,,,,Isaiah Briscoe,Did Not Play,ORL,True,False

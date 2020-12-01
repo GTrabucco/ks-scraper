@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bealbr01,38.43333333333333,8.0,25.0,0.32,3.0,8.0,0.375,6.0,7.0,0.857,1.0,4.0,5.0,11.0,0.0,1.0,3.0,2.0,25.0,-5.0,Bradley Beal,,WAS,False,True
+hachiru01,37.983333333333334,8.0,14.0,0.571,0.0,1.0,0.0,0.0,0.0,,3.0,5.0,8.0,3.0,1.0,1.0,2.0,0.0,16.0,-5.0,Rui Hachimura,,WAS,False,True
+bryanth01,30.416666666666668,4.0,11.0,0.364,1.0,4.0,0.25,1.0,2.0,0.5,0.0,7.0,7.0,1.0,0.0,2.0,2.0,3.0,10.0,-6.0,Thomas Bryant,,WAS,False,True
+smithis01,29.366666666666667,8.0,13.0,0.615,2.0,3.0,0.667,1.0,2.0,0.5,2.0,3.0,5.0,4.0,1.0,0.0,1.0,1.0,19.0,-3.0,Ish Smith,,WAS,False,True
+bongais01,25.983333333333334,2.0,4.0,0.5,0.0,0.0,,0.0,1.0,0.0,1.0,5.0,6.0,4.0,1.0,0.0,0.0,3.0,4.0,7.0,Isaac Bonga,,WAS,False,True
+bertada01,32.483333333333334,7.0,7.0,1.0,5.0,5.0,1.0,4.0,5.0,0.8,0.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,23.0,-6.0,Dāvis Bertāns,,WAS,False,False
+thomais02,19.616666666666667,6.0,14.0,0.429,4.0,10.0,0.4,0.0,0.0,,0.0,3.0,3.0,5.0,0.0,0.0,2.0,2.0,16.0,2.0,Isaiah Thomas,,WAS,False,False
+wagnemo01,17.583333333333332,4.0,7.0,0.571,1.0,3.0,0.333,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,3.0,2.0,4.0,9.0,4.0,Moritz Wagner,,WAS,False,False
+schofad01,8.133333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Admiral Schofield,,WAS,False,False
+mathega01,,,,,,,,,,,,,,,,,,,,,Garrison Mathews,Did Not Play,WAS,False,False
+mcraejo01,,,,,,,,,,,,,,,,,,,,,Jordan McRae,Did Not Play,WAS,False,False
+chiozch01,,,,,,,,,,,,,,,,,,,,,Chris Chiozza,Did Not Play,WAS,False,False
+robinju01,,,,,,,,,,,,,,,,,,,,,Justin Robinson,Did Not Play,WAS,False,False
+derozde01,36.4,11.0,24.0,0.458,0.0,0.0,,4.0,4.0,1.0,0.0,4.0,4.0,3.0,2.0,1.0,1.0,1.0,26.0,1.0,DeMar DeRozan,,SAS,True,True
+aldrila01,33.1,10.0,17.0,0.588,2.0,3.0,0.667,5.0,7.0,0.714,3.0,6.0,9.0,3.0,1.0,1.0,3.0,3.0,27.0,5.0,LaMarcus Aldridge,,SAS,True,True
+forbebr01,32.03333333333333,6.0,14.0,0.429,4.0,9.0,0.444,0.0,0.0,,3.0,1.0,4.0,3.0,0.0,0.0,3.0,2.0,16.0,3.0,Bryn Forbes,,SAS,True,True
+murrade01,23.033333333333335,8.0,15.0,0.533,0.0,3.0,0.0,3.0,3.0,1.0,3.0,7.0,10.0,4.0,2.0,1.0,1.0,1.0,19.0,5.0,Dejounte Murray,,SAS,True,True
+lylestr01,17.666666666666668,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,5.0,2.0,7.0,3.0,0.0,0.0,0.0,0.0,2.0,7.0,Trey Lyles,,SAS,True,True
+gayru01,27.066666666666666,4.0,9.0,0.444,0.0,3.0,0.0,0.0,0.0,,3.0,6.0,9.0,4.0,1.0,0.0,0.0,4.0,8.0,-1.0,Rudy Gay,,SAS,True,False
+whitede01,19.533333333333335,4.0,6.0,0.667,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,4.0,10.0,6.0,Derrick White,,SAS,True,False
+millspa02,19.0,2.0,5.0,0.4,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,6.0,-7.0,Patty Mills,,SAS,True,False
+poeltja01,14.816666666666666,2.0,7.0,0.286,0.0,0.0,,2.0,3.0,0.667,4.0,2.0,6.0,4.0,0.0,3.0,1.0,0.0,6.0,-3.0,Jakob Poeltl,,SAS,True,False
+belinma01,12.416666666666666,1.0,5.0,0.2,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,2.0,-3.0,Marco Belinelli,,SAS,True,False
+walkelo01,4.933333333333334,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-3.0,Lonnie Walker,,SAS,True,False
+carrode01,,,,,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,SAS,True,False
+metuch01,,,,,,,,,,,,,,,,,,,,,Chimezie Metu,Did Not Play,SAS,True,False

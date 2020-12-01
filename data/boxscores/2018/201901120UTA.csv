@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+markkla01,34.0,7.0,17.0,0.412,1.0,6.0,0.167,1.0,1.0,1.0,1.0,4.0,5.0,1.0,0.0,2.0,0.0,1.0,16.0,-11.0,Lauri Markkanen,,CHI,False,True
+dunnkr01,30.366666666666667,4.0,11.0,0.364,0.0,1.0,0.0,2.0,2.0,1.0,1.0,4.0,5.0,8.0,3.0,2.0,2.0,6.0,10.0,-9.0,Kris Dunn,,CHI,False,True
+cartewe01,29.833333333333332,3.0,9.0,0.333,0.0,1.0,0.0,1.0,2.0,0.5,3.0,6.0,9.0,2.0,1.0,1.0,0.0,4.0,7.0,-16.0,Wendell Carter,,CHI,False,True
+lavinza01,29.333333333333332,7.0,21.0,0.333,2.0,7.0,0.286,5.0,6.0,0.833,0.0,3.0,3.0,1.0,3.0,1.0,1.0,3.0,21.0,-6.0,Zach LaVine,,CHI,False,True
+hutchch01,25.15,4.0,7.0,0.571,2.0,3.0,0.667,1.0,1.0,1.0,1.0,6.0,7.0,2.0,1.0,0.0,1.0,0.0,11.0,-10.0,Chandler Hutchison,,CHI,False,True
+seldewa01,26.316666666666666,5.0,7.0,0.714,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,2.0,0.0,0.0,2.0,0.0,11.0,6.0,Wayne Selden,,CHI,False,False
+parkeja01,18.766666666666666,5.0,10.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,7.0,7.0,2.0,0.0,0.0,0.0,1.0,11.0,3.0,Jabari Parker,,CHI,False,False
+arcidry01,18.6,1.0,5.0,0.2,0.0,3.0,0.0,4.0,4.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,3.0,1.0,6.0,-4.0,Ryan Arcidiacono,,CHI,False,False
+harrish01,14.233333333333333,2.0,6.0,0.333,0.0,0.0,,1.0,1.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,0.0,2.0,5.0,-1.0,Shaquille Harrison,,CHI,False,False
+lopezro01,13.4,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,3.0,1.0,4.0,2.0,0.0,1.0,0.0,1.0,4.0,8.0,Robin Lopez,,CHI,False,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,False,False
+blakean01,,,,,,,,,,,,,,,,,,,,,Antonio Blakeney,Did Not Play,CHI,False,False
+goberru01,39.65,5.0,6.0,0.833,0.0,0.0,,5.0,9.0,0.556,5.0,11.0,16.0,8.0,1.0,2.0,5.0,5.0,15.0,19.0,Rudy Gobert,,UTA,True,True
+mitchdo01,37.583333333333336,11.0,24.0,0.458,4.0,13.0,0.308,8.0,10.0,0.8,0.0,6.0,6.0,6.0,0.0,2.0,2.0,2.0,34.0,20.0,Donovan Mitchell,,UTA,True,True
+onealro01,36.583333333333336,3.0,8.0,0.375,2.0,4.0,0.5,0.0,0.0,,0.0,11.0,11.0,4.0,1.0,2.0,0.0,3.0,8.0,13.0,Royce O'Neale,,UTA,True,True
+inglejo01,30.883333333333333,6.0,14.0,0.429,4.0,10.0,0.4,0.0,0.0,,0.0,2.0,2.0,4.0,0.0,0.0,1.0,2.0,16.0,-2.0,Joe Ingles,,UTA,True,True
+favorde01,28.266666666666666,4.0,8.0,0.5,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,0.0,2.0,1.0,1.0,1.0,8.0,10.0,Derrick Favors,,UTA,True,True
+korveky01,25.816666666666666,6.0,11.0,0.545,4.0,8.0,0.5,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,1.0,0.0,2.0,16.0,2.0,Kyle Korver,,UTA,True,False
+crowdja01,24.983333333333334,1.0,13.0,0.077,1.0,7.0,0.143,3.0,4.0,0.75,2.0,1.0,3.0,1.0,2.0,2.0,2.0,3.0,6.0,-4.0,Jae Crowder,,UTA,True,False
+allengr01,13.683333333333334,2.0,4.0,0.5,1.0,3.0,0.333,2.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,7.0,-10.0,Grayson Allen,,UTA,True,False
+niangge01,2.55,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-8.0,Georges Niang,,UTA,True,False
+udohek01,,,,,,,,,,,,,,,,,,,,,Ekpe Udoh,Did Not Play,UTA,True,False
+cavanty01,,,,,,,,,,,,,,,,,,,,,Tyler Cavanaugh,Did Not Play,UTA,True,False
+mitrona01,,,,,,,,,,,,,,,,,,,,,Naz Mitrou-Long,Did Not Play,UTA,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+vanvlfr01,38.53333333333333,8.0,19.0,0.421,4.0,10.0,0.4,2.0,2.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,3.0,1.0,22.0,-12.0,Fred VanVleet,,TOR,False,True
+siakapa01,37.45,6.0,17.0,0.353,1.0,6.0,0.167,3.0,3.0,1.0,2.0,6.0,8.0,4.0,1.0,0.0,1.0,2.0,16.0,-9.0,Pascal Siakam,,TOR,False,True
+lowryky01,36.666666666666664,4.0,13.0,0.308,3.0,6.0,0.5,1.0,2.0,0.5,0.0,11.0,11.0,12.0,1.0,0.0,3.0,5.0,12.0,-7.0,Kyle Lowry,,TOR,False,True
+ibakase01,34.55,10.0,17.0,0.588,5.0,10.0,0.5,3.0,4.0,0.75,1.0,8.0,9.0,0.0,1.0,2.0,2.0,5.0,28.0,3.0,Serge Ibaka,,TOR,False,True
+anunoog01,32.18333333333333,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,1.0,2.0,3.0,4.0,-10.0,OG Anunoby,,TOR,False,True
+daviste02,16.883333333333333,0.0,6.0,0.0,0.0,5.0,0.0,1.0,2.0,0.5,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,-2.0,Terence Davis,,TOR,False,False
+holliro01,16.333333333333332,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,1.0,2.0,2.0,4.0,-2.0,Rondae Hollis-Jefferson,,TOR,False,False
+mccawpa01,15.816666666666666,1.0,6.0,0.167,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Patrick McCaw,,TOR,False,False
+bouchch01,9.05,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-9.0,Chris Boucher,,TOR,False,False
+thomama02,2.533333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,Matt Thomas,,TOR,False,False
+johnsst04,,,,,,,,,,,,,,,,,,,,,Stanley Johnson,Did Not Play,TOR,False,False
+millema01,,,,,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,False,False
+leverca01,36.46666666666667,10.0,20.0,0.5,0.0,4.0,0.0,0.0,0.0,,2.0,5.0,7.0,4.0,4.0,1.0,5.0,2.0,20.0,3.0,Caris LeVert,,BRK,True,True
+harrijo01,34.833333333333336,7.0,12.0,0.583,2.0,5.0,0.4,3.0,3.0,1.0,0.0,6.0,6.0,2.0,1.0,1.0,1.0,1.0,19.0,14.0,Joe Harris,,BRK,True,True
+dinwisp01,33.516666666666666,5.0,13.0,0.385,2.0,7.0,0.286,5.0,7.0,0.714,0.0,6.0,6.0,9.0,0.0,0.0,0.0,3.0,17.0,10.0,Spencer Dinwiddie,,BRK,True,True
+princta02,28.516666666666666,2.0,10.0,0.2,1.0,7.0,0.143,3.0,4.0,0.75,0.0,5.0,5.0,2.0,1.0,0.0,3.0,2.0,8.0,8.0,Taurean Prince,,BRK,True,True
+allenja01,20.3,3.0,6.0,0.5,0.0,0.0,,4.0,5.0,0.8,5.0,8.0,13.0,3.0,0.0,1.0,0.0,2.0,10.0,12.0,Jarrett Allen,,BRK,True,True
+chandwi01,26.95,3.0,9.0,0.333,2.0,5.0,0.4,0.0,0.0,,1.0,5.0,6.0,1.0,0.0,0.0,1.0,2.0,8.0,-3.0,Wilson Chandler,,BRK,True,False
+templga01,24.7,3.0,9.0,0.333,2.0,6.0,0.333,2.0,3.0,0.667,0.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,10.0,4.0,Garrett Temple,,BRK,True,False
+jordade01,23.216666666666665,3.0,6.0,0.5,0.0,0.0,,1.0,1.0,1.0,4.0,6.0,10.0,4.0,0.0,1.0,2.0,1.0,7.0,0.0,DeAndre Jordan,,BRK,True,False
+luwawti01,11.5,0.0,3.0,0.0,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,Timothé Luwawu-Cabarrot,,BRK,True,False
+kurucro01,,,,,,,,,,,,,,,,,,,,,Rodions Kurucs,Did Not Play,BRK,True,False
+claxtni01,,,,,,,,,,,,,,,,,,,,,Nicolas Claxton,Did Not Play,BRK,True,False
+chiozch01,,,,,,,,,,,,,,,,,,,,,Chris Chiozza,Did Not Play,BRK,True,False
+pinsoth01,,,,,,,,,,,,,,,,,,,,,Theo Pinson,Did Not Play,BRK,True,False

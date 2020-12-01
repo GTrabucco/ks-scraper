@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lavinza01,35.6,8.0,18.0,0.444,2.0,7.0,0.286,3.0,4.0,0.75,1.0,4.0,5.0,3.0,1.0,1.0,4.0,2.0,21.0,-8.0,Zach LaVine,,CHI,False,True
+porteot01,31.85,3.0,11.0,0.273,1.0,6.0,0.167,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,7.0,-5.0,Otto Porter,,CHI,False,True
+markkla01,29.366666666666667,5.0,13.0,0.385,2.0,6.0,0.333,6.0,6.0,1.0,0.0,6.0,6.0,2.0,1.0,0.0,0.0,3.0,18.0,-3.0,Lauri Markkanen,,CHI,False,True
+cartewe01,28.416666666666668,7.0,9.0,0.778,0.0,1.0,0.0,6.0,7.0,0.857,3.0,7.0,10.0,2.0,1.0,3.0,1.0,5.0,20.0,-4.0,Wendell Carter,,CHI,False,True
+satorto01,26.8,1.0,5.0,0.2,0.0,3.0,0.0,0.0,0.0,,1.0,2.0,3.0,5.0,1.0,0.0,1.0,2.0,2.0,-4.0,Tomáš Satoranský,,CHI,False,True
+youngth01,22.05,6.0,12.0,0.5,2.0,4.0,0.5,1.0,2.0,0.5,1.0,3.0,4.0,0.0,0.0,1.0,2.0,3.0,15.0,-8.0,Thaddeus Young,,CHI,False,False
+dunnkr01,17.766666666666666,1.0,6.0,0.167,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,3.0,2.0,Kris Dunn,,CHI,False,False
+kornelu01,16.166666666666668,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,Luke Kornet,,CHI,False,False
+whiteco01,16.066666666666666,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Coby White,,CHI,False,False
+arcidry01,15.916666666666666,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,1.0,2.0,5.0,-6.0,Ryan Arcidiacono,,CHI,False,False
+harrish01,,,,,,,,,,,,,,,,,,,,,Shaquille Harrison,Did Not Play,CHI,False,False
+gaffoda01,,,,,,,,,,,,,,,,,,,,,Daniel Gafford,Did Not Play,CHI,False,False
+valende01,,,,,,,,,,,,,,,,,,,,,Denzel Valentine,Did Not Play,CHI,False,False
+barrerj01,40.03333333333333,7.0,15.0,0.467,0.0,2.0,0.0,5.0,11.0,0.455,6.0,9.0,15.0,5.0,0.0,1.0,2.0,3.0,19.0,5.0,RJ Barrett,,NYK,True,True
+randlju01,32.733333333333334,5.0,13.0,0.385,0.0,2.0,0.0,3.0,5.0,0.6,7.0,7.0,14.0,5.0,0.0,0.0,8.0,4.0,13.0,9.0,Julius Randle,,NYK,True,True
+morrima03,31.216666666666665,4.0,13.0,0.308,1.0,4.0,0.25,1.0,1.0,1.0,0.0,5.0,5.0,0.0,1.0,1.0,1.0,2.0,10.0,-2.0,Marcus Morris,,NYK,True,True
+paytoel01,20.7,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,0.5,1.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,3.0,-4.0,Elfrid Payton,,NYK,True,True
+robinmi01,18.333333333333332,4.0,9.0,0.444,0.0,0.0,,2.0,4.0,0.5,6.0,3.0,9.0,0.0,0.0,2.0,0.0,4.0,10.0,-24.0,Mitchell Robinson,,NYK,True,True
+portibo01,29.666666666666668,10.0,14.0,0.714,4.0,4.0,1.0,4.0,5.0,0.8,4.0,7.0,11.0,2.0,0.0,2.0,0.0,1.0,28.0,31.0,Bobby Portis,,NYK,True,False
+ntilila01,22.266666666666666,0.0,6.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,3.0,2.0,0.0,-3.0,Frank Ntilikina,,NYK,True,False
+ellinwa01,21.783333333333335,3.0,8.0,0.375,2.0,7.0,0.286,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,8.0,21.0,Wayne Ellington,,NYK,True,False
+knoxke01,16.6,4.0,9.0,0.444,2.0,5.0,0.4,4.0,4.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,3.0,14.0,3.0,Kevin Knox,,NYK,True,False
+gibsota01,6.666666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,-1.0,Taj Gibson,,NYK,True,False
+dotsoda01,,,,,,,,,,,,,,,,,,,,,Damyean Dotson,Did Not Play,NYK,True,False
+trieral01,,,,,,,,,,,,,,,,,,,,,Allonzo Trier,Did Not Play,NYK,True,False
+brazdig01,,,,,,,,,,,,,,,,,,,,,Ignas Brazdeikis,Did Not Play,NYK,True,False

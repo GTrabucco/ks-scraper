@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+westbru01,37.11666666666667,10.0,27.0,0.37,4.0,10.0,0.4,3.0,4.0,0.75,2.0,16.0,18.0,9.0,1.0,2.0,4.0,3.0,27.0,1.0,Russell Westbrook,,OKC,False,True
+adamsst01,36.983333333333334,6.0,13.0,0.462,0.0,0.0,,3.0,4.0,0.75,7.0,2.0,9.0,2.0,0.0,1.0,3.0,3.0,15.0,4.0,Steven Adams,,OKC,False,True
+oladivi01,36.11666666666667,4.0,16.0,0.25,0.0,6.0,0.0,6.0,6.0,1.0,0.0,5.0,5.0,2.0,1.0,1.0,1.0,3.0,14.0,-5.0,Victor Oladipo,,OKC,False,True
+roberan03,35.666666666666664,5.0,8.0,0.625,0.0,0.0,,1.0,3.0,0.333,3.0,8.0,11.0,1.0,2.0,2.0,2.0,2.0,11.0,1.0,Andre Roberson,,OKC,False,True
+sabondo01,10.333333333333334,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Domantas Sabonis,,OKC,False,True
+grantje01,28.3,3.0,7.0,0.429,1.0,3.0,0.333,1.0,2.0,0.5,3.0,1.0,4.0,0.0,1.0,5.0,1.0,4.0,8.0,3.0,Jerami Grant,,OKC,False,False
+lauvejo01,20.383333333333333,3.0,5.0,0.6,0.0,1.0,0.0,1.0,2.0,0.5,2.0,4.0,6.0,0.0,0.0,0.0,2.0,0.0,7.0,-13.0,Joffrey Lauvergne,,OKC,False,False
+morroan01,13.95,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,-2.0,Anthony Morrow,,OKC,False,False
+payneca01,13.433333333333334,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,3.0,2.0,0.0,0.0,2.0,2.0,2.0,-1.0,Cameron Payne,,OKC,False,False
+abrinal01,7.733333333333333,2.0,4.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,6.0,-3.0,Álex Abrines,,OKC,False,False
+chrisse01,,,,,,,,,,,,,,,,,,,,,Semaj Christon,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+singlky01,,,,,,,,,,,,,,,,,,,,,Kyle Singler,Did Not Play,OKC,False,False
+turnemy01,35.983333333333334,3.0,12.0,0.25,0.0,2.0,0.0,4.0,7.0,0.571,3.0,2.0,5.0,2.0,2.0,4.0,1.0,4.0,10.0,1.0,Myles Turner,,IND,True,True
+teaguje01,34.36666666666667,6.0,16.0,0.375,2.0,4.0,0.5,3.0,4.0,0.75,0.0,4.0,4.0,3.0,1.0,1.0,2.0,1.0,17.0,3.0,Jeff Teague,,IND,True,True
+georgpa01,33.18333333333333,7.0,20.0,0.35,2.0,9.0,0.222,5.0,6.0,0.833,4.0,4.0,8.0,4.0,2.0,0.0,5.0,3.0,21.0,0.0,Paul George,,IND,True,True
+allenla01,30.4,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,0.0,3.0,2.0,5.0,3.0,0.0,2.0,1.0,2.0,2.0,3.0,Lavoy Allen,,IND,True,True
+milescj01,19.983333333333334,3.0,10.0,0.3,1.0,7.0,0.143,1.0,1.0,1.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,8.0,-6.0,C.J. Miles,,IND,True,True
+robingl02,23.75,5.0,5.0,1.0,3.0,3.0,1.0,1.0,2.0,0.5,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,14.0,13.0,Glenn Robinson,,IND,True,False
+ellismo01,22.35,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,2.0,4.0,1.0,0.0,0.0,2.0,2.0,-3.0,Monta Ellis,,IND,True,False
+serapke01,14.616666666666667,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,3.0,0.0,1.0,2.0,4.0,Kevin Séraphin,,IND,True,False
+stuckro01,13.633333333333333,2.0,6.0,0.333,0.0,1.0,0.0,5.0,5.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,9.0,0.0,Rodney Stuckey,,IND,True,False
+jeffeal01,11.716666666666667,4.0,9.0,0.444,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,0.0,1.0,8.0,0.0,Al Jefferson,,IND,True,False
+brookaa01,,,,,,,,,,,,,,,,,,,,,Aaron Brooks,Did Not Play,IND,True,False
+chrisra01,,,,,,,,,,,,,,,,,,,,,Rakeem Christmas,Did Not Play,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False

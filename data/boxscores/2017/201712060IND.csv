@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+holidju01,36.36666666666667,2.0,7.0,0.286,1.0,4.0,0.25,2.0,2.0,1.0,0.0,4.0,4.0,0.0,1.0,1.0,1.0,3.0,7.0,-3.0,Justin Holiday,,CHI,False,True
+dunnkr01,34.13333333333333,8.0,14.0,0.571,1.0,1.0,1.0,1.0,3.0,0.333,1.0,5.0,6.0,6.0,1.0,1.0,4.0,4.0,18.0,-9.0,Kris Dunn,,CHI,False,True
+lopezro01,33.81666666666667,7.0,11.0,0.636,0.0,0.0,,2.0,2.0,1.0,3.0,2.0,5.0,1.0,0.0,1.0,2.0,0.0,16.0,0.0,Robin Lopez,,CHI,False,True
+valende01,32.53333333333333,5.0,13.0,0.385,4.0,7.0,0.571,1.0,1.0,1.0,2.0,6.0,8.0,3.0,0.0,1.0,2.0,2.0,15.0,-12.0,Denzel Valentine,,CHI,False,True
+markkla01,30.95,5.0,15.0,0.333,1.0,6.0,0.167,0.0,0.0,,2.0,4.0,6.0,2.0,0.0,0.0,3.0,2.0,11.0,-15.0,Lauri Markkanen,,CHI,False,True
+nwabada01,22.283333333333335,5.0,6.0,0.833,0.0,0.0,,1.0,4.0,0.25,1.0,2.0,3.0,0.0,1.0,1.0,2.0,1.0,11.0,6.0,David Nwaba,,CHI,False,False
+portibo01,19.383333333333333,5.0,11.0,0.455,1.0,3.0,0.333,1.0,2.0,0.5,1.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,12.0,7.0,Bobby Portis,,CHI,False,False
+zipsepa01,16.683333333333334,2.0,2.0,1.0,2.0,2.0,1.0,0.0,2.0,0.0,0.0,5.0,5.0,1.0,0.0,0.0,1.0,3.0,6.0,9.0,Paul Zipser,,CHI,False,False
+grantje02,13.866666666666667,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,1.0,1.0,2.0,5.0,0.0,0.0,1.0,0.0,0.0,7.0,Jerian Grant,,CHI,False,False
+pondequ01,,,,,,,,,,,,,,,,,,,,,Quincy Pondexter,Did Not Play,CHI,False,False
+mirotni01,,,,,,,,,,,,,,,,,,,,,Nikola Mirotić,Did Not Play,CHI,False,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,False,False
+oladivi01,38.766666666666666,10.0,20.0,0.5,4.0,10.0,0.4,3.0,4.0,0.75,0.0,8.0,8.0,2.0,3.0,0.0,5.0,2.0,27.0,8.0,Victor Oladipo,,IND,True,True
+youngth01,37.93333333333333,4.0,12.0,0.333,2.0,4.0,0.5,0.0,0.0,,5.0,4.0,9.0,3.0,0.0,1.0,0.0,2.0,10.0,15.0,Thaddeus Young,,IND,True,True
+bogdabo02,37.833333333333336,6.0,13.0,0.462,3.0,6.0,0.5,2.0,2.0,1.0,0.0,2.0,2.0,3.0,1.0,0.0,1.0,1.0,17.0,14.0,Bojan Bogdanović,,IND,True,True
+turnemy01,31.85,4.0,11.0,0.364,0.0,3.0,0.0,3.0,4.0,0.75,1.0,6.0,7.0,6.0,0.0,4.0,3.0,3.0,11.0,5.0,Myles Turner,,IND,True,True
+collida01,20.7,6.0,10.0,0.6,2.0,5.0,0.4,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,1.0,3.0,14.0,-1.0,Darren Collison,,IND,True,True
+josepco01,31.383333333333333,3.0,6.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,3.0,3.0,0.0,1.0,0.0,7.0,-2.0,Cory Joseph,,IND,True,False
+sabondo01,21.15,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,1.0,0.0,0.0,1.0,1.0,6.0,-9.0,Domantas Sabonis,,IND,True,False
+stephla01,14.5,3.0,9.0,0.333,0.0,3.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,1.0,1.0,6.0,-13.0,Lance Stephenson,,IND,True,False
+leaftj01,5.066666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-7.0,T.J. Leaf,,IND,True,False
+youngjo01,0.8166666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Joe Young,,IND,True,False
+wilkida02,,,,,,,,,,,,,,,,,,,,,Damien Wilkins,Did Not Play,IND,True,False
+jeffeal01,,,,,,,,,,,,,,,,,,,,,Al Jefferson,Did Not Play,IND,True,False
+anigbik01,,,,,,,,,,,,,,,,,,,,,Ike Anigbogu,Did Not Play,IND,True,False

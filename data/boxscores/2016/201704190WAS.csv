@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+schrode01,38.25,8.0,21.0,0.381,1.0,8.0,0.125,6.0,8.0,0.75,2.0,2.0,4.0,6.0,1.0,0.0,1.0,2.0,23.0,2.0,Dennis Schröder,,ATL,False,True
+millspa01,35.36666666666667,6.0,14.0,0.429,1.0,3.0,0.333,14.0,15.0,0.933,1.0,9.0,10.0,4.0,2.0,1.0,5.0,3.0,27.0,-7.0,Paul Millsap,,ATL,False,True
+hardati02,34.78333333333333,5.0,14.0,0.357,2.0,4.0,0.5,7.0,7.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0,4.0,3.0,19.0,-19.0,Tim Hardaway,,ATL,False,True
+princta02,29.883333333333333,5.0,8.0,0.625,0.0,1.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,1.0,0.0,0.0,1.0,1.0,12.0,-12.0,Taurean Waller-Prince,,ATL,False,True
+howardw01,19.883333333333333,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,1.0,1.0,1.0,3.0,4.0,6.0,5.0,Dwight Howard,,ATL,False,True
+bazemke01,24.933333333333334,2.0,5.0,0.4,0.0,1.0,0.0,4.0,4.0,1.0,1.0,4.0,5.0,0.0,0.0,2.0,4.0,5.0,8.0,0.0,Kent Bazemore,,ATL,False,False
+muscami01,22.866666666666667,1.0,6.0,0.167,0.0,1.0,0.0,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,2.0,0.0,5.0,2.0,-13.0,Mike Muscala,,ATL,False,False
+ilyaser01,15.65,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,2.0,2.0,4.0,0.0,1.0,0.0,0.0,1.0,2.0,3.0,Ersan İlyasova,,ATL,False,False
+caldejo01,8.083333333333334,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,2.0,-6.0,José Calderón,,ATL,False,False
+dunlemi02,5.816666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,Mike Dunleavy,,ATL,False,False
+sefolth01,4.483333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Thabo Sefolosha,,ATL,False,False
+delanma01,,,,,,,,,,,,,,,,,,,,,Malcolm Delaney,Did Not Play,ATL,False,False
+humphkr01,,,,,,,,,,,,,,,,,,,,,Kris Humphries,Did Not Play,ATL,False,False
+bealbr01,42.13333333333333,12.0,27.0,0.444,4.0,10.0,0.4,3.0,6.0,0.5,1.0,1.0,2.0,3.0,3.0,0.0,4.0,2.0,31.0,14.0,Bradley Beal,,WAS,True,True
+walljo01,39.28333333333333,9.0,20.0,0.45,2.0,2.0,1.0,12.0,15.0,0.8,0.0,5.0,5.0,9.0,2.0,1.0,4.0,2.0,32.0,-2.0,John Wall,,WAS,True,True
+gortama01,35.15,7.0,10.0,0.7,0.0,0.0,,0.0,0.0,,6.0,4.0,10.0,3.0,1.0,5.0,1.0,3.0,14.0,7.0,Marcin Gortat,,WAS,True,True
+porteot01,23.45,2.0,7.0,0.286,0.0,3.0,0.0,0.0,0.0,,0.0,5.0,5.0,2.0,2.0,0.0,1.0,4.0,4.0,19.0,Otto Porter,,WAS,True,True
+morrima02,20.2,1.0,3.0,0.333,0.0,1.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,2.0,0.0,2.0,0.0,5.0,3.0,16.0,Markieff Morris,,WAS,True,True
+smithja02,27.9,3.0,6.0,0.5,0.0,0.0,,2.0,2.0,1.0,2.0,5.0,7.0,1.0,1.0,1.0,1.0,5.0,8.0,-7.0,Jason Smith,,WAS,True,False
+bogdabo02,22.15,1.0,7.0,0.143,1.0,5.0,0.2,3.0,4.0,0.75,1.0,5.0,6.0,0.0,0.0,0.0,0.0,3.0,6.0,-1.0,Bojan Bogdanović,,WAS,True,False
+jennibr01,16.6,4.0,5.0,0.8,0.0,1.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,2.0,0.0,0.0,0.0,1.0,10.0,3.0,Brandon Jennings,,WAS,True,False
+oubreke01,13.133333333333333,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,1.0,0.0,4.0,1.0,-9.0,Kelly Oubre,,WAS,True,False
+burketr01,,,,,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,WAS,True,False
+mcclesh01,,,,,,,,,,,,,,,,,,,,,Sheldon Mac,Did Not Play,WAS,True,False
+satorto01,,,,,,,,,,,,,,,,,,,,,Tomáš Satoranský,Did Not Play,WAS,True,False
+ochefda01,,,,,,,,,,,,,,,,,,,,,Daniel Ochefu,Did Not Play,WAS,True,False

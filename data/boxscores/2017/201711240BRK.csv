@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mccolcj01,39.45,10.0,19.0,0.526,1.0,4.0,0.25,5.0,6.0,0.833,0.0,2.0,2.0,5.0,1.0,1.0,0.0,2.0,26.0,5.0,CJ McCollum,,POR,False,True
+lillada01,36.55,10.0,19.0,0.526,4.0,6.0,0.667,10.0,11.0,0.909,1.0,3.0,4.0,9.0,1.0,1.0,3.0,3.0,34.0,3.0,Damian Lillard,,POR,False,True
+nurkiju01,30.633333333333333,12.0,19.0,0.632,0.0,0.0,,5.0,10.0,0.5,3.0,12.0,15.0,3.0,1.0,4.0,1.0,3.0,29.0,1.0,Jusuf Nurkić,,POR,False,True
+vonleno01,24.85,3.0,5.0,0.6,0.0,0.0,,1.0,2.0,0.5,1.0,6.0,7.0,0.0,0.0,1.0,0.0,1.0,7.0,-1.0,Noah Vonleh,,POR,False,True
+connapa01,15.05,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,3.0,4.0,-3.0,Pat Connaughton,,POR,False,True
+turneev01,27.266666666666666,6.0,15.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,4.0,1.0,0.0,1.0,1.0,13.0,1.0,Evan Turner,,POR,False,False
+napiesh01,20.45,1.0,6.0,0.167,0.0,3.0,0.0,3.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,10.0,Shabazz Napier,,POR,False,False
+harklma01,18.966666666666665,3.0,5.0,0.6,0.0,0.0,,0.0,1.0,0.0,2.0,1.0,3.0,0.0,0.0,3.0,0.0,1.0,6.0,-5.0,Maurice Harkless,,POR,False,False
+davised01,17.3,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,0.5,4.0,5.0,9.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,Ed Davis,,POR,False,False
+laymaja01,9.483333333333333,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,-1.0,Jake Layman,,POR,False,False
+swanica01,,,,,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,POR,False,False
+leoname01,,,,,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Play,POR,False,False
+colliza01,,,,,,,,,,,,,,,,,,,,,Zach Collins,Did Not Play,POR,False,False
+crabbal01,30.766666666666666,5.0,14.0,0.357,2.0,6.0,0.333,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,0.0,3.0,12.0,-1.0,Allen Crabbe,,BRK,True,True
+dinwisp01,30.55,9.0,20.0,0.45,4.0,9.0,0.444,1.0,2.0,0.5,2.0,2.0,4.0,6.0,1.0,1.0,0.0,4.0,23.0,-5.0,Spencer Dinwiddie,,BRK,True,True
+holliro01,29.683333333333334,8.0,13.0,0.615,0.0,0.0,,1.0,1.0,1.0,0.0,4.0,4.0,2.0,1.0,1.0,1.0,0.0,17.0,-3.0,Rondae Hollis-Jefferson,,BRK,True,True
+carrode01,24.733333333333334,4.0,8.0,0.5,0.0,1.0,0.0,2.0,5.0,0.4,1.0,8.0,9.0,3.0,0.0,1.0,1.0,1.0,10.0,3.0,DeMarre Carroll,,BRK,True,True
+zellety01,19.133333333333333,4.0,8.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,3.0,0.0,3.0,1.0,0.0,1.0,0.0,2.0,10.0,12.0,Tyler Zeller,,BRK,True,True
+leverca01,26.633333333333333,5.0,6.0,0.833,1.0,1.0,1.0,3.0,4.0,0.75,1.0,5.0,6.0,2.0,0.0,0.0,4.0,4.0,14.0,-5.0,Caris LeVert,,BRK,True,False
+allenja01,24.183333333333334,3.0,10.0,0.3,0.0,0.0,,3.0,4.0,0.75,4.0,4.0,8.0,1.0,2.0,1.0,0.0,4.0,9.0,-3.0,Jarrett Allen,,BRK,True,False
+harrijo01,20.4,4.0,6.0,0.667,3.0,5.0,0.6,2.0,2.0,1.0,0.0,2.0,2.0,5.0,0.0,0.0,1.0,3.0,13.0,-3.0,Joe Harris,,BRK,True,False
+booketr01,20.05,5.0,9.0,0.556,0.0,1.0,0.0,0.0,0.0,,1.0,7.0,8.0,2.0,0.0,1.0,0.0,1.0,10.0,0.0,Trevor Booker,,BRK,True,False
+kilpase01,13.866666666666667,3.0,6.0,0.5,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,7.0,-5.0,Sean Kilpatrick,,BRK,True,False
+whiteis01,,,,,,,,,,,,,,,,,,,,,Isaiah Whitehead,Did Not Play,BRK,True,False
+mozgoti01,,,,,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,BRK,True,False
+acyqu01,,,,,,,,,,,,,,,,,,,,,Quincy Acy,Did Not Play,BRK,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+barneha02,42.85,9.0,25.0,0.36,2.0,9.0,0.222,1.0,3.0,0.333,0.0,3.0,3.0,2.0,0.0,0.0,2.0,0.0,21.0,0.0,Harrison Barnes,,DAL,False,True
+smithde03,40.05,9.0,19.0,0.474,1.0,6.0,0.167,1.0,2.0,0.5,1.0,4.0,5.0,11.0,3.0,2.0,3.0,3.0,20.0,-8.0,Dennis Smith,,DAL,False,True
+poweldw01,35.483333333333334,4.0,9.0,0.444,2.0,5.0,0.4,3.0,6.0,0.5,2.0,8.0,10.0,4.0,1.0,1.0,1.0,1.0,13.0,4.0,Dwight Powell,,DAL,False,True
+finnedo01,26.35,4.0,8.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,0.0,1.0,2.0,10.0,-10.0,Dorian Finney-Smith,,DAL,False,True
+motlejo01,16.433333333333334,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,0.0,1.0,4.0,-1.0,Johnathan Motley,,DAL,False,True
+mcderdo01,25.883333333333333,4.0,10.0,0.4,2.0,7.0,0.286,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,1.0,0.0,1.0,10.0,-12.0,Doug McDermott,,DAL,False,False
+ferreyo01,24.916666666666668,2.0,8.0,0.25,1.0,5.0,0.2,1.0,2.0,0.5,0.0,1.0,1.0,3.0,1.0,0.0,1.0,1.0,6.0,-10.0,Yogi Ferrell,,DAL,False,False
+klebima01,20.083333333333332,5.0,8.0,0.625,1.0,4.0,0.25,0.0,0.0,,3.0,7.0,10.0,1.0,0.0,1.0,2.0,0.0,11.0,-19.0,Maxi Kleber,,DAL,False,False
+colliky01,7.95,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,1.0,1.0,0.0,2.0,-4.0,Kyle Collinsworth,,DAL,False,False
+noelne01,,,,,,,,,,,,,,,,,,,,,Nerlens Noel,Player Suspended,DAL,False,False
+mejrisa01,,,,,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,False,False
+jonesja04,,,,,,,,,,,,,,,,,,,,,Jalen Jones,Did Not Play,DAL,False,False
+harriaa01,,,,,,,,,,,,,,,,,,,,,Aaron Harrison,Did Not Play,DAL,False,False
+covinro01,34.0,5.0,9.0,0.556,3.0,6.0,0.5,2.0,2.0,1.0,0.0,10.0,10.0,3.0,2.0,2.0,1.0,1.0,15.0,23.0,Robert Covington,,PHI,True,True
+redicjj01,30.766666666666666,6.0,14.0,0.429,2.0,6.0,0.333,4.0,4.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,18.0,8.0,J.J. Redick,,PHI,True,True
+simmobe01,30.583333333333332,7.0,10.0,0.7,0.0,0.0,,2.0,6.0,0.333,2.0,5.0,7.0,9.0,4.0,1.0,3.0,3.0,16.0,15.0,Ben Simmons,,PHI,True,True
+saricda01,26.85,4.0,10.0,0.4,1.0,5.0,0.2,0.0,0.0,,1.0,4.0,5.0,5.0,0.0,0.0,0.0,3.0,9.0,15.0,Dario Šarić,,PHI,True,True
+johnsam01,17.2,3.0,3.0,1.0,0.0,0.0,,0.0,1.0,0.0,1.0,3.0,4.0,2.0,0.0,0.0,0.0,3.0,6.0,14.0,Amir Johnson,,PHI,True,True
+belinma01,27.25,7.0,15.0,0.467,0.0,3.0,0.0,1.0,1.0,1.0,1.0,3.0,4.0,2.0,1.0,1.0,3.0,2.0,15.0,9.0,Marco Belinelli,,PHI,True,False
+ilyaser01,23.8,5.0,10.0,0.5,1.0,4.0,0.25,0.0,0.0,,3.0,9.0,12.0,3.0,0.0,0.0,1.0,2.0,11.0,1.0,Ersan İlyasova,,PHI,True,False
+fultzma01,21.2,4.0,11.0,0.364,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,0.0,2.0,4.0,8.0,-4.0,Markelle Fultz,,PHI,True,False
+holmeri01,21.15,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,0.0,0.0,1.0,8.0,-3.0,Richaun Holmes,,PHI,True,False
+anderju01,2.4,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,-6.0,Justin Anderson,,PHI,True,False
+korkmfu01,2.4,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,Furkan Korkmaz,,PHI,True,False
+mccontj01,2.4,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,T.J. McConnell,,PHI,True,False
+bayleje01,,,,,,,,,,,,,,,,,,,,,Jerryd Bayless,Did Not Play,PHI,True,False

@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+barneha02,35.4,9.0,19.0,0.474,2.0,5.0,0.4,2.0,4.0,0.5,1.0,5.0,6.0,0.0,0.0,0.0,2.0,0.0,22.0,0.0,Harrison Barnes,,DAL,False,True
+klebima01,34.63333333333333,2.0,6.0,0.333,2.0,5.0,0.4,2.0,2.0,1.0,2.0,2.0,4.0,3.0,3.0,2.0,0.0,2.0,8.0,4.0,Maxi Kleber,,DAL,False,True
+matthwe02,33.25,3.0,10.0,0.3,1.0,4.0,0.25,0.0,0.0,,0.0,6.0,6.0,1.0,1.0,1.0,0.0,4.0,7.0,-18.0,Wesley Matthews,,DAL,False,True
+smithde03,30.95,5.0,18.0,0.278,0.0,4.0,0.0,3.0,6.0,0.5,1.0,5.0,6.0,6.0,0.0,0.0,2.0,1.0,13.0,-13.0,Dennis Smith,,DAL,False,True
+nowitdi01,25.166666666666668,4.0,11.0,0.364,3.0,5.0,0.6,0.0,0.0,,1.0,4.0,5.0,1.0,1.0,0.0,0.0,3.0,11.0,-8.0,Dirk Nowitzki,,DAL,False,True
+ferreyo01,30.966666666666665,5.0,13.0,0.385,1.0,5.0,0.2,1.0,2.0,0.5,1.0,2.0,3.0,4.0,0.0,0.0,1.0,0.0,12.0,5.0,Yogi Ferrell,,DAL,False,False
+mejrisa01,20.216666666666665,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,5.0,6.0,0.0,1.0,2.0,1.0,1.0,3.0,9.0,Salah Mejri,,DAL,False,False
+poweldw01,15.233333333333333,2.0,3.0,0.667,1.0,2.0,0.5,1.0,3.0,0.333,1.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,6.0,-5.0,Dwight Powell,,DAL,False,False
+colliky01,14.183333333333334,3.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,5.0,5.0,2.0,1.0,0.0,1.0,3.0,7.0,16.0,Kyle Collinsworth,,DAL,False,False
+mcrobjo01,,,,,,,,,,,,,,,,,,,,,Josh McRoberts,Did Not Play,DAL,False,False
+bareajo01,,,,,,,,,,,,,,,,,,,,,J.J. Barea,Did Not Play,DAL,False,False
+jokicni01,39.81666666666667,5.0,13.0,0.385,1.0,6.0,0.167,0.0,1.0,0.0,1.0,15.0,16.0,11.0,0.0,2.0,3.0,3.0,11.0,9.0,Nikola Jokić,,DEN,True,True
+bartowi01,38.78333333333333,3.0,7.0,0.429,2.0,4.0,0.5,3.0,3.0,1.0,0.0,5.0,5.0,1.0,1.0,1.0,2.0,3.0,11.0,21.0,Will Barton,,DEN,True,True
+harriga01,35.416666666666664,8.0,16.0,0.5,3.0,7.0,0.429,5.0,5.0,1.0,0.0,4.0,4.0,4.0,2.0,0.0,1.0,2.0,24.0,5.0,Gary Harris,,DEN,True,True
+plumlma01,29.766666666666666,3.0,7.0,0.429,0.0,0.0,,0.0,0.0,,1.0,7.0,8.0,1.0,2.0,2.0,2.0,4.0,6.0,9.0,Mason Plumlee,,DEN,True,True
+craigto01,26.033333333333335,3.0,5.0,0.6,1.0,3.0,0.333,2.0,4.0,0.5,1.0,3.0,4.0,0.0,0.0,0.0,0.0,3.0,9.0,-4.0,Torrey Craig,,DEN,True,True
+murraja01,30.866666666666667,6.0,15.0,0.4,3.0,6.0,0.5,0.0,0.0,,3.0,2.0,5.0,5.0,0.0,0.0,6.0,4.0,15.0,-4.0,Jamal Murray,,DEN,True,False
+lylestr01,26.2,5.0,14.0,0.357,2.0,6.0,0.333,1.0,2.0,0.5,3.0,7.0,10.0,1.0,1.0,1.0,0.0,1.0,13.0,-14.0,Trey Lyles,,DEN,True,False
+chandwi01,9.166666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,-8.0,Wilson Chandler,,DEN,True,False
+mudiaem01,3.95,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,-4.0,Emmanuel Mudiay,,DEN,True,False
+jefferi01,,,,,,,,,,,,,,,,,,,,,Richard Jefferson,Did Not Play,DEN,True,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,DEN,True,False
+beaslma01,,,,,,,,,,,,,,,,,,,,,Malik Beasley,Did Not Play,DEN,True,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,True,False

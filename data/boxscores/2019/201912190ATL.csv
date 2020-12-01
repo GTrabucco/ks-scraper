@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+goberru01,37.083333333333336,5.0,9.0,0.556,0.0,0.0,,10.0,19.0,0.526,4.0,9.0,13.0,1.0,0.0,3.0,3.0,2.0,20.0,16.0,Rudy Gobert,,UTA,False,True
+bogdabo02,37.083333333333336,6.0,16.0,0.375,1.0,6.0,0.167,6.0,7.0,0.857,1.0,8.0,9.0,2.0,0.0,0.0,4.0,1.0,19.0,16.0,Bojan Bogdanović,,UTA,False,True
+inglejo01,36.35,5.0,10.0,0.5,2.0,5.0,0.4,2.0,2.0,1.0,4.0,3.0,7.0,5.0,2.0,0.0,3.0,4.0,14.0,8.0,Joe Ingles,,UTA,False,True
+mitchdo01,36.11666666666667,12.0,22.0,0.545,1.0,6.0,0.167,5.0,5.0,1.0,1.0,4.0,5.0,5.0,1.0,0.0,4.0,3.0,30.0,0.0,Donovan Mitchell,,UTA,False,True
+onealro01,29.383333333333333,2.0,4.0,0.5,0.0,1.0,0.0,1.0,1.0,1.0,0.0,7.0,7.0,2.0,3.0,1.0,1.0,4.0,5.0,15.0,Royce O'Neale,,UTA,False,True
+mudiaem01,18.9,3.0,9.0,0.333,2.0,4.0,0.5,2.0,2.0,1.0,1.0,3.0,4.0,1.0,0.0,1.0,0.0,0.0,10.0,4.0,Emmanuel Mudiay,,UTA,False,False
+niangge01,18.3,3.0,5.0,0.6,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,2.0,2.0,6.0,-12.0,Georges Niang,,UTA,False,False
+greenje02,15.866666666666667,3.0,7.0,0.429,0.0,1.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,7.0,-11.0,Jeff Green,,UTA,False,False
+davised01,10.916666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,-11.0,Ed Davis,,UTA,False,False
+onimi01,,,,,,,,,,,,,,,,,,,,,Miye Oni,Did Not Play,UTA,False,False
+bradlto01,,,,,,,,,,,,,,,,,,,,,Tony Bradley,Did Not Play,UTA,False,False
+brantja01,,,,,,,,,,,,,,,,,,,,,Jarrell Brantley,Did Not Play,UTA,False,False
+exumda01,,,,,,,,,,,,,,,,,,,,,Dante Exum,Did Not Play,UTA,False,False
+youngtr01,40.93333333333333,9.0,28.0,0.321,3.0,11.0,0.273,9.0,11.0,0.818,1.0,4.0,5.0,8.0,1.0,0.0,2.0,2.0,30.0,-6.0,Trae Young,,ATL,True,True
+reddica01,34.68333333333333,4.0,10.0,0.4,2.0,4.0,0.5,4.0,4.0,1.0,0.0,4.0,4.0,1.0,3.0,0.0,3.0,1.0,14.0,1.0,Cam Reddish,,ATL,True,True
+huertke01,32.03333333333333,6.0,13.0,0.462,3.0,7.0,0.429,2.0,2.0,1.0,0.0,4.0,4.0,2.0,1.0,0.0,2.0,4.0,17.0,-5.0,Kevin Huerter,,ATL,True,True
+huntede01,23.016666666666666,2.0,6.0,0.333,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,4.0,5.0,-10.0,De'Andre Hunter,,ATL,True,True
+fernabr01,17.166666666666668,2.0,5.0,0.4,0.0,1.0,0.0,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,0.0,3.0,4.0,4.0,-4.0,Bruno Fernando,,ATL,True,True
+parkeja01,23.966666666666665,10.0,16.0,0.625,1.0,3.0,0.333,2.0,2.0,1.0,2.0,7.0,9.0,5.0,1.0,0.0,2.0,3.0,23.0,1.0,Jabari Parker,,ATL,True,False
+crabbal01,23.15,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,Allen Crabbe,,ATL,True,False
+bembrde01,20.183333333333334,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,1.0,0.0,2.0,4.0,6.0,DeAndre' Bembry,,ATL,True,False
+lenal01,16.783333333333335,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,3.0,1.0,0.0,3.0,6.0,4.0,-7.0,Alex Len,,ATL,True,False
+turneev01,8.083333333333334,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,-1.0,Evan Turner,,ATL,True,False
+parsoch01,,,,,,,,,,,,,,,,,,,,,Chandler Parsons,Did Not Play,ATL,True,False
+jonesda03,,,,,,,,,,,,,,,,,,,,,Damian Jones,Did Not Play,ATL,True,False
+cartevi01,,,,,,,,,,,,,,,,,,,,,Vince Carter,Did Not Play,ATL,True,False

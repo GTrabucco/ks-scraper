@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+wiggian01,41.03333333333333,16.0,28.0,0.571,3.0,7.0,0.429,5.0,8.0,0.625,2.0,4.0,6.0,1.0,0.0,1.0,3.0,2.0,40.0,11.0,Andrew Wiggins,,MIN,False,True
+gibsota01,38.18333333333333,7.0,13.0,0.538,0.0,0.0,,0.0,0.0,,4.0,2.0,6.0,2.0,4.0,0.0,2.0,3.0,14.0,10.0,Taj Gibson,,MIN,False,True
+bjeline01,34.8,6.0,13.0,0.462,3.0,9.0,0.333,3.0,4.0,0.75,3.0,6.0,9.0,4.0,1.0,0.0,3.0,5.0,18.0,6.0,Nemanja Bjelica,,MIN,False,True
+teaguje01,34.3,7.0,14.0,0.5,0.0,1.0,0.0,16.0,17.0,0.941,1.0,2.0,3.0,6.0,0.0,0.0,1.0,2.0,30.0,12.0,Jeff Teague,,MIN,False,True
+townska01,32.63333333333333,1.0,7.0,0.143,0.0,1.0,0.0,9.0,10.0,0.9,6.0,11.0,17.0,3.0,0.0,1.0,2.0,1.0,11.0,8.0,Karl-Anthony Towns,,MIN,False,True
+georgma01,21.2,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,1.0,6.0,4.0,0.0,Marcus Georges-Hunt,,MIN,False,False
+dienggo01,15.366666666666667,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,Gorgui Dieng,,MIN,False,False
+jonesty01,13.75,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,3.0,1.0,Tyus Jones,,MIN,False,False
+muhamsh01,8.616666666666667,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,6.0,-8.0,Shabazz Muhammad,,MIN,False,False
+brookaa01,0.11666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aaron Brooks,,MIN,False,False
+crawfja01,,,,,,,,,,,,,,,,,,,,,Jamal Crawford,Did Not Play,MIN,False,False
+butleji01,,,,,,,,,,,,,,,,,,,,,Jimmy Butler,Did Not Dress,MIN,False,False
+aldrico01,,,,,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,False,False
+griffbl01,36.7,13.0,21.0,0.619,2.0,8.0,0.25,4.0,7.0,0.571,1.0,10.0,11.0,12.0,1.0,0.0,4.0,4.0,32.0,-14.0,Blake Griffin,,LAC,True,True
+wallaty01,31.733333333333334,3.0,5.0,0.6,0.0,0.0,,1.0,3.0,0.333,0.0,4.0,4.0,5.0,0.0,0.0,1.0,5.0,7.0,-1.0,Tyrone Wallace,,LAC,True,True
+johnswe01,30.0,4.0,9.0,0.444,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,9.0,-15.0,Wesley Johnson,,LAC,True,True
+teodomi01,27.933333333333334,5.0,9.0,0.556,3.0,6.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,6.0,1.0,0.0,3.0,4.0,15.0,-12.0,Miloš Teodosić,,LAC,True,True
+reedwi02,16.366666666666667,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,8.0,-2.0,Willie Reed,,LAC,True,True
+willilo02,35.63333333333333,8.0,15.0,0.533,3.0,9.0,0.333,1.0,2.0,0.5,0.0,3.0,3.0,7.0,0.0,0.0,4.0,3.0,20.0,-3.0,Lou Williams,,LAC,True,False
+harremo01,31.416666666666668,8.0,14.0,0.571,0.0,1.0,0.0,7.0,8.0,0.875,5.0,2.0,7.0,0.0,1.0,0.0,1.0,5.0,23.0,-2.0,Montrezl Harrell,,LAC,True,False
+thornsi01,18.916666666666668,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,0.0,1.0,1.0,2.0,1.0,2.0,3.0,Sindarius Thornwell,,LAC,True,False
+dekkesa01,11.3,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,2.0,6.0,Sam Dekker,,LAC,True,False
+jordade01,,,,,,,,,,,,,,,,,,,,,DeAndre Jordan,Did Not Dress,LAC,True,False
+evansja01,,,,,,,,,,,,,,,,,,,,,Jawun Evans,Did Not Dress,LAC,True,False

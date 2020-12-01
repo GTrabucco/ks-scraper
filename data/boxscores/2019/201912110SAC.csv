@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gilgesh01,35.55,4.0,11.0,0.364,0.0,1.0,0.0,6.0,8.0,0.75,0.0,4.0,4.0,4.0,1.0,1.0,3.0,3.0,14.0,-3.0,Shai Gilgeous-Alexander,,OKC,False,True
+paulch01,35.083333333333336,3.0,9.0,0.333,2.0,5.0,0.4,0.0,0.0,,0.0,7.0,7.0,12.0,0.0,3.0,1.0,2.0,8.0,14.0,Chris Paul,,OKC,False,True
+gallida01,33.25,5.0,13.0,0.385,3.0,9.0,0.333,1.0,2.0,0.5,0.0,8.0,8.0,3.0,1.0,0.0,3.0,1.0,14.0,5.0,Danilo Gallinari,,OKC,False,True
+naderab01,32.65,5.0,9.0,0.556,5.0,6.0,0.833,0.0,0.0,,1.0,3.0,4.0,0.0,1.0,0.0,1.0,1.0,15.0,9.0,Abdel Nader,,OKC,False,True
+adamsst01,28.133333333333333,5.0,10.0,0.5,0.0,0.0,,2.0,5.0,0.4,5.0,5.0,10.0,4.0,0.0,2.0,1.0,1.0,12.0,-3.0,Steven Adams,,OKC,False,True
+schrode01,31.25,7.0,14.0,0.5,3.0,8.0,0.375,0.0,0.0,,0.0,2.0,2.0,0.0,2.0,1.0,3.0,3.0,17.0,-4.0,Dennis Schröder,,OKC,False,False
+noelne01,19.866666666666667,4.0,5.0,0.8,0.0,0.0,,3.0,3.0,1.0,1.0,3.0,4.0,0.0,2.0,1.0,1.0,3.0,11.0,2.0,Nerlens Noel,,OKC,False,False
+dortlu01,12.75,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,-11.0,Luguentz Dort,,OKC,False,False
+bazleda01,11.466666666666667,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,2.0,0.0,0.0,-14.0,Darius Bazley,,OKC,False,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,OKC,False,False
+hallde01,,,,,,,,,,,,,,,,,,,,,Devon Hall,Did Not Play,OKC,False,False
+hieldbu01,37.05,9.0,24.0,0.375,5.0,14.0,0.357,0.0,0.0,,0.0,7.0,7.0,6.0,1.0,0.0,2.0,3.0,23.0,9.0,Buddy Hield,,SAC,True,True
+barneha02,34.28333333333333,2.0,9.0,0.222,0.0,2.0,0.0,1.0,2.0,0.5,1.0,4.0,5.0,3.0,0.0,0.0,2.0,0.0,5.0,-10.0,Harrison Barnes,,SAC,True,True
+holmeri01,24.95,5.0,7.0,0.714,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,0.0,2.0,1.0,3.0,4.0,10.0,5.0,Richaun Holmes,,SAC,True,True
+josepco01,24.3,3.0,8.0,0.375,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,1.0,0.0,1.0,7.0,-19.0,Cory Joseph,,SAC,True,True
+bjeline01,22.233333333333334,4.0,8.0,0.5,2.0,3.0,0.667,0.0,0.0,,0.0,5.0,5.0,0.0,0.0,0.0,2.0,4.0,10.0,-11.0,Nemanja Bjelica,,SAC,True,True
+arizatr01,29.483333333333334,2.0,3.0,0.667,0.0,0.0,,1.0,1.0,1.0,1.0,4.0,5.0,1.0,2.0,0.0,1.0,2.0,5.0,17.0,Trevor Ariza,,SAC,True,False
+bogdabo01,29.416666666666668,7.0,12.0,0.583,2.0,7.0,0.286,1.0,4.0,0.25,0.0,3.0,3.0,0.0,1.0,0.0,3.0,5.0,17.0,14.0,Bogdan Bogdanović,,SAC,True,False
+baglema01,23.05,5.0,13.0,0.385,0.0,1.0,0.0,1.0,1.0,1.0,2.0,4.0,6.0,0.0,0.0,1.0,1.0,2.0,11.0,-4.0,Marvin Bagley,,SAC,True,False
+ferreyo01,15.233333333333333,2.0,4.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0,0.0,6.0,4.0,Yogi Ferrell,,SAC,True,False
+swanica01,,,,,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,SAC,True,False
+jamesju01,,,,,,,,,,,,,,,,,,,,,Justin James,Did Not Play,SAC,True,False
+dedmode01,,,,,,,,,,,,,,,,,,,,,Dewayne Dedmon,Did Not Play,SAC,True,False
+gilesha01,,,,,,,,,,,,,,,,,,,,,Harry Giles,Did Not Play,SAC,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+adebaba01,34.733333333333334,5.0,10.0,0.5,0.0,0.0,,1.0,3.0,0.333,5.0,3.0,8.0,2.0,0.0,0.0,0.0,3.0,11.0,0.0,Bam Adebayo,,MIA,False,True
+richajo01,31.516666666666666,1.0,8.0,0.125,1.0,3.0,0.333,1.0,2.0,0.5,4.0,4.0,8.0,4.0,4.0,0.0,3.0,2.0,4.0,-7.0,Josh Richardson,,MIA,False,True
+dragigo01,31.266666666666666,10.0,18.0,0.556,4.0,7.0,0.571,6.0,6.0,1.0,0.0,5.0,5.0,2.0,0.0,0.0,4.0,0.0,30.0,0.0,Goran Dragić,,MIA,False,True
+johnsty01,27.916666666666668,3.0,10.0,0.3,0.0,5.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.0,2.0,1.0,1.0,1.0,6.0,0.0,Tyler Johnson,,MIA,False,True
+johnsja01,24.983333333333334,5.0,12.0,0.417,1.0,4.0,0.25,1.0,2.0,0.5,0.0,7.0,7.0,5.0,3.0,1.0,0.0,4.0,12.0,-8.0,James Johnson,,MIA,False,True
+ellinwa01,31.383333333333333,1.0,7.0,0.143,1.0,4.0,0.25,1.0,1.0,1.0,1.0,3.0,4.0,1.0,1.0,0.0,1.0,2.0,4.0,9.0,Wayne Ellington,,MIA,False,False
+olynyke01,24.283333333333335,7.0,14.0,0.5,3.0,8.0,0.375,0.0,0.0,,1.0,4.0,5.0,0.0,3.0,2.0,2.0,3.0,17.0,2.0,Kelly Olynyk,,MIA,False,False
+winslju01,19.166666666666668,1.0,8.0,0.125,0.0,4.0,0.0,0.0,0.0,,0.0,3.0,3.0,4.0,1.0,1.0,0.0,2.0,2.0,11.0,Justise Winslow,,MIA,False,False
+mcgruro01,14.783333333333333,3.0,7.0,0.429,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,6.0,-2.0,Rodney McGruder,,MIA,False,False
+mickejo01,,,,,,,,,,,,,,,,,,,,,Jordan Mickey,Did Not Play,MIA,False,False
+jonesde02,,,,,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+babbilu01,,,,,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,MIA,False,False
+caldwke01,38.86666666666667,2.0,6.0,0.333,0.0,2.0,0.0,2.0,2.0,1.0,1.0,8.0,9.0,4.0,1.0,0.0,4.0,3.0,6.0,3.0,Kentavious Caldwell-Pope,,LAL,True,True
+randlju01,38.233333333333334,9.0,17.0,0.529,0.0,0.0,,7.0,9.0,0.778,1.0,11.0,12.0,2.0,1.0,0.0,1.0,4.0,25.0,6.0,Julius Randle,,LAL,True,True
+balllo01,38.11666666666667,4.0,15.0,0.267,1.0,3.0,0.333,0.0,0.0,,3.0,5.0,8.0,8.0,2.0,1.0,3.0,0.0,9.0,1.0,Lonzo Ball,,LAL,True,True
+lopezbr01,32.65,5.0,10.0,0.5,4.0,6.0,0.667,4.0,5.0,0.8,0.0,4.0,4.0,2.0,0.0,2.0,2.0,3.0,18.0,0.0,Brook Lopez,,LAL,True,True
+kuzmaky01,32.5,5.0,10.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,8.0,8.0,3.0,1.0,0.0,3.0,3.0,11.0,8.0,Kyle Kuzma,,LAL,True,True
+thomais02,26.566666666666666,1.0,9.0,0.111,0.0,2.0,0.0,3.0,4.0,0.75,1.0,1.0,2.0,3.0,0.0,0.0,3.0,2.0,5.0,-9.0,Isaiah Thomas,,LAL,True,False
+weartr01,14.116666666666667,3.0,5.0,0.6,3.0,3.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,11.0,-3.0,Travis Wear,,LAL,True,False
+ennisty01,11.65,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,-6.0,Tyler Ennis,,LAL,True,False
+zubaciv01,7.3,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,2.0,0.0,4.0,-5.0,Ivica Zubac,,LAL,True,False
+willide02,,,,,,,,,,,,,,,,,,,,,Derrick Williams,Did Not Play,LAL,True,False
+paytoga02,,,,,,,,,,,,,,,,,,,,,Gary Payton,Did Not Play,LAL,True,False
+bryanth01,,,,,,,,,,,,,,,,,,,,,Thomas Bryant,Did Not Play,LAL,True,False

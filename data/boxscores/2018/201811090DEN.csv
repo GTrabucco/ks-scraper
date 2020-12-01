@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+leverca01,31.433333333333334,6.0,13.0,0.462,1.0,4.0,0.25,4.0,9.0,0.444,0.0,2.0,2.0,5.0,1.0,1.0,0.0,2.0,17.0,0.0,Caris LeVert,,BRK,False,True
+allenja01,30.633333333333333,7.0,14.0,0.5,0.0,0.0,,4.0,8.0,0.5,4.0,5.0,9.0,2.0,1.0,5.0,0.0,3.0,18.0,-5.0,Jarrett Allen,,BRK,False,True
+harrijo01,26.6,4.0,6.0,0.667,2.0,2.0,1.0,1.0,1.0,1.0,1.0,3.0,4.0,0.0,1.0,0.0,3.0,4.0,11.0,-2.0,Joe Harris,,BRK,False,True
+russeda01,26.1,7.0,14.0,0.5,3.0,5.0,0.6,6.0,8.0,0.75,0.0,4.0,4.0,5.0,2.0,0.0,2.0,2.0,23.0,3.0,D'Angelo Russell,,BRK,False,True
+dudleja01,24.216666666666665,1.0,5.0,0.2,1.0,4.0,0.25,1.0,2.0,0.5,1.0,3.0,4.0,1.0,0.0,1.0,2.0,3.0,4.0,9.0,Jared Dudley,,BRK,False,True
+dinwisp01,29.8,3.0,11.0,0.273,1.0,5.0,0.2,5.0,6.0,0.833,2.0,4.0,6.0,6.0,0.0,1.0,0.0,2.0,12.0,-1.0,Spencer Dinwiddie,,BRK,False,False
+crabbal01,23.183333333333334,3.0,8.0,0.375,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,-1.0,Allen Crabbe,,BRK,False,False
+holliro01,17.816666666666666,2.0,9.0,0.222,1.0,4.0,0.25,3.0,4.0,0.75,2.0,1.0,3.0,2.0,1.0,1.0,0.0,2.0,8.0,-2.0,Rondae Hollis-Jefferson,,BRK,False,False
+davised01,16.083333333333332,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,0.0,1.0,0.0,0.0,6.0,2.0,5.0,Ed Davis,,BRK,False,False
+carrode01,14.133333333333333,2.0,6.0,0.333,1.0,4.0,0.25,4.0,4.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,9.0,4.0,DeMarre Carroll,,BRK,False,False
+kurucro01,,,,,,,,,,,,,,,,,,,,,Rodions Kurucs,Did Not Play,BRK,False,False
+farieke01,,,,,,,,,,,,,,,,,,,,,Kenneth Faried,Did Not Play,BRK,False,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,BRK,False,False
+murraja01,40.43333333333333,5.0,14.0,0.357,0.0,1.0,0.0,6.0,6.0,1.0,1.0,1.0,2.0,5.0,1.0,0.0,2.0,5.0,16.0,-6.0,Jamal Murray,,DEN,True,True
+harriga01,36.36666666666667,1.0,11.0,0.091,0.0,5.0,0.0,2.0,2.0,1.0,2.0,0.0,2.0,4.0,0.0,1.0,1.0,5.0,4.0,6.0,Gary Harris,,DEN,True,True
+jokicni01,33.2,14.0,22.0,0.636,1.0,1.0,1.0,8.0,10.0,0.8,7.0,14.0,21.0,3.0,1.0,2.0,6.0,5.0,37.0,5.0,Nikola Jokić,,DEN,True,True
+millspa01,26.866666666666667,4.0,8.0,0.5,0.0,1.0,0.0,3.0,6.0,0.5,4.0,7.0,11.0,0.0,0.0,1.0,3.0,2.0,11.0,-1.0,Paul Millsap,,DEN,True,True
+craigto01,9.2,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,3.0,-10.0,Torrey Craig,,DEN,True,True
+morrimo01,22.116666666666667,7.0,11.0,0.636,1.0,2.0,0.5,0.0,0.0,,0.0,6.0,6.0,2.0,1.0,0.0,0.0,2.0,15.0,2.0,Monte Morris,,DEN,True,False
+beaslma01,22.083333333333332,3.0,5.0,0.6,2.0,3.0,0.667,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,2.0,8.0,1.0,Malik Beasley,,DEN,True,False
+lylestr01,21.133333333333333,3.0,7.0,0.429,0.0,0.0,,4.0,6.0,0.667,0.0,3.0,3.0,2.0,0.0,1.0,0.0,0.0,10.0,-1.0,Trey Lyles,,DEN,True,False
+plumlma01,14.8,1.0,2.0,0.5,0.0,0.0,,2.0,4.0,0.5,0.0,3.0,3.0,2.0,0.0,0.0,0.0,4.0,4.0,-7.0,Mason Plumlee,,DEN,True,False
+hernaju01,13.8,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,Juan Hernangómez,,DEN,True,False
+akoonde01,,,,,,,,,,,,,,,,,,,,,DeVaughn Akoon-Purcell,Did Not Play,DEN,True,False
+lydonty01,,,,,,,,,,,,,,,,,,,,,Tyler Lydon,Did Not Play,DEN,True,False

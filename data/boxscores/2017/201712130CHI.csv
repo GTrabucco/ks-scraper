@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mitchdo01,36.81666666666667,15.0,26.0,0.577,1.0,7.0,0.143,1.0,1.0,1.0,0.0,3.0,3.0,6.0,2.0,1.0,3.0,2.0,32.0,-5.0,Donovan Mitchell,,UTA,False,True
+inglejo01,31.2,2.0,7.0,0.286,2.0,5.0,0.4,0.0,0.0,,0.0,8.0,8.0,5.0,0.0,0.0,2.0,3.0,6.0,15.0,Joe Ingles,,UTA,False,True
+favorde01,30.066666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,8.0,10.0,0.0,0.0,2.0,1.0,1.0,2.0,-11.0,Derrick Favors,,UTA,False,True
+rubiori01,26.8,6.0,12.0,0.5,0.0,3.0,0.0,2.0,2.0,1.0,0.0,6.0,6.0,4.0,0.0,0.0,5.0,2.0,14.0,3.0,Ricky Rubio,,UTA,False,True
+goberru01,26.3,3.0,7.0,0.429,0.0,0.0,,0.0,0.0,,3.0,8.0,11.0,1.0,0.0,5.0,0.0,0.0,6.0,14.0,Rudy Gobert,,UTA,False,True
+burksal01,25.483333333333334,6.0,13.0,0.462,1.0,4.0,0.25,0.0,0.0,,0.0,7.0,7.0,0.0,0.0,0.0,3.0,3.0,13.0,-13.0,Alec Burks,,UTA,False,False
+hoodro01,25.45,5.0,12.0,0.417,3.0,4.0,0.75,2.0,2.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,1.0,4.0,15.0,-4.0,Rodney Hood,,UTA,False,False
+jerebjo01,19.35,3.0,7.0,0.429,1.0,4.0,0.25,2.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,9.0,-12.0,Jonas Jerebko,,UTA,False,False
+sefolth01,16.2,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,3.0,2.0,Thabo Sefolosha,,UTA,False,False
+onealro01,2.3333333333333335,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,Royce O'Neale,,UTA,False,False
+woltena01,,,,,,,,,,,,,,,,,,,,,Nate Wolters,Did Not Play,UTA,False,False
+udohek01,,,,,,,,,,,,,,,,,,,,,Ekpe Udoh,Did Not Play,UTA,False,False
+johnsjo02,,,,,,,,,,,,,,,,,,,,,Joe Johnson,Did Not Dress,UTA,False,False
+lopezro01,36.38333333333333,8.0,20.0,0.4,0.0,0.0,,0.0,0.0,,3.0,1.0,4.0,5.0,0.0,3.0,2.0,0.0,16.0,-2.0,Robin Lopez,,CHI,True,True
+valende01,35.8,5.0,8.0,0.625,1.0,2.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,1.0,1.0,13.0,-9.0,Denzel Valentine,,CHI,True,True
+mirotni01,35.266666666666666,11.0,18.0,0.611,3.0,5.0,0.6,4.0,4.0,1.0,3.0,6.0,9.0,0.0,2.0,0.0,2.0,2.0,29.0,3.0,Nikola Mirotić,,CHI,True,True
+dunnkr01,33.7,6.0,18.0,0.333,0.0,2.0,0.0,1.0,2.0,0.5,0.0,7.0,7.0,8.0,4.0,0.0,1.0,4.0,13.0,3.0,Kris Dunn,,CHI,True,True
+holidju01,23.7,3.0,7.0,0.429,1.0,2.0,0.5,5.0,8.0,0.625,0.0,4.0,4.0,0.0,2.0,0.0,1.0,2.0,12.0,-5.0,Justin Holiday,,CHI,True,True
+nwabada01,28.433333333333334,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,0.5,1.0,7.0,8.0,1.0,0.0,0.0,0.0,2.0,3.0,15.0,David Nwaba,,CHI,True,False
+portibo01,22.016666666666666,4.0,10.0,0.4,1.0,3.0,0.333,0.0,1.0,0.0,2.0,6.0,8.0,3.0,0.0,0.0,0.0,0.0,9.0,5.0,Bobby Portis,,CHI,True,False
+grantje02,14.3,3.0,7.0,0.429,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,7.0,0.0,Jerian Grant,,CHI,True,False
+zipsepa01,10.416666666666666,0.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,0.0,0.0,0.0,2.0,2.0,1.0,5.0,Paul Zipser,,CHI,True,False
+pondequ01,,,,,,,,,,,,,,,,,,,,,Quincy Pondexter,Did Not Play,CHI,True,False
+markkla01,,,,,,,,,,,,,,,,,,,,,Lauri Markkanen,Did Not Play,CHI,True,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,True,False
+feldeka01,,,,,,,,,,,,,,,,,,,,,Kay Felder,Did Not Play,CHI,True,False

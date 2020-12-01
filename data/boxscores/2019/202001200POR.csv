@@ -1,0 +1,24 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+pascher01,42.21666666666667,11.0,21.0,0.524,0.0,3.0,0.0,0.0,1.0,0.0,4.0,9.0,13.0,2.0,1.0,0.0,0.0,2.0,22.0,-10.0,Eric Paschall,,GSW,False,True
+russeda01,39.9,9.0,27.0,0.333,5.0,16.0,0.313,4.0,4.0,1.0,1.0,7.0,8.0,9.0,0.0,0.0,6.0,5.0,27.0,3.0,D'Angelo Russell,,GSW,False,True
+burksal01,39.266666666666666,11.0,23.0,0.478,2.0,6.0,0.333,9.0,9.0,1.0,2.0,5.0,7.0,8.0,1.0,3.0,0.0,6.0,33.0,0.0,Alec Burks,,GSW,False,True
+leeda03,39.21666666666667,1.0,7.0,0.143,0.0,2.0,0.0,2.0,2.0,1.0,1.0,8.0,9.0,4.0,1.0,0.0,2.0,6.0,4.0,-17.0,Damion Lee,,GSW,False,True
+caulewi01,32.38333333333333,6.0,10.0,0.6,0.0,0.0,,0.0,0.0,,6.0,1.0,7.0,3.0,1.0,2.0,0.0,1.0,12.0,-8.0,Willie Cauley-Stein,,GSW,False,True
+poolejo01,29.616666666666667,2.0,11.0,0.182,1.0,5.0,0.2,4.0,6.0,0.667,1.0,4.0,5.0,3.0,1.0,0.0,0.0,3.0,9.0,4.0,Jordan Poole,,GSW,False,False
+spellom01,21.583333333333332,1.0,8.0,0.125,1.0,4.0,0.25,0.0,0.0,,2.0,3.0,5.0,0.0,1.0,0.0,0.0,1.0,3.0,1.0,Omari Spellman,,GSW,False,False
+chrisma01,20.816666666666666,7.0,9.0,0.778,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,1.0,1.0,0.0,1.0,1.0,14.0,2.0,Marquese Chriss,,GSW,False,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,GSW,False,False
+greendr01,,,,,,,,,,,,,,,,,,,,,Draymond Green,Did Not Play,GSW,False,False
+evansja02,,,,,,,,,,,,,,,,,,,,,Jacob Evans,Did Not Play,GSW,False,False
+simonan01,46.38333333333333,5.0,16.0,0.313,1.0,9.0,0.111,4.0,4.0,1.0,1.0,1.0,2.0,3.0,0.0,2.0,1.0,2.0,15.0,-8.0,Anfernee Simons,,POR,True,True
+lillada01,45.13333333333333,17.0,37.0,0.459,11.0,20.0,0.55,16.0,16.0,1.0,0.0,10.0,10.0,7.0,1.0,0.0,2.0,1.0,61.0,13.0,Damian Lillard,,POR,True,True
+whiteha01,43.516666666666666,7.0,12.0,0.583,0.0,0.0,,3.0,4.0,0.75,6.0,15.0,21.0,2.0,0.0,6.0,4.0,4.0,17.0,14.0,Hassan Whiteside,,POR,True,True
+anthoca01,42.733333333333334,7.0,14.0,0.5,0.0,2.0,0.0,0.0,0.0,,1.0,8.0,9.0,2.0,2.0,1.0,2.0,1.0,14.0,0.0,Carmelo Anthony,,POR,True,True
+littlna01,14.5,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,2.0,0.0,3.0,4.0,-1.0,Nassir Little,,POR,True,True
+trentga02,41.06666666666667,4.0,14.0,0.286,1.0,10.0,0.1,2.0,2.0,1.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,4.0,11.0,5.0,Gary Trent,,POR,True,False
+hezonma01,19.383333333333333,1.0,2.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,2.0,2.0,5.0,13.0,Mario Hezonja,,POR,True,False
+hoardja01,10.033333333333333,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,0.0,2.0,5.0,7.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,Jaylen Hoard,,POR,True,False
+brownmo01,2.25,0.0,0.0,,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,-12.0,Moses Brown,,POR,True,False
+mccolcj01,,,,,,,,,,,,,,,,,,,,,CJ McCollum,Did Not Dress,POR,True,False
+tollian01,,,,,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,POR,True,False
+bazemke01,,,,,,,,,,,,,,,,,,,,,Kent Bazemore,Did Not Play,POR,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+couside01,35.36666666666667,8.0,19.0,0.421,3.0,6.0,0.5,9.0,10.0,0.9,1.0,7.0,8.0,6.0,2.0,1.0,2.0,5.0,28.0,-3.0,DeMarcus Cousins,,SAC,False,True
+barnema02,28.916666666666668,5.0,11.0,0.455,1.0,4.0,0.25,2.0,2.0,1.0,1.0,4.0,5.0,2.0,1.0,1.0,3.0,5.0,13.0,-13.0,Matt Barnes,,SAC,False,True
+koufoko01,23.416666666666668,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,3.0,7.0,10.0,0.0,0.0,1.0,1.0,1.0,6.0,-13.0,Kosta Koufos,,SAC,False,True
+collida01,19.983333333333334,2.0,7.0,0.286,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,1.0,6.0,-5.0,Darren Collison,,SAC,False,True
+mclembe01,19.083333333333332,2.0,9.0,0.222,0.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,5.0,-11.0,Ben McLemore,,SAC,False,True
+templga01,31.383333333333333,6.0,13.0,0.462,2.0,6.0,0.333,0.0,0.0,,0.0,3.0,3.0,1.0,2.0,0.0,1.0,3.0,14.0,-1.0,Garrett Temple,,SAC,False,False
+tollian01,29.05,1.0,6.0,0.167,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,0.0,1.0,1.0,3.0,-2.0,Anthony Tolliver,,SAC,False,False
+lawsoty01,28.966666666666665,2.0,8.0,0.25,1.0,4.0,0.25,3.0,4.0,0.75,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,8.0,-12.0,Ty Lawson,,SAC,False,False
+casspom01,13.783333333333333,2.0,3.0,0.667,1.0,1.0,1.0,1.0,2.0,0.5,0.0,5.0,5.0,2.0,0.0,0.0,1.0,1.0,6.0,0.0,Omri Casspi,,SAC,False,False
+caulewi01,10.05,0.0,0.0,,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,-5.0,Willie Cauley-Stein,,SAC,False,False
+richama01,,,,,,,,,,,,,,,,,,,,,Malachi Richardson,Did Not Play,SAC,False,False
+papagge01,,,,,,,,,,,,,,,,,,,,,Georgios Papagiannis,Did Not Play,SAC,False,False
+labissk01,,,,,,,,,,,,,,,,,,,,,Skal Labissière,Did Not Play,SAC,False,False
+mccolcj01,34.96666666666667,6.0,18.0,0.333,2.0,6.0,0.333,6.0,7.0,0.857,0.0,2.0,2.0,7.0,1.0,0.0,2.0,0.0,20.0,11.0,CJ McCollum,,POR,True,True
+harklma01,33.06666666666667,5.0,7.0,0.714,2.0,3.0,0.667,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,2.0,3.0,12.0,10.0,Maurice Harkless,,POR,True,True
+crabbal01,32.71666666666667,4.0,8.0,0.5,3.0,4.0,0.75,2.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,13.0,12.0,Allen Crabbe,,POR,True,True
+aminual01,30.966666666666665,3.0,6.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,1.0,6.0,7.0,2.0,0.0,0.0,2.0,1.0,8.0,8.0,Al-Farouq Aminu,,POR,True,True
+plumlma01,23.45,4.0,6.0,0.667,0.0,0.0,,4.0,5.0,0.8,2.0,12.0,14.0,2.0,0.0,0.0,2.0,2.0,12.0,8.0,Mason Plumlee,,POR,True,True
+turneev01,30.216666666666665,5.0,8.0,0.625,0.0,1.0,0.0,1.0,1.0,1.0,0.0,6.0,6.0,4.0,1.0,1.0,5.0,3.0,11.0,4.0,Evan Turner,,POR,True,False
+leoname01,24.55,5.0,13.0,0.385,3.0,6.0,0.5,3.0,3.0,1.0,0.0,5.0,5.0,1.0,0.0,1.0,0.0,2.0,16.0,5.0,Meyers Leonard,,POR,True,False
+vonleno01,17.033333333333335,1.0,3.0,0.333,0.0,0.0,,2.0,2.0,1.0,2.0,1.0,3.0,0.0,1.0,1.0,1.0,0.0,4.0,5.0,Noah Vonleh,,POR,True,False
+napiesh01,13.033333333333333,2.0,5.0,0.4,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,3.0,6.0,2.0,Shabazz Napier,,POR,True,False
+quartti01,,,,,,,,,,,,,,,,,,,,,Tim Quarterman,Did Not Play,POR,True,False
+laymaja01,,,,,,,,,,,,,,,,,,,,,Jake Layman,Did Not Play,POR,True,False
+davised01,,,,,,,,,,,,,,,,,,,,,Ed Davis,Did Not Play,POR,True,False
+connapa01,,,,,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,POR,True,False

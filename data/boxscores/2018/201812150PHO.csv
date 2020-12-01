@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+townska01,38.03333333333333,11.0,26.0,0.423,1.0,7.0,0.143,5.0,6.0,0.833,4.0,8.0,12.0,4.0,2.0,2.0,0.0,4.0,28.0,-7.0,Karl-Anthony Towns,,MIN,False,True
+saricda01,34.93333333333333,6.0,12.0,0.5,2.0,5.0,0.4,1.0,1.0,1.0,3.0,8.0,11.0,2.0,1.0,0.0,1.0,2.0,15.0,2.0,Dario Šarić,,MIN,False,True
+wiggian01,33.28333333333333,6.0,15.0,0.4,1.0,6.0,0.167,1.0,2.0,0.5,2.0,4.0,6.0,3.0,0.0,0.0,0.0,2.0,14.0,-3.0,Andrew Wiggins,,MIN,False,True
+teaguje01,31.616666666666667,3.0,9.0,0.333,0.0,2.0,0.0,4.0,5.0,0.8,1.0,0.0,1.0,11.0,0.0,0.0,3.0,1.0,10.0,-6.0,Jeff Teague,,MIN,False,True
+covinro01,25.466666666666665,1.0,8.0,0.125,1.0,7.0,0.143,1.0,2.0,0.5,1.0,2.0,3.0,1.0,2.0,1.0,1.0,4.0,4.0,-8.0,Robert Covington,,MIN,False,True
+rosede01,32.766666666666666,11.0,16.0,0.688,2.0,3.0,0.667,1.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,2.0,0.0,25.0,-2.0,Derrick Rose,,MIN,False,False
+jonesty01,16.383333333333333,0.0,4.0,0.0,0.0,2.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,-2.0,Tyus Jones,,MIN,False,False
+tollian01,13.066666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,0.0,-10.0,Anthony Tolliver,,MIN,False,False
+dienggo01,9.966666666666667,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,2.0,0.0,0.0,2.0,4.0,0.0,-1.0,Gorgui Dieng,,MIN,False,False
+okogijo01,4.483333333333333,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,-3.0,Josh Okogie,,MIN,False,False
+nunnaja01,,,,,,,,,,,,,,,,,,,,,James Nunnally,Did Not Play,MIN,False,False
+denglu01,,,,,,,,,,,,,,,,,,,,,Luol Deng,Did Not Play,MIN,False,False
+bridgmi01,40.333333333333336,4.0,12.0,0.333,2.0,7.0,0.286,2.0,2.0,1.0,2.0,3.0,5.0,2.0,2.0,3.0,1.0,0.0,12.0,-1.0,Mikal Bridges,,PHO,True,True
+bookede01,35.983333333333334,10.0,16.0,0.625,3.0,6.0,0.5,5.0,6.0,0.833,0.0,7.0,7.0,7.0,0.0,0.0,2.0,2.0,28.0,2.0,Devin Booker,,PHO,True,True
+warretj01,32.6,8.0,19.0,0.421,3.0,6.0,0.5,2.0,2.0,1.0,1.0,4.0,5.0,1.0,1.0,1.0,0.0,5.0,21.0,8.0,T.J. Warren,,PHO,True,True
+aytonde01,25.5,7.0,11.0,0.636,0.0,0.0,,4.0,5.0,0.8,5.0,7.0,12.0,2.0,0.0,1.0,0.0,4.0,18.0,8.0,Deandre Ayton,,PHO,True,True
+meltode01,21.2,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,5.0,2.0,0.0,3.0,3.0,9.0,9.0,De'Anthony Melton,,PHO,True,True
+crawfja01,25.533333333333335,2.0,8.0,0.25,0.0,4.0,0.0,0.0,0.0,,0.0,3.0,3.0,7.0,0.0,0.0,4.0,1.0,4.0,4.0,Jamal Crawford,,PHO,True,False
+holmeri01,22.5,4.0,6.0,0.667,0.0,0.0,,1.0,1.0,1.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,3.0,9.0,0.0,Richaun Holmes,,PHO,True,False
+jacksjo02,22.5,2.0,10.0,0.2,0.0,2.0,0.0,2.0,4.0,0.5,1.0,5.0,6.0,2.0,1.0,2.0,4.0,3.0,6.0,11.0,Josh Jackson,,PHO,True,False
+evansja01,13.85,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,5.0,6.0,4.0,0.0,0.0,1.0,1.0,0.0,-1.0,Jawun Evans,,PHO,True,False
+bendedr01,,,,,,,,,,,,,,,,,,,,,Dragan Bender,Did Not Play,PHO,True,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Play,PHO,True,False
+moreler01,,,,,,,,,,,,,,,,,,,,,Eric Moreland,Did Not Play,PHO,True,False
+danietr01,,,,,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,PHO,True,False

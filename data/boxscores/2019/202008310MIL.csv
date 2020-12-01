@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+adebaba01,37.8,5.0,12.0,0.417,0.0,0.0,,2.0,2.0,1.0,6.0,11.0,17.0,6.0,2.0,0.0,2.0,3.0,12.0,10.0,Bam Adebayo,,MIA,False,True
+butleji01,36.483333333333334,13.0,20.0,0.65,2.0,2.0,1.0,12.0,13.0,0.923,2.0,2.0,4.0,2.0,2.0,1.0,3.0,1.0,40.0,7.0,Jimmy Butler,,MIA,False,True
+crowdja01,34.916666666666664,3.0,8.0,0.375,3.0,7.0,0.429,0.0,0.0,,1.0,8.0,9.0,0.0,0.0,0.0,4.0,2.0,9.0,1.0,Jae Crowder,,MIA,False,True
+dragigo01,33.61666666666667,9.0,15.0,0.6,2.0,5.0,0.4,7.0,7.0,1.0,2.0,4.0,6.0,5.0,1.0,0.0,2.0,3.0,27.0,10.0,Goran Dragić,,MIA,False,True
+robindu01,26.283333333333335,1.0,4.0,0.25,1.0,4.0,0.25,1.0,1.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,4.0,4.0,6.0,Duncan Robinson,,MIA,False,True
+herroty01,28.633333333333333,3.0,11.0,0.273,3.0,6.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,2.0,2.0,11.0,5.0,Tyler Herro,,MIA,False,False
+iguodan01,18.516666666666666,1.0,4.0,0.25,0.0,3.0,0.0,0.0,0.0,,1.0,3.0,4.0,0.0,1.0,1.0,2.0,4.0,2.0,7.0,Andre Iguodala,,MIA,False,False
+nunnke01,16.05,3.0,9.0,0.333,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,1.0,1.0,6.0,8.0,Kendrick Nunn,,MIA,False,False
+olynyke01,7.7,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.0,2.0,2.0,2.0,1.0,0.0,0.0,3.0,4.0,1.0,Kelly Olynyk,,MIA,False,False
+jonesde02,,,,,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Play,MIA,False,False
+hillso01,,,,,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+leoname01,,,,,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Play,MIA,False,False
+middlkh01,37.05,12.0,24.0,0.5,4.0,8.0,0.5,0.0,0.0,,0.0,6.0,6.0,5.0,2.0,0.0,4.0,6.0,28.0,-7.0,Khris Middleton,,MIL,True,True
+antetgi01,36.6,6.0,12.0,0.5,2.0,5.0,0.4,4.0,12.0,0.333,2.0,8.0,10.0,9.0,1.0,1.0,6.0,3.0,18.0,-14.0,Giannis Antetokounmpo,,MIL,True,True
+hillge01,36.31666666666667,2.0,5.0,0.4,1.0,3.0,0.333,3.0,5.0,0.6,1.0,0.0,1.0,4.0,0.0,0.0,4.0,2.0,8.0,-7.0,George Hill,,MIL,True,True
+lopezbr01,27.4,8.0,10.0,0.8,4.0,6.0,0.667,4.0,4.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,4.0,24.0,-5.0,Brook Lopez,,MIL,True,True
+matthwe02,23.766666666666666,2.0,4.0,0.5,2.0,3.0,0.667,1.0,2.0,0.5,0.0,1.0,1.0,0.0,1.0,2.0,1.0,2.0,7.0,-11.0,Wesley Matthews,,MIL,True,True
+connapa01,25.45,1.0,5.0,0.2,0.0,3.0,0.0,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,0.0,1.0,2.0,2.0,-7.0,Pat Connaughton,,MIL,True,False
+willima02,21.35,2.0,5.0,0.4,0.0,0.0,,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,3.0,5.0,-1.0,Marvin Williams,,MIL,True,False
+korveky01,16.466666666666665,4.0,9.0,0.444,3.0,7.0,0.429,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,1.0,1.0,1.0,11.0,-4.0,Kyle Korver,,MIL,True,False
+divindo01,13.933333333333334,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,2.0,2.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,-1.0,Donte DiVincenzo,,MIL,True,False
+masonfr01,1.6666666666666665,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Frank Mason,,MIL,True,False
+lopezro01,,,,,,,,,,,,,,,,,,,,,Robin Lopez,Did Not Play,MIL,True,False
+brownst02,,,,,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,True,False
+ilyaser01,,,,,,,,,,,,,,,,,,,,,Ersan İlyasova,Did Not Play,MIL,True,False

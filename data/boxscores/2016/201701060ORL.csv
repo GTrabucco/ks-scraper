@@ -1,0 +1,31 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hardeja01,34.15,5.0,15.0,0.333,0.0,8.0,0.0,4.0,6.0,0.667,1.0,5.0,6.0,10.0,1.0,0.0,6.0,4.0,14.0,-6.0,James Harden,,HOU,False,True
+anderry01,33.0,7.0,12.0,0.583,5.0,9.0,0.556,0.0,0.0,,0.0,4.0,4.0,0.0,2.0,0.0,0.0,0.0,19.0,-1.0,Ryan Anderson,,HOU,False,True
+beverpa01,31.466666666666665,7.0,9.0,0.778,3.0,4.0,0.75,0.0,0.0,,4.0,5.0,9.0,3.0,3.0,0.0,3.0,1.0,17.0,6.0,Patrick Beverley,,HOU,False,True
+arizatr01,29.333333333333332,5.0,10.0,0.5,3.0,8.0,0.375,0.0,0.0,,2.0,4.0,6.0,2.0,0.0,0.0,0.0,2.0,13.0,-3.0,Trevor Ariza,,HOU,False,True
+harremo01,21.583333333333332,3.0,6.0,0.5,0.0,0.0,,3.0,6.0,0.5,1.0,3.0,4.0,1.0,1.0,1.0,2.0,2.0,9.0,-7.0,Montrezl Harrell,,HOU,False,True
+gordoer01,31.55,7.0,20.0,0.35,3.0,16.0,0.188,0.0,0.0,,0.0,3.0,3.0,4.0,1.0,0.0,0.0,3.0,17.0,12.0,Eric Gordon,,HOU,False,False
+hilarne01,25.483333333333334,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,2.0,3.0,0.0,2.0,1.0,4.0,16.0,Nenê Hilário,,HOU,False,False
+dekkesa01,17.55,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,,4.0,4.0,8.0,1.0,1.0,0.0,1.0,1.0,7.0,11.0,Sam Dekker,,HOU,False,False
+breweco01,15.883333333333333,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,0.0,1.0,1.0,0.0,7.0,Corey Brewer,,HOU,False,False
+capelca01,,,,,,,,,,,,,,,,,,,,,Clint Capela,Did Not Play,HOU,False,False
+mcdankj01,,,,,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,HOU,False,False
+ennisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,HOU,False,False
+onuakch01,,,,,,,,,,,,,,,,,,,,,Chinanu Onuaku,Did Not Play,HOU,False,False
+wiltjky01,,,,,,,,,,,,,,,,,,,,,Kyle Wiltjer,Did Not Play,HOU,False,False
+brownbo02,,,,,,,,,,,,,,,,,,,,,Bobby Brown,Did Not Play,HOU,False,False
+gordoaa01,35.78333333333333,7.0,14.0,0.5,2.0,6.0,0.333,2.0,3.0,0.667,3.0,3.0,6.0,7.0,1.0,0.0,2.0,2.0,18.0,6.0,Aaron Gordon,,ORL,True,True
+fournev01,35.18333333333333,4.0,13.0,0.308,0.0,2.0,0.0,2.0,3.0,0.667,3.0,6.0,9.0,2.0,1.0,0.0,2.0,2.0,10.0,7.0,Evan Fournier,,ORL,True,True
+ibakase01,33.333333333333336,8.0,17.0,0.471,0.0,1.0,0.0,0.0,2.0,0.0,5.0,7.0,12.0,1.0,0.0,0.0,1.0,3.0,16.0,6.0,Serge Ibaka,,ORL,True,True
+paytoel01,25.05,6.0,10.0,0.6,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,2.0,2.0,0.0,1.0,0.0,12.0,-13.0,Elfrid Payton,,ORL,True,True
+biyombi01,19.516666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,2.0,2.0,0.0,1.0,2.0,2.0,-11.0,Bismack Biyombo,,ORL,True,True
+augusdj01,28.783333333333335,5.0,9.0,0.556,4.0,7.0,0.571,5.0,5.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,2.0,2.0,19.0,3.0,D.J. Augustin,,ORL,True,False
+vucevni01,28.433333333333334,4.0,15.0,0.267,1.0,1.0,1.0,0.0,0.0,,5.0,7.0,12.0,1.0,0.0,1.0,3.0,3.0,9.0,-10.0,Nikola Vučević,,ORL,True,False
+greenje02,19.916666666666668,3.0,8.0,0.375,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,7.0,-12.0,Jeff Green,,ORL,True,False
+meeksjo01,14.033333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,-11.0,Jodie Meeks,,ORL,True,False
+onuakar01,,,,,,,,,,,,,,,,,,,,,Arinze Onuaku,Did Not Play,ORL,True,False
+rudezda01,,,,,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,ORL,True,False
+watsocj01,,,,,,,,,,,,,,,,,,,,,C.J. Watson,Did Not Play,ORL,True,False
+wilcocj01,,,,,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,ORL,True,False
+zimmest01,,,,,,,,,,,,,,,,,,,,,Stephen Zimmerman,Did Not Play,ORL,True,False
+hezonma01,,,,,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Play,ORL,True,False

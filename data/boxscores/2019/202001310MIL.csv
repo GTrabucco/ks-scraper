@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bartowi01,33.666666666666664,9.0,16.0,0.563,6.0,9.0,0.667,0.0,0.0,,2.0,5.0,7.0,8.0,1.0,0.0,3.0,1.0,24.0,1.0,Will Barton,,DEN,False,True
+jokicni01,33.266666666666666,7.0,17.0,0.412,1.0,3.0,0.333,0.0,0.0,,0.0,10.0,10.0,9.0,1.0,0.0,3.0,4.0,15.0,-9.0,Nikola Jokić,,DEN,False,True
+grantje01,32.43333333333333,4.0,12.0,0.333,2.0,7.0,0.286,0.0,0.0,,1.0,3.0,4.0,2.0,2.0,7.0,2.0,3.0,10.0,21.0,Jerami Grant,,DEN,False,True
+morrimo01,29.4,5.0,9.0,0.556,1.0,2.0,0.5,3.0,3.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,14.0,3.0,Monte Morris,,DEN,False,True
+craigto01,21.933333333333334,4.0,7.0,0.571,3.0,5.0,0.6,0.0,0.0,,2.0,3.0,5.0,2.0,0.0,0.0,0.0,2.0,11.0,-6.0,Torrey Craig,,DEN,False,True
+beaslma01,26.75,5.0,12.0,0.417,5.0,10.0,0.5,1.0,1.0,1.0,0.0,4.0,4.0,1.0,2.0,0.0,1.0,2.0,16.0,25.0,Malik Beasley,,DEN,False,False
+portemi01,25.133333333333333,5.0,11.0,0.455,1.0,3.0,0.333,4.0,4.0,1.0,1.0,10.0,11.0,1.0,1.0,2.0,1.0,2.0,15.0,11.0,Michael Porter,,DEN,False,False
+hernaju01,19.0,5.0,9.0,0.556,2.0,4.0,0.5,0.0,0.0,,1.0,4.0,5.0,1.0,0.0,0.0,0.0,1.0,12.0,8.0,Juan Hernangómez,,DEN,False,False
+doziepj01,18.416666666666668,4.0,7.0,0.571,1.0,3.0,0.333,1.0,1.0,1.0,0.0,3.0,3.0,4.0,1.0,1.0,2.0,3.0,10.0,6.0,PJ Dozier,,DEN,False,False
+vandeja01,,,,,,,,,,,,,,,,,,,,,Jarred Vanderbilt,Did Not Play,DEN,False,False
+plumlma01,,,,,,,,,,,,,,,,,,,,,Mason Plumlee,Did Not Play,DEN,False,False
+cancavl01,,,,,,,,,,,,,,,,,,,,,Vlatko Čančar,Did Not Play,DEN,False,False
+middlkh01,36.5,7.0,11.0,0.636,4.0,6.0,0.667,6.0,7.0,0.857,0.0,2.0,2.0,9.0,0.0,0.0,3.0,4.0,24.0,-9.0,Khris Middleton,,MIL,True,True
+matthwe02,32.15,4.0,8.0,0.5,1.0,5.0,0.2,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,9.0,-5.0,Wesley Matthews,,MIL,True,True
+antetgi01,31.9,11.0,27.0,0.407,1.0,5.0,0.2,8.0,12.0,0.667,5.0,11.0,16.0,9.0,1.0,2.0,2.0,1.0,31.0,-7.0,Giannis Antetokounmpo,,MIL,True,True
+bledser01,31.55,6.0,11.0,0.545,1.0,5.0,0.2,2.0,5.0,0.4,0.0,3.0,3.0,7.0,2.0,0.0,4.0,3.0,15.0,-12.0,Eric Bledsoe,,MIL,True,True
+antetth01,5.233333333333333,2.0,3.0,0.667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,4.0,6.0,Thanasis Antetokounmpo,,MIL,True,True
+connapa01,26.216666666666665,3.0,7.0,0.429,2.0,4.0,0.5,0.0,0.0,,0.0,10.0,10.0,1.0,1.0,1.0,0.0,0.0,8.0,-20.0,Pat Connaughton,,MIL,True,False
+lopezbr01,24.1,4.0,11.0,0.364,0.0,5.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,2.0,1.0,3.0,8.0,-7.0,Brook Lopez,,MIL,True,False
+brownst02,19.366666666666667,2.0,8.0,0.25,1.0,4.0,0.25,0.0,0.0,,1.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,5.0,6.0,Sterling Brown,,MIL,True,False
+korveky01,17.333333333333332,1.0,3.0,0.333,0.0,2.0,0.0,1.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,3.0,-11.0,Kyle Korver,,MIL,True,False
+lopezro01,8.15,2.0,4.0,0.5,1.0,1.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,-6.0,Robin Lopez,,MIL,True,False
+ilyaser01,7.5,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,Ersan İlyasova,,MIL,True,False
+wilsodj01,,,,,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,True,False
+bendedr01,,,,,,,,,,,,,,,,,,,,,Dragan Bender,Did Not Play,MIL,True,False

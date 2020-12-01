@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+barneha02,37.916666666666664,9.0,12.0,0.75,2.0,4.0,0.5,1.0,2.0,0.5,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,21.0,10.0,Harrison Barnes,,SAC,False,True
+foxde01,31.966666666666665,8.0,15.0,0.533,1.0,3.0,0.333,4.0,9.0,0.444,0.0,2.0,2.0,5.0,1.0,1.0,1.0,3.0,21.0,11.0,De'Aaron Fox,,SAC,False,True
+bogdabo01,31.9,6.0,10.0,0.6,2.0,5.0,0.4,3.0,4.0,0.75,0.0,1.0,1.0,3.0,2.0,0.0,1.0,3.0,17.0,7.0,Bogdan Bogdanović,,SAC,False,True
+bjeline01,26.55,0.0,5.0,0.0,0.0,4.0,0.0,1.0,1.0,1.0,0.0,3.0,3.0,5.0,0.0,0.0,2.0,3.0,1.0,9.0,Nemanja Bjelica,,SAC,False,True
+gilesha01,23.7,5.0,9.0,0.556,0.0,0.0,,3.0,6.0,0.5,1.0,8.0,9.0,4.0,1.0,0.0,0.0,4.0,13.0,-3.0,Harry Giles,,SAC,False,True
+bazemke01,31.233333333333334,2.0,4.0,0.5,2.0,2.0,1.0,3.0,8.0,0.375,0.0,10.0,10.0,1.0,2.0,1.0,4.0,5.0,9.0,24.0,Kent Bazemore,,SAC,False,False
+hieldbu01,25.333333333333332,6.0,15.0,0.4,5.0,10.0,0.5,2.0,2.0,1.0,0.0,6.0,6.0,2.0,1.0,0.0,0.0,0.0,19.0,14.0,Buddy Hield,,SAC,False,False
+josepco01,16.033333333333335,4.0,5.0,0.8,1.0,2.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,3.0,0.0,0.0,0.0,3.0,11.0,7.0,Cory Joseph,,SAC,False,False
+lenal01,15.366666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,2.0,1.0,1.0,0.0,11.0,Alex Len,,SAC,False,False
+jamesju01,,,,,,,,,,,,,,,,,,,,,Justin James,Did Not Play,SAC,False,False
+ferreyo01,,,,,,,,,,,,,,,,,,,,,Yogi Ferrell,Did Not Play,SAC,False,False
+tollian01,,,,,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,SAC,False,False
+parkeja01,,,,,,,,,,,,,,,,,,,,,Jabari Parker,Did Not Play,SAC,False,False
+pascher01,36.06666666666667,5.0,8.0,0.625,0.0,3.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,2.0,1.0,0.0,2.0,4.0,12.0,-8.0,Eric Paschall,,GSW,True,True
+poolejo01,31.516666666666666,5.0,14.0,0.357,1.0,7.0,0.143,2.0,3.0,0.667,0.0,1.0,1.0,4.0,1.0,0.0,3.0,5.0,13.0,-7.0,Jordan Poole,,GSW,True,True
+wiggian01,30.516666666666666,6.0,14.0,0.429,0.0,3.0,0.0,4.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,16.0,-16.0,Andrew Wiggins,,GSW,True,True
+leeda03,30.4,4.0,9.0,0.444,3.0,7.0,0.429,3.0,4.0,0.75,1.0,5.0,6.0,4.0,1.0,1.0,1.0,3.0,14.0,-13.0,Damion Lee,,GSW,True,True
+chrisma01,25.35,8.0,10.0,0.8,0.0,1.0,0.0,5.0,6.0,0.833,1.0,9.0,10.0,3.0,0.0,0.0,1.0,4.0,21.0,-12.0,Marquese Chriss,,GSW,True,True
+bowmaky01,25.15,4.0,10.0,0.4,0.0,2.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,2.0,1.0,0.0,2.0,5.0,10.0,-9.0,Ky Bowman,,GSW,True,False
+bendedr01,24.716666666666665,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,,2.0,3.0,5.0,1.0,1.0,0.0,3.0,2.0,0.0,-14.0,Dragan Bender,,GSW,True,False
+toscaju01,21.533333333333335,1.0,4.0,0.25,0.0,2.0,0.0,1.0,2.0,0.5,0.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,3.0,-10.0,Juan Toscano-Anderson,,GSW,True,False
+looneke01,14.75,2.0,6.0,0.333,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,3.0,2.0,0.0,1.0,1.0,1.0,5.0,-1.0,Kevon Looney,,GSW,True,False
+greendr01,,,,,,,,,,,,,,,,,,,,,Draymond Green,Did Not Dress,GSW,True,False
+smailal01,,,,,,,,,,,,,,,,,,,,,Alen Smailagić,Did Not Play,GSW,True,False

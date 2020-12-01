@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bembrde01,31.7,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,2.0,5.0,7.0,2.0,1.0,1.0,2.0,3.0,7.0,-8.0,DeAndre' Bembry,,ATL,False,True
+caldejo01,29.533333333333335,5.0,8.0,0.625,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,2.0,5.0,0.0,0.0,3.0,1.0,12.0,-9.0,José Calderón,,ATL,False,True
+humphkr01,27.766666666666666,2.0,9.0,0.222,0.0,3.0,0.0,1.0,4.0,0.25,4.0,4.0,8.0,0.0,0.0,2.0,0.0,2.0,5.0,-8.0,Kris Humphries,,ATL,False,True
+princta02,24.666666666666668,4.0,8.0,0.5,1.0,3.0,0.333,2.0,3.0,0.667,0.0,2.0,2.0,2.0,1.0,0.0,1.0,4.0,11.0,-4.0,Taurean Waller-Prince,,ATL,False,True
+ilyaser01,18.016666666666666,6.0,10.0,0.6,1.0,3.0,0.333,2.0,2.0,1.0,0.0,3.0,3.0,2.0,1.0,0.0,3.0,2.0,15.0,-2.0,Ersan İlyasova,,ATL,False,True
+delanma01,26.116666666666667,2.0,7.0,0.286,1.0,3.0,0.333,5.0,5.0,1.0,0.0,2.0,2.0,5.0,2.0,0.0,3.0,2.0,10.0,-13.0,Malcolm Delaney,,ATL,False,False
+sefolth01,23.366666666666667,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,0.0,3.0,0.0,0.0,-15.0,Thabo Sefolosha,,ATL,False,False
+kellyry01,21.5,3.0,8.0,0.375,2.0,2.0,1.0,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,8.0,-15.0,Ryan Kelly,,ATL,False,False
+muscami01,20.233333333333334,3.0,7.0,0.429,2.0,4.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,2.0,0.0,1.0,1.0,1.0,10.0,-10.0,Mike Muscala,,ATL,False,False
+dunlemi02,17.1,2.0,6.0,0.333,1.0,4.0,0.25,3.0,3.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,8.0,-6.0,Mike Dunleavy,,ATL,False,False
+hardati02,,,,,,,,,,,,,,,,,,,,,Tim Hardaway,Did Not Play,ATL,False,False
+howardw01,,,,,,,,,,,,,,,,,,,,,Dwight Howard,Did Not Play,ATL,False,False
+schrode01,,,,,,,,,,,,,,,,,,,,,Dennis Schröder,Did Not Play,ATL,False,False
+georgpa01,39.666666666666664,12.0,21.0,0.571,5.0,10.0,0.5,3.0,3.0,1.0,0.0,11.0,11.0,3.0,1.0,0.0,1.0,3.0,32.0,15.0,Paul George,,IND,True,True
+youngth01,36.15,4.0,8.0,0.5,0.0,0.0,,1.0,2.0,0.5,4.0,4.0,8.0,1.0,2.0,0.0,2.0,0.0,9.0,22.0,Thaddeus Young,,IND,True,True
+turnemy01,32.833333333333336,7.0,14.0,0.5,0.0,1.0,0.0,4.0,4.0,1.0,3.0,5.0,8.0,2.0,0.0,6.0,1.0,2.0,18.0,13.0,Myles Turner,,IND,True,True
+teaguje01,32.0,6.0,9.0,0.667,1.0,2.0,0.5,6.0,8.0,0.75,0.0,0.0,0.0,7.0,0.0,0.0,1.0,1.0,19.0,13.0,Jeff Teague,,IND,True,True
+ellismo01,23.666666666666668,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,14.0,Monta Ellis,,IND,True,True
+stephla01,22.933333333333334,2.0,7.0,0.286,0.0,1.0,0.0,0.0,0.0,,1.0,9.0,10.0,6.0,1.0,1.0,3.0,2.0,4.0,2.0,Lance Stephenson,,IND,True,False
+milescj01,20.7,3.0,8.0,0.375,3.0,7.0,0.429,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,9.0,-1.0,C.J. Miles,,IND,True,False
+brookaa01,16.883333333333333,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,7.0,Aaron Brooks,,IND,True,False
+serapke01,15.166666666666666,3.0,8.0,0.375,0.0,0.0,,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,2.0,8.0,5.0,Kevin Séraphin,,IND,True,False
+allenla01,,,,,,,,,,,,,,,,,,,,,Lavoy Allen,Did Not Play,IND,True,False
+chrisra01,,,,,,,,,,,,,,,,,,,,,Rakeem Christmas,Did Not Play,IND,True,False
+jeffeal01,,,,,,,,,,,,,,,,,,,,,Al Jefferson,Did Not Dress,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False
