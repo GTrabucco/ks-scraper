@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mitchdo01,38.36666666666667,0.696,0.567,0.533,0.667,2.6,9.6,6.3,24.8,0.0,0.0,13.4,26.0,132.0,103.0,6.4,Donovan Mitchell,,UTA,False,True
+goberru01,36.31666666666667,0.612,0.6,0.0,0.7,13.8,17.8,15.9,10.1,4.1,6.7,7.1,17.3,130.0,86.0,8.6,Rudy Gobert,,UTA,False,True
+inglejo01,33.81666666666667,0.5,0.5,0.75,0.0,0.0,13.6,7.1,14.3,1.5,2.4,20.0,13.2,90.0,97.0,-3.3,Joe Ingles,,UTA,False,True
+rubiori01,33.63333333333333,0.275,0.25,0.188,0.313,3.0,19.2,11.4,30.3,6.0,0.0,14.2,28.1,68.0,87.0,-5.2,Ricky Rubio,,UTA,False,True
+favorde01,30.183333333333334,0.75,0.75,0.2,0.0,9.9,15.3,12.7,7.0,0.0,0.0,0.0,14.8,156.0,101.0,4.6,Derrick Favors,,UTA,False,True
+crowdja01,27.983333333333334,0.497,0.5,0.455,0.636,3.6,9.9,6.9,6.3,1.8,2.9,12.4,25.6,92.0,97.0,-1.0,Jae Crowder,,UTA,False,False
+onealro01,17.7,0.0,0.0,0.5,0.0,0.0,15.6,8.1,8.0,0.0,4.6,0.0,5.0,31.0,98.0,-5.2,Royce O'Neale,,UTA,False,False
+jerebjo01,16.55,0.5,0.5,0.625,0.0,0.0,33.5,17.4,0.0,0.0,0.0,11.1,24.2,86.0,95.0,-5.4,Jonas Jerebko,,UTA,False,False
+netora01,5.45,0.0,0.0,1.0,0.0,0.0,16.9,8.8,25.9,0.0,14.9,33.3,24.5,19.0,90.0,-12.4,Raul Neto,,UTA,False,False
+udohek01,,,,,,,,,,,,,,,,,Ekpe Udoh,Did Not Play,UTA,False,False
+mitrona01,,,,,,,,,,,,,,,,,Naz Mitrou-Long,Did Not Play,UTA,False,False
+burksal01,,,,,,,,,,,,,,,,,Alec Burks,Did Not Play,UTA,False,False
+jacksju01,29.183333333333334,0.307,0.25,0.5,0.5,3.2,13.7,8.2,15.3,1.7,3.3,17.0,8.8,80.0,102.0,-2.1,Justin Jackson,,SAC,True,True
+bogdabo01,28.366666666666667,0.689,0.65,0.4,0.2,0.0,17.6,8.5,0.0,0.0,0.0,0.0,16.8,140.0,107.0,3.1,Bogdan Bogdanović,,SAC,True,True
+foxde01,27.5,0.555,0.5,0.143,0.214,0.0,14.5,7.0,24.0,3.7,0.0,16.4,29.2,99.0,99.0,1.2,De'Aaron Fox,,SAC,True,True
+randoza01,25.6,0.381,0.321,0.429,0.286,3.6,15.6,9.4,0.0,0.0,0.0,6.0,28.7,79.0,108.0,-8.5,Zach Randolph,,SAC,True,True
+koufoko01,25.016666666666666,0.667,0.667,0.0,0.0,3.7,24.0,13.4,21.9,0.0,3.8,14.3,12.3,127.0,102.0,4.4,Kosta Koufos,,SAC,True,True
+hieldbu01,29.316666666666666,0.346,0.346,0.385,0.0,6.3,6.8,6.5,6.0,0.0,3.3,7.1,20.9,77.0,108.0,-8.2,Buddy Hield,,SAC,True,False
+labissk01,28.983333333333334,0.51,0.45,0.1,0.4,15.9,24.2,19.9,18.1,0.0,9.9,25.4,23.8,95.0,98.0,0.4,Skal Labissière,,SAC,True,False
+cartevi01,25.533333333333335,0.338,0.25,0.375,0.25,3.6,19.6,11.3,6.2,0.0,0.0,10.1,17.0,75.0,107.0,-7.4,Vince Carter,,SAC,True,False
+masonfr01,20.5,0.45,0.45,0.7,0.0,0.0,0.0,0.0,8.7,9.8,4.7,9.1,23.5,87.0,88.0,9.3,Frank Mason,,SAC,True,False
+templga01,,,,,,,,,,,,,,,,,Garrett Temple,Did Not Play,SAC,True,False
+shumpim01,,,,,,,,,,,,,,,,,Iman Shumpert,Did Not Play,SAC,True,False
+cabocbr01,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,SAC,True,False

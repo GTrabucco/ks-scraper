@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+youngth01,34.8,0.643,0.6,0.0,0.2,8.3,5.7,7.0,16.9,0.0,0.0,0.0,13.6,146.0,112.0,3.1,Thaddeus Young,,IND,False,True
+collida01,34.55,0.739,0.75,0.429,0.143,0.0,11.6,5.7,29.3,1.4,0.0,0.0,18.7,151.0,107.0,9.9,Darren Collison,,IND,False,True
+bogdabo02,33.35,0.493,0.458,0.417,0.417,0.0,3.0,1.5,16.3,1.4,0.0,17.4,22.4,88.0,110.0,-4.3,Bojan Bogdanović,,IND,False,True
+turnemy01,31.65,0.374,0.294,0.235,0.412,3.0,25.3,13.9,4.5,3.0,8.7,9.1,30.3,75.0,94.0,-6.5,Myles Turner,,IND,False,True
+josepco01,31.1,0.357,0.357,0.571,0.0,3.1,12.9,7.9,16.3,1.5,0.0,0.0,9.8,101.0,106.0,-2.1,Cory Joseph,,IND,False,True
+sabondo01,22.533333333333335,0.81,0.778,0.0,0.222,8.5,48.8,28.3,8.2,0.0,0.0,0.0,19.0,166.0,97.0,9.7,Domantas Sabonis,,IND,False,False
+evansty01,18.716666666666665,0.375,0.375,0.25,0.0,0.0,10.7,5.2,16.7,0.0,0.0,14.3,32.5,69.0,110.0,-11.1,Tyreke Evans,,IND,False,False
+sumneed01,14.183333333333334,0.174,0.0,0.5,1.0,0.0,7.1,3.5,8.3,0.0,0.0,25.8,11.9,41.0,112.0,-13.1,Edmond Sumner,,IND,False,False
+holidaa01,13.45,0.592,0.5,0.6,0.8,7.1,7.4,7.3,21.1,0.0,0.0,12.9,25.0,117.0,111.0,-0.9,Aaron Holiday,,IND,False,False
+leaftj01,5.65,0.833,0.833,0.667,0.0,0.0,17.7,8.7,0.0,0.0,0.0,0.0,23.1,144.0,108.0,13.7,T.J. Leaf,,IND,False,False
+reedda01,,,,,,,,,,,,,,,,,Davon Reed,Did Not Play,IND,False,False
+oquinky01,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,IND,False,False
+holidjr01,39.1,0.501,0.4,0.467,0.6,7.7,22.1,15.0,34.9,1.2,1.9,20.9,25.2,102.0,107.0,1.3,Jrue Holiday,,NOP,True,True
+milleda01,36.7,0.559,0.538,0.846,0.231,2.7,7.8,5.3,8.1,0.0,0.0,12.3,18.3,105.0,114.0,-3.3,Darius Miller,,NOP,True,True
+willike04,34.516666666666666,0.308,0.308,0.615,0.0,5.8,16.7,11.4,20.0,2.8,2.2,7.1,16.7,85.0,104.0,-0.9,Kenrich Williams,,NOP,True,True
+okafoja01,33.13333333333333,0.722,0.688,0.0,0.188,6.0,31.9,19.2,6.3,1.4,2.3,5.5,22.8,139.0,103.0,7.3,Jahlil Okafor,,NOP,True,True
+jacksfr01,22.916666666666668,0.357,0.357,0.429,0.0,0.0,8.4,4.3,12.0,0.0,0.0,12.5,14.4,77.0,114.0,-7.6,Frank Jackson,,NOP,True,True
+clarkia01,28.333333333333332,0.567,0.533,0.467,0.133,3.5,0.0,1.7,25.0,0.0,0.0,15.9,27.4,104.0,115.0,-3.6,Ian Clark,,NOP,True,False
+diallch01,22.3,0.644,0.625,0.0,0.375,13.5,43.0,28.6,0.0,2.1,3.4,9.7,19.1,124.0,98.0,4.1,Cheick Diallo,,NOP,True,False
+fraziti01,17.5,0.258,0.0,0.667,0.667,0.0,5.5,2.8,21.1,2.7,0.0,34.0,13.8,61.0,108.0,-9.7,Tim Frazier,,NOP,True,False
+hillso01,5.466666666666667,1.136,,,,18.3,0.0,9.0,0.0,0.0,0.0,0.0,6.6,242.0,115.0,5.8,Solomon Hill,,NOP,True,False
+mirotni01,,,,,,,,,,,,,,,,,Nikola Mirotić,Did Not Dress,NOP,True,False
+mooreet01,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Dress,NOP,True,False
+johnswe01,,,,,,,,,,,,,,,,,Wesley Johnson,Did Not Play,NOP,True,False
+paytoel01,,,,,,,,,,,,,,,,,Elfrid Payton,Did Not Play,NOP,True,False

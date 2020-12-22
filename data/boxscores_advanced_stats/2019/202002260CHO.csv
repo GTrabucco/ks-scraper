@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+paytoel01,27.316666666666666,0.375,0.375,0.25,0.0,0.0,9.0,4.4,41.9,1.9,0.0,42.9,22.9,71.0,115.0,-13.4,Elfrid Payton,,NYK,False,True
+randlju01,25.233333333333334,0.571,0.536,0.071,0.286,14.3,29.3,21.7,19.2,0.0,7.2,6.0,29.7,127.0,110.0,10.8,Julius Randle,,NYK,False,True
+harklma01,24.533333333333335,0.906,1.0,0.0,4.0,0.0,20.1,9.9,9.5,2.1,0.0,42.0,8.7,111.0,112.0,-4.1,Maurice Harkless,,NYK,False,True
+barrerj01,21.366666666666667,0.227,0.227,0.364,0.0,0.0,17.3,8.5,5.8,0.0,0.0,0.0,23.0,62.0,118.0,-14.5,RJ Barrett,,NYK,False,True
+gibsota01,18.116666666666667,0.714,0.714,0.0,0.0,13.2,6.8,10.1,0.0,0.0,0.0,12.5,19.7,128.0,120.0,-0.9,Taj Gibson,,NYK,False,True
+robinmi01,29.883333333333333,0.652,0.714,0.0,0.714,28.1,37.1,32.5,9.2,1.7,9.1,9.8,15.2,139.0,103.0,8.8,Mitchell Robinson,,NYK,False,False
+knoxke01,23.466666666666665,0.4,0.4,0.4,0.0,0.0,10.5,5.2,10.5,0.0,0.0,16.7,11.4,85.0,119.0,-8.5,Kevin Knox,,NYK,False,False
+portibo01,22.766666666666666,0.773,0.773,0.182,0.0,5.3,10.8,8.0,0.0,0.0,4.0,8.3,23.5,139.0,117.0,7.1,Bobby Portis,,NYK,False,False
+smithde03,20.683333333333334,0.349,0.333,0.167,0.167,0.0,0.0,0.0,20.6,0.0,0.0,7.2,30.0,84.0,122.0,-15.3,Dennis Smith,,NYK,False,False
+trieral01,16.333333333333332,0.845,0.813,0.25,0.25,0.0,0.0,0.0,0.0,3.1,0.0,10.1,27.0,147.0,115.0,8.3,Allonzo Trier,,NYK,False,False
+bullore01,10.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,4.3,0.0,111.0,-5.4,Reggie Bullock,,NYK,False,False
+dotsoda01,,,,,,,,,,,,,,,,,Damyean Dotson,Did Not Play,NYK,False,False
+ellinwa01,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,NYK,False,False
+washipj01,36.666666666666664,0.429,0.429,0.5,0.0,0.0,16.4,8.3,12.1,2.8,0.0,12.5,19.4,85.0,106.0,-5.1,P.J. Washington,,CHO,True,True
+roziete01,35.13333333333333,0.702,0.6,0.467,0.533,0.0,10.2,5.2,18.6,1.5,0.0,13.9,27.2,129.0,110.0,5.0,Terry Rozier,,CHO,True,True
+grahade01,34.166666666666664,0.509,0.444,0.5,0.333,3.6,0.0,1.8,24.1,1.5,0.0,8.8,29.5,109.0,113.0,-1.9,Devonte' Graham,,CHO,True,True
+bridgmi02,27.2,0.388,0.375,0.25,0.167,9.0,4.4,6.7,11.0,0.0,0.0,13.4,24.3,84.0,115.0,-12.5,Miles Bridges,,CHO,True,True
+biyombi01,27.083333333333332,0.773,0.833,0.0,0.667,4.5,17.7,11.2,23.5,1.9,10.1,11.4,14.4,147.0,99.0,9.6,Bismack Biyombo,,CHO,True,True
+martico01,24.733333333333334,0.507,0.5,0.125,0.25,14.9,29.1,22.1,12.4,0.0,0.0,10.1,17.8,113.0,108.0,-2.2,Cody Martin,,CHO,True,False
+mcdanja01,22.166666666666668,0.644,0.667,0.0,0.667,0.0,32.5,16.4,6.2,2.3,0.0,34.0,11.8,85.0,101.0,-6.7,Jalen McDaniels,,CHO,True,False
+hernawi01,19.016666666666666,1.017,1.0,0.0,0.333,12.9,6.3,9.6,32.1,2.7,0.0,0.0,8.0,215.0,109.0,14.6,Willy Hernangómez,,CHO,True,False
+martica02,13.833333333333334,0.625,0.625,0.75,0.0,8.9,8.7,8.8,0.0,0.0,0.0,20.0,16.1,102.0,114.0,-6.5,Caleb Martin,,CHO,True,False
+batumni01,,,,,,,,,,,,,,,,,Nicolas Batum,Did Not Play,CHO,True,False
+monkma01,,,,,,,,,,,,,,,,,Malik Monk,Did Not Play,CHO,True,False
+zelleco01,,,,,,,,,,,,,,,,,Cody Zeller,Did Not Play,CHO,True,False
+chealjo01,,,,,,,,,,,,,,,,,Joe Chealey,Did Not Play,CHO,True,False

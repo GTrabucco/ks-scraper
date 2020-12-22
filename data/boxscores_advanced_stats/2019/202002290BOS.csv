@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+westbru01,43.25,0.635,0.611,0.074,0.444,4.7,13.4,9.2,28.6,3.4,0.0,15.7,38.5,115.0,102.0,10.7,Russell Westbrook,,HOU,False,True
+hardeja01,40.95,0.415,0.375,0.708,0.125,0.0,9.4,4.8,32.4,3.6,0.0,16.5,32.2,86.0,103.0,-0.9,James Harden,,HOU,False,True
+tuckepj01,39.333333333333336,0.643,0.643,0.857,0.0,15.5,17.1,16.4,3.6,0.0,7.0,12.5,8.8,139.0,104.0,3.8,P.J. Tucker,,HOU,False,True
+covinro01,38.96666666666667,0.667,0.667,0.833,0.0,2.6,37.1,20.3,0.0,1.3,7.0,20.0,16.7,105.0,93.0,5.5,Robert Covington,,HOU,False,True
+houseda01,33.71666666666667,0.45,0.45,0.7,0.0,3.0,14.3,8.8,0.0,1.5,0.0,0.0,12.9,100.0,106.0,-4.1,Danuel House,,HOU,False,True
+riverau01,21.8,0.388,0.333,0.667,0.167,4.7,0.0,2.3,6.7,2.3,0.0,0.0,12.8,99.0,110.0,-2.9,Austin Rivers,,HOU,False,False
+gordoer01,21.416666666666668,0.509,0.417,0.667,0.333,4.8,4.5,4.6,13.7,0.0,0.0,0.0,14.0,127.0,113.0,-1.2,Eric Gordon,,HOU,False,False
+greenje02,13.75,0.3,0.3,0.8,0.0,0.0,7.0,3.6,0.0,0.0,13.3,16.7,19.0,53.0,104.0,-9.9,Jeff Green,,HOU,False,False
+mclembe01,11.816666666666666,0.0,0.0,1.0,0.0,0.0,16.3,8.4,0.0,4.2,0.0,0.0,3.7,0.0,98.0,-8.9,Ben McLemore,,HOU,False,False
+sefolth01,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,False,False
+cabocbr01,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,HOU,False,False
+carrode01,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+smartma01,44.93333333333333,0.557,0.523,0.682,0.136,4.3,6.8,5.5,29.1,4.4,0.0,11.4,24.8,114.0,103.0,7.6,Marcus Smart,,BOS,True,True
+tatumja01,44.56666666666667,0.483,0.407,0.444,0.519,4.3,25.2,14.4,21.0,2.2,5.5,13.1,36.3,96.0,99.0,5.0,Jayson Tatum,,BOS,True,True
+brownja02,44.13333333333333,0.444,0.435,0.261,0.174,4.4,6.9,5.6,12.8,1.1,2.8,7.5,25.7,94.0,109.0,-2.7,Jaylen Brown,,BOS,True,True
+haywago01,40.53333333333333,0.563,0.563,0.375,0.0,2.4,12.6,7.3,18.3,3.7,0.0,5.9,17.8,117.0,103.0,5.5,Gordon Hayward,,BOS,True,True
+theisda01,39.06666666666667,0.45,0.375,0.25,0.25,12.3,26.1,19.0,11.7,0.0,9.5,10.1,10.7,115.0,102.0,-0.1,Daniel Theis,,BOS,True,True
+willigr01,13.933333333333334,1.0,1.0,0.0,0.0,6.9,14.6,10.7,0.0,0.0,0.0,0.0,3.0,208.0,110.0,-1.3,Grant Williams,,BOS,True,False
+ojelese01,13.716666666666667,,,,,0.0,37.2,18.1,0.0,0.0,0.0,100.0,3.1,0.0,103.0,-10.3,Semi Ojeleye,,BOS,True,False
+wanambr01,13.016666666666667,0.347,0.0,0.5,1.0,0.0,0.0,0.0,0.0,3.8,0.0,25.8,12.6,58.0,106.0,-9.2,Brad Wanamaker,,BOS,True,False
+langfro01,11.1,0.0,0.0,0.0,0.0,8.7,9.2,8.9,0.0,0.0,0.0,0.0,3.8,59.0,112.0,-10.7,Romeo Langford,,BOS,True,False
+kanteen01,,,,,,,,,,,,,,,,,Enes Kanter,Did Not Play,BOS,True,False
+williro04,,,,,,,,,,,,,,,,,Robert Williams,Did Not Play,BOS,True,False
+greenja02,,,,,,,,,,,,,,,,,Javonte Green,Did Not Play,BOS,True,False
+edwarca01,,,,,,,,,,,,,,,,,Carsen Edwards,Did Not Play,BOS,True,False

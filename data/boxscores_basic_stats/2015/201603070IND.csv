@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+leonaka01,39.666666666666664,9.0,23.0,0.391,1.0,7.0,0.143,4.0,6.0,0.667,3.0,3.0,6.0,2.0,0.0,1.0,1.0,3.0,23.0,-3.0,Kawhi Leonard,,SAS,False,True
+aldrila01,38.31666666666667,9.0,20.0,0.45,0.0,0.0,,5.0,5.0,1.0,2.0,10.0,12.0,0.0,1.0,2.0,0.0,4.0,23.0,1.0,LaMarcus Aldridge,,SAS,False,True
+greenda02,27.883333333333333,2.0,8.0,0.25,0.0,5.0,0.0,0.0,0.0,,1.0,2.0,3.0,0.0,1.0,0.0,0.0,1.0,4.0,-1.0,Danny Green,,SAS,False,True
+duncati01,27.616666666666667,3.0,9.0,0.333,0.0,0.0,,3.0,3.0,1.0,6.0,8.0,14.0,4.0,1.0,2.0,3.0,3.0,9.0,-3.0,Tim Duncan,,SAS,False,True
+parketo01,24.9,2.0,8.0,0.25,0.0,0.0,,2.0,2.0,1.0,0.0,1.0,1.0,5.0,0.0,0.0,2.0,0.0,6.0,-9.0,Tony Parker,,SAS,False,True
+millspa02,22.266666666666666,6.0,13.0,0.462,3.0,10.0,0.3,2.0,2.0,1.0,2.0,2.0,4.0,2.0,0.0,0.0,0.0,1.0,17.0,-5.0,Patty Mills,,SAS,False,False
+ginobma01,19.9,1.0,8.0,0.125,0.0,4.0,0.0,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,2.0,3.0,2.0,-3.0,Manu Ginóbili,,SAS,False,False
+westda01,15.9,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,0.0,1.0,1.0,0.0,1.0,4.0,-7.0,David West,,SAS,False,False
+diawbo01,14.166666666666666,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,-7.0,Boris Diaw,,SAS,False,False
+anderky01,9.383333333333333,0.0,2.0,0.0,0.0,0.0,,3.0,4.0,0.75,1.0,4.0,5.0,0.0,1.0,0.0,0.0,1.0,3.0,-5.0,Kyle Anderson,,SAS,False,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,SAS,False,False
+millean02,,,,,,,,,,,,,,,,,,,,,Andre Miller,Did Not Play,SAS,False,False
+simmojo02,,,,,,,,,,,,,,,,,,,,,Jonathon Simmons,Did Not Play,SAS,False,False
+ellismo01,37.31666666666667,8.0,13.0,0.615,2.0,4.0,0.5,8.0,8.0,1.0,0.0,1.0,1.0,3.0,1.0,2.0,3.0,3.0,26.0,5.0,Monta Ellis,,IND,True,True
+georgpa01,36.75,7.0,20.0,0.35,2.0,5.0,0.4,7.0,7.0,1.0,1.0,4.0,5.0,2.0,1.0,1.0,1.0,2.0,23.0,6.0,Paul George,,IND,True,True
+turnemy01,36.61666666666667,3.0,11.0,0.273,0.0,1.0,0.0,3.0,4.0,0.75,1.0,9.0,10.0,1.0,0.0,2.0,1.0,3.0,9.0,16.0,Myles Turner,,IND,True,True
+hillge01,35.05,2.0,7.0,0.286,1.0,3.0,0.333,0.0,0.0,,1.0,9.0,10.0,5.0,0.0,0.0,1.0,1.0,5.0,5.0,George Hill,,IND,True,True
+mahinia01,31.083333333333332,4.0,8.0,0.5,0.0,0.0,,3.0,4.0,0.75,3.0,6.0,9.0,2.0,2.0,2.0,3.0,4.0,11.0,0.0,Ian Mahinmi,,IND,True,True
+hilljo01,27.583333333333332,4.0,9.0,0.444,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,1.0,0.0,0.0,0.0,3.0,8.0,0.0,Jordan Hill,,IND,True,False
+stuckro01,18.55,3.0,7.0,0.429,1.0,1.0,1.0,5.0,5.0,1.0,0.0,2.0,2.0,3.0,1.0,0.0,0.0,1.0,12.0,5.0,Rodney Stuckey,,IND,True,False
+hillso01,11.95,1.0,2.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,5.0,2.0,Solomon Hill,,IND,True,False
+lawsoty01,5.083333333333333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,Ty Lawson,,IND,True,False
+allenla01,,,,,,,,,,,,,,,,,,,,,Lavoy Allen,Did Not Dress,IND,True,False
+milescj01,,,,,,,,,,,,,,,,,,,,,C.J. Miles,Did Not Dress,IND,True,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False

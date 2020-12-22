@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+richajo01,34.833333333333336,0.708,0.708,0.583,0.0,0.0,2.8,1.5,4.5,7.5,2.2,20.0,20.4,108.0,92.0,9.1,Josh Richardson,,MIA,False,True
+dragigo01,34.43333333333333,0.498,0.382,0.235,0.412,3.2,17.1,10.6,39.7,3.1,0.0,4.7,29.0,120.0,95.0,6.4,Goran Dragić,,MIA,False,True
+whiteha01,28.35,0.481,0.455,0.0,0.091,3.9,27.6,16.6,5.4,0.0,10.6,8.0,20.8,97.0,90.0,-2.0,Hassan Whiteside,,MIA,False,True
+babbilu01,15.516666666666667,0.75,0.75,1.0,0.0,0.0,6.3,3.4,0.0,0.0,0.0,0.0,6.1,146.0,107.0,-7.0,Luke Babbitt,,MIA,False,True
+mcgruro01,12.933333333333334,0.6,0.6,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.7,21.9,94.0,110.0,-14.7,Rodney McGruder,,MIA,False,True
+johnsty01,30.5,0.482,0.5,0.333,0.083,11.0,12.8,12.0,4.9,0.0,0.0,0.0,19.3,113.0,104.0,-2.0,Tyler Johnson,,MIA,False,False
+johnsja01,27.383333333333333,0.66,0.636,0.182,0.545,4.1,21.5,13.3,23.8,5.8,5.5,18.0,28.7,118.0,84.0,13.1,James Johnson,,MIA,False,False
+whiteok01,20.0,1.167,1.167,0.333,0.0,5.6,19.6,13.0,0.0,0.0,0.0,25.0,9.5,162.0,100.0,1.8,Okaro White,,MIA,False,False
+ellinwa01,19.266666666666666,0.444,0.444,0.444,0.0,5.8,5.1,5.4,7.7,0.0,0.0,0.0,22.1,102.0,108.0,-4.6,Wayne Ellington,,MIA,False,False
+reedwi02,16.783333333333335,0.521,0.5,0.0,1.0,0.0,5.8,3.1,7.7,3.1,0.0,0.0,8.1,121.0,101.0,-0.8,Willie Reed,,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+waitedi01,,,,,,,,,,,,,,,,,Dion Waiters,Not With Team,MIA,False,False
+bakerro01,40.28333333333333,0.225,0.167,0.417,0.25,4.9,8.3,6.5,11.7,0.0,0.0,18.4,17.3,57.0,119.0,-14.5,Ron Baker,,NYK,True,True
+porzikr01,35.78333333333333,0.575,0.5,0.231,0.769,5.5,18.7,11.7,10.8,0.0,6.8,14.7,24.4,110.0,111.0,3.6,Kristaps Porziņģis,,NYK,True,True
+leeco01,30.8,0.53,0.5,0.111,0.111,0.0,7.2,3.4,5.8,3.4,2.6,0.0,13.1,122.0,110.0,3.1,Courtney Lee,,NYK,True,True
+anthoca01,28.5,0.375,0.375,0.417,0.0,0.0,27.4,12.8,6.4,0.0,0.0,14.3,21.0,74.0,115.0,-9.7,Carmelo Anthony,,NYK,True,True
+hernawi01,22.55,0.51,0.4,0.1,0.4,21.7,19.8,20.8,8.7,0.0,0.0,20.3,28.0,100.0,117.0,-5.1,Willy Hernangómez,,NYK,True,True
+holidju01,23.466666666666665,1.0,1.0,0.0,0.0,0.0,14.3,6.7,22.8,0.0,0.0,40.0,9.1,114.0,118.0,-0.5,Justin Holiday,,NYK,True,False
+randlch01,21.216666666666665,0.455,0.389,0.444,0.222,4.6,15.8,9.8,25.9,0.0,0.0,0.0,19.9,119.0,118.0,0.8,Chasson Randle,,NYK,True,False
+kuzmimi01,14.466666666666667,0.25,0.25,0.25,0.0,13.5,7.7,10.8,12.6,0.0,5.6,11.1,26.6,66.0,114.0,-9.1,Mindaugas Kuzminskas,,NYK,True,False
+oquinky01,12.166666666666666,0.333,0.333,0.167,0.0,16.1,27.5,21.4,31.4,0.0,6.7,0.0,21.1,101.0,109.0,5.6,Kyle O'Quinn,,NYK,True,False
+ndourma01,5.033333333333333,0.615,0.5,0.0,0.5,38.9,44.4,41.5,0.0,0.0,0.0,0.0,20.7,152.0,112.0,12.5,Maurice Ndour,,NYK,True,False
+vujacsa01,2.8666666666666667,0.5,0.5,0.6,0.0,0.0,0.0,0.0,-1000.0,0.0,0.0,0.0,74.6,127.0,120.0,26.0,Sasha Vujačić,,NYK,True,False
+plumlma02,2.8666666666666667,,,,,34.2,38.9,36.4,50.7,0.0,0.0,,0.0,215.0,113.0,17.0,Marshall Plumlee,,NYK,True,False
+noahjo01,,,,,,,,,,,,,,,,,Joakim Noah,Player Suspended,NYK,True,False

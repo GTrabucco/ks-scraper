@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+holidjr01,42.05,0.781,0.75,0.3,0.2,0.0,13.0,6.6,44.8,0.0,0.0,18.7,28.8,133.0,122.0,5.7,Jrue Holiday,,NOP,False,True
+couside01,39.016666666666666,0.375,0.375,0.417,0.25,2.9,39.1,21.5,18.0,1.2,2.2,20.8,39.0,68.0,112.0,-13.4,DeMarcus Cousins,,NOP,False,True
+davisan02,38.1,0.541,0.464,0.286,0.429,3.0,17.2,10.3,6.9,2.4,4.5,0.0,19.8,115.0,113.0,-0.1,Anthony Davis,,NOP,False,True
+cunnida01,29.933333333333334,1.375,1.375,0.75,0.0,3.8,3.6,3.7,8.5,1.5,0.0,0.0,6.1,257.0,121.0,6.6,Dante Cunningham,,NOP,False,True
+mooreet01,29.416666666666668,0.838,0.833,0.333,0.667,0.0,14.8,7.6,21.8,3.1,2.9,0.0,11.9,174.0,113.0,11.9,E'Twaun Moore,,NOP,False,True
+nelsoja01,28.0,0.643,0.7,0.4,0.2,0.0,0.0,0.0,22.1,0.0,0.0,0.0,8.8,146.0,125.0,-2.3,Jameer Nelson,,NOP,False,False
+milleda01,19.15,0.781,0.75,1.0,1.0,0.0,11.4,5.8,0.0,2.4,0.0,0.0,13.6,148.0,117.0,3.0,Darius Miller,,NOP,False,False
+allento01,14.35,0.6,0.6,0.0,0.0,8.0,15.2,11.7,9.8,0.0,0.0,16.7,18.9,106.0,122.0,-5.9,Tony Allen,,NOP,False,False
+smithjo03,,,,,,,,,,,,,,,,,Josh Smith,Did Not Play,NOP,False,False
+rondora01,,,,,,,,,,,,,,,,,Rajon Rondo,Did Not Play,NOP,False,False
+diallch01,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,NOP,False,False
+clarkia01,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,NOP,False,False
+derozde01,36.78333333333333,0.575,0.478,0.261,0.565,0.0,6.2,3.0,32.7,1.3,0.0,6.5,33.4,124.0,117.0,6.2,DeMar DeRozan,,TOR,True,True
+lowryky01,34.166666666666664,0.692,0.692,0.769,0.0,0.0,20.1,9.8,28.0,0.0,0.0,13.3,17.5,131.0,119.0,4.2,Kyle Lowry,,TOR,True,True
+ibakase01,30.583333333333332,0.679,0.679,0.429,0.0,3.6,26.2,14.6,14.5,0.0,6.2,0.0,18.3,143.0,113.0,9.1,Serge Ibaka,,TOR,True,True
+valanjo01,27.366666666666667,0.354,0.333,0.0,0.222,4.0,50.1,26.5,8.8,1.7,0.0,0.0,14.4,92.0,113.0,-4.1,Jonas Valančiūnas,,TOR,True,True
+powelno01,18.216666666666665,0.571,0.571,0.714,0.0,0.0,0.0,0.0,7.1,2.5,0.0,0.0,15.4,120.0,115.0,2.0,Norman Powell,,TOR,True,True
+poeltja01,19.183333333333334,0.6,0.6,0.0,0.0,22.7,11.9,17.5,13.3,2.4,0.0,0.0,10.4,156.0,114.0,4.8,Jakob Poeltl,,TOR,True,False
+milescj01,17.366666666666667,0.398,0.3,0.8,0.3,6.3,6.6,6.4,0.0,2.7,5.4,15.0,30.6,77.0,109.0,-8.6,C.J. Miles,,TOR,True,False
+anunoog01,14.35,0.82,0.875,0.5,0.5,0.0,15.9,7.8,0.0,3.2,0.0,17.0,16.4,121.0,112.0,4.4,OG Anunoby,,TOR,True,False
+vanvlfr01,13.933333333333334,0.143,0.143,0.429,0.0,0.0,16.4,8.0,0.0,6.6,0.0,12.5,22.9,28.0,105.0,-14.6,Fred VanVleet,,TOR,True,False
+wrighde01,13.3,1.333,1.333,0.667,0.0,8.2,0.0,4.2,10.6,0.0,7.1,50.0,18.0,106.0,113.0,4.4,Delon Wright,,TOR,True,False
+siakapa01,13.3,0.301,0.5,0.0,1.5,8.2,34.4,21.0,26.2,0.0,0.0,23.1,13.0,86.0,118.0,-2.8,Pascal Siakam,,TOR,True,False
+noguelu01,1.45,1.0,1.0,0.0,0.0,75.2,0.0,38.5,0.0,0.0,0.0,0.0,27.6,212.0,112.0,-5.7,Lucas Nogueira,,TOR,True,False

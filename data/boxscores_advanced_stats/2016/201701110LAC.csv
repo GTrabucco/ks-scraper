@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gordoaa01,39.2,0.746,0.765,0.471,0.235,2.7,6.4,4.4,14.4,0.0,0.0,9.6,22.5,131.0,110.0,8.5,Aaron Gordon,,ORL,False,True
+vucevni01,31.65,0.5,0.5,0.125,0.0,3.3,43.9,21.7,22.6,1.5,6.1,15.8,25.5,90.0,96.0,4.7,Nikola Vučević,,ORL,False,True
+fournev01,25.483333333333334,0.429,0.375,0.25,0.375,0.0,9.9,4.5,11.3,0.0,0.0,17.7,18.9,77.0,109.0,-11.1,Evan Fournier,,ORL,False,True
+greenje02,25.466666666666665,0.329,0.231,0.231,0.385,8.2,14.9,11.2,0.0,0.0,0.0,6.2,27.0,71.0,108.0,-11.9,Jeff Green,,ORL,False,True
+paytoel01,22.85,0.304,0.333,0.0,0.222,0.0,11.1,5.0,19.3,0.0,0.0,16.8,22.1,60.0,109.0,-12.4,Elfrid Payton,,ORL,False,True
+meeksjo01,27.766666666666666,0.636,0.636,0.455,0.0,0.0,22.7,10.3,12.1,8.5,0.0,0.0,16.8,126.0,88.0,14.5,Jodie Meeks,,ORL,False,False
+augusdj01,27.233333333333334,0.339,0.222,0.333,0.333,3.8,4.6,4.2,14.9,0.0,0.0,0.0,16.1,87.0,111.0,-6.1,D.J. Augustin,,ORL,False,False
+biyombi01,16.35,0.667,0.667,0.0,0.0,0.0,15.5,7.0,0.0,2.9,5.9,25.0,10.4,90.0,99.0,0.5,Bismack Biyombo,,ORL,False,False
+hezonma01,12.433333333333334,0.0,0.0,1.0,0.0,0.0,0.0,0.0,19.8,0.0,0.0,40.0,17.1,19.0,111.0,-18.7,Mario Hezonja,,ORL,False,False
+watsocj01,11.566666666666666,0.436,0.333,0.333,0.333,9.0,10.9,9.9,23.8,4.1,0.0,0.0,12.6,117.0,100.0,4.9,C.J. Watson,,ORL,False,False
+rudezda01,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,ORL,False,False
+ibakase01,,,,,,,,,,,,,,,,,Serge Ibaka,Did Not Dress,ORL,False,False
+wilcocj01,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,ORL,False,False
+redicjj01,36.016666666666666,0.577,0.531,0.563,0.438,0.0,17.4,9.5,22.5,0.0,2.1,0.0,23.4,131.0,99.0,5.5,J.J. Redick,,LAC,True,True
+paulch01,32.68333333333333,0.575,0.5,0.385,0.462,0.0,22.3,12.2,29.2,5.8,0.0,24.2,28.0,100.0,88.0,2.4,Chris Paul,,LAC,True,True
+riverau01,32.666666666666664,0.514,0.5,0.429,0.571,0.0,12.8,7.0,21.2,0.0,0.0,18.6,14.6,103.0,101.0,-2.6,Austin Rivers,,LAC,True,True
+jordade01,32.46666666666667,0.512,0.5,0.0,0.5,31.1,38.6,35.2,4.5,2.9,6.8,9.3,14.7,125.0,85.0,4.5,DeAndre Jordan,,LAC,True,True
+mbahalu01,23.083333333333332,0.5,0.5,0.125,0.0,5.5,4.5,5.0,0.0,4.1,0.0,20.0,19.2,82.0,94.0,-4.4,Luc Mbah a Moute,,LAC,True,True
+crawfja01,24.516666666666666,0.712,0.6,0.2,0.6,0.0,0.0,0.0,23.6,1.9,0.0,44.2,20.4,90.0,99.0,-4.0,Jamal Crawford,,LAC,True,False
+johnswe01,17.95,0.625,0.625,0.5,0.0,0.0,17.4,9.6,7.9,5.3,0.0,0.0,9.9,134.0,89.0,6.7,Wesley Johnson,,LAC,True,False
+feltora01,16.983333333333334,0.667,0.667,0.167,0.0,0.0,18.4,10.1,0.0,0.0,4.3,25.0,20.9,89.0,96.0,-5.1,Raymond Felton,,LAC,True,False
+speigma01,15.533333333333333,0.874,0.929,0.571,0.143,0.0,20.2,11.0,13.1,0.0,0.0,21.2,26.9,117.0,99.0,8.1,Marreese Speights,,LAC,True,False
+bassbr01,8.1,0.615,0.5,0.0,0.5,0.0,12.9,7.1,0.0,0.0,0.0,45.0,24.3,64.0,101.0,-13.2,Brandon Bass,,LAC,True,False
+piercpa01,,,,,,,,,,,,,,,,,Paul Pierce,Did Not Play,LAC,True,False
+anderal01,,,,,,,,,,,,,,,,,Alan Anderson,Did Not Play,LAC,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+antetgi01,35.21666666666667,5.0,16.0,0.313,1.0,3.0,0.333,6.0,6.0,1.0,0.0,8.0,8.0,8.0,0.0,3.0,2.0,0.0,17.0,-11.0,Giannis Antetokounmpo,,MIL,False,True
+dellama01,30.95,4.0,7.0,0.571,2.0,3.0,0.667,0.0,0.0,,1.0,1.0,2.0,5.0,0.0,0.0,2.0,0.0,10.0,-6.0,Matthew Dellavedova,,MIL,False,True
+parkeja01,29.2,6.0,16.0,0.375,0.0,1.0,0.0,1.0,2.0,0.5,3.0,3.0,6.0,1.0,0.0,0.0,0.0,1.0,13.0,-10.0,Jabari Parker,,MIL,False,True
+snellto01,25.683333333333334,2.0,7.0,0.286,0.0,2.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,0.0,1.0,4.0,-1.0,Tony Snell,,MIL,False,True
+plumlmi01,17.083333333333332,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,3.0,1.0,0.0,2.0,2.0,8.0,1.0,Miles Plumlee,,MIL,False,True
+vaughra01,22.316666666666666,2.0,8.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,0.0,3.0,0.0,1.0,1.0,5.0,-14.0,Rashad Vaughn,,MIL,False,False
+monrogr01,17.766666666666666,4.0,9.0,0.444,0.0,0.0,,3.0,3.0,1.0,1.0,4.0,5.0,0.0,2.0,0.0,1.0,2.0,11.0,-10.0,Greg Monroe,,MIL,False,False
+brogdma01,17.05,3.0,7.0,0.429,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,6.0,-9.0,Malcolm Brogdon,,MIL,False,False
+teletmi01,15.8,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,-1.0,Mirza Teletović,,MIL,False,False
+beaslmi01,15.783333333333333,3.0,5.0,0.6,0.0,2.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,2.0,2.0,0.0,2.0,3.0,7.0,-8.0,Michael Beasley,,MIL,False,False
+hensojo01,11.566666666666666,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,2.0,5.0,0.0,-6.0,John Henson,,MIL,False,False
+makerth01,1.5833333333333335,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Thon Maker,,MIL,False,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,MIL,False,False
+drumman01,36.8,8.0,16.0,0.5,0.0,0.0,,4.0,8.0,0.5,8.0,15.0,23.0,1.0,2.0,3.0,0.0,1.0,20.0,9.0,Andre Drummond,,DET,True,True
+morrima03,35.71666666666667,4.0,16.0,0.25,1.0,8.0,0.125,2.0,2.0,1.0,1.0,4.0,5.0,2.0,1.0,0.0,3.0,2.0,11.0,5.0,Marcus Morris,,DET,True,True
+caldwke01,33.96666666666667,7.0,13.0,0.538,2.0,5.0,0.4,5.0,5.0,1.0,4.0,2.0,6.0,2.0,2.0,0.0,0.0,1.0,21.0,7.0,Kentavious Caldwell-Pope,,DET,True,True
+harrito02,31.233333333333334,7.0,12.0,0.583,2.0,3.0,0.667,0.0,0.0,,1.0,4.0,5.0,2.0,2.0,0.0,1.0,2.0,16.0,13.0,Tobias Harris,,DET,True,True
+smithis01,31.15,5.0,17.0,0.294,0.0,3.0,0.0,1.0,1.0,1.0,0.0,2.0,2.0,7.0,0.0,0.0,4.0,2.0,11.0,9.0,Ish Smith,,DET,True,True
+leuerjo01,27.466666666666665,3.0,5.0,0.6,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,1.0,0.0,3.0,6.0,12.0,Jon Leuer,,DET,True,False
+udrihbe01,16.85,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,6.0,0.0,0.0,5.0,2.0,6.0,6.0,Beno Udrih,,DET,True,False
+johnsst04,15.616666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,8.0,Stanley Johnson,,DET,True,False
+baynear01,11.2,2.0,4.0,0.5,0.0,0.0,,3.0,4.0,0.75,2.0,5.0,7.0,0.0,0.0,0.0,2.0,1.0,7.0,6.0,Aron Baynes,,DET,True,False
+ellenhe01,,,,,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,DET,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DET,True,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,True,False
+gbinimi01,,,,,,,,,,,,,,,,,,,,,Michael Gbinije,Did Not Play,DET,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+balllo01,36.28333333333333,0.385,0.385,0.615,0.0,9.7,15.6,12.9,11.1,0.0,0.0,7.1,16.3,104.0,110.0,-5.9,Lonzo Ball,,NOP,False,True
+ingrabr01,35.88333333333333,0.821,0.806,0.5,0.111,3.3,15.7,10.2,10.2,2.8,2.4,9.6,24.7,152.0,102.0,17.4,Brandon Ingram,,NOP,False,True
+holidjr01,31.416666666666668,0.518,0.472,0.389,0.167,7.5,6.0,6.6,42.5,9.6,0.0,17.2,31.5,114.0,92.0,10.1,Jrue Holiday,,NOP,False,True
+favorde01,30.483333333333334,0.405,0.333,0.111,0.222,11.5,30.9,22.3,34.7,1.6,8.6,23.3,17.9,108.0,94.0,6.1,Derrick Favors,,NOP,False,True
+redicjj01,21.75,0.663,0.6,0.7,0.3,5.4,8.7,7.2,0.0,0.0,0.0,20.9,27.9,109.0,113.0,-4.1,J.J. Redick,,NOP,False,True
+hartjo01,29.566666666666666,0.735,0.7,0.5,0.2,4.0,25.5,15.9,0.0,0.0,0.0,8.4,17.0,142.0,106.0,3.4,Josh Hart,,NOP,False,False
+mooreet01,21.566666666666666,0.625,0.625,0.5,0.0,0.0,4.4,2.4,6.9,0.0,4.0,0.0,15.7,140.0,112.0,3.1,E'Twaun Moore,,NOP,False,False
+okafoja01,10.316666666666666,0.0,0.0,0.0,0.0,22.7,9.1,15.2,0.0,0.0,0.0,75.0,16.4,28.0,112.0,-27.3,Jahlil Okafor,,NOP,False,False
+willike04,9.85,0.0,0.0,1.0,0.0,0.0,19.1,10.6,11.9,0.0,0.0,0.0,4.3,71.0,108.0,-5.9,Kenrich Williams,,NOP,False,False
+hayesja02,7.2,1.0,1.0,0.0,0.0,16.3,0.0,7.2,0.0,0.0,0.0,50.0,11.8,98.0,115.0,-14.6,Jaxson Hayes,,NOP,False,False
+jacksfr01,5.683333333333334,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,0.0,116.0,-18.2,Frank Jackson,,NOP,False,False
+alexani01,,,,,,,,,,,,,,,,,Nickeil Alexander-Walker,Did Not Play,NOP,False,False
+mellini01,,,,,,,,,,,,,,,,,Nicolò Melli,Did Not Play,NOP,False,False
+harriga01,35.18333333333333,0.577,0.577,0.692,0.0,2.7,6.7,4.4,4.7,5.7,0.0,7.1,17.1,110.0,113.0,3.5,Gary Harris,,DEN,True,True
+bartowi01,32.8,0.465,0.444,0.333,0.444,8.6,17.8,12.7,9.4,0.0,3.1,15.7,16.7,95.0,121.0,-5.5,Will Barton,,DEN,True,True
+jokicni01,30.916666666666668,0.508,0.45,0.25,0.3,12.2,22.7,16.9,25.3,3.2,0.0,18.1,38.3,96.0,112.0,1.8,Nikola Jokić,,DEN,True,True
+murraja01,27.966666666666665,0.34,0.2,0.2,0.4,6.7,8.4,7.5,15.3,1.8,0.0,14.5,21.1,81.0,122.0,-11.9,Jamal Murray,,DEN,True,True
+millspa01,16.466666666666665,0.0,0.0,0.5,0.0,5.7,7.1,6.3,31.5,6.1,0.0,33.3,7.8,73.0,112.0,-2.5,Paul Millsap,,DEN,True,True
+grantje01,29.116666666666667,0.723,0.7,0.3,0.4,3.2,4.0,3.6,6.1,0.0,0.0,0.0,17.3,149.0,128.0,3.2,Jerami Grant,,DEN,True,False
+morrimo01,22.1,0.357,0.357,0.286,0.0,0.0,5.3,2.4,39.9,2.3,4.6,0.0,13.6,110.0,120.0,2.4,Monte Morris,,DEN,True,False
+beaslma01,21.883333333333333,0.464,0.464,0.714,0.0,0.0,21.4,9.5,16.9,0.0,4.7,0.0,27.4,102.0,119.0,0.7,Malik Beasley,,DEN,True,False
+plumlma01,16.35,0.5,0.5,0.0,0.0,5.8,28.6,16.0,0.0,0.0,6.2,20.0,13.1,85.0,115.0,-7.4,Mason Plumlee,,DEN,True,False
+portemi01,5.75,0.833,0.833,0.667,0.0,0.0,20.4,9.1,41.1,0.0,0.0,0.0,22.4,165.0,121.0,15.5,Michael Porter,,DEN,True,False
+cancavl01,0.7333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,129.0,-10.2,Vlatko Čančar,,DEN,True,False
+hernaju01,0.7333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,129.0,-9.0,Juan Hernangómez,,DEN,True,False
+craigto01,,,,,,,,,,,,,,,,,Torrey Craig,Did Not Play,DEN,True,False

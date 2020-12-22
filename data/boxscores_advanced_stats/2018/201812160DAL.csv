@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hieldbu01,39.21666666666667,0.597,0.587,0.391,0.043,0.0,9.4,4.9,7.8,0.0,0.0,7.9,26.8,114.0,115.0,0.0,Buddy Hield,,SAC,False,True
+bogdabo01,37.06666666666667,0.55,0.455,0.455,0.545,0.0,17.4,9.1,15.9,0.0,0.0,6.8,16.3,120.0,112.0,-1.2,Bogdan Bogdanović,,SAC,False,True
+bjeline01,34.6,0.689,0.7,0.7,0.2,2.9,24.0,13.9,3.6,0.0,9.1,8.4,14.2,131.0,104.0,7.2,Nemanja Bjelica,,SAC,False,True
+foxde01,33.35,0.647,0.579,0.158,0.316,3.0,5.5,4.3,23.9,4.2,2.4,8.5,29.3,130.0,106.0,10.6,De'Aaron Fox,,SAC,False,True
+caulewi01,32.18333333333333,0.51,0.4,0.0,0.4,9.3,14.3,11.9,11.2,1.4,2.4,7.8,16.4,119.0,108.0,-0.4,Willie Cauley-Stein,,SAC,False,True
+jacksju01,22.566666666666666,0.436,0.333,0.167,0.333,4.4,8.2,6.4,0.0,2.1,0.0,22.5,16.2,77.0,111.0,-10.3,Justin Jackson,,SAC,False,False
+koufoko01,15.816666666666666,0.667,0.667,0.0,0.0,31.6,17.5,24.3,9.0,2.9,0.0,0.0,15.7,161.0,105.0,6.7,Kosta Koufos,,SAC,False,False
+ferreyo01,14.65,0.364,0.364,0.455,0.0,0.0,6.3,3.3,29.9,0.0,0.0,0.0,31.0,91.0,116.0,-7.6,Yogi Ferrell,,SAC,False,False
+willitr02,10.55,0.0,0.0,0.5,0.0,0.0,26.2,13.6,0.0,0.0,7.5,0.0,7.8,0.0,104.0,-10.2,Troy Williams,,SAC,False,False
+shumpim01,,,,,,,,,,,,,,,,,Iman Shumpert,Did Not Play,SAC,False,False
+masonfr01,,,,,,,,,,,,,,,,,Frank Mason,Did Not Play,SAC,False,False
+gilesha01,,,,,,,,,,,,,,,,,Harry Giles,Did Not Play,SAC,False,False
+mclembe01,,,,,,,,,,,,,,,,,Ben McLemore,Did Not Play,SAC,False,False
+doncilu01,35.03333333333333,0.662,0.633,0.333,0.933,0.0,17.1,8.2,44.6,1.3,0.0,19.1,29.0,119.0,117.0,8.1,Luka Dončić,,DAL,True,True
+matthwe02,32.03333333333333,0.468,0.423,0.462,0.154,0.0,0.0,0.0,17.6,2.9,0.0,6.7,18.0,107.0,118.0,-1.7,Wesley Matthews,,DAL,True,True
+brunsja01,30.183333333333334,0.432,0.385,0.308,0.154,6.1,6.6,6.4,14.9,0.0,0.0,12.6,20.4,95.0,123.0,-7.6,Jalen Brunson,,DAL,True,True
+jordade01,29.6,0.571,0.571,0.0,0.0,31.2,43.9,37.3,14.5,0.0,7.3,0.0,9.2,160.0,107.0,7.9,DeAndre Jordan,,DAL,True,True
+barneha02,29.1,0.444,0.406,0.438,0.125,0.0,6.9,3.3,0.0,1.6,2.5,5.6,23.9,93.0,117.0,-3.5,Harrison Barnes,,DAL,True,True
+finnedo01,21.8,0.564,0.5,0.25,0.75,4.2,18.3,11.0,0.0,0.0,0.0,27.3,13.0,88.0,120.0,-7.7,Dorian Finney-Smith,,DAL,True,False
+poweldw01,18.4,0.68,0.6,0.2,0.4,10.0,5.4,7.8,16.2,2.5,3.9,0.0,12.4,160.0,114.0,7.2,Dwight Powell,,DAL,True,False
+harride01,18.366666666666667,0.354,0.278,0.556,0.222,0.0,5.4,2.6,7.5,2.5,0.0,16.8,25.1,70.0,117.0,-10.1,Devin Harris,,DAL,True,False
+klebima01,10.533333333333333,0.59,0.563,0.5,0.375,0.0,19.0,9.1,0.0,0.0,0.0,0.0,34.4,122.0,119.0,6.4,Maxi Kleber,,DAL,True,False
+nowitdi01,8.366666666666667,0.338,0.25,0.25,0.25,0.0,47.8,22.9,0.0,0.0,0.0,18.4,25.2,62.0,112.0,-13.5,Dirk Nowitzki,,DAL,True,False
+broekry01,6.583333333333333,0.5,0.5,0.5,0.0,14.0,30.4,21.9,0.0,0.0,0.0,0.0,11.8,124.0,116.0,-6.6,Ryan Broekhoff,,DAL,True,False
+mejrisa01,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,True,False

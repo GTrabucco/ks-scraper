@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+johnsjo02,36.516666666666666,9.0,19.0,0.474,1.0,5.0,0.2,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,3.0,1.0,19.0,-2.0,Joe Johnson,,MIA,False,True
+denglu01,35.21666666666667,3.0,9.0,0.333,0.0,5.0,0.0,0.0,0.0,,2.0,6.0,8.0,2.0,0.0,2.0,1.0,3.0,6.0,-5.0,Luol Deng,,MIA,False,True
+dragigo01,32.93333333333333,9.0,16.0,0.563,0.0,1.0,0.0,0.0,0.0,,2.0,0.0,2.0,3.0,1.0,2.0,0.0,5.0,18.0,-6.0,Goran Dragić,,MIA,False,True
+wadedw01,31.05,7.0,16.0,0.438,0.0,1.0,0.0,3.0,3.0,1.0,0.0,3.0,3.0,5.0,0.0,1.0,3.0,2.0,17.0,-21.0,Dwyane Wade,,MIA,False,True
+whiteha01,27.933333333333334,6.0,10.0,0.6,0.0,0.0,,7.0,9.0,0.778,2.0,7.0,9.0,0.0,1.0,4.0,1.0,2.0,19.0,-10.0,Hassan Whiteside,,MIA,False,True
+winslju01,28.466666666666665,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,,5.0,5.0,10.0,1.0,1.0,0.0,0.0,2.0,7.0,-3.0,Justise Winslow,,MIA,False,False
+richajo01,26.95,0.0,6.0,0.0,0.0,4.0,0.0,0.0,0.0,,2.0,2.0,4.0,1.0,0.0,1.0,0.0,3.0,0.0,-4.0,Josh Richardson,,MIA,False,False
+mcrobjo01,15.8,1.0,6.0,0.167,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,0.0,0.0,2.0,2.0,Josh McRoberts,,MIA,False,False
+greenge01,5.133333333333334,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,-1.0,Gerald Green,,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+stoudam01,,,,,,,,,,,,,,,,,,,,,Amar'e Stoudemire,Did Not Play,MIA,False,False
+weberbr01,,,,,,,,,,,,,,,,,,,,,Briante Weber,Did Not Play,MIA,False,False
+wrighdo01,,,,,,,,,,,,,,,,,,,,,Dorell Wright,Did Not Play,MIA,False,False
+crowdja01,35.78333333333333,6.0,13.0,0.462,1.0,4.0,0.25,0.0,0.0,,3.0,3.0,6.0,2.0,0.0,0.0,1.0,5.0,13.0,8.0,Jae Crowder,,BOS,True,True
+thomais02,34.2,4.0,15.0,0.267,2.0,4.0,0.5,11.0,12.0,0.917,0.0,4.0,4.0,6.0,1.0,0.0,1.0,2.0,21.0,5.0,Isaiah Thomas,,BOS,True,True
+bradlav01,30.65,8.0,12.0,0.667,1.0,2.0,0.5,0.0,0.0,,1.0,6.0,7.0,0.0,1.0,0.0,1.0,2.0,17.0,2.0,Avery Bradley,,BOS,True,True
+sullija01,22.966666666666665,3.0,10.0,0.3,0.0,1.0,0.0,0.0,0.0,,3.0,0.0,3.0,1.0,1.0,1.0,1.0,1.0,6.0,4.0,Jared Sullinger,,BOS,True,True
+johnsam01,21.616666666666667,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,1.0,6.0,7.0,3.0,0.0,0.0,0.0,4.0,6.0,15.0,Amir Johnson,,BOS,True,True
+turneev01,29.05,7.0,13.0,0.538,0.0,0.0,,2.0,3.0,0.667,0.0,3.0,3.0,4.0,1.0,0.0,1.0,3.0,16.0,3.0,Evan Turner,,BOS,True,False
+smartma01,23.35,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,-2.0,Marcus Smart,,BOS,True,False
+olynyke01,18.4,4.0,9.0,0.444,0.0,2.0,0.0,3.0,3.0,1.0,0.0,1.0,1.0,3.0,3.0,0.0,0.0,1.0,11.0,14.0,Kelly Olynyk,,BOS,True,False
+jerebjo01,16.333333333333332,1.0,4.0,0.25,1.0,1.0,1.0,1.0,2.0,0.5,2.0,3.0,5.0,1.0,0.0,1.0,1.0,2.0,4.0,9.0,Jonas Jerebko,,BOS,True,False
+zellety01,7.65,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,4.0,-8.0,Tyler Zeller,,BOS,True,False
+hunterj01,,,,,,,,,,,,,,,,,,,,,R.J. Hunter,Did Not Play,BOS,True,False
+mickejo01,,,,,,,,,,,,,,,,,,,,,Jordan Mickey,Did Not Play,BOS,True,False
+roziete01,,,,,,,,,,,,,,,,,,,,,Terry Rozier,Did Not Play,BOS,True,False

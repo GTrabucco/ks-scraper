@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+holidjr01,28.816666666666666,0.709,0.667,0.222,0.222,3.8,11.9,7.7,43.2,0.0,0.0,33.6,23.9,103.0,114.0,-4.1,Jrue Holiday,,NOP,False,True
+hillso01,27.483333333333334,0.45,0.438,0.375,0.25,0.0,20.8,10.2,0.0,1.8,0.0,10.1,16.6,75.0,109.0,-8.9,Solomon Hill,,NOP,False,True
+ajincal01,24.3,0.658,0.625,0.0,0.75,0.0,37.6,18.4,7.3,2.0,3.0,8.6,22.2,116.0,102.0,2.4,Alexis Ajinça,,NOP,False,True
+cunnida01,21.05,0.833,0.833,0.667,0.0,0.0,16.3,8.0,8.2,2.3,0.0,0.0,13.2,147.0,109.0,6.8,Dante Cunningham,,NOP,False,True
+fraziti01,19.466666666666665,0.342,0.214,0.143,0.571,0.0,5.9,2.9,42.8,0.0,0.0,10.2,23.2,87.0,115.0,-8.8,Tim Frazier,,NOP,False,True
+diallch01,26.95,0.873,0.9,0.0,0.2,12.1,33.9,22.8,0.0,0.0,5.4,15.5,22.1,137.0,105.0,6.3,Cheick Diallo,,NOP,False,False
+cookqu01,26.566666666666666,0.214,0.214,0.429,0.0,0.0,0.0,0.0,20.5,0.0,0.0,22.2,15.7,53.0,117.0,-15.5,Quinn Cook,,NOP,False,False
+motiedo01,23.7,0.457,0.286,0.143,0.571,4.6,14.5,9.4,18.4,0.0,3.1,18.6,21.0,90.0,111.0,-5.0,Donatas Motiejūnas,,NOP,False,False
+crawfjo02,21.15,0.423,0.423,0.385,0.0,0.0,16.2,7.9,61.9,4.6,0.0,13.3,32.8,88.0,104.0,1.9,Jordan Crawford,,NOP,False,False
+toupaax01,20.516666666666666,0.375,0.375,0.75,0.0,0.0,0.0,0.0,0.0,0.0,3.5,0.0,9.0,70.0,113.0,-7.8,Axel Toupane,,NOP,False,False
+mooreet01,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,NOP,False,False
+davisan02,,,,,,,,,,,,,,,,,Anthony Davis,Did Not Play,NOP,False,False
+couside01,,,,,,,,,,,,,,,,,DeMarcus Cousins,Did Not Play,NOP,False,False
+nancela02,30.883333333333333,0.444,0.357,0.286,0.286,0.0,28.3,14.5,8.0,1.6,0.0,0.0,11.2,104.0,101.0,-3.8,Larry Nance,,LAL,True,True
+ingrabr01,28.4,0.412,0.375,0.125,0.313,12.1,7.7,9.8,31.8,3.4,0.0,5.2,29.7,102.0,99.0,-0.2,Brandon Ingram,,LAL,True,True
+clarkjo01,25.066666666666666,0.845,0.813,0.625,0.25,0.0,13.1,6.7,17.7,1.9,0.0,18.4,19.1,135.0,102.0,5.5,Jordan Clarkson,,LAL,True,True
+artesro01,24.866666666666667,0.529,0.529,0.588,0.0,4.6,13.2,9.0,6.8,5.9,0.0,5.6,31.8,101.0,93.0,4.1,Metta World Peace,,LAL,True,True
+randlju01,15.7,0.628,0.571,0.0,0.571,0.0,34.7,17.8,20.5,0.0,0.0,0.0,24.5,135.0,103.0,1.7,Julius Randle,,LAL,True,True
+ennisty01,28.683333333333334,0.425,0.4,0.6,0.4,0.0,3.8,1.9,13.0,3.4,0.0,33.8,13.6,69.0,99.0,-11.6,Tyler Ennis,,LAL,True,False
+nwabada01,28.1,0.788,0.75,0.0,0.25,4.1,3.9,4.0,5.4,3.5,0.0,18.4,17.0,127.0,99.0,-0.1,David Nwaba,,LAL,True,False
+breweco01,23.6,0.509,0.5,0.0,0.333,9.7,13.9,11.8,28.3,4.1,0.0,12.7,14.7,119.0,97.0,2.6,Corey Brewer,,LAL,True,False
+blackta01,20.833333333333332,0.333,0.333,0.0,0.0,0.0,47.1,24.1,0.0,2.3,12.1,0.0,19.0,69.0,85.0,-3.6,Tarik Black,,LAL,True,False
+robinth01,13.866666666666667,0.74,0.8,0.0,0.8,8.2,31.5,20.1,12.3,3.5,0.0,12.9,24.6,130.0,96.0,5.7,Thomas Robinson,,LAL,True,False
+youngni01,,,,,,,,,,,,,,,,,Nick Young,Did Not Play,LAL,True,False
+mozgoti01,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,LAL,True,False
+denglu01,,,,,,,,,,,,,,,,,Luol Deng,Did Not Play,LAL,True,False

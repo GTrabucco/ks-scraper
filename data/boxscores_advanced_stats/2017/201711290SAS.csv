@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gasolma01,35.71666666666667,0.421,0.364,0.0,0.182,3.5,21.7,11.7,31.8,0.0,0.0,14.4,18.5,104.0,122.0,-1.6,Marc Gasol,,MEM,False,True
+brookdi01,33.18333333333333,0.667,0.667,0.5,0.0,3.8,4.7,4.2,9.4,0.0,0.0,33.3,12.9,95.0,124.0,-5.1,Dillon Brooks,,MEM,False,True
+evansty01,30.716666666666665,0.615,0.618,0.353,0.118,0.0,15.1,6.8,37.3,0.0,0.0,18.3,33.8,108.0,123.0,2.3,Tyreke Evans,,MEM,False,True
+greenja01,28.4,0.5,0.5,0.222,0.0,8.9,32.7,19.6,12.0,1.9,0.0,18.2,18.4,98.0,116.0,-1.7,JaMychal Green,,MEM,False,True
+mclembe01,27.466666666666665,0.46,0.4,0.5,0.2,4.6,11.3,7.6,5.9,2.0,0.0,8.4,20.5,100.0,119.0,-4.6,Ben McLemore,,MEM,False,True
+harrian01,24.25,0.658,0.667,0.333,0.222,5.2,31.9,17.2,15.8,0.0,0.0,9.2,21.3,128.0,121.0,4.2,Andrew Harrison,,MEM,False,False
+ennisja01,23.35,0.868,0.75,0.333,1.0,16.2,13.3,14.9,7.7,4.7,0.0,25.8,23.7,136.0,113.0,10.4,James Ennis,,MEM,False,False
+martija01,19.083333333333332,0.381,0.286,0.143,0.286,6.6,8.1,7.3,8.4,0.0,0.0,11.3,22.1,87.0,124.0,-12.5,Jarell Martin,,MEM,False,False
+davisde01,12.8,0.0,0.0,0.0,0.0,9.9,12.1,10.9,0.0,0.0,6.8,0.0,3.7,63.0,117.0,-7.7,Deyonta Davis,,MEM,False,False
+simmoko01,5.033333333333333,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.4,200.0,125.0,-1.6,Kobi Simmons,,MEM,False,False
+parsoch01,,,,,,,,,,,,,,,,,Chandler Parsons,Did Not Dress,MEM,False,False
+huntevi01,,,,,,,,,,,,,,,,,Vince Hunter,Did Not Play,MEM,False,False
+aldrila01,36.78333333333333,0.796,0.771,0.125,0.167,8.4,13.7,11.3,8.3,0.0,2.4,0.0,35.9,158.0,114.0,17.1,LaMarcus Aldridge,,SAS,True,True
+anderky01,29.133333333333333,0.601,0.571,0.0,0.429,5.3,13.0,9.6,10.5,7.6,0.0,10.7,16.4,118.0,99.0,6.2,Kyle Anderson,,SAS,True,True
+gasolpa01,28.916666666666668,0.333,0.333,0.0,0.0,5.4,21.8,14.4,4.8,3.8,3.0,0.0,10.6,87.0,102.0,-3.5,Pau Gasol,,SAS,True,True
+greenda02,27.933333333333334,0.625,0.625,0.75,0.0,0.0,18.1,10.0,9.9,2.0,3.1,20.0,9.2,107.0,108.0,0.3,Danny Green,,SAS,True,True
+parketo01,17.9,0.635,0.571,0.0,0.286,0.0,14.1,7.8,49.2,0.0,0.0,11.3,25.5,130.0,116.0,1.1,Tony Parker,,SAS,True,True
+millspa02,26.983333333333334,0.645,0.429,0.571,1.0,0.0,14.0,7.7,25.8,2.0,0.0,16.6,23.0,124.0,111.0,3.9,Patty Mills,,SAS,True,False
+ginobma01,23.583333333333332,0.4,0.4,0.2,0.0,0.0,5.4,2.9,24.0,0.0,0.0,28.6,15.2,81.0,118.0,-12.5,Manu Ginóbili,,SAS,True,False
+gayru01,22.0,0.376,0.25,0.5,0.375,7.0,23.0,15.8,6.5,2.5,7.9,9.7,24.1,83.0,102.0,-6.7,Rudy Gay,,SAS,True,False
+forbebr01,17.15,0.478,0.5,0.833,0.5,0.0,7.4,4.1,8.6,0.0,0.0,0.0,21.9,100.0,118.0,-4.3,Bryn Forbes,,SAS,True,False
+murrade01,4.783333333333333,0.798,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.2,156.0,120.0,-1.5,Dejounte Murray,,SAS,True,False
+paulbr01,4.316666666666666,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-16.5,Brandon Paul,,SAS,True,False
+bertada01,0.5166666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-8.4,Dāvis Bertāns,,SAS,True,False
+lauvejo01,,,,,,,,,,,,,,,,,Joffrey Lauvergne,Did Not Play,SAS,True,False

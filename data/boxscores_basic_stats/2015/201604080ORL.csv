@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+denglu01,32.166666666666664,4.0,7.0,0.571,2.0,3.0,0.667,0.0,0.0,,3.0,7.0,10.0,1.0,0.0,0.0,1.0,2.0,10.0,-15.0,Luol Deng,,MIA,False,True
+wadedw01,31.45,7.0,19.0,0.368,0.0,3.0,0.0,3.0,4.0,0.75,1.0,0.0,1.0,5.0,1.0,0.0,3.0,1.0,17.0,-7.0,Dwyane Wade,,MIA,False,True
+dragigo01,30.366666666666667,6.0,16.0,0.375,1.0,3.0,0.333,2.0,2.0,1.0,5.0,3.0,8.0,6.0,1.0,0.0,4.0,2.0,15.0,-2.0,Goran Dragić,,MIA,False,True
+johnsjo02,26.8,6.0,13.0,0.462,1.0,4.0,0.25,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,13.0,-5.0,Joe Johnson,,MIA,False,True
+stoudam01,10.883333333333333,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,0.0,0.0,0.0,1.0,3.0,4.0,-4.0,Amar'e Stoudemire,,MIA,False,True
+richajo01,32.7,4.0,11.0,0.364,2.0,5.0,0.4,3.0,4.0,0.75,4.0,1.0,5.0,4.0,1.0,1.0,1.0,1.0,13.0,4.0,Josh Richardson,,MIA,False,False
+whiteha01,28.133333333333333,6.0,12.0,0.5,0.0,0.0,,1.0,7.0,0.143,7.0,9.0,16.0,0.0,0.0,4.0,0.0,3.0,13.0,4.0,Hassan Whiteside,,MIA,False,False
+winslju01,23.233333333333334,3.0,6.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,0.0,3.0,0.0,0.0,3.0,6.0,6.0,Justise Winslow,,MIA,False,False
+greenge01,15.383333333333333,4.0,9.0,0.444,2.0,4.0,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,4.0,11.0,6.0,Gerald Green,,MIA,False,False
+hasleud01,8.883333333333333,3.0,4.0,0.75,0.0,0.0,,1.0,3.0,0.333,0.0,3.0,3.0,0.0,0.0,0.0,0.0,2.0,7.0,-2.0,Udonis Haslem,,MIA,False,False
+johnsty01,,,,,,,,,,,,,,,,,,,,,Tyler Johnson,Did Not Dress,MIA,False,False
+mcrobjo01,,,,,,,,,,,,,,,,,,,,,Josh McRoberts,Did Not Play,MIA,False,False
+fournev01,46.21666666666667,7.0,12.0,0.583,2.0,3.0,0.667,12.0,15.0,0.8,1.0,6.0,7.0,7.0,1.0,0.0,3.0,5.0,28.0,9.0,Evan Fournier,,ORL,True,True
+paytoel01,37.05,6.0,12.0,0.5,0.0,2.0,0.0,4.0,7.0,0.571,0.0,3.0,3.0,10.0,1.0,0.0,3.0,2.0,16.0,2.0,Elfrid Payton,,ORL,True,True
+vucevni01,35.11666666666667,12.0,20.0,0.6,0.0,0.0,,5.0,6.0,0.833,3.0,3.0,6.0,1.0,1.0,2.0,1.0,3.0,29.0,0.0,Nikola Vučević,,ORL,True,True
+oladivi01,28.15,6.0,12.0,0.5,1.0,1.0,1.0,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,2.0,1.0,2.0,13.0,0.0,Victor Oladipo,,ORL,True,True
+ilyaser01,24.0,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,0.0,0.0,1.0,4.0,-7.0,Ersan İlyasova,,ORL,True,True
+watsocj01,29.0,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,7.0,-1.0,C.J. Watson,,ORL,True,False
+hezonma01,22.95,4.0,7.0,0.571,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,0.0,1.0,1.0,9.0,5.0,Mario Hezonja,,ORL,True,False
+smithja02,12.8,3.0,8.0,0.375,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,4.0,0.0,1.0,6.0,2.0,Jason Smith,,ORL,True,False
+marblde01,4.716666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,0.0,2.0,0.0,5.0,Devyn Marble,,ORL,True,False
+dedmode01,,,,,,,,,,,,,,,,,,,,,Dewayne Dedmon,Did Not Play,ORL,True,False
+jennibr01,,,,,,,,,,,,,,,,,,,,,Brandon Jennings,Did Not Play,ORL,True,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,ORL,True,False
+nichoan01,,,,,,,,,,,,,,,,,,,,,Andrew Nicholson,Did Not Play,ORL,True,False

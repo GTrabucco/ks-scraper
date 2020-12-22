@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+jokicni01,25.516666666666666,0.761,0.714,0.286,0.286,0.0,4.8,2.8,20.1,2.1,0.0,11.3,16.5,155.0,140.0,3.5,Nikola Jokić,,DEN,False,True
+murraja01,24.55,0.643,0.6,0.2,0.2,7.0,15.0,11.7,17.6,4.4,0.0,8.4,23.0,139.0,133.0,4.0,Jamal Murray,,DEN,False,True
+millspa01,24.366666666666667,0.825,0.786,0.143,0.286,21.1,5.1,11.8,22.4,0.0,0.0,20.2,19.2,152.0,145.0,4.7,Paul Millsap,,DEN,False,True
+portemi01,24.05,1.25,1.25,0.5,0.0,0.0,20.5,11.9,6.0,2.2,0.0,40.0,19.7,114.0,135.0,5.8,Michael Porter,,DEN,False,True
+craigto01,22.833333333333332,0.375,0.375,0.375,0.0,15.0,10.8,12.6,0.0,0.0,0.0,0.0,16.6,104.0,143.0,-13.9,Torrey Craig,,DEN,False,True
+doziepj01,26.683333333333334,0.893,0.857,0.286,1.0,0.0,18.5,10.7,20.0,0.0,3.5,22.9,23.3,145.0,139.0,5.9,PJ Dozier,,DEN,False,False
+plumlma01,24.633333333333333,0.619,0.625,0.0,0.25,13.9,0.0,5.8,27.6,4.4,0.0,10.1,19.0,143.0,136.0,4.0,Mason Plumlee,,DEN,False,False
+morrimo01,23.45,0.589,0.591,0.364,0.182,7.3,10.5,9.2,23.6,0.0,0.0,7.8,26.1,134.0,144.0,-0.2,Monte Morris,,DEN,False,False
+bateske01,22.433333333333334,0.563,0.563,0.5,0.25,7.6,16.5,12.8,0.0,0.0,0.0,0.0,18.8,129.0,141.0,-7.4,Keita Bates-Diop,,DEN,False,False
+bolbo01,21.483333333333334,0.592,0.5,0.4,0.8,0.0,28.6,16.7,11.0,0.0,4.3,12.9,17.1,125.0,135.0,-2.9,Bol Bol,,DEN,False,False
+cookty01,,,,,,,,,,,,,,,,,Tyler Cook,Did Not Play,DEN,False,False
+vonleno01,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,DEN,False,False
+danietr01,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,DEN,False,False
+jamesle01,38.1,0.571,0.548,0.524,0.476,0.0,4.5,1.9,46.3,0.0,4.7,16.4,36.4,119.0,141.0,4.1,LeBron James,,LAL,True,True
+davisan02,38.03333333333333,0.666,0.6,0.067,0.8,12.9,9.0,11.3,19.3,4.3,4.7,9.0,26.8,144.0,130.0,9.0,Anthony Davis,,LAL,True,True
+kuzmaky01,32.916666666666664,0.781,0.781,0.313,0.0,3.7,26.0,13.1,15.6,3.3,0.0,5.9,23.6,153.0,132.0,10.0,Kyle Kuzma,,LAL,True,True
+greenda02,30.05,0.55,0.55,0.5,0.0,8.2,0.0,4.8,4.2,0.0,0.0,0.0,15.2,135.0,145.0,-4.2,Danny Green,,LAL,True,True
+mcgeeja01,15.716666666666667,0.694,0.5,0.0,1.0,15.7,32.7,22.8,0.0,3.4,0.0,25.8,11.3,129.0,130.0,-7.3,JaVale McGee,,LAL,True,True
+waitedi01,27.283333333333335,0.711,0.688,0.25,0.125,0.0,0.0,0.0,15.0,0.0,0.0,10.6,15.8,140.0,144.0,-3.4,Dion Waiters,,LAL,True,False
+carusal01,19.833333333333332,0.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,5.5,0.0,0.0,4.3,104.0,132.0,-1.9,Alex Caruso,,LAL,True,False
+morrima02,18.25,0.8,0.8,0.8,0.0,13.5,47.0,27.5,0.0,0.0,0.0,0.0,12.5,173.0,135.0,0.6,Markieff Morris,,LAL,True,False
+howardw01,13.85,0.952,1.0,0.0,2.5,26.7,24.8,25.9,0.0,0.0,0.0,0.0,13.9,206.0,139.0,1.2,Dwight Howard,,LAL,True,False
+hortota01,5.966666666666667,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.7,0.0,144.0,-24.8,Talen Horton-Tucker,,LAL,True,False
+smithjr01,,,,,,,,,,,,,,,,,J.R. Smith,Did Not Play,LAL,True,False
+cookqu01,,,,,,,,,,,,,,,,,Quinn Cook,Did Not Play,LAL,True,False
+dudleja01,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Play,LAL,True,False

@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gilgesh01,37.733333333333334,0.425,0.3,0.4,0.4,0.0,5.9,3.0,29.8,1.3,2.4,7.8,14.7,115.0,121.0,-4.0,Shai Gilgeous-Alexander,,LAC,False,True
+gallida01,33.38333333333333,0.587,0.406,0.625,0.875,6.7,20.1,13.4,4.7,0.0,0.0,8.3,31.5,124.0,121.0,-3.6,Danilo Gallinari,,LAC,False,True
+beverpa01,30.3,0.857,0.857,0.857,0.0,3.7,7.4,5.5,10.0,1.7,3.0,0.0,10.1,177.0,120.0,4.7,Patrick Beverley,,LAC,False,True
+zubaciv01,19.916666666666668,0.85,0.8,0.0,0.4,16.8,39.2,28.0,8.5,0.0,4.5,0.0,12.9,189.0,112.0,6.7,Ivica Zubac,,LAC,False,True
+shamela01,13.566666666666666,0.3,0.3,0.4,0.0,0.0,0.0,0.0,10.3,0.0,0.0,0.0,16.0,80.0,128.0,-12.2,Landry Shamet,,LAC,False,True
+willilo02,32.25,0.616,0.575,0.35,0.4,3.5,6.9,5.2,42.3,3.1,0.0,7.8,34.4,130.0,118.0,10.7,Lou Williams,,LAC,False,False
+harremo01,28.083333333333332,0.752,0.667,0.083,0.75,7.9,7.9,7.9,7.0,0.0,3.2,11.1,27.8,141.0,123.0,3.6,Montrezl Harrell,,LAC,False,False
+templga01,17.7,0.0,0.0,0.5,0.0,12.6,0.0,6.3,21.4,5.7,0.0,33.3,7.4,89.0,115.0,-1.2,Garrett Temple,,LAC,False,False
+greenja01,14.616666666666667,0.667,0.667,0.5,0.0,7.6,30.5,19.1,0.0,0.0,0.0,0.0,17.9,139.0,118.0,-0.1,JaMychal Green,,LAC,False,False
+chandwi01,11.65,0.333,0.333,0.333,0.0,0.0,47.9,24.0,0.0,4.3,0.0,0.0,11.2,73.0,103.0,-5.4,Wilson Chandler,,LAC,False,False
+thornsi01,0.8,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,128.0,-7.5,Sindarius Thornwell,,LAC,False,False
+wallaty01,,,,,,,,,,,,,,,,,Tyrone Wallace,Did Not Play,LAC,False,False
+dotsoda01,44.36666666666667,0.507,0.469,0.5,0.25,2.5,5.0,3.8,6.5,0.0,0.0,5.3,18.3,111.0,139.0,-7.8,Damyean Dotson,,NYK,True,True
+mudiaem01,35.06666666666667,0.626,0.579,0.368,0.211,3.2,15.9,9.5,35.1,1.4,0.0,12.6,29.3,125.0,131.0,3.6,Emmanuel Mudiay,,NYK,True,True
+jordade01,34.18333333333333,0.765,0.7,0.0,0.7,16.3,26.1,21.2,18.0,3.0,5.5,18.7,20.3,141.0,121.0,8.7,DeAndre Jordan,,NYK,True,True
+hezonma01,25.533333333333335,0.304,0.222,0.333,0.222,4.4,17.5,10.9,15.1,0.0,3.7,23.3,21.8,69.0,132.0,-14.0,Mario Hezonja,,NYK,True,True
+knoxke01,18.833333333333332,0.557,0.556,0.444,0.222,0.0,5.9,3.0,0.0,0.0,0.0,0.0,22.7,118.0,138.0,-4.6,Kevin Knox,,NYK,True,True
+thomala01,28.7,0.761,0.714,0.429,0.286,7.8,3.9,5.8,9.7,0.0,0.0,11.3,13.4,149.0,139.0,-1.1,Lance Thomas,,NYK,True,False
+allenka01,20.25,0.673,0.636,0.364,0.182,5.5,16.5,11.0,8.9,0.0,4.6,7.8,27.5,132.0,132.0,1.2,Kadeem Allen,,NYK,True,False
+robinmi01,13.816666666666666,1.136,,,,8.1,48.5,28.3,16.9,7.3,13.6,0.0,2.8,235.0,98.0,16.3,Mitchell Robinson,,NYK,True,False
+jenkijo01,12.416666666666666,0.25,0.25,0.75,0.0,9.0,0.0,4.5,10.4,0.0,7.6,0.0,13.9,86.0,136.0,-6.7,John Jenkins,,NYK,True,False
+ntilila01,6.833333333333333,0.0,0.0,1.0,0.0,0.0,16.3,8.2,0.0,0.0,0.0,66.7,19.0,0.0,135.0,-32.1,Frank Ntilikina,,NYK,True,False
+ellenhe01,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,NYK,True,False
+kornelu01,,,,,,,,,,,,,,,,,Luke Kornet,Did Not Play,NYK,True,False

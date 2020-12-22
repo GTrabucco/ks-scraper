@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+butleji01,40.516666666666666,9.0,21.0,0.429,2.0,5.0,0.4,10.0,12.0,0.833,2.0,6.0,8.0,6.0,0.0,1.0,4.0,0.0,30.0,-2.0,Jimmy Butler,,CHI,False,True
+gasolpa01,35.733333333333334,4.0,12.0,0.333,1.0,1.0,1.0,1.0,2.0,0.5,5.0,9.0,14.0,5.0,1.0,4.0,2.0,3.0,10.0,3.0,Pau Gasol,,CHI,False,True
+mirotni01,31.333333333333332,6.0,13.0,0.462,3.0,8.0,0.375,2.0,2.0,1.0,2.0,3.0,5.0,1.0,0.0,2.0,2.0,4.0,17.0,1.0,Nikola Mirotić,,CHI,False,True
+gibsota01,26.433333333333334,2.0,5.0,0.4,0.0,0.0,,2.0,2.0,1.0,4.0,5.0,9.0,1.0,0.0,0.0,2.0,3.0,6.0,-12.0,Taj Gibson,,CHI,False,True
+rosede01,22.483333333333334,3.0,9.0,0.333,1.0,3.0,0.333,2.0,2.0,1.0,1.0,0.0,1.0,3.0,1.0,0.0,3.0,2.0,9.0,-9.0,Derrick Rose,,CHI,False,True
+snellto01,29.816666666666666,7.0,11.0,0.636,3.0,7.0,0.429,0.0,0.0,,1.0,6.0,7.0,1.0,1.0,0.0,3.0,4.0,17.0,7.0,Tony Snell,,CHI,False,False
+brookaa01,17.033333333333335,3.0,7.0,0.429,2.0,4.0,0.5,1.0,2.0,0.5,0.0,2.0,2.0,2.0,0.0,0.0,0.0,3.0,9.0,3.0,Aaron Brooks,,CHI,False,False
+noahjo01,15.033333333333333,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,0.5,4.0,3.0,7.0,2.0,0.0,0.0,0.0,3.0,3.0,-5.0,Joakim Noah,,CHI,False,False
+hinriki01,11.866666666666667,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,-8.0,Kirk Hinrich,,CHI,False,False
+mcderdo01,5.75,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Doug McDermott,,CHI,False,False
+portibo01,4.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,-5.0,Bobby Portis,,CHI,False,False
+bairsca01,,,,,,,,,,,,,,,,,,,,,Cameron Bairstow,Did Not Play,CHI,False,False
+mooreet01,,,,,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,CHI,False,False
+middlkh01,40.516666666666666,6.0,16.0,0.375,2.0,6.0,0.333,2.0,2.0,1.0,3.0,3.0,6.0,9.0,0.0,1.0,2.0,3.0,16.0,2.0,Khris Middleton,,MIL,True,True
+monrogr01,37.0,7.0,13.0,0.538,0.0,0.0,,3.0,3.0,1.0,4.0,8.0,12.0,1.0,1.0,1.0,0.0,1.0,17.0,14.0,Greg Monroe,,MIL,True,True
+cartemi01,36.916666666666664,4.0,13.0,0.308,0.0,0.0,,3.0,5.0,0.6,0.0,4.0,4.0,6.0,3.0,0.0,0.0,3.0,11.0,5.0,Michael Carter-Williams,,MIL,True,True
+antetgi01,31.3,10.0,14.0,0.714,0.0,1.0,0.0,9.0,14.0,0.643,3.0,7.0,10.0,5.0,1.0,1.0,0.0,4.0,29.0,19.0,Giannis Antetokounmpo,,MIL,True,True
+parkeja01,27.016666666666666,8.0,14.0,0.571,0.0,0.0,,0.0,2.0,0.0,2.0,1.0,3.0,0.0,3.0,0.0,1.0,3.0,16.0,7.0,Jabari Parker,,MIL,True,True
+mayooj01,26.0,2.0,9.0,0.222,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,4.0,1.0,0.0,0.0,1.0,5.0,-1.0,O.J. Mayo,,MIL,True,False
+hensojo01,21.916666666666668,4.0,8.0,0.5,0.0,0.0,,0.0,2.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,2.0,3.0,8.0,-12.0,John Henson,,MIL,True,False
+vaughra01,15.766666666666667,2.0,6.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,4.0,-5.0,Rashad Vaughn,,MIL,True,False
+obryajo01,3.5666666666666664,0.0,0.0,,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,Johnny O'Bryant,,MIL,True,False
+copelch01,,,,,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,MIL,True,False
+ennisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,MIL,True,False
+inglida01,,,,,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,True,False
+plumlmi01,,,,,,,,,,,,,,,,,,,,,Miles Plumlee,Did Not Play,MIL,True,False

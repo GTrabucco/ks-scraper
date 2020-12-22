@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gallida01,34.68333333333333,0.702,0.667,0.333,0.533,0.0,15.7,8.6,27.7,1.4,0.0,9.7,25.7,134.0,115.0,9.7,Danilo Gallinari,,DEN,False,True
+mudiaem01,31.2,0.601,0.536,0.143,0.429,0.0,14.0,7.7,20.4,3.1,0.0,19.4,28.7,103.0,112.0,-2.7,Emmanuel Mudiay,,DEN,False,True
+harriga01,28.783333333333335,0.417,0.417,0.333,0.0,0.0,3.8,2.1,0.0,3.3,0.0,25.0,12.1,60.0,114.0,-8.5,Gary Harris,,DEN,False,True
+farieke01,26.633333333333333,0.735,0.667,0.0,1.333,0.0,20.5,11.3,9.6,1.8,3.0,17.4,9.4,132.0,110.0,0.5,Kenneth Faried,,DEN,False,True
+jokicni01,25.466666666666665,0.563,0.583,0.083,0.25,26.2,21.4,23.6,20.3,1.9,3.1,0.0,22.7,134.0,110.0,4.5,Nikola Jokić,,DEN,False,True
+bartowi01,25.883333333333333,0.568,0.455,0.182,0.455,0.0,12.6,7.0,0.0,3.7,3.1,7.0,23.8,109.0,109.0,-1.7,Will Barton,,DEN,False,False
+arthuda01,21.316666666666666,0.793,0.75,0.167,0.833,6.3,15.4,11.3,14.1,0.0,0.0,10.9,18.7,148.0,118.0,3.8,Darrell Arthur,,DEN,False,False
+nelsoja01,17.033333333333335,0.6,0.6,0.8,0.0,0.0,6.4,3.5,31.9,0.0,0.0,28.6,17.8,102.0,121.0,-4.9,Jameer Nelson,,DEN,False,False
+nurkiju01,15.633333333333333,0.508,0.429,0.0,0.286,8.5,27.9,19.2,19.3,0.0,5.1,0.0,21.9,122.0,111.0,1.6,Jusuf Nurkić,,DEN,False,False
+foyera01,13.316666666666666,0.5,0.5,0.5,0.0,0.0,8.2,4.5,19.3,0.0,6.0,50.0,13.0,68.0,117.0,-4.5,Randy Foye,,DEN,False,False
+millemi01,0.06666666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,123.0,-6.6,Mike Miller,,DEN,False,False
+hicksjj01,,,,,,,,,,,,,,,,,J.J. Hickson,Did Not Play,DEN,False,False
+kilpase01,,,,,,,,,,,,,,,,,Sean Kilpatrick,Did Not Play,DEN,False,False
+walljo01,40.96666666666667,0.433,0.353,0.412,0.353,5.3,16.3,10.3,31.8,4.7,3.7,13.3,23.0,103.0,111.0,2.7,John Wall,,WAS,True,True
+templga01,38.46666666666667,0.592,0.594,0.625,0.125,2.8,13.9,7.8,12.4,1.2,0.0,0.0,18.3,132.0,122.0,2.2,Garrett Temple,,WAS,True,True
+hilarne01,29.2,0.697,0.667,0.0,0.444,14.9,13.7,14.4,0.0,0.0,5.2,0.0,15.4,155.0,120.0,0.4,Nenê Hilário,,WAS,True,True
+gortama01,29.15,0.676,0.625,0.0,0.25,15.0,27.4,20.6,5.4,0.0,5.2,18.4,15.6,125.0,118.0,-1.9,Marcin Gortat,,WAS,True,True
+porteot01,15.466666666666667,0.258,0.0,0.667,0.667,0.0,17.2,7.8,0.0,3.1,0.0,0.0,10.5,65.0,117.0,-10.9,Otto Porter,,WAS,True,True
+dudleja01,25.766666666666666,0.615,0.563,0.375,0.5,4.2,15.5,9.3,23.6,7.4,0.0,17.0,19.0,119.0,108.0,5.7,Jared Dudley,,WAS,True,False
+bealbr01,25.6,0.555,0.536,0.143,0.214,0.0,5.2,2.3,14.5,1.9,0.0,20.7,31.4,91.0,122.0,-8.5,Bradley Beal,,WAS,True,False
+sessira01,16.266666666666666,0.539,0.375,0.0,0.625,0.0,24.6,11.1,19.6,2.9,0.0,8.9,28.7,115.0,117.0,1.1,Ramon Sessions,,WAS,True,False
+goodedr01,11.883333333333333,0.717,0.75,0.75,0.5,0.0,22.4,10.1,0.0,4.0,0.0,29.1,24.1,92.0,115.0,-0.6,Drew Gooden,,WAS,True,False
+oubreke01,7.233333333333333,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.5,0.0,5.8,0.0,117.0,-12.4,Kelly Oubre,,WAS,True,False
+blairde01,,,,,,,,,,,,,,,,,DeJuan Blair,Did Not Play,WAS,True,False
+eddieja01,,,,,,,,,,,,,,,,,Jarell Eddie,Did Not Play,WAS,True,False
+nealga01,,,,,,,,,,,,,,,,,Gary Neal,Did Not Play,WAS,True,False

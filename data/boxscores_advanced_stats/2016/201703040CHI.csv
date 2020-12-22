@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+griffbl01,34.483333333333334,0.454,0.333,0.2,0.4,3.3,17.4,10.2,28.6,0.0,0.0,14.5,27.1,100.0,102.0,0.9,Blake Griffin,,LAC,False,True
+paulch01,32.516666666666666,0.571,0.571,0.286,0.143,0.0,7.4,3.6,19.3,3.2,2.2,6.3,22.1,118.0,97.0,7.9,Chris Paul,,LAC,False,True
+jordade01,30.866666666666667,0.6,0.6,0.0,0.0,14.8,38.9,26.6,12.8,0.0,2.4,37.5,11.7,102.0,92.0,0.9,DeAndre Jordan,,LAC,False,True
+mbahalu01,30.1,0.82,0.833,0.0,0.5,3.8,8.0,5.8,4.8,1.7,0.0,12.0,12.5,146.0,102.0,5.9,Luc Mbah a Moute,,LAC,False,True
+redicjj01,23.533333333333335,0.542,0.542,0.417,0.0,0.0,5.1,2.5,0.0,0.0,0.0,0.0,23.1,112.0,106.0,-1.6,J.J. Redick,,LAC,False,True
+crawfja01,25.866666666666667,0.682,0.647,0.294,0.176,4.4,4.6,4.5,16.5,4.0,0.0,9.8,35.6,127.0,98.0,14.7,Jamal Crawford,,LAC,False,False
+riverau01,18.566666666666666,0.34,0.3,0.8,0.4,6.2,6.5,6.3,20.2,2.8,0.0,25.4,19.2,77.0,100.0,-3.8,Austin Rivers,,LAC,False,False
+speigma01,17.133333333333333,0.25,0.25,0.375,0.0,20.0,21.0,20.5,0.0,3.0,8.5,0.0,21.1,78.0,89.0,-4.0,Marreese Speights,,LAC,False,False
+johnswe01,13.516666666666667,0.5,0.5,0.5,0.0,0.0,8.9,4.3,0.0,0.0,5.4,0.0,6.7,105.0,102.0,-0.6,Wesley Johnson,,LAC,False,False
+feltora01,13.416666666666666,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.7,10.1,51.0,108.0,-11.8,Raymond Felton,,LAC,False,False
+anderal01,,,,,,,,,,,,,,,,,Alan Anderson,Did Not Play,LAC,False,False
+bassbr01,,,,,,,,,,,,,,,,,Brandon Bass,Did Not Play,LAC,False,False
+piercpa01,,,,,,,,,,,,,,,,,Paul Pierce,Did Not Play,LAC,False,False
+butleji01,36.416666666666664,0.76,0.643,0.143,1.143,6.6,6.3,6.4,26.6,4.3,0.0,16.0,14.9,146.0,107.0,11.4,Jimmy Butler,,CHI,True,True
+wadedw01,32.68333333333333,0.367,0.227,0.091,0.545,3.7,17.5,10.7,13.7,1.6,0.0,12.8,20.7,87.0,110.0,-5.4,Dwyane Wade,,CHI,True,True
+lopezro01,26.783333333333335,0.429,0.429,0.0,0.0,17.9,8.5,13.1,14.8,0.0,0.0,12.5,25.9,93.0,116.0,-4.9,Robin Lopez,,CHI,True,True
+portibo01,20.766666666666666,0.463,0.455,0.182,0.182,5.8,33.0,19.7,0.0,0.0,0.0,0.0,24.8,104.0,109.0,-2.9,Bobby Portis,,CHI,True,True
+grantje02,9.85,0.333,0.333,0.0,0.0,0.0,0.0,0.0,16.2,0.0,0.0,25.0,17.6,64.0,118.0,-16.7,Jerian Grant,,CHI,True,True
+rondora01,29.133333333333333,0.357,0.357,0.143,0.0,4.1,11.8,8.0,46.8,5.3,0.0,36.4,16.4,81.0,104.0,1.8,Rajon Rondo,,CHI,True,False
+mirotni01,27.233333333333334,0.444,0.444,0.444,0.0,4.4,25.2,15.0,12.6,5.7,0.0,10.0,15.9,96.0,99.0,3.8,Nikola Mirotić,,CHI,True,False
+zipsepa01,17.716666666666665,0.727,0.75,0.333,0.333,0.0,12.9,6.6,0.0,0.0,0.0,22.5,21.7,99.0,115.0,-0.7,Paul Zipser,,CHI,True,False
+feliccr01,14.983333333333333,0.595,0.6,0.0,0.4,32.0,7.6,19.5,25.2,3.5,0.0,33.8,25.7,94.0,109.0,0.8,Cristiano Felício,,CHI,True,False
+valende01,13.733333333333333,0.8,0.8,0.8,0.0,0.0,25.0,12.8,0.0,0.0,0.0,16.7,18.9,116.0,112.0,7.5,Denzel Valentine,,CHI,True,False
+payneca01,10.7,0.2,0.2,0.4,0.0,0.0,10.7,5.5,14.7,0.0,0.0,16.7,24.3,48.0,115.0,-19.7,Cameron Payne,,CHI,True,False
+cartemi01,,,,,,,,,,,,,,,,,Michael Carter-Williams,Did Not Play,CHI,True,False
+lauvejo01,,,,,,,,,,,,,,,,,Joffrey Lauvergne,Did Not Play,CHI,True,False

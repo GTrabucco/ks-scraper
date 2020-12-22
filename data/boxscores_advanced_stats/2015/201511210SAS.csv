@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gasolma01,39.7,0.405,0.333,0.0,0.222,9.1,17.3,12.9,25.6,4.1,0.0,33.6,18.5,76.0,101.0,-0.6,Marc Gasol,,MEM,False,True
+conlemi01,32.016666666666666,0.546,0.417,0.083,0.5,0.0,12.9,6.0,30.6,3.4,2.9,6.4,24.1,114.0,101.0,8.6,Mike Conley,,MEM,False,True
+greenje02,28.466666666666665,0.429,0.429,0.0,0.0,0.0,33.7,15.7,6.3,1.9,0.0,12.5,13.8,77.0,103.0,-3.0,Jeff Green,,MEM,False,True
+greenja01,21.183333333333334,0.581,0.5,0.0,0.333,11.3,19.4,15.1,9.0,2.5,0.0,0.0,16.0,131.0,104.0,2.4,JaMychal Green,,MEM,False,True
+allento01,12.1,0.5,0.5,0.0,0.0,9.9,11.3,10.6,0.0,4.4,0.0,25.0,32.6,73.0,102.0,-2.5,Tony Allen,,MEM,False,True
+leeco01,34.5,0.638,0.55,0.2,0.4,3.5,0.0,1.9,0.0,3.1,0.0,20.3,21.1,101.0,106.0,0.7,Courtney Lee,,MEM,False,False
+barnema02,31.166666666666668,0.625,0.625,0.25,0.0,0.0,13.2,6.2,12.7,1.7,3.0,0.0,12.6,127.0,104.0,4.2,Matt Barnes,,MEM,False,False
+chalmma01,21.05,0.276,0.2,0.2,0.2,0.0,13.0,6.1,33.2,2.6,0.0,8.4,27.8,67.0,105.0,-8.4,Mario Chalmers,,MEM,False,False
+cartevi01,19.816666666666666,0.543,0.5,0.333,0.167,0.0,27.7,12.9,0.0,2.7,0.0,31.8,23.5,69.0,102.0,-5.8,Vince Carter,,MEM,False,False
+ennisja01,,,,,,,,,,,,,,,,,James Ennis,Did Not Play,MEM,False,False
+randoza01,,,,,,,,,,,,,,,,,Zach Randolph,Did Not Play,MEM,False,False
+smithru01,,,,,,,,,,,,,,,,,Russ Smith,Did Not Play,MEM,False,False
+wrighbr03,,,,,,,,,,,,,,,,,Brandan Wright,Not With Team,MEM,False,False
+leonaka01,40.266666666666666,0.513,0.433,0.4,0.533,6.8,14.9,11.1,12.8,0.0,1.8,0.0,22.4,119.0,96.0,5.9,Kawhi Leonard,,SAS,True,True
+duncati01,36.2,0.625,0.625,0.0,0.0,7.6,26.5,17.7,19.4,5.9,4.1,27.3,14.8,105.0,78.0,9.7,Tim Duncan,,SAS,True,True
+parketo01,31.583333333333332,0.712,0.6,0.0,0.6,0.0,3.8,2.0,18.3,1.7,2.3,13.7,22.5,130.0,94.0,8.3,Tony Parker,,SAS,True,True
+greenda02,28.366666666666667,0.45,0.45,0.7,0.0,0.0,12.7,6.8,12.4,1.9,0.0,28.6,24.0,68.0,94.0,-7.2,Danny Green,,SAS,True,True
+westda01,24.533333333333335,0.592,0.6,0.0,0.8,0.0,24.5,13.0,7.0,0.0,3.0,30.7,19.4,81.0,93.0,-4.6,David West,,SAS,True,True
+ginobma01,22.65,0.631,0.636,0.364,0.182,6.1,15.9,11.3,19.9,2.4,0.0,7.8,27.7,119.0,92.0,11.0,Manu Ginóbili,,SAS,True,False
+millspa02,20.1,0.375,0.375,1.0,0.0,6.8,6.0,6.4,7.6,0.0,0.0,20.0,12.1,79.0,99.0,-6.5,Patty Mills,,SAS,True,False
+anderky01,18.0,0.68,0.6,0.0,0.4,0.0,40.0,21.3,20.5,0.0,0.0,0.0,15.9,149.0,92.0,9.2,Kyle Anderson,,SAS,True,False
+diawbo01,11.716666666666667,0.25,0.25,0.0,0.0,11.7,10.2,10.9,27.4,0.0,0.0,33.3,24.9,59.0,98.0,-11.5,Boris Diaw,,SAS,True,False
+butlera01,6.283333333333333,,,,,0.0,0.0,0.0,0.0,0.0,11.8,100.0,7.7,0.0,89.0,-2.5,Rasual Butler,,SAS,True,False
+bonnema01,0.15,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,101.0,-3.5,Matt Bonner,,SAS,True,False
+mccalra01,0.15,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,101.0,-3.6,Ray McCallum,,SAS,True,False
+marjabo01,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,SAS,True,False

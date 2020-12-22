@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hibbero01,32.85,0.672,0.556,0.0,1.111,5.4,26.6,14.9,10.2,0.0,5.1,0.0,17.3,149.0,102.0,7.1,Roy Hibbert,,LAL,False,True
+bryanko01,32.083333333333336,0.408,0.368,0.526,0.368,0.0,6.8,3.1,16.6,1.6,0.0,4.3,30.5,88.0,109.0,-2.6,Kobe Bryant,,LAL,False,True
+randlju01,29.95,0.25,0.25,0.083,0.0,14.8,21.9,18.0,15.4,0.0,0.0,0.0,17.0,84.0,107.0,-7.8,Julius Randle,,LAL,False,True
+clarkjo01,28.7,0.385,0.385,0.231,0.0,0.0,7.6,3.4,5.7,1.8,0.0,13.3,22.2,70.0,108.0,-7.6,Jordan Clarkson,,LAL,False,True
+russeda01,28.383333333333333,0.403,0.429,0.0,0.143,6.3,11.5,8.6,16.4,5.3,0.0,21.2,14.1,83.0,98.0,-2.2,D'Angelo Russell,,LAL,False,True
+willilo02,21.2,0.338,0.292,0.5,0.25,4.2,5.1,4.6,38.8,2.4,0.0,7.0,28.7,85.0,107.0,-0.8,Lou Williams,,LAL,False,False
+youngni01,18.533333333333335,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.9,100.0,115.0,-1.7,Nick Young,,LAL,False,False
+nancela02,17.233333333333334,0.5,0.5,0.0,0.0,5.2,31.7,17.1,0.0,0.0,0.0,33.3,7.4,77.0,104.0,-10.7,Larry Nance,,LAL,False,False
+artesro01,15.916666666666666,1.0,1.0,0.5,0.0,0.0,27.4,12.3,11.2,3.2,5.3,0.0,10.7,194.0,94.0,16.1,Metta World Peace,,LAL,False,False
+blackta01,15.15,0.581,0.667,0.0,0.333,5.9,21.6,12.9,13.6,0.0,0.0,22.5,24.9,89.0,107.0,-4.2,Tarik Black,,LAL,False,False
+bassbr01,,,,,,,,,,,,,,,,,Brandon Bass,Did Not Play,LAL,False,False
+huertma01,,,,,,,,,,,,,,,,,Marcelo Huertas,Did Not Play,LAL,False,False
+kellyry01,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,LAL,False,False
+caldejo01,35.38333333333333,0.583,0.583,0.5,0.0,3.1,10.0,6.9,16.4,2.8,0.0,7.7,16.7,114.0,99.0,1.9,José Calderón,,NYK,True,True
+anthoca01,34.95,0.53,0.45,0.3,0.3,0.0,20.3,11.2,12.5,0.0,0.0,8.1,32.0,103.0,100.0,-1.7,Carmelo Anthony,,NYK,True,True
+lopezro01,31.0,0.651,0.556,0.0,0.444,17.6,22.9,20.5,24.5,0.0,2.3,15.7,18.7,131.0,98.0,4.7,Robin Lopez,,NYK,True,True
+porzikr01,25.75,0.475,0.35,0.3,0.6,8.5,27.6,19.0,6.8,0.0,5.6,0.0,22.3,113.0,93.0,-0.1,Kristaps Porziņģis,,NYK,True,True
+vujacsa01,14.783333333333333,0.357,0.357,0.571,0.0,0.0,12.0,6.6,12.2,3.4,0.0,0.0,21.5,81.0,98.0,-2.8,Sasha Vujačić,,NYK,True,True
+gallola01,27.483333333333334,0.742,0.722,0.444,0.111,0.0,12.9,7.1,7.2,1.8,0.0,0.0,15.6,145.0,100.0,6.2,Langston Galloway,,NYK,True,False
+grantje02,18.35,0.167,0.167,0.5,0.0,0.0,9.7,5.3,68.9,0.0,0.0,25.0,19.8,69.0,104.0,-10.3,Jerian Grant,,NYK,True,False
+thomala01,18.233333333333334,0.735,0.667,0.0,1.333,0.0,9.8,5.4,0.0,0.0,0.0,0.0,11.8,153.0,106.0,-1.1,Lance Thomas,,NYK,True,False
+willide02,15.133333333333333,0.452,0.25,0.0,1.5,0.0,5.9,3.2,10.6,0.0,0.0,13.1,22.9,90.0,107.0,-7.7,Derrick Williams,,NYK,True,False
+oquinky01,11.166666666666666,0.266,0.0,1.0,2.0,9.8,8.0,8.8,13.0,0.0,0.0,0.0,7.6,103.0,106.0,-5.4,Kyle O'Quinn,,NYK,True,False
+serapke01,7.766666666666667,0.0,0.0,0.0,0.0,14.0,22.9,18.9,0.0,6.5,18.4,25.0,23.4,19.0,73.0,-8.3,Kevin Séraphin,,NYK,True,False
+amundlo01,,,,,,,,,,,,,,,,,Lou Amundson,Did Not Play,NYK,True,False
+earlycl01,,,,,,,,,,,,,,,,,Cleanthony Early,Did Not Play,NYK,True,False

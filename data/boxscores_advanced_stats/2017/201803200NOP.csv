@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+barneha02,34.483333333333334,0.478,0.447,0.211,0.105,3.0,10.4,6.5,8.7,0.0,0.0,16.8,32.3,84.0,126.0,-10.3,Harrison Barnes,,DAL,False,True
+bareajo01,28.883333333333333,0.455,0.455,0.273,0.0,3.6,12.5,7.7,38.3,0.0,0.0,21.4,22.6,96.0,125.0,-6.9,J.J. Barea,,DAL,False,True
+finnedo01,25.516666666666666,0.417,0.417,0.667,0.0,0.0,28.2,13.1,0.0,0.0,0.0,0.0,11.0,84.0,122.0,-9.1,Dorian Finney-Smith,,DAL,False,True
+poweldw01,24.6,0.917,0.917,0.167,0.0,12.7,14.6,13.6,17.6,0.0,0.0,0.0,11.4,192.0,124.0,5.8,Dwight Powell,,DAL,False,True
+nowitdi01,23.05,0.684,0.692,0.615,0.154,0.0,15.6,7.3,14.7,0.0,0.0,0.0,28.1,135.0,124.0,8.4,Dirk Nowitzki,,DAL,False,True
+mcderdo01,30.766666666666666,0.5,0.5,0.273,0.0,0.0,15.6,7.3,4.4,1.7,0.0,0.0,16.7,103.0,120.0,-5.7,Doug McDermott,,DAL,False,False
+ferreyo01,26.816666666666666,0.504,0.464,0.429,0.143,0.0,13.4,6.2,11.1,1.9,0.0,6.3,27.6,100.0,121.0,-4.0,Yogi Ferrell,,DAL,False,False
+noelne01,20.333333333333332,1.0,1.0,0.0,0.0,15.4,17.7,16.5,13.1,5.0,7.2,0.0,6.9,210.0,107.0,14.1,Nerlens Noel,,DAL,False,False
+colliky01,19.683333333333334,0.633,0.5,0.8,0.6,0.0,12.2,5.7,32.0,0.0,0.0,0.0,15.0,152.0,125.0,8.0,Kyle Collinsworth,,DAL,False,False
+klebima01,5.866666666666667,0.174,0.0,1.0,1.0,17.8,20.5,19.0,0.0,0.0,0.0,0.0,22.9,64.0,123.0,-21.8,Maxi Kleber,,DAL,False,False
+warneja01,,,,,,,,,,,,,,,,,Jameel Warney,Did Not Play,DAL,False,False
+motlejo01,,,,,,,,,,,,,,,,,Johnathan Motley,Did Not Play,DAL,False,False
+jonesja04,,,,,,,,,,,,,,,,,Jalen Jones,Did Not Play,DAL,False,False
+mooreet01,35.31666666666667,0.504,0.538,0.308,0.154,0.0,3.0,1.6,20.5,0.0,0.0,0.0,17.7,116.0,118.0,-3.1,E'Twaun Moore,,NOP,True,True
+davisan02,35.233333333333334,0.768,0.762,0.143,0.333,0.0,23.7,12.7,9.9,0.0,5.0,4.0,32.1,144.0,109.0,14.0,Anthony Davis,,NOP,True,True
+rondora01,30.3,0.603,0.607,0.286,0.286,0.0,31.0,16.6,62.8,5.1,0.0,20.2,29.4,119.0,100.0,12.0,Rajon Rondo,,NOP,True,True
+hillso01,11.05,0.5,0.5,0.5,0.0,0.0,9.4,5.1,10.0,0.0,0.0,0.0,8.1,119.0,117.0,-3.5,Solomon Hill,,NOP,True,True
+okafoem01,5.183333333333334,,,,,23.2,0.0,10.8,0.0,9.8,0.0,100.0,8.7,61.0,96.0,-8.9,Emeka Okafor,,NOP,True,True
+mirotni01,31.35,0.4,0.4,0.5,0.0,7.7,16.6,12.5,7.1,1.6,0.0,0.0,14.4,103.0,111.0,-3.2,Nikola Mirotić,,NOP,True,False
+clarkia01,30.716666666666665,0.633,0.633,0.2,0.0,0.0,3.4,1.8,18.4,0.0,0.0,11.8,24.9,114.0,118.0,-1.5,Ian Clark,,NOP,True,False
+diallch01,24.233333333333334,0.563,0.5,0.0,0.25,24.8,38.8,32.2,0.0,0.0,0.0,10.1,18.4,124.0,110.0,-5.7,Cheick Diallo,,NOP,True,False
+milleda01,18.916666666666668,0.0,0.0,0.6,0.0,0.0,11.0,5.9,10.6,0.0,0.0,0.0,11.9,29.0,116.0,-15.6,Darius Miller,,NOP,True,False
+drewla02,13.416666666666666,1.0,1.0,0.667,0.0,8.9,0.0,4.2,17.5,0.0,0.0,0.0,10.1,196.0,119.0,9.0,Larry Drew,,NOP,True,False
+liggide01,4.283333333333333,,,,,0.0,24.4,13.0,0.0,0.0,0.0,,0.0,0.0,113.0,-6.5,DeAndre Liggins,,NOP,True,False
+holidjr01,,,,,,,,,,,,,,,,,Jrue Holiday,Not With Team,NOP,True,False
+cookech01,,,,,,,,,,,,,,,,,Charles Cooke,Did Not Play,NOP,True,False

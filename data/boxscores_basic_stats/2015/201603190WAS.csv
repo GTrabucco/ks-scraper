@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+anthoca01,39.65,7.0,21.0,0.333,2.0,6.0,0.333,4.0,4.0,1.0,0.0,7.0,7.0,5.0,1.0,0.0,3.0,2.0,20.0,-13.0,Carmelo Anthony,,NYK,False,True
+porzikr01,38.53333333333333,7.0,14.0,0.5,2.0,3.0,0.667,4.0,4.0,1.0,3.0,4.0,7.0,2.0,0.0,3.0,5.0,3.0,20.0,-11.0,Kristaps Porziņģis,,NYK,False,True
+lopezro01,33.9,3.0,6.0,0.5,0.0,0.0,,3.0,4.0,0.75,5.0,2.0,7.0,2.0,0.0,3.0,0.0,1.0,9.0,-12.0,Robin Lopez,,NYK,False,True
+caldejo01,24.433333333333334,4.0,8.0,0.5,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,1.0,3.0,10.0,-15.0,José Calderón,,NYK,False,True
+vujacsa01,12.7,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,-5.0,Sasha Vujačić,,NYK,False,True
+afflaar01,35.333333333333336,3.0,10.0,0.3,2.0,3.0,0.667,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,3.0,2.0,10.0,-5.0,Arron Afflalo,,NYK,False,False
+gallola01,20.433333333333334,4.0,10.0,0.4,1.0,3.0,0.333,0.0,1.0,0.0,0.0,2.0,2.0,4.0,1.0,2.0,0.0,2.0,9.0,7.0,Langston Galloway,,NYK,False,False
+willide02,17.8,2.0,7.0,0.286,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,2.0,1.0,5.0,4.0,Derrick Williams,,NYK,False,False
+serapke01,14.1,2.0,4.0,0.5,0.0,0.0,,2.0,2.0,1.0,1.0,8.0,9.0,1.0,0.0,1.0,1.0,3.0,6.0,2.0,Kevin Séraphin,,NYK,False,False
+grantje02,3.1166666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,-2.0,Jerian Grant,,NYK,False,False
+amundlo01,,,,,,,,,,,,,,,,,,,,,Lou Amundson,Did Not Play,NYK,False,False
+oquinky01,,,,,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,NYK,False,False
+thomala01,,,,,,,,,,,,,,,,,,,,,Lance Thomas,Not With Team,NYK,False,False
+walljo01,39.2,8.0,17.0,0.471,2.0,3.0,0.667,6.0,6.0,1.0,0.0,2.0,2.0,10.0,1.0,1.0,1.0,1.0,24.0,19.0,John Wall,,WAS,True,True
+morrima02,36.35,8.0,15.0,0.533,1.0,6.0,0.167,0.0,0.0,,2.0,2.0,4.0,1.0,3.0,0.0,2.0,2.0,17.0,20.0,Markieff Morris,,WAS,True,True
+gortama01,33.03333333333333,7.0,10.0,0.7,0.0,0.0,,1.0,1.0,1.0,2.0,9.0,11.0,2.0,0.0,1.0,1.0,3.0,15.0,23.0,Marcin Gortat,,WAS,True,True
+bealbr01,32.43333333333333,4.0,12.0,0.333,1.0,4.0,0.25,1.0,2.0,0.5,0.0,3.0,3.0,6.0,1.0,0.0,0.0,1.0,10.0,2.0,Bradley Beal,,WAS,True,True
+porteot01,29.716666666666665,6.0,15.0,0.4,3.0,7.0,0.429,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,0.0,0.0,2.0,15.0,16.0,Otto Porter,,WAS,True,True
+anderal01,18.283333333333335,1.0,6.0,0.167,0.0,5.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,2.0,-6.0,Alan Anderson,,WAS,True,False
+templga01,15.566666666666666,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,7.0,7.0,0.0,0.0,2.0,2.0,2.0,5.0,8.0,Garrett Temple,,WAS,True,False
+hilarne01,14.966666666666667,2.0,2.0,1.0,0.0,0.0,,3.0,6.0,0.5,1.0,2.0,3.0,2.0,2.0,0.0,1.0,3.0,7.0,-13.0,Nenê Hilário,,WAS,True,False
+dudleja01,11.65,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,-10.0,Jared Dudley,,WAS,True,False
+sessira01,8.8,2.0,6.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,-9.0,Ramon Sessions,,WAS,True,False
+hicksjj01,,,,,,,,,,,,,,,,,,,,,J.J. Hickson,Did Not Play,WAS,True,False
+oubreke01,,,,,,,,,,,,,,,,,,,,,Kelly Oubre,Did Not Play,WAS,True,False
+thornma01,,,,,,,,,,,,,,,,,,,,,Marcus Thornton,Did Not Play,WAS,True,False

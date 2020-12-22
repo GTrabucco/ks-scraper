@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+russeda01,32.63333333333333,0.662,0.647,0.176,0.353,0.0,20.5,10.4,21.7,0.0,0.0,13.3,30.2,120.0,119.0,4.5,D'Angelo Russell,,BRK,False,True
+carrode01,31.683333333333334,0.593,0.55,0.7,0.6,7.2,17.6,12.5,0.0,1.5,0.0,13.7,20.1,112.0,116.0,-0.3,DeMarre Carroll,,BRK,False,True
+crabbal01,31.016666666666666,0.286,0.286,0.429,0.0,0.0,18.0,9.1,0.0,0.0,2.8,12.5,11.2,54.0,118.0,-9.5,Allen Crabbe,,BRK,False,True
+holliro01,30.766666666666666,0.622,0.4,0.0,1.2,11.1,10.9,11.0,16.3,1.6,2.8,11.6,24.5,130.0,116.0,6.3,Rondae Hollis-Jefferson,,BRK,False,True
+mozgoti01,10.883333333333333,0.798,1.0,0.0,2.0,0.0,10.3,5.2,0.0,4.5,7.9,61.5,19.5,53.0,107.0,-4.8,Timofey Mozgov,,BRK,False,True
+harrijo01,23.55,0.5,0.5,1.0,0.0,0.0,0.0,0.0,6.2,4.2,0.0,0.0,5.6,119.0,115.0,-2.2,Joe Harris,,BRK,False,False
+acyqu01,23.383333333333333,0.457,0.357,0.714,0.571,0.0,23.9,12.1,13.3,2.1,0.0,0.0,16.3,111.0,113.0,0.6,Quincy Acy,,BRK,False,False
+leverca01,21.283333333333335,0.633,0.6,0.0,0.6,10.7,10.5,10.6,16.0,2.3,0.0,32.2,19.1,101.0,116.0,-2.8,Caris LeVert,,BRK,False,False
+booketr01,19.933333333333334,0.551,0.5,0.1,0.2,17.2,11.2,14.2,10.5,0.0,4.3,8.4,26.0,118.0,119.0,2.0,Trevor Booker,,BRK,False,False
+whiteis01,12.65,0.515,0.5,0.167,0.667,0.0,17.6,8.9,16.1,0.0,0.0,20.5,33.6,87.0,120.0,-8.8,Isaiah Whitehead,,BRK,False,False
+kilpase01,1.55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,125.0,-4.2,Sean Kilpatrick,,BRK,False,False
+zellety01,,,,,,,,,,,,,,,,,Tyler Zeller,Did Not Play,BRK,False,False
+rubiori01,36.0,0.484,0.444,0.333,0.333,0.0,22.2,11.0,29.9,5.4,0.0,8.8,13.5,121.0,100.0,4.5,Ricky Rubio,,UTA,True,True
+favorde01,35.46666666666667,0.664,0.6,0.0,0.467,15.7,22.6,19.1,0.0,1.4,5.1,5.2,23.1,141.0,106.0,5.2,Derrick Favors,,UTA,True,True
+inglejo01,34.28333333333333,0.715,0.682,0.636,0.182,3.3,16.7,9.9,21.5,0.0,0.0,20.2,18.6,127.0,114.0,3.1,Joe Ingles,,UTA,True,True
+sefolth01,32.21666666666667,0.467,0.357,0.286,0.857,10.4,21.3,15.8,3.9,7.6,0.0,9.4,14.2,110.0,96.0,4.8,Thabo Sefolosha,,UTA,True,True
+mitchdo01,25.533333333333335,0.644,0.583,0.278,0.278,8.7,4.5,6.6,25.4,1.9,0.0,12.9,38.9,123.0,112.0,5.1,Donovan Mitchell,,UTA,True,True
+hoodro01,30.066666666666666,0.594,0.594,0.5,0.0,0.0,7.6,3.8,5.4,0.0,0.0,15.8,27.1,102.0,116.0,-2.4,Rodney Hood,,UTA,True,False
+burksal01,13.783333333333333,0.51,0.4,0.4,0.4,0.0,8.3,4.1,0.0,0.0,0.0,14.5,21.4,94.0,116.0,-9.1,Alec Burks,,UTA,True,False
+udohek01,12.4,0.0,0.0,0.0,0.0,9.0,18.4,13.7,9.4,0.0,7.3,50.0,13.8,32.0,108.0,-15.4,Ekpe Udoh,,UTA,True,False
+jerebjo01,11.466666666666667,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.3,0.0,0.0,3.7,0.0,108.0,-7.0,Jonas Jerebko,,UTA,True,False
+netora01,5.75,1.5,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,14.9,103.0,117.0,0.0,Raul Neto,,UTA,True,False
+onealro01,2.3833333333333333,,,,,0.0,48.0,23.7,0.0,0.0,0.0,,0.0,0.0,106.0,-1.7,Royce O'Neale,,UTA,True,False
+goberru01,,,,,,,,,,,,,,,,,Rudy Gobert,Did Not Dress,UTA,True,False
+bradlto01,,,,,,,,,,,,,,,,,Tony Bradley,Did Not Play,UTA,True,False

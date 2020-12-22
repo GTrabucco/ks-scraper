@@ -1,0 +1,23 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+horfoal01,35.65,0.652,0.625,0.313,0.125,3.5,32.8,17.7,32.6,0.0,2.4,15.1,25.6,124.0,127.0,4.4,Al Horford,,PHI,False,True
+harrito02,34.78333333333333,0.493,0.457,0.217,0.13,3.5,11.2,7.3,20.3,1.5,0.0,7.6,34.7,105.0,129.0,-7.0,Tobias Harris,,PHI,False,True
+scottmi01,33.68333333333333,0.507,0.5,0.5,0.25,14.6,23.1,18.8,11.6,0.0,0.0,10.1,13.4,123.0,131.0,-4.8,Mike Scott,,PHI,False,True
+miltosh01,29.383333333333333,0.595,0.55,0.3,0.4,8.4,4.4,6.4,14.9,1.8,0.0,0.0,18.4,141.0,130.0,-1.0,Shake Milton,,PHI,False,True
+thybuma01,17.466666666666665,0.5,0.5,0.6,0.0,7.0,0.0,3.6,23.2,0.0,0.0,0.0,13.1,136.0,134.0,-1.4,Matisse Thybulle,,PHI,False,True
+robingl02,28.183333333333334,1.042,1.0,0.4,1.0,4.4,23.0,13.4,14.9,1.9,3.1,0.0,11.7,217.0,124.0,12.5,Glenn Robinson,,PHI,False,False
+korkmfu01,24.3,0.3,0.3,1.0,0.0,0.0,16.0,7.8,5.1,0.0,0.0,37.5,15.1,45.0,132.0,-19.6,Furkan Korkmaz,,PHI,False,False
+netora01,18.616666666666667,0.955,0.875,0.25,1.0,0.0,0.0,0.0,23.3,0.0,0.0,25.8,19.1,146.0,134.0,-0.7,Raul Neto,,PHI,False,False
+burksal01,17.933333333333334,0.619,0.625,0.75,0.25,6.9,21.7,14.1,17.7,0.0,0.0,0.0,22.7,137.0,131.0,3.5,Alec Burks,,PHI,False,False
+oquinky01,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,PHI,False,False
+pelleno01,,,,,,,,,,,,,,,,,Norvel Pelle,Did Not Play,PHI,False,False
+wiggian01,37.06666666666667,0.382,0.3,0.0,0.7,3.5,10.0,6.8,12.9,1.4,2.6,7.1,18.4,93.0,125.0,-10.2,Andrew Wiggins,,GSW,True,True
+leeda03,34.016666666666666,0.688,0.676,0.471,0.059,3.8,18.1,11.1,14.2,0.0,0.0,10.3,27.6,122.0,127.0,-0.3,Damion Lee,,GSW,True,True
+chrisma01,32.68333333333333,0.689,0.667,0.111,0.111,11.9,26.4,19.3,33.4,1.6,2.9,0.0,14.0,165.0,119.0,11.2,Marquese Chriss,,GSW,True,True
+muldemy01,31.8,0.712,0.65,0.7,0.6,0.0,3.9,2.0,12.4,0.0,0.0,0.0,19.2,149.0,131.0,0.4,Mychal Mulder,,GSW,True,True
+toscaju01,27.716666666666665,0.5,0.5,0.333,0.0,9.4,17.8,13.7,8.9,0.0,0.0,0.0,10.5,128.0,127.0,-5.5,Juan Toscano-Anderson,,GSW,True,True
+pascher01,29.433333333333334,0.763,0.667,0.083,0.583,0.0,12.5,6.4,31.6,0.0,0.0,6.2,26.4,154.0,129.0,6.9,Eric Paschall,,GSW,True,False
+poolejo01,20.433333333333334,0.463,0.5,0.364,0.182,0.0,6.0,3.1,14.6,2.6,0.0,20.2,35.2,74.0,125.0,-16.8,Jordan Poole,,GSW,True,False
+randlch01,13.6,0.543,0.0,0.0,4.0,0.0,9.0,4.6,8.0,3.9,0.0,0.0,9.8,133.0,121.0,-2.2,Chasson Randle,,GSW,True,False
+bendedr01,13.25,1.25,1.25,0.5,0.0,0.0,27.9,14.3,12.3,0.0,0.0,0.0,14.6,246.0,124.0,15.2,Dragan Bender,,GSW,True,False
+bowmaky01,,,,,,,,,,,,,,,,,Ky Bowman,Did Not Dress,GSW,True,False
+looneke01,,,,,,,,,,,,,,,,,Kevon Looney,Did Not Dress,GSW,True,False

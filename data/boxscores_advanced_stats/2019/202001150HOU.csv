@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mccolcj01,38.06666666666667,0.607,0.583,0.333,0.222,0.0,2.2,1.2,25.5,2.5,2.7,9.2,23.9,120.0,106.0,6.8,CJ McCollum,,POR,False,True
+lillada01,37.8,0.531,0.425,0.4,0.4,2.5,13.1,8.2,28.8,2.5,0.0,4.1,27.1,121.0,103.0,4.9,Damian Lillard,,POR,False,True
+whiteha01,37.0,0.461,0.438,0.0,0.5,18.2,24.6,21.6,0.0,0.0,5.5,4.9,23.2,108.0,101.0,-3.9,Hassan Whiteside,,POR,False,True
+anthoca01,33.96666666666667,0.795,0.75,0.2,0.3,2.8,26.8,15.7,4.5,0.0,0.0,8.1,15.2,149.0,104.0,5.0,Carmelo Anthony,,POR,False,True
+bazemke01,32.21666666666667,0.407,0.308,0.769,0.308,3.0,20.6,12.4,12.2,1.5,3.2,6.3,20.5,95.0,101.0,-0.9,Kent Bazemore,,POR,False,True
+simonan01,20.583333333333332,0.2,0.2,0.2,0.0,0.0,16.1,8.6,24.1,2.3,0.0,0.0,10.2,81.0,103.0,-2.0,Anfernee Simons,,POR,False,False
+trentga02,15.333333333333334,0.625,0.625,0.75,0.0,0.0,10.8,5.8,9.0,0.0,0.0,20.0,13.6,102.0,109.0,-4.9,Gary Trent,,POR,False,False
+littlna01,12.583333333333334,0.868,0.75,0.5,1.0,7.6,6.6,7.1,0.0,0.0,0.0,0.0,9.6,187.0,111.0,1.7,Nassir Little,,POR,False,False
+tollian01,12.45,0.571,0.571,0.714,0.0,7.7,13.3,10.7,0.0,0.0,0.0,0.0,23.5,120.0,109.0,2.3,Anthony Tolliver,,POR,False,False
+nurkiju01,,,,,,,,,,,,,,,,,Jusuf Nurkić,Did Not Dress,POR,False,False
+hezonma01,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Dress,POR,False,False
+hoardja01,,,,,,,,,,,,,,,,,Jaylen Hoard,Did Not Play,POR,False,False
+westbru01,41.983333333333334,0.568,0.545,0.227,0.545,2.0,22.9,11.6,54.0,1.1,0.0,3.5,27.4,129.0,113.0,12.8,Russell Westbrook,,HOU,True,True
+hardeja01,36.4,0.419,0.292,0.5,0.667,6.8,13.2,9.8,27.1,0.0,4.5,11.4,19.6,103.0,116.0,-1.6,James Harden,,HOU,True,True
+capelca01,36.06666666666667,0.5,0.5,0.0,0.0,16.1,29.3,22.2,9.3,1.3,2.3,17.6,19.2,101.0,109.0,-1.3,Clint Capela,,HOU,True,True
+tuckepj01,30.083333333333332,0.5,0.5,1.0,0.0,2.8,9.6,5.9,4.4,1.6,0.0,50.0,8.1,60.0,116.0,-9.3,P.J. Tucker,,HOU,True,True
+mclembe01,23.6,0.567,0.567,0.867,0.0,0.0,8.1,3.8,0.0,2.0,3.4,6.3,27.6,98.0,114.0,5.0,Ben McLemore,,HOU,True,True
+gordoer01,30.666666666666668,0.556,0.556,0.722,0.0,0.0,6.3,2.9,5.8,0.0,0.0,0.0,23.9,109.0,121.0,2.1,Eric Gordon,,HOU,True,False
+houseda01,22.083333333333332,0.444,0.357,0.857,0.286,0.0,8.7,4.0,6.5,0.0,0.0,11.3,16.3,87.0,120.0,-9.4,Danuel House,,HOU,True,False
+riverau01,18.183333333333334,0.184,0.2,0.6,0.2,0.0,15.8,7.3,0.0,0.0,0.0,15.5,14.4,32.0,118.0,-15.7,Austin Rivers,,HOU,True,False
+harteis01,0.9333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,122.0,-27.9,Isaiah Hartenstein,,HOU,True,False
+clemoch01,,,,,,,,,,,,,,,,,Chris Clemons,Did Not Play,HOU,True,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,True,False
+sefolth01,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,True,False

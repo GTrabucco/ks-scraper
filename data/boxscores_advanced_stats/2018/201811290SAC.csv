@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gallida01,33.36666666666667,0.533,0.533,0.4,0.0,3.6,9.4,6.7,7.2,4.3,0.0,0.0,19.4,117.0,117.0,0.6,Danilo Gallinari,,LAC,False,True
+harrito02,32.78333333333333,0.764,0.735,0.294,0.176,3.7,15.9,10.2,17.3,0.0,0.0,0.0,24.1,161.0,124.0,9.0,Tobias Harris,,LAC,False,True
+gilgesh01,32.46666666666667,0.759,0.722,0.111,0.556,3.7,12.9,8.6,14.4,3.0,4.1,0.0,14.9,166.0,116.0,9.4,Shai Gilgeous-Alexander,,LAC,False,True
+bradlav01,31.666666666666668,0.8,0.8,0.7,0.0,3.8,6.6,5.3,22.2,0.0,2.1,23.1,17.7,133.0,126.0,4.5,Avery Bradley,,LAC,False,True
+gortama01,18.05,0.827,0.8,0.0,0.2,0.0,28.9,15.5,6.8,0.0,3.7,15.5,15.4,138.0,117.0,1.0,Marcin Gortat,,LAC,False,True
+harremo01,26.5,0.785,0.8,0.0,1.2,13.6,11.8,12.6,5.1,0.0,2.5,0.0,24.9,168.0,124.0,7.1,Montrezl Harrell,,LAC,False,False
+willilo02,19.116666666666667,0.442,0.35,0.2,0.3,6.3,5.5,5.8,11.8,0.0,0.0,15.0,30.0,91.0,128.0,-12.3,Lou Williams,,LAC,False,False
+beverpa01,15.883333333333333,0.63,0.667,0.333,1.333,0.0,6.6,3.5,0.0,0.0,0.0,17.4,15.6,102.0,128.0,-9.5,Patrick Beverley,,LAC,False,False
+scottmi01,15.216666666666667,0.313,0.313,0.625,0.0,0.0,41.1,22.0,7.2,0.0,0.0,11.1,25.5,65.0,115.0,-14.0,Mike Scott,,LAC,False,False
+thornsi01,8.65,0.5,0.5,0.0,0.0,0.0,0.0,0.0,12.5,5.5,0.0,33.3,15.0,80.0,118.0,-4.1,Sindarius Thornwell,,LAC,False,False
+teodomi01,5.95,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48.4,8.0,0.0,0.0,7.2,119.0,112.0,3.3,Miloš Teodosić,,LAC,False,False
+wallaty01,0.35,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,130.0,-6.0,Tyrone Wallace,,LAC,False,False
+marjabo01,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,LAC,False,False
+foxde01,31.5,0.576,0.5,0.154,0.308,0.0,11.4,5.3,37.2,3.0,2.5,11.9,21.6,127.0,127.0,5.4,De'Aaron Fox,,SAC,True,True
+caulewi01,30.466666666666665,0.576,0.615,0.0,0.308,6.9,31.5,18.3,4.7,1.6,0.0,16.9,23.6,100.0,129.0,-5.0,Willie Cauley-Stein,,SAC,True,True
+hieldbu01,29.866666666666667,0.36,0.308,0.538,0.154,7.0,16.1,11.2,8.1,0.0,0.0,12.6,21.5,85.0,135.0,-11.8,Buddy Hield,,SAC,True,True
+shumpim01,21.966666666666665,0.515,0.333,0.667,0.667,4.8,5.5,5.1,0.0,0.0,3.5,0.0,7.2,132.0,133.0,-6.4,Iman Shumpert,,SAC,True,True
+bjeline01,19.266666666666666,0.935,0.9,0.2,0.4,16.2,12.5,14.5,6.9,0.0,0.0,25.4,16.6,143.0,135.0,0.8,Nemanja Bjelica,,SAC,True,True
+bogdabo01,35.333333333333336,0.553,0.475,0.3,0.4,5.9,6.8,6.3,23.2,0.0,0.0,4.1,28.1,131.0,136.0,1.5,Bogdan Bogdanović,,SAC,True,False
+baglema01,27.366666666666667,0.567,0.533,0.067,0.133,19.1,21.9,20.4,11.0,1.8,0.0,0.0,23.5,138.0,130.0,3.4,Marvin Bagley,,SAC,True,False
+willitr02,22.866666666666667,0.436,0.333,0.333,0.333,0.0,10.5,4.9,0.0,0.0,0.0,12.7,14.0,87.0,135.0,-12.5,Troy Williams,,SAC,True,False
+jacksju01,11.65,1.0,1.0,0.75,0.0,0.0,41.2,19.2,12.2,0.0,0.0,0.0,13.9,200.0,131.0,14.0,Justin Jackson,,SAC,True,False
+gilesha01,6.883333333333333,0.5,0.5,0.0,0.0,15.2,17.4,16.2,65.3,0.0,0.0,0.0,23.6,141.0,135.0,15.5,Harry Giles,,SAC,True,False
+masonfr01,1.6333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,137.0,-10.6,Frank Mason,,SAC,True,False
+ferreyo01,1.2,,,,,0.0,0.0,0.0,87.0,0.0,0.0,,0.0,215.0,137.0,16.7,Yogi Ferrell,,SAC,True,False
+mclembe01,,,,,,,,,,,,,,,,,Ben McLemore,Did Not Play,SAC,True,False

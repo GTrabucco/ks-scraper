@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+browntr01,29.15,0.429,0.429,0.5,0.0,3.4,29.6,15.1,22.1,3.4,0.0,12.5,22.6,90.0,117.0,-1.6,Troy Brown,,WAS,False,True
+bongais01,28.616666666666667,0.526,0.458,0.417,0.25,10.5,21.5,15.4,11.3,0.0,0.0,18.4,23.5,99.0,127.0,-5.8,Isaac Bonga,,WAS,False,True
+hachiru01,25.5,0.446,0.364,0.091,0.273,15.7,19.3,17.3,6.2,0.0,0.0,7.5,21.5,104.0,127.0,-6.5,Rui Hachimura,,WAS,False,True
+bryanth01,22.75,0.461,0.313,0.625,0.5,8.8,16.2,12.1,0.0,0.0,9.4,0.0,17.6,114.0,122.0,-4.3,Thomas Bryant,,WAS,False,True
+smithis01,21.983333333333334,0.571,0.429,0.0,0.571,9.1,5.6,7.5,27.8,2.2,4.9,10.2,18.3,128.0,121.0,3.2,Ish Smith,,WAS,False,True
+robinje01,29.466666666666665,0.615,0.6,0.6,0.067,0.0,8.4,3.7,36.7,3.3,0.0,16.3,25.7,112.0,121.0,5.1,Jerome Robinson,,WAS,False,False
+schofad01,24.016666666666666,0.375,0.375,1.0,0.0,4.2,15.4,9.2,0.0,0.0,0.0,0.0,6.9,94.0,128.0,-7.8,Admiral Schofield,,WAS,False,False
+grantje02,21.25,0.338,0.375,0.5,0.25,0.0,0.0,0.0,36.2,0.0,0.0,25.3,23.0,69.0,131.0,-14.5,Jerian Grant,,WAS,False,False
+wagnemo01,21.216666666666665,0.644,0.625,0.125,0.375,0.0,17.4,7.8,0.0,2.3,0.0,17.7,21.9,101.0,122.0,-4.9,Moritz Wagner,,WAS,False,False
+uthofja01,12.0,0.667,0.667,0.0,0.0,0.0,20.5,9.2,0.0,0.0,0.0,0.0,10.3,132.0,127.0,-4.0,Jarrod Uthoff,,WAS,False,False
+willijo04,4.033333333333333,0.521,0.5,0.0,1.0,0.0,30.5,13.7,45.6,0.0,0.0,0.0,29.4,122.0,125.0,10.0,Johnathan Williams,,WAS,False,False
+pasecan01,,,,,,,,,,,,,,,,,Anžejs Pasečņiks,Did Not Play,WAS,False,False
+mahinia01,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Play,WAS,False,False
+gilgesh01,35.93333333333333,0.58,0.5,0.167,0.667,3.4,13.9,9.2,26.7,1.4,0.0,11.4,22.1,127.0,106.0,0.0,Shai Gilgeous-Alexander,,OKC,True,True
+paulch01,32.65,0.658,0.611,0.444,0.222,0.0,18.4,10.1,35.6,4.5,5.3,16.8,16.5,137.0,95.0,9.8,Chris Paul,,OKC,True,True
+muscami01,27.783333333333335,0.636,0.636,0.727,0.0,4.4,7.2,6.0,5.0,0.0,0.0,15.4,21.3,108.0,111.0,-5.5,Mike Muscala,,OKC,True,True
+dortlu01,26.433333333333334,0.409,0.409,0.273,0.0,9.3,30.3,20.9,5.1,0.0,3.2,8.3,20.6,92.0,101.0,-8.0,Luguentz Dort,,OKC,True,True
+gallida01,21.566666666666666,0.98,0.938,0.625,0.625,0.0,9.3,5.1,15.0,2.3,0.0,0.0,21.5,200.0,106.0,18.0,Danilo Gallinari,,OKC,True,True
+bazleda01,26.433333333333334,0.829,0.808,0.615,0.154,4.7,22.7,14.6,6.4,1.9,0.0,6.7,25.6,150.0,102.0,11.0,Darius Bazley,,OKC,True,False
+diallha01,25.65,0.742,0.786,0.286,0.571,14.4,11.7,12.9,11.1,1.9,0.0,10.2,17.3,147.0,106.0,4.8,Hamidou Diallo,,OKC,True,False
+naderab01,20.416666666666668,0.466,0.5,0.5,0.167,0.0,14.7,8.1,6.5,0.0,0.0,31.8,21.0,65.0,109.0,-15.7,Abdel Nader,,OKC,True,False
+fergute01,19.25,0.25,0.25,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.2,54.0,114.0,-15.1,Terrance Ferguson,,OKC,True,False
+burtode02,1.9333333333333333,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.5,200.0,114.0,11.7,Deonte Burton,,OKC,True,False
+hallde01,1.9333333333333333,,,,,0.0,0.0,0.0,57.7,0.0,0.0,,0.0,242.0,113.0,-0.4,Devon Hall,,OKC,True,False
+noelne01,,,,,,,,,,,,,,,,,Nerlens Noel,Did Not Play,OKC,True,False
+adamsst01,,,,,,,,,,,,,,,,,Steven Adams,Did Not Play,OKC,True,False

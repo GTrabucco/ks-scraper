@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+butleji01,39.016666666666666,0.711,0.654,0.154,0.308,3.3,17.2,11.3,27.2,2.6,1.9,16.9,21.5,125.0,102.0,8.0,Jimmy Butler,,CHI,False,True
+gasolpa01,31.6,0.429,0.429,0.214,0.0,0.0,30.4,17.5,16.3,1.6,2.3,30.0,29.9,62.0,98.0,-10.3,Pau Gasol,,CHI,False,True
+rosede01,11.95,,,,,0.0,0.0,0.0,21.7,0.0,0.0,100.0,11.9,34.0,117.0,-15.3,Derrick Rose,,CHI,False,True
+portibo01,10.066666666666666,0.25,0.25,0.0,0.0,12.9,9.5,11.0,0.0,0.0,0.0,0.0,18.8,68.0,113.0,-14.5,Bobby Portis,,CHI,False,True
+dunlemi02,9.166666666666666,0.266,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,34.7,14.8,36.0,117.0,-17.7,Mike Dunleavy,,CHI,False,True
+mirotni01,37.93333333333333,0.799,0.75,0.714,0.571,0.0,10.1,5.8,14.1,0.0,1.9,5.4,23.0,147.0,111.0,10.8,Nikola Mirotić,,CHI,False,False
+mcderdo01,37.166666666666664,0.504,0.464,0.286,0.143,7.0,18.1,13.4,13.2,0.0,0.0,6.3,20.2,106.0,109.0,-2.7,Doug McDermott,,CHI,False,False
+mooreet01,22.166666666666668,0.571,0.571,0.286,0.0,5.9,4.3,5.0,28.4,0.0,0.0,0.0,14.9,131.0,115.0,1.7,E'Twaun Moore,,CHI,False,False
+brookaa01,15.833333333333334,0.375,0.375,0.25,0.0,0.0,0.0,0.0,26.8,3.2,0.0,0.0,11.9,104.0,109.0,0.0,Aaron Brooks,,CHI,False,False
+feliccr01,15.05,0.512,0.5,0.0,0.5,0.0,25.5,14.7,31.2,0.0,4.9,0.0,15.3,123.0,102.0,7.9,Cristiano Felício,,CHI,False,False
+holidju01,10.05,1.064,1.25,0.5,2.0,0.0,28.7,16.5,17.4,5.1,0.0,0.0,17.7,212.0,93.0,26.1,Justin Holiday,,CHI,False,False
+gibsota01,,,,,,,,,,,,,,,,,Taj Gibson,Did Not Dress,CHI,False,False
+snellto01,,,,,,,,,,,,,,,,,Tony Snell,Did Not Play,CHI,False,False
+hardeja01,42.333333333333336,0.51,0.45,0.35,0.4,0.0,12.3,5.2,33.7,0.0,4.3,14.5,28.7,102.0,111.0,3.5,James Harden,,HOU,True,True
+beverpa01,37.15,0.818,0.808,0.308,0.077,2.6,14.0,7.4,37.1,0.0,0.0,0.0,16.0,175.0,114.0,12.8,Patrick Beverley,,HOU,True,True
+arizatr01,35.81666666666667,0.574,0.45,0.8,0.5,0.0,14.5,6.2,4.2,2.9,0.0,0.0,15.0,129.0,108.0,3.6,Trevor Ariza,,HOU,True,True
+howardw01,28.9,0.717,0.75,0.0,0.5,13.3,40.4,24.8,0.0,1.8,9.4,29.1,10.5,114.0,99.0,2.3,Dwight Howard,,HOU,True,True
+motiedo01,12.466666666666667,0.143,0.143,0.143,0.0,0.0,10.4,4.4,0.0,0.0,0.0,0.0,24.8,34.0,115.0,-23.0,Donatas Motiejūnas,,HOU,True,True
+beaslmi01,30.883333333333333,0.484,0.389,0.0,0.333,15.5,25.2,19.7,12.4,0.0,0.0,8.8,32.4,107.0,113.0,-0.7,Michael Beasley,,HOU,True,False
+terryja01,18.3,0.375,0.375,1.0,0.0,0.0,0.0,0.0,7.9,0.0,0.0,20.0,12.1,70.0,116.0,-11.6,Jason Terry,,HOU,True,False
+capelca01,17.633333333333333,0.571,0.571,0.0,0.0,10.9,22.1,15.6,0.0,5.8,0.0,0.0,17.5,126.0,100.0,3.5,Clint Capela,,HOU,True,False
+breweco01,16.5,0.0,0.0,0.143,0.0,5.8,7.9,6.7,0.0,0.0,5.5,0.0,18.7,12.0,110.0,-18.9,Corey Brewer,,HOU,True,False
+goudean01,,,,,,,,,,,,,,,,,Andrew Goudelock,Did Not Play,HOU,True,False
+joneste01,,,,,,,,,,,,,,,,,Terrence Jones,Did Not Play,HOU,True,False
+mcdankj01,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,HOU,True,False
+smithjo03,,,,,,,,,,,,,,,,,Josh Smith,Did Not Play,HOU,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+middlkh01,42.733333333333334,14.0,24.0,0.583,1.0,5.0,0.2,7.0,7.0,1.0,0.0,6.0,6.0,9.0,4.0,0.0,6.0,3.0,36.0,12.0,Khris Middleton,,MIL,False,True
+antetgi01,40.38333333333333,4.0,15.0,0.267,1.0,4.0,0.25,5.0,6.0,0.833,1.0,8.0,9.0,7.0,3.0,5.0,3.0,0.0,14.0,-2.0,Giannis Antetokounmpo,,MIL,False,True
+ennisty01,39.266666666666666,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,0.0,2.0,3.0,4.0,-8.0,Tyler Ennis,,MIL,False,True
+parkeja01,31.45,6.0,10.0,0.6,2.0,2.0,1.0,1.0,1.0,1.0,0.0,6.0,6.0,0.0,0.0,0.0,3.0,4.0,15.0,3.0,Jabari Parker,,MIL,False,True
+plumlmi01,28.483333333333334,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,1.0,2.0,1.0,0.0,1.0,8.0,11.0,Miles Plumlee,,MIL,False,True
+hensojo01,24.516666666666666,6.0,12.0,0.5,0.0,0.0,,6.0,6.0,1.0,5.0,5.0,10.0,1.0,0.0,2.0,1.0,3.0,18.0,-10.0,John Henson,,MIL,False,False
+vaughra01,22.883333333333333,3.0,10.0,0.3,3.0,8.0,0.375,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,0.0,1.0,2.0,9.0,-8.0,Rashad Vaughn,,MIL,False,False
+obryajo01,21.55,1.0,2.0,0.5,0.0,0.0,,3.0,4.0,0.75,2.0,6.0,8.0,0.0,0.0,0.0,2.0,3.0,5.0,-2.0,Johnny O'Bryant,,MIL,False,False
+vasqugr01,13.733333333333333,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0,9.0,Greivis Vásquez,,MIL,False,False
+bayleje01,,,,,,,,,,,,,,,,,,,,,Jerryd Bayless,Did Not Dress,MIL,False,False
+inglida01,,,,,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,False,False
+monrogr01,,,,,,,,,,,,,,,,,,,,,Greg Monroe,Did Not Play,MIL,False,False
+grantje01,43.13333333333333,6.0,13.0,0.462,1.0,2.0,0.5,8.0,13.0,0.615,2.0,2.0,4.0,2.0,1.0,3.0,1.0,1.0,21.0,-12.0,Jerami Grant,,PHI,True,True
+noelne01,42.43333333333333,9.0,12.0,0.75,0.0,0.0,,0.0,0.0,,3.0,10.0,13.0,2.0,3.0,1.0,2.0,4.0,18.0,5.0,Nerlens Noel,,PHI,True,True
+covinro01,39.833333333333336,6.0,20.0,0.3,5.0,17.0,0.294,2.0,2.0,1.0,1.0,7.0,8.0,1.0,3.0,0.0,2.0,3.0,19.0,2.0,Robert Covington,,PHI,True,True
+smithis01,38.5,9.0,17.0,0.529,2.0,5.0,0.4,2.0,5.0,0.4,2.0,7.0,9.0,8.0,3.0,2.0,6.0,2.0,22.0,7.0,Ish Smith,,PHI,True,True
+stausni01,36.46666666666667,3.0,15.0,0.2,2.0,12.0,0.167,4.0,4.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,12.0,-11.0,Nik Stauskas,,PHI,True,True
+thompho01,24.316666666666666,3.0,14.0,0.214,3.0,10.0,0.3,1.0,1.0,1.0,4.0,0.0,4.0,1.0,0.0,0.0,0.0,5.0,10.0,5.0,Hollis Thompson,,PHI,True,False
+mccontj01,23.35,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,9.0,1.0,0.0,1.0,2.0,6.0,3.0,T.J. McConnell,,PHI,True,False
+brandel01,16.966666666666665,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,-4.0,Elton Brand,,PHI,True,False
+canaais01,,,,,,,,,,,,,,,,,,,,,Isaiah Canaan,Did Not Dress,PHI,True,False
+holmeri01,,,,,,,,,,,,,,,,,,,,,Richaun Holmes,Did Not Dress,PHI,True,False
+landrca01,,,,,,,,,,,,,,,,,,,,,Carl Landry,Did Not Dress,PHI,True,False
+marshke01,,,,,,,,,,,,,,,,,,,,,Kendall Marshall,Did Not Play,PHI,True,False
+woodch01,,,,,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,PHI,True,False

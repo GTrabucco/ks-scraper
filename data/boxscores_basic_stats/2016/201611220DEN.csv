@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+butleji01,39.4,11.0,20.0,0.55,2.0,4.0,0.5,11.0,12.0,0.917,0.0,7.0,7.0,5.0,0.0,2.0,1.0,3.0,35.0,18.0,Jimmy Butler,,CHI,False,True
+lopezro01,35.35,6.0,12.0,0.5,0.0,0.0,,0.0,0.0,,4.0,4.0,8.0,1.0,1.0,6.0,0.0,2.0,12.0,1.0,Robin Lopez,,CHI,False,True
+gibsota01,35.3,6.0,11.0,0.545,0.0,0.0,,0.0,0.0,,5.0,6.0,11.0,4.0,0.0,0.0,0.0,3.0,12.0,12.0,Taj Gibson,,CHI,False,True
+wadedw01,34.65,9.0,21.0,0.429,2.0,4.0,0.5,2.0,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,22.0,0.0,Dwyane Wade,,CHI,False,True
+rondora01,33.31666666666667,6.0,11.0,0.545,1.0,2.0,0.5,0.0,0.0,,0.0,11.0,11.0,8.0,1.0,1.0,3.0,3.0,13.0,3.0,Rajon Rondo,,CHI,False,True
+mirotni01,22.266666666666666,4.0,10.0,0.4,1.0,2.0,0.5,2.0,4.0,0.5,0.0,3.0,3.0,1.0,1.0,1.0,2.0,2.0,11.0,-9.0,Nikola Mirotić,,CHI,False,False
+canaais01,17.966666666666665,1.0,6.0,0.167,0.0,4.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,2.0,0.0,0.0,1.0,2.0,-22.0,Isaiah Canaan,,CHI,False,False
+valende01,14.216666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,-9.0,Denzel Valentine,,CHI,False,False
+portibo01,7.533333333333333,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-9.0,Bobby Portis,,CHI,False,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,False,False
+grantje02,,,,,,,,,,,,,,,,,,,,,Jerian Grant,Did Not Play,CHI,False,False
+hunterj01,,,,,,,,,,,,,,,,,,,,,R.J. Hunter,Did Not Play,CHI,False,False
+zipsepa01,,,,,,,,,,,,,,,,,,,,,Paul Zipser,Did Not Dress,CHI,False,False
+gallida01,36.56666666666667,6.0,9.0,0.667,1.0,2.0,0.5,2.0,4.0,0.5,0.0,5.0,5.0,0.0,1.0,0.0,0.0,3.0,15.0,-2.0,Danilo Gallinari,,DEN,True,True
+nurkiju01,29.416666666666668,7.0,13.0,0.538,0.0,0.0,,0.0,0.0,,5.0,9.0,14.0,4.0,0.0,2.0,2.0,1.0,14.0,-10.0,Jusuf Nurkić,,DEN,True,True
+mudiaem01,26.533333333333335,1.0,7.0,0.143,1.0,3.0,0.333,2.0,2.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,2.0,1.0,5.0,-8.0,Emmanuel Mudiay,,DEN,True,True
+bartowi01,26.45,3.0,13.0,0.231,2.0,4.0,0.5,2.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,0.0,2.0,0.0,10.0,-4.0,Will Barton,,DEN,True,True
+farieke01,14.866666666666667,2.0,4.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,3.0,4.0,1.0,2.0,0.0,0.0,3.0,5.0,-10.0,Kenneth Faried,,DEN,True,True
+chandwi01,33.25,7.0,23.0,0.304,1.0,4.0,0.25,1.0,1.0,1.0,4.0,5.0,9.0,3.0,1.0,1.0,1.0,0.0,16.0,13.0,Wilson Chandler,,DEN,True,False
+murraja01,21.716666666666665,9.0,13.0,0.692,3.0,4.0,0.75,3.0,3.0,1.0,2.0,4.0,6.0,2.0,0.0,0.0,0.0,2.0,24.0,9.0,Jamal Murray,,DEN,True,False
+nelsoja01,21.3,4.0,9.0,0.444,2.0,4.0,0.5,0.0,0.0,,0.0,4.0,4.0,7.0,0.0,1.0,3.0,1.0,10.0,9.0,Jameer Nelson,,DEN,True,False
+jokicni01,18.483333333333334,3.0,5.0,0.6,0.0,0.0,,2.0,2.0,1.0,3.0,5.0,8.0,3.0,1.0,1.0,0.0,1.0,8.0,13.0,Nikola Jokić,,DEN,True,False
+hernaju01,11.433333333333334,1.0,4.0,0.25,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,2.0,3.0,5.0,Juan Hernangómez,,DEN,True,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,True,False
+beaslma01,,,,,,,,,,,,,,,,,,,,,Malik Beasley,Did Not Play,DEN,True,False
+geeal01,,,,,,,,,,,,,,,,,,,,,Alonzo Gee,Did Not Play,DEN,True,False

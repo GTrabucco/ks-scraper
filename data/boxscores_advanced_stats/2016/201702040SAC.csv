@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+greendr01,42.833333333333336,0.477,0.5,0.533,0.267,2.7,21.1,11.5,26.0,2.4,3.8,26.4,24.6,81.0,103.0,0.2,Draymond Green,,GSW,False,True
+thompkl01,42.583333333333336,0.502,0.48,0.44,0.08,8.3,6.1,7.2,5.3,1.2,0.0,10.4,31.4,93.0,112.0,-2.4,Klay Thompson,,GSW,False,True
+duranke01,42.333333333333336,0.382,0.2,0.6,0.7,0.0,27.5,13.1,7.5,1.2,9.6,18.7,17.6,72.0,100.0,-3.3,Kevin Durant,,GSW,False,True
+curryst01,41.75,0.773,0.75,0.7,0.3,0.0,12.4,5.9,51.8,3.7,0.0,11.7,28.4,141.0,105.0,19.8,Stephen Curry,,GSW,False,True
+mcgeeja01,12.633333333333333,0.436,0.333,0.0,0.333,9.3,10.2,9.8,0.0,0.0,0.0,0.0,12.6,105.0,113.0,-12.5,JaVale McGee,,GSW,False,True
+iguodan01,34.666666666666664,0.2,0.2,0.6,0.0,3.4,18.6,10.7,4.4,1.5,2.4,16.7,8.0,54.0,107.0,-7.6,Andre Iguodala,,GSW,False,False
+livinsh01,17.083333333333332,0.82,0.75,0.0,0.5,0.0,15.1,7.2,0.0,0.0,4.8,0.0,13.2,164.0,109.0,6.0,Shaun Livingston,,GSW,False,False
+looneke01,12.05,1.064,1.0,0.0,2.0,0.0,21.5,10.2,13.9,4.2,6.8,34.7,11.1,143.0,96.0,3.3,Kevon Looney,,GSW,False,False
+mcadoja01,10.15,0.5,0.5,0.0,0.0,11.6,0.0,6.1,17.0,0.0,0.0,0.0,9.1,134.0,115.0,0.5,James Michael McAdoo,,GSW,False,False
+mccawpa01,8.916666666666666,0.0,0.0,1.0,0.0,0.0,14.5,6.9,16.5,5.7,0.0,0.0,10.4,31.0,100.0,-5.7,Patrick McCaw,,GSW,False,False
+clarkia01,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,GSW,False,False
+jonesda03,,,,,,,,,,,,,,,,,Damian Jones,Did Not Play,GSW,False,False
+couside01,40.06666666666667,0.49,0.433,0.167,0.2,9.7,26.5,18.5,41.0,2.6,3.1,17.7,46.7,94.0,98.0,2.5,DeMarcus Cousins,,SAC,True,True
+afflaar01,36.016666666666666,0.231,0.0,0.333,1.0,0.0,6.5,3.4,3.4,1.4,0.0,0.0,5.7,65.0,107.0,-6.3,Arron Afflalo,,SAC,True,True
+collida01,32.7,0.648,0.615,0.231,0.154,0.0,7.2,3.8,16.2,0.0,0.0,12.6,22.9,116.0,111.0,-2.0,Darren Collison,,SAC,True,True
+mclembe01,29.316666666666666,0.579,0.417,0.667,1.0,4.4,0.0,2.1,4.6,5.2,0.0,0.0,13.9,132.0,100.0,4.7,Ben McLemore,,SAC,True,True
+koufoko01,13.183333333333334,1.0,1.0,0.0,0.0,0.0,44.7,23.4,20.6,0.0,0.0,0.0,3.6,207.0,103.0,7.7,Kosta Koufos,,SAC,True,True
+tollian01,36.0,1.1,1.1,0.6,0.0,3.6,13.1,8.6,7.9,0.0,3.4,16.7,7.9,169.0,107.0,6.2,Anthony Tolliver,,SAC,True,False
+barnema02,33.53333333333333,0.506,0.5,0.4,0.2,11.6,38.6,25.7,8.6,1.5,3.7,8.4,16.7,109.0,98.0,2.4,Matt Barnes,,SAC,True,False
+lawsoty01,20.316666666666666,0.5,0.5,0.429,0.0,0.0,5.8,3.0,29.7,5.0,0.0,36.4,25.5,75.0,99.0,-4.8,Ty Lawson,,SAC,True,False
+caulewi01,17.55,0.583,0.583,0.0,0.0,0.0,26.8,14.0,13.8,5.8,7.0,0.0,32.3,114.0,89.0,13.5,Willie Cauley-Stein,,SAC,True,False
+richama01,6.316666666666666,1.0,1.0,0.0,0.0,0.0,0.0,0.0,24.2,0.0,0.0,50.0,14.9,100.0,111.0,-6.7,Malachi Richardson,,SAC,True,False
+papagge01,,,,,,,,,,,,,,,,,Georgios Papagiannis,Did Not Play,SAC,True,False
+labissk01,,,,,,,,,,,,,,,,,Skal Labissière,Did Not Play,SAC,True,False

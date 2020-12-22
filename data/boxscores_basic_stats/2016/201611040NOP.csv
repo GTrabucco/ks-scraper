@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bookede01,41.45,13.0,22.0,0.591,3.0,7.0,0.429,9.0,9.0,1.0,0.0,4.0,4.0,3.0,0.0,0.0,6.0,6.0,38.0,2.0,Devin Booker,,PHO,False,True
+warretj01,39.78333333333333,4.0,17.0,0.235,1.0,2.0,0.5,9.0,11.0,0.818,3.0,3.0,6.0,1.0,4.0,0.0,0.0,0.0,18.0,15.0,T.J. Warren,,PHO,False,True
+chandty01,35.9,5.0,8.0,0.625,0.0,0.0,,2.0,2.0,1.0,3.0,15.0,18.0,1.0,0.0,0.0,0.0,2.0,12.0,5.0,Tyson Chandler,,PHO,False,True
+bledser01,35.56666666666667,7.0,13.0,0.538,2.0,6.0,0.333,1.0,3.0,0.333,2.0,5.0,7.0,4.0,0.0,0.0,3.0,5.0,17.0,16.0,Eric Bledsoe,,PHO,False,True
+dudleja01,20.066666666666666,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,0.0,4.0,5.0,10.0,Jared Dudley,,PHO,False,True
+tuckepj01,32.93333333333333,2.0,6.0,0.333,0.0,3.0,0.0,0.0,0.0,,1.0,7.0,8.0,2.0,1.0,2.0,1.0,3.0,4.0,-9.0,P.J. Tucker,,PHO,False,False
+knighbr03,23.1,4.0,10.0,0.4,1.0,3.0,0.333,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,10.0,-25.0,Brandon Knight,,PHO,False,False
+lenal01,14.783333333333333,1.0,4.0,0.25,0.0,0.0,,2.0,2.0,1.0,3.0,7.0,10.0,1.0,0.0,0.0,1.0,3.0,4.0,-5.0,Alex Len,,PHO,False,False
+barbole01,11.033333333333333,1.0,6.0,0.167,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,Leandro Barbosa,,PHO,False,False
+chrisma01,10.383333333333333,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,2.0,-4.0,Marquese Chriss,,PHO,False,False
+bendedr01,,,,,,,,,,,,,,,,,,,,,Dragan Bender,Did Not Play,PHO,False,False
+ulisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ulis,Did Not Play,PHO,False,False
+willial03,,,,,,,,,,,,,,,,,,,,,Alan Williams,Did Not Play,PHO,False,False
+davisan02,42.55,7.0,11.0,0.636,0.0,1.0,0.0,8.0,12.0,0.667,1.0,9.0,10.0,2.0,1.0,4.0,1.0,1.0,22.0,-6.0,Anthony Davis,,NOP,True,True
+mooreet01,36.266666666666666,5.0,15.0,0.333,1.0,3.0,0.333,5.0,6.0,0.833,0.0,1.0,1.0,5.0,2.0,1.0,1.0,4.0,16.0,-8.0,E'Twaun Moore,,NOP,True,True
+hillso01,29.7,2.0,5.0,0.4,1.0,2.0,0.5,2.0,4.0,0.5,1.0,4.0,5.0,3.0,1.0,2.0,0.0,4.0,7.0,-21.0,Solomon Hill,,NOP,True,True
+joneste01,28.016666666666666,9.0,14.0,0.643,1.0,3.0,0.333,0.0,4.0,0.0,2.0,5.0,7.0,6.0,2.0,4.0,1.0,0.0,19.0,-3.0,Terrence Jones,,NOP,True,True
+fraziti01,24.716666666666665,6.0,8.0,0.75,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,3.0,1.0,0.0,2.0,2.0,13.0,-10.0,Tim Frazier,,NOP,True,True
+gallola01,28.283333333333335,5.0,10.0,0.5,4.0,6.0,0.667,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,1.0,2.0,14.0,9.0,Langston Galloway,,NOP,True,False
+stephla01,27.716666666666665,5.0,15.0,0.333,0.0,4.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,7.0,0.0,0.0,1.0,3.0,10.0,17.0,Lance Stephenson,,NOP,True,False
+asikom01,24.933333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,2.0,10.0,12.0,1.0,0.0,2.0,1.0,4.0,0.0,6.0,Ömer Aşık,,NOP,True,False
+hieldbu01,22.8,4.0,14.0,0.286,2.0,10.0,0.2,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,10.0,11.0,Buddy Hield,,NOP,True,False
+ajincal01,,,,,,,,,,,,,,,,,,,,,Alexis Ajinça,Did Not Play,NOP,True,False
+cunnida01,,,,,,,,,,,,,,,,,,,,,Dante Cunningham,Player Suspended,NOP,True,False
+diallch01,,,,,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,NOP,True,False
+holidjr01,,,,,,,,,,,,,,,,,,,,,Jrue Holiday,Not With Team,NOP,True,False

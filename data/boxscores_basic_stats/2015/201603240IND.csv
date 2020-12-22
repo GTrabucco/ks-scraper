@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+geeal01,41.35,7.0,13.0,0.538,1.0,2.0,0.5,2.0,3.0,0.667,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,17.0,0.0,Alonzo Gee,,NOP,False,True
+cunnida01,37.766666666666666,4.0,13.0,0.308,1.0,5.0,0.2,0.0,0.0,,1.0,1.0,2.0,1.0,2.0,0.0,0.0,1.0,9.0,-4.0,Dante Cunningham,,NOP,False,True
+ajincal01,36.15,10.0,20.0,0.5,0.0,0.0,,2.0,2.0,1.0,2.0,7.0,9.0,2.0,1.0,0.0,5.0,4.0,22.0,-11.0,Alexis Ajinça,,NOP,False,True
+douglto01,28.716666666666665,5.0,13.0,0.385,1.0,5.0,0.2,2.0,2.0,1.0,1.0,4.0,5.0,3.0,3.0,0.0,1.0,4.0,13.0,-8.0,Toney Douglas,,NOP,False,True
+asikom01,23.883333333333333,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,0.0,1.0,14.0,15.0,0.0,0.0,0.0,1.0,1.0,2.0,-13.0,Ömer Aşık,,NOP,False,True
+fraziti01,28.666666666666668,7.0,11.0,0.636,1.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0,5.0,5.0,0.0,0.0,6.0,2.0,18.0,-5.0,Tim Frazier,,NOP,False,False
+babbilu01,24.35,1.0,8.0,0.125,0.0,3.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,2.0,2.0,2.0,-2.0,Luke Babbitt,,NOP,False,False
+perkike01,19.116666666666667,0.0,3.0,0.0,0.0,0.0,,1.0,2.0,0.5,1.0,4.0,5.0,2.0,0.0,0.0,0.0,2.0,1.0,3.0,Kendrick Perkins,,NOP,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Dress,NOP,False,False
+coleno01,,,,,,,,,,,,,,,,,,,,,Norris Cole,Did Not Dress,NOP,False,False
+davisan02,,,,,,,,,,,,,,,,,,,,,Anthony Davis,Not With Team,NOP,False,False
+holidjr01,,,,,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Dress,NOP,False,False
+pondequ01,,,,,,,,,,,,,,,,,,,,,Quincy Pondexter,Not With Team,NOP,False,False
+hillge01,32.63333333333333,2.0,6.0,0.333,2.0,5.0,0.4,0.0,0.0,,0.0,4.0,4.0,8.0,0.0,1.0,5.0,2.0,6.0,8.0,George Hill,,IND,True,True
+turnemy01,32.6,11.0,17.0,0.647,0.0,0.0,,2.0,2.0,1.0,1.0,15.0,16.0,1.0,0.0,3.0,3.0,1.0,24.0,10.0,Myles Turner,,IND,True,True
+ellismo01,31.883333333333333,3.0,12.0,0.25,1.0,3.0,0.333,2.0,2.0,1.0,0.0,4.0,4.0,4.0,3.0,1.0,1.0,2.0,9.0,12.0,Monta Ellis,,IND,True,True
+mahinia01,29.816666666666666,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,0.5,1.0,2.0,3.0,2.0,2.0,0.0,0.0,2.0,3.0,8.0,Ian Mahinmi,,IND,True,True
+georgpa01,19.9,6.0,9.0,0.667,1.0,3.0,0.333,2.0,3.0,0.667,0.0,4.0,4.0,2.0,1.0,1.0,1.0,0.0,15.0,7.0,Paul George,,IND,True,True
+milescj01,26.216666666666665,7.0,14.0,0.5,3.0,8.0,0.375,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,2.0,19.0,2.0,C.J. Miles,,IND,True,False
+stuckro01,18.316666666666666,2.0,5.0,0.4,0.0,0.0,,4.0,4.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,8.0,-5.0,Rodney Stuckey,,IND,True,False
+lawsoty01,15.366666666666667,2.0,6.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,3.0,0.0,1.0,0.0,4.0,0.0,Ty Lawson,,IND,True,False
+hilljo01,15.366666666666667,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,2.0,1.0,0.0,1.0,1.0,4.0,1.0,Jordan Hill,,IND,True,False
+hillso01,9.3,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Solomon Hill,,IND,True,False
+allenla01,8.6,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,-3.0,Lavoy Allen,,IND,True,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False

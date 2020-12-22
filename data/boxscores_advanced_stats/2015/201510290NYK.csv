@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+millspa01,34.5,0.379,0.318,0.182,0.727,10.7,23.2,17.6,18.4,6.8,0.0,17.1,22.3,88.0,86.0,1.1,Paul Millsap,,ATL,False,True
+korveky01,32.25,0.938,0.938,0.625,0.0,0.0,21.7,12.0,9.0,1.5,0.0,11.1,12.2,155.0,98.0,6.7,Kyle Korver,,ATL,False,True
+horfoal01,30.566666666666666,0.556,0.556,0.278,0.111,8.1,22.9,16.2,5.6,3.1,7.4,13.7,31.4,97.0,91.0,4.4,Al Horford,,ATL,False,True
+teaguje01,29.75,0.701,0.583,0.167,0.833,0.0,13.4,7.4,42.0,1.6,0.0,15.5,28.6,133.0,102.0,7.1,Jeff Teague,,ATL,False,True
+bazemke01,25.166666666666668,0.417,0.417,0.333,0.0,0.0,4.0,2.2,25.0,3.8,0.0,14.3,12.2,100.0,101.0,1.3,Kent Bazemore,,ATL,False,True
+splitti01,23.266666666666666,0.727,0.667,0.0,0.333,0.0,8.6,4.7,12.2,0.0,3.2,22.5,16.7,115.0,105.0,-1.9,Tiago Splitter,,ATL,False,False
+pattela01,21.0,0.765,0.8,0.6,0.4,5.9,4.8,5.3,0.0,0.0,0.0,14.5,14.4,124.0,109.0,-2.9,Lamar Patterson,,ATL,False,False
+schrode01,18.25,0.591,0.591,0.273,0.0,0.0,5.5,3.0,20.1,0.0,0.0,8.3,28.8,108.0,108.0,-0.5,Dennis Schröder,,ATL,False,False
+holidju01,12.933333333333334,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.8,99.0,111.0,-7.0,Justin Holiday,,ATL,False,False
+scottmi01,11.166666666666666,0.25,0.25,0.25,0.0,0.0,9.0,4.9,11.4,0.0,0.0,0.0,15.7,66.0,107.0,-13.0,Mike Scott,,ATL,False,False
+tavarwa01,1.15,0.568,,,,100.0,0.0,48.0,0.0,0.0,0.0,0.0,33.6,155.0,111.0,4.6,Edy Tavares,,ATL,False,False
+macksh01,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,ATL,False,False
+hardati02,,,,,,,,,,,,,,,,,Tim Hardaway,Did Not Play,ATL,False,False
+anthoca01,31.9,0.428,0.37,0.259,0.185,9.4,15.4,12.1,19.7,4.4,0.0,3.3,36.9,103.0,106.0,4.8,Carmelo Anthony,,NYK,True,True
+porzikr01,25.616666666666667,0.46,0.4,0.4,0.2,7.8,28.8,17.2,0.0,5.5,3.2,26.9,22.6,75.0,99.0,-5.7,Kristaps Porziņģis,,NYK,True,True
+vujacsa01,25.166666666666668,0.375,0.375,0.75,0.0,7.9,0.0,4.4,11.2,0.0,3.2,20.0,15.5,81.0,116.0,-5.7,Sasha Vujačić,,NYK,True,True
+lopezro01,21.283333333333335,0.758,0.727,0.0,0.182,9.4,11.6,10.4,11.3,0.0,3.8,29.6,30.9,101.0,114.0,3.9,Robin Lopez,,NYK,True,True
+caldejo01,18.216666666666665,0.17,0.0,0.4,0.4,0.0,6.8,3.0,6.9,2.6,0.0,0.0,12.6,56.0,112.0,-10.9,José Calderón,,NYK,True,True
+grantje02,28.75,0.512,0.5,0.0,0.5,3.5,25.7,13.4,33.7,0.0,0.0,38.1,10.7,94.0,115.0,-4.3,Jerian Grant,,NYK,True,False
+gallola01,25.3,0.82,0.75,1.0,0.5,0.0,19.5,8.7,16.6,1.9,0.0,0.0,7.5,185.0,112.0,6.2,Langston Galloway,,NYK,True,False
+thomala01,22.383333333333333,0.581,0.5,0.5,0.333,0.0,16.5,7.4,6.4,0.0,0.0,22.5,15.5,99.0,116.0,-4.9,Lance Thomas,,NYK,True,False
+oquinky01,22.05,0.556,0.556,0.0,0.0,27.2,22.3,25.0,24.1,2.1,3.7,25.0,21.2,105.0,107.0,5.2,Kyle O'Quinn,,NYK,True,False
+willide02,18.116666666666667,0.418,0.333,0.333,0.444,0.0,13.6,6.1,0.0,2.6,0.0,8.5,25.3,88.0,111.0,-4.8,Derrick Williams,,NYK,True,False
+earlycl01,1.2166666666666668,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,115.0,-19.3,Cleanthony Early,,NYK,True,False
+afflaar01,,,,,,,,,,,,,,,,,Arron Afflalo,Did Not Dress,NYK,True,False
+serapke01,,,,,,,,,,,,,,,,,Kevin Séraphin,Did Not Dress,NYK,True,False

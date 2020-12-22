@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+ibakase01,46.916666666666664,5.0,12.0,0.417,0.0,2.0,0.0,2.0,2.0,1.0,6.0,11.0,17.0,2.0,0.0,2.0,0.0,3.0,12.0,13.0,Serge Ibaka,,OKC,False,True
+westbru01,44.266666666666666,13.0,24.0,0.542,0.0,2.0,0.0,4.0,5.0,0.8,2.0,6.0,8.0,10.0,3.0,0.0,5.0,3.0,30.0,18.0,Russell Westbrook,,OKC,False,True
+duranke01,43.2,12.0,26.0,0.462,4.0,7.0,0.571,16.0,18.0,0.889,2.0,12.0,14.0,5.0,1.0,0.0,4.0,3.0,44.0,12.0,Kevin Durant,,OKC,False,True
+waitedi01,42.516666666666666,6.0,10.0,0.6,2.0,3.0,0.667,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,2.0,3.0,14.0,-4.0,Dion Waiters,,OKC,False,True
+adamsst01,35.46666666666667,4.0,10.0,0.4,0.0,0.0,,1.0,2.0,0.5,6.0,2.0,8.0,3.0,3.0,0.0,0.0,4.0,9.0,19.0,Steven Adams,,OKC,False,True
+kanteen01,18.133333333333333,0.0,6.0,0.0,0.0,0.0,,2.0,2.0,1.0,0.0,7.0,7.0,1.0,0.0,0.0,1.0,2.0,2.0,-13.0,Enes Kanter,,OKC,False,False
+payneca01,15.05,4.0,7.0,0.571,4.0,5.0,0.8,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,12.0,-1.0,Cameron Payne,,OKC,False,False
+singlky01,12.766666666666667,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,-7.0,Kyle Singler,,OKC,False,False
+morroan01,6.683333333333334,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,3.0,-7.0,Anthony Morrow,,OKC,False,False
+augusdj01,,,,,,,,,,,,,,,,,,,,,D.J. Augustin,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+mcgarmi01,,,,,,,,,,,,,,,,,,,,,Mitch McGary,Did Not Play,OKC,False,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,OKC,False,False
+thomala01,40.7,5.0,7.0,0.714,1.0,2.0,0.5,5.0,7.0,0.714,2.0,2.0,4.0,1.0,1.0,1.0,1.0,6.0,16.0,-8.0,Lance Thomas,,NYK,True,True
+afflaar01,40.333333333333336,6.0,21.0,0.286,1.0,5.0,0.2,4.0,4.0,1.0,0.0,5.0,5.0,2.0,0.0,0.0,2.0,5.0,17.0,4.0,Arron Afflalo,,NYK,True,True
+porzikr01,30.983333333333334,5.0,12.0,0.417,2.0,4.0,0.5,3.0,4.0,0.75,1.0,4.0,5.0,2.0,2.0,2.0,1.0,3.0,15.0,-16.0,Kristaps Porziņģis,,NYK,True,True
+lopezro01,21.883333333333333,3.0,7.0,0.429,0.0,0.0,,4.0,6.0,0.667,4.0,2.0,6.0,0.0,0.0,1.0,1.0,0.0,10.0,-4.0,Robin Lopez,,NYK,True,True
+caldejo01,20.8,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,6.0,1.0,0.0,1.0,2.0,6.0,1.0,José Calderón,,NYK,True,True
+willide02,36.1,7.0,15.0,0.467,2.0,4.0,0.5,3.0,4.0,0.75,0.0,10.0,10.0,4.0,0.0,0.0,0.0,1.0,19.0,-1.0,Derrick Williams,,NYK,True,False
+gallola01,33.266666666666666,7.0,13.0,0.538,4.0,6.0,0.667,3.0,4.0,0.75,1.0,4.0,5.0,3.0,3.0,0.0,1.0,3.0,21.0,-7.0,Langston Galloway,,NYK,True,False
+grantje02,21.4,3.0,5.0,0.6,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,6.0,2.0,0.0,2.0,0.0,7.0,-4.0,Jerian Grant,,NYK,True,False
+serapke01,16.083333333333332,4.0,8.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,3.0,0.0,1.0,8.0,8.0,Kevin Séraphin,,NYK,True,False
+oquinky01,3.2,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,-1.0,Kyle O'Quinn,,NYK,True,False
+vujacsa01,0.25,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Sasha Vujačić,,NYK,True,False
+amundlo01,,,,,,,,,,,,,,,,,,,,,Lou Amundson,Did Not Play,NYK,True,False
+anthoca01,,,,,,,,,,,,,,,,,,,,,Carmelo Anthony,Did Not Dress,NYK,True,False

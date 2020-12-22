@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+prigipa01,39.45,0.267,0.267,0.467,0.0,2.6,11.7,7.4,28.7,4.6,0.0,28.6,22.0,61.0,103.0,-8.5,Pablo Prigioni,,LAC,False,True
+riverau01,30.95,0.437,0.441,0.294,0.176,3.4,8.9,6.3,24.1,2.9,0.0,0.0,24.4,100.0,108.0,0.3,Austin Rivers,,LAC,False,True
+aldrico01,25.133333333333333,1.036,1.0,0.0,0.8,8.3,29.4,19.5,5.7,1.8,7.8,12.9,12.7,185.0,97.0,10.2,Cole Aldrich,,LAC,False,True
+piercpa01,21.55,0.429,0.429,0.429,0.0,0.0,12.9,6.8,0.0,0.0,3.1,22.2,17.2,63.0,111.0,-12.0,Paul Pierce,,LAC,False,True
+mbahalu01,9.483333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.8,0.0,0.0,0.0,8.7,27.0,118.0,-13.4,Luc Mbah a Moute,,LAC,False,True
+johnswe01,34.61666666666667,0.594,0.594,0.5,0.0,3.0,2.7,2.8,0.0,2.6,1.9,5.9,20.3,107.0,110.0,1.2,Wesley Johnson,,LAC,False,False
+wilcocj01,28.85,0.731,0.731,0.462,0.0,0.0,9.6,5.1,5.6,0.0,2.3,0.0,18.6,139.0,113.0,4.2,C.J. Wilcox,,LAC,False,False
+greenje02,24.583333333333332,0.505,0.455,0.182,0.182,4.2,22.5,13.9,29.4,0.0,0.0,20.2,25.0,94.0,109.0,-3.3,Jeff Green,,LAC,False,False
+pendeje02,18.866666666666667,0.45,0.375,0.0,0.25,0.0,24.5,13.0,7.2,0.0,0.0,18.4,23.8,77.0,108.0,-11.5,Jeff Ayres,,LAC,False,False
+dawsobr01,6.516666666666667,0.615,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.5,125.0,118.0,-3.9,Branden Dawson,,LAC,False,False
+griffbl01,,,,,,,,,,,,,,,,,Blake Griffin,Not With Team,LAC,False,False
+jordade01,,,,,,,,,,,,,,,,,DeAndre Jordan,Not With Team,LAC,False,False
+paulch01,,,,,,,,,,,,,,,,,Chris Paul,Not With Team,LAC,False,False
+tuckepj01,30.05,0.651,0.611,0.333,0.444,3.1,20.8,11.4,12.9,1.5,0.0,15.7,16.3,122.0,101.0,0.3,P.J. Tucker,,PHO,True,True
+lenal01,27.583333333333332,0.425,0.4,0.0,0.4,0.0,11.3,5.3,4.6,0.0,0.0,7.8,17.8,90.0,105.0,-8.5,Alex Len,,PHO,True,True
+bookede01,26.7,0.403,0.357,0.357,0.143,0.0,7.8,3.7,9.5,1.7,2.8,25.2,28.7,70.0,100.0,-12.1,Devin Booker,,PHO,True,True
+leuerjo01,20.35,0.901,0.875,0.0,0.25,27.2,41.0,33.7,16.6,4.4,3.6,10.1,18.7,170.0,88.0,20.4,Jon Leuer,,PHO,True,True
+pricero01,17.75,0.375,0.375,1.0,0.0,0.0,5.9,2.8,25.6,2.5,0.0,33.3,13.0,79.0,101.0,-5.4,Ronnie Price,,PHO,True,True
+goodwar01,30.25,0.304,0.313,0.25,0.063,3.1,6.9,4.9,21.4,3.0,0.0,5.7,22.2,83.0,100.0,-6.8,Archie Goodwin,,PHO,True,False
+teletmi01,27.65,0.53,0.474,0.368,0.211,13.4,18.9,15.9,11.2,0.0,0.0,8.8,31.7,115.0,104.0,-0.5,Mirza Teletović,,PHO,True,False
+willial03,22.3,0.625,0.556,0.0,0.556,12.4,42.1,26.4,12.6,2.0,9.9,15.2,22.8,122.0,87.0,6.7,Alan Williams,,PHO,True,False
+jenkijo01,21.3,0.7,0.7,0.4,0.0,0.0,9.8,4.6,17.7,0.0,0.0,0.0,9.0,159.0,106.0,0.0,John Jenkins,,PHO,True,False
+budinch01,16.066666666666666,0.6,0.6,0.2,0.0,17.2,13.0,15.2,16.6,5.6,0.0,0.0,12.0,151.0,93.0,10.2,Chase Budinger,,PHO,True,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Dress,PHO,True,False
+knighbr03,,,,,,,,,,,,,,,,,Brandon Knight,Did Not Dress,PHO,True,False

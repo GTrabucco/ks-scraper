@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+lopezbr01,36.96666666666667,0.583,0.565,0.0,0.522,3.0,24.3,14.1,5.6,4.3,7.9,3.4,36.5,116.0,100.0,9.8,Brook Lopez,,BRK,False,True
+johnsjo02,34.7,0.5,0.5,0.6,0.0,0.0,20.2,10.5,20.1,0.0,0.0,9.1,14.6,108.0,117.0,-2.9,Joe Johnson,,BRK,False,True
+youngth01,34.1,0.673,0.636,0.0,0.182,6.4,17.6,12.2,18.7,1.5,0.0,14.4,18.8,127.0,115.0,3.2,Thaddeus Young,,BRK,False,True
+ellinwa01,33.11666666666667,0.648,0.654,0.615,0.154,3.3,6.0,4.7,4.6,0.0,0.0,6.7,20.7,121.0,122.0,0.6,Wayne Ellington,,BRK,False,True
+sloando01,21.9,0.258,0.0,0.0,0.667,10.0,4.6,7.1,16.4,0.0,0.0,0.0,8.2,113.0,123.0,-7.6,Donald Sloan,,BRK,False,True
+larkish01,26.1,0.732,0.688,0.5,0.25,0.0,11.5,6.0,35.8,0.0,0.0,31.1,22.8,111.0,120.0,-3.6,Shane Larkin,,BRK,False,False
+bogdabo02,20.483333333333334,0.5,0.5,0.667,0.0,0.0,4.9,2.5,6.2,2.6,0.0,0.0,6.8,114.0,117.0,-3.9,Bojan Bogdanović,,BRK,False,False
+robinth01,15.2,0.424,0.444,0.0,0.111,28.7,26.3,27.5,11.5,3.5,4.8,9.6,31.7,99.0,103.0,-3.2,Thomas Robinson,,BRK,False,False
+bargnan01,9.75,,,,,0.0,10.3,5.4,12.3,0.0,0.0,,0.0,223.0,121.0,-7.7,Andrea Bargnani,,BRK,False,False
+brownma02,7.7,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.2,0.0,125.0,-38.5,Markel Brown,,BRK,False,False
+karasse01,,,,,,,,,,,,,,,,,Sergey Karasev,Did Not Play,BRK,False,False
+reedwi02,,,,,,,,,,,,,,,,,Willie Reed,Did Not Play,BRK,False,False
+davisan02,40.31666666666667,0.437,0.432,0.091,0.091,14.9,27.1,20.7,11.1,0.0,3.7,4.2,26.7,107.0,111.0,-3.3,Anthony Davis,,NOP,True,True
+geeal01,39.06666666666667,0.5,0.5,0.25,0.0,0.0,5.6,2.7,6.1,2.7,0.0,0.0,4.6,123.0,114.0,-4.4,Alonzo Gee,,NOP,True,True
+dejeabr01,35.96666666666667,0.538,0.5,0.429,0.143,5.6,21.2,13.1,3.4,1.5,0.0,11.8,10.6,113.0,112.0,-5.2,Bryce Dejean-Jones,,NOP,True,True
+coleno01,30.166666666666668,0.429,0.429,0.143,0.0,0.0,7.2,3.5,23.8,0.0,0.0,17.6,25.4,86.0,118.0,-12.8,Norris Cole,,NOP,True,True
+asikom01,24.8,0.6,0.6,0.0,0.0,12.1,35.2,23.1,0.0,0.0,9.1,16.7,10.9,117.0,104.0,-3.1,Ömer Aşık,,NOP,True,True
+anderry01,25.9,0.716,0.7,0.6,0.267,7.7,16.8,12.1,32.9,4.1,2.9,0.0,29.2,159.0,105.0,25.3,Ryan Anderson,,NOP,True,False
+holidjr01,23.5,0.64,0.605,0.368,0.158,0.0,0.0,0.0,63.3,0.0,0.0,12.9,44.8,124.0,120.0,9.0,Jrue Holiday,,NOP,True,False
+douglto01,15.3,0.3,0.3,0.6,0.0,0.0,0.0,0.0,7.9,3.4,0.0,0.0,14.7,80.0,114.0,-8.4,Toney Douglas,,NOP,True,False
+cunnida01,4.983333333333333,0.5,0.5,0.0,0.0,20.1,21.9,20.9,0.0,0.0,0.0,0.0,18.1,125.0,114.0,-7.2,Dante Cunningham,,NOP,True,False
+ajincal01,,,,,,,,,,,,,,,,,Alexis Ajinça,Did Not Play,NOP,True,False
+babbilu01,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,NOP,True,False
+evansty01,,,,,,,,,,,,,,,,,Tyreke Evans,Did Not Dress,NOP,True,False
+perkike01,,,,,,,,,,,,,,,,,Kendrick Perkins,Did Not Play,NOP,True,False

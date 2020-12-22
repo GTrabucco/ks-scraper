@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+batumni01,36.61666666666667,0.636,0.636,0.636,0.0,5.6,18.3,11.7,14.5,0.0,0.0,15.4,15.3,118.0,131.0,0.0,Nicolas Batum,,CHO,False,True
+walkeke02,31.233333333333334,0.546,0.568,0.364,0.091,3.3,7.1,5.1,22.7,0.0,3.3,11.6,35.8,99.0,134.0,-1.6,Kemba Walker,,CHO,False,True
+willima02,31.2,0.278,0.278,0.444,0.0,0.0,28.6,13.7,7.5,1.5,0.0,10.0,13.8,61.0,124.0,-8.6,Marvin Williams,,CHO,False,True
+bridgmi02,25.883333333333333,0.833,0.833,0.222,0.0,7.9,17.3,12.4,12.0,0.0,0.0,0.0,15.0,170.0,132.0,5.2,Miles Bridges,,CHO,False,True
+zelleco01,23.1,0.512,0.438,0.125,0.5,4.4,9.7,6.9,11.0,2.1,0.0,9.3,20.1,106.0,129.0,-3.8,Cody Zeller,,CHO,False,True
+lambje01,27.0,0.543,0.5,0.333,0.167,0.0,16.5,7.9,16.0,0.0,3.9,18.9,25.4,93.0,130.0,-4.9,Jeremy Lamb,,CHO,False,False
+kaminfr01,21.033333333333335,0.82,0.75,0.625,0.5,0.0,5.3,2.5,26.2,0.0,0.0,0.0,20.0,170.0,136.0,15.9,Frank Kaminsky,,CHO,False,False
+bacondw01,19.783333333333335,0.3,0.3,0.6,0.0,0.0,0.0,0.0,0.0,2.4,0.0,16.7,13.1,49.0,132.0,-12.9,Dwayne Bacon,,CHO,False,False
+grahade01,17.1,0.466,0.417,0.5,0.167,0.0,13.1,6.2,14.6,0.0,0.0,13.4,18.8,91.0,133.0,-6.9,Devonte' Graham,,CHO,False,False
+hernawi01,3.8666666666666667,1.042,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.1,220.0,138.0,8.9,Willy Hernangómez,,CHO,False,False
+monkma01,3.1333333333333333,0.75,0.75,1.0,0.0,0.0,0.0,0.0,100.0,15.2,0.0,0.0,27.6,174.0,101.0,52.9,Malik Monk,,CHO,False,False
+macksh01,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,CHO,False,False
+biyombi01,,,,,,,,,,,,,,,,,Bismack Biyombo,Did Not Play,CHO,False,False
+lopezbr01,29.866666666666667,0.812,0.682,0.455,0.909,7.5,20.5,14.3,9.8,3.2,0.0,11.5,24.3,157.0,109.0,9.1,Brook Lopez,,MIL,True,True
+antetgi01,29.8,0.844,0.727,0.364,0.909,11.2,34.3,23.3,29.5,1.6,3.0,24.5,28.5,142.0,108.0,13.6,Giannis Antetokounmpo,,MIL,True,True
+middlkh01,28.35,0.375,0.375,0.583,0.0,3.9,18.0,11.3,13.6,0.0,0.0,7.7,19.1,95.0,117.0,-8.7,Khris Middleton,,MIL,True,True
+bledser01,27.416666666666668,0.468,0.45,0.5,0.4,8.1,3.7,5.8,22.6,3.5,0.0,0.0,17.9,132.0,111.0,3.7,Eric Bledsoe,,MIL,True,True
+brogdma01,26.533333333333335,0.648,0.615,0.308,0.154,4.2,7.7,6.0,23.1,1.8,0.0,12.6,24.9,129.0,114.0,2.8,Malcolm Brogdon,,MIL,True,True
+mirotni01,24.65,0.827,0.85,0.7,0.2,0.0,24.9,13.0,18.1,3.9,0.0,8.4,20.1,154.0,107.0,15.1,Nikola Mirotić,,MIL,True,False
+snellto01,20.65,0.286,0.286,0.286,0.0,5.4,9.9,7.7,11.8,0.0,0.0,12.5,16.1,80.0,118.0,-11.0,Tony Snell,,MIL,True,False
+divindo01,17.8,0.739,0.786,0.857,0.143,6.3,17.2,12.0,8.1,2.7,0.0,0.0,17.4,155.0,111.0,8.6,Donte DiVincenzo,,MIL,True,False
+ilyaser01,17.483333333333334,0.47,0.429,0.429,0.143,12.8,17.5,15.3,7.7,0.0,5.1,0.0,17.7,125.0,112.0,-4.4,Ersan İlyasova,,MIL,True,False
+connapa01,15.283333333333333,0.5,0.5,0.5,0.0,7.3,13.4,10.5,0.0,0.0,0.0,0.0,5.5,132.0,118.0,-7.5,Pat Connaughton,,MIL,True,False
+wilsodj01,2.15,,,,,0.0,47.5,24.8,0.0,0.0,0.0,,0.0,0.0,113.0,-2.2,D.J. Wilson,,MIL,True,False
+gasolpa01,,,,,,,,,,,,,,,,,Pau Gasol,Did Not Play,MIL,True,False
+hillge01,,,,,,,,,,,,,,,,,George Hill,Did Not Play,MIL,True,False

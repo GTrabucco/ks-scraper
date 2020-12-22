@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+townska01,38.333333333333336,0.68,0.65,0.2,0.4,12.5,29.1,21.1,3.6,1.3,4.6,20.3,16.7,122.0,105.0,1.0,Karl-Anthony Towns,,MIN,False,True
+butleji01,37.78333333333333,0.647,0.526,0.158,0.684,6.4,11.8,9.2,13.0,0.0,2.4,3.9,29.5,143.0,113.0,7.0,Jimmy Butler,,MIN,False,True
+gibsota01,34.8,0.507,0.5,0.125,0.25,10.3,16.0,13.3,0.0,1.4,2.6,10.1,12.3,111.0,109.0,-3.1,Taj Gibson,,MIN,False,True
+teaguje01,33.583333333333336,0.607,0.556,0.111,0.222,7.1,16.6,12.1,24.6,0.0,0.0,33.6,19.2,101.0,114.0,-5.2,Jeff Teague,,MIN,False,True
+wiggian01,30.8,0.5,0.5,0.118,0.0,7.8,7.2,7.5,0.0,1.6,0.0,10.5,26.7,100.0,112.0,-6.9,Andrew Wiggins,,MIN,False,True
+dienggo01,22.866666666666667,0.644,0.5,0.333,0.667,0.0,34.2,17.7,16.7,2.2,7.8,0.0,14.7,158.0,100.0,14.4,Gorgui Dieng,,MIN,False,False
+crawfja01,21.483333333333334,0.463,0.409,0.364,0.182,0.0,5.2,2.7,20.3,0.0,0.0,14.4,28.0,97.0,116.0,-7.4,Jamal Crawford,,MIN,False,False
+jonesty01,14.416666666666666,0.875,0.875,0.25,0.0,0.0,0.0,0.0,10.4,3.4,0.0,0.0,12.0,183.0,110.0,7.5,Tyus Jones,,MIN,False,False
+georgma01,5.933333333333334,0.568,,,,0.0,0.0,0.0,19.3,8.4,0.0,0.0,6.4,145.0,98.0,6.6,Marcus Georges-Hunt,,MIN,False,False
+muhamsh01,,,,,,,,,,,,,,,,,Shabazz Muhammad,Did Not Play,MIN,False,False
+brookaa01,,,,,,,,,,,,,,,,,Aaron Brooks,Did Not Play,MIN,False,False
+bjeline01,,,,,,,,,,,,,,,,,Nemanja Bjelica,Did Not Play,MIN,False,False
+aldrico01,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,False,False
+warretj01,38.53333333333333,0.48,0.48,0.08,0.0,2.9,24.9,13.5,9.9,2.6,1.8,7.4,30.7,93.0,112.0,-2.3,T.J. Warren,,PHO,True,True
+chandty01,31.383333333333333,0.5,0.5,0.0,0.0,17.8,38.2,27.6,8.3,0.0,0.0,20.0,7.0,127.0,115.0,-3.4,Tyson Chandler,,PHO,True,True
+chrisma01,25.066666666666666,0.564,0.563,0.5,0.75,0.0,9.6,4.6,11.8,0.0,8.4,15.8,22.1,99.0,118.0,1.0,Marquese Chriss,,PHO,True,True
+jacksjo02,19.5,0.637,0.75,0.333,1.0,11.4,0.0,5.9,24.5,0.0,0.0,10.4,21.7,126.0,126.0,1.4,Josh Jackson,,PHO,True,True
+ulisty01,17.933333333333334,0.34,0.4,0.2,0.4,6.2,6.7,6.4,23.2,2.8,0.0,40.5,24.1,59.0,118.0,-15.2,Tyler Ulis,,PHO,True,True
+canaais01,30.066666666666666,0.615,0.5,0.5,0.5,0.0,0.0,0.0,42.7,1.7,0.0,7.6,19.2,138.0,123.0,5.3,Isaiah Canaan,,PHO,True,False
+danietr01,29.483333333333334,0.643,0.643,0.857,0.0,0.0,0.0,0.0,5.4,0.0,0.0,6.7,22.3,115.0,126.0,0.6,Troy Daniels,,PHO,True,False
+bendedr01,22.933333333333334,0.444,0.357,0.571,0.286,0.0,5.2,2.5,0.0,0.0,0.0,0.0,15.1,96.0,125.0,-9.7,Dragan Bender,,PHO,True,False
+lenal01,16.616666666666667,0.8,0.8,0.0,0.0,0.0,28.9,13.9,10.2,0.0,0.0,16.7,15.8,126.0,118.0,1.4,Alex Len,,PHO,True,False
+houseda01,8.483333333333333,0.452,0.0,1.0,1.5,0.0,14.1,6.8,14.1,5.9,0.0,0.0,17.1,116.0,110.0,4.1,Danuel House,,PHO,True,False
+monrogr01,,,,,,,,,,,,,,,,,Greg Monroe,Did Not Play,PHO,True,False
+dudleja01,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Play,PHO,True,False
+bookede01,,,,,,,,,,,,,,,,,Devin Booker,Did Not Play,PHO,True,False

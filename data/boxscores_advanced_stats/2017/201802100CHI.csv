@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+oubreke01,39.18333333333333,0.37,0.321,0.714,0.143,0.0,22.3,11.4,10.7,0.0,2.6,11.8,20.4,73.0,100.0,-8.2,Kelly Oubre,,WAS,False,True
+satorto01,36.983333333333334,1.042,1.042,0.5,0.0,3.1,5.9,4.5,31.1,2.8,0.0,14.3,18.0,163.0,99.0,16.1,Tomáš Satoranský,,WAS,False,True
+bealbr01,34.93333333333333,0.26,0.231,0.538,0.077,3.3,3.1,3.2,24.3,3.0,0.0,22.9,23.7,63.0,100.0,-12.5,Bradley Beal,,WAS,False,True
+gortama01,34.81666666666667,0.375,0.375,0.0,0.0,6.6,21.9,14.4,20.4,4.5,2.9,11.1,12.3,100.0,89.0,2.4,Marcin Gortat,,WAS,False,True
+porteot01,30.583333333333332,0.568,0.5,0.455,0.273,3.7,28.5,16.4,15.6,1.7,3.3,7.5,20.7,114.0,93.0,3.2,Otto Porter,,WAS,False,True
+scottmi01,23.816666666666666,0.568,0.545,0.545,0.273,4.8,18.3,11.7,7.2,0.0,0.0,7.5,26.5,104.0,102.0,-3.5,Mike Scott,,WAS,False,False
+meeksjo01,18.066666666666666,0.727,0.75,0.333,0.333,0.0,24.2,12.4,19.4,0.0,0.0,12.7,20.7,120.0,101.0,2.5,Jodie Meeks,,WAS,False,False
+smithja02,7.516666666666667,0.788,0.75,0.0,0.25,0.0,0.0,0.0,67.8,0.0,0.0,18.4,34.3,127.0,107.0,9.0,Jason Smith,,WAS,False,False
+fraziti01,5.916666666666667,0.833,0.833,0.667,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,24.1,180.0,107.0,22.8,Tim Frazier,,WAS,False,False
+mahinia01,5.666666666666667,,,,,0.0,19.3,9.8,0.0,0.0,0.0,,0.0,0.0,102.0,-13.4,Ian Mahinmi,,WAS,False,False
+mcculch01,2.5166666666666666,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.6,250.0,108.0,12.0,Chris McCullough,,WAS,False,False
+morrima02,,,,,,,,,,,,,,,,,Markieff Morris,Not With Team,WAS,False,False
+grantje02,36.583333333333336,0.637,0.5,0.5,1.0,8.9,9.4,9.2,33.5,1.4,0.0,18.8,13.8,133.0,114.0,1.4,Jerian Grant,,CHI,True,True
+holidju01,35.75,0.638,0.6,0.7,0.4,0.0,9.6,4.7,4.9,5.8,0.0,7.8,17.0,117.0,103.0,3.4,Justin Holiday,,CHI,True,True
+valende01,34.36666666666667,0.357,0.357,0.429,0.0,3.2,29.9,16.2,24.6,1.5,0.0,12.5,22.1,80.0,110.0,-5.5,Denzel Valentine,,CHI,True,True
+markkla01,33.016666666666666,0.309,0.289,0.421,0.053,6.6,27.7,16.9,0.0,3.2,0.0,9.3,30.8,63.0,107.0,-13.5,Lauri Markkanen,,CHI,True,True
+lopezro01,27.566666666666666,0.667,0.667,0.0,0.0,0.0,16.6,8.1,14.8,0.0,4.0,30.8,22.4,86.0,113.0,-5.1,Robin Lopez,,CHI,True,True
+nwabada01,26.733333333333334,0.652,0.571,0.143,0.714,4.1,12.8,8.4,20.1,0.0,0.0,0.0,16.3,146.0,116.0,2.0,David Nwaba,,CHI,True,False
+portibo01,22.566666666666666,0.542,0.542,0.417,0.0,9.7,10.1,9.9,10.0,2.3,0.0,14.3,29.5,94.0,111.0,-4.8,Bobby Portis,,CHI,True,False
+zipsepa01,14.0,1.25,1.25,0.5,0.0,0.0,24.5,12.0,0.0,7.4,7.8,0.0,6.8,250.0,91.0,16.7,Paul Zipser,,CHI,True,False
+arcidry01,9.416666666666666,0.0,0.0,1.0,0.0,0.0,12.1,5.9,45.0,0.0,0.0,50.0,10.1,63.0,116.0,-11.2,Ryan Arcidiacono,,CHI,True,False
+vonleno01,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,CHI,True,False
+feliccr01,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,True,False
+blakean01,,,,,,,,,,,,,,,,,Antonio Blakeney,Did Not Play,CHI,True,False
+asikom01,,,,,,,,,,,,,,,,,Ömer Aşık,Did Not Play,CHI,True,False

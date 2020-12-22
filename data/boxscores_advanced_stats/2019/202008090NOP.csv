@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+derozde01,33.083333333333336,0.708,0.625,0.0,0.438,3.1,8.4,5.9,11.4,1.4,0.0,13.6,26.7,130.0,114.0,2.3,DeMar DeRozan,,SAS,False,True
+murrade01,32.766666666666666,0.541,0.464,0.357,0.429,0.0,14.1,7.4,9.0,2.8,2.2,10.7,22.7,110.0,107.0,0.8,Dejounte Murray,,SAS,False,True
+walkelo01,29.916666666666668,0.269,0.269,0.385,0.0,6.8,12.3,9.7,27.4,0.0,2.4,7.1,18.7,88.0,114.0,-6.0,Lonnie Walker,,SAS,False,True
+poeltja01,22.466666666666665,0.5,0.5,0.0,0.0,22.7,37.0,30.2,6.0,4.1,0.0,42.9,12.5,92.0,96.0,-4.9,Jakob Poeltl,,SAS,False,True
+whitede01,20.75,0.673,0.636,0.545,0.182,0.0,13.3,7.0,26.6,0.0,3.5,7.8,24.8,136.0,113.0,8.5,Derrick White,,SAS,False,True
+gayru01,28.616666666666667,0.675,0.545,0.455,0.636,3.6,12.9,8.5,15.9,4.8,2.5,12.4,22.5,135.0,103.0,9.4,Rudy Gay,,SAS,False,False
+johnske04,25.616666666666667,0.945,0.833,0.333,1.333,0.0,3.6,1.9,0.0,3.6,0.0,29.6,10.5,129.0,110.0,-2.1,Keldon Johnson,,SAS,False,False
+eubandr01,23.933333333333334,0.667,0.667,0.0,0.0,25.6,19.3,22.3,18.8,3.9,6.1,14.3,11.7,150.0,100.0,8.7,Drew Eubanks,,SAS,False,False
+belinma01,20.95,0.513,0.364,0.545,0.545,0.0,8.8,4.6,13.8,0.0,0.0,12.8,29.8,106.0,117.0,-5.6,Marco Belinelli,,SAS,False,False
+weathqu01,1.9,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-5.9,Quinndary Weatherspoon,,SAS,False,False
+samanlu01,,,,,,,,,,,,,,,,,Luka Šamanić,Did Not Play,SAS,False,False
+millspa02,,,,,,,,,,,,,,,,,Patty Mills,Did Not Play,SAS,False,False
+metuch01,,,,,,,,,,,,,,,,,Chimezie Metu,Did Not Play,SAS,False,False
+holidjr01,35.06666666666667,0.263,0.167,0.417,0.25,0.0,8.7,4.1,24.4,0.0,2.2,27.3,20.1,63.0,122.0,-14.3,Jrue Holiday,,NOP,True,True
+ingrabr01,33.2,0.539,0.5,0.286,0.286,2.8,15.4,8.8,21.7,1.4,0.0,11.3,20.6,112.0,117.0,0.7,Brandon Ingram,,NOP,True,True
+balllo01,31.016666666666666,0.239,0.2,0.4,0.1,6.0,9.9,7.8,39.8,0.0,5.1,22.3,16.7,83.0,119.0,-4.2,Lonzo Ball,,NOP,True,True
+willizi01,27.183333333333334,0.552,0.5,0.0,0.3,17.0,7.5,12.5,7.3,0.0,0.0,4.2,33.5,120.0,123.0,2.1,Zion Williamson,,NOP,True,True
+favorde01,23.916666666666668,0.625,0.625,0.0,0.0,19.3,29.9,24.3,6.3,0.0,3.3,0.0,12.9,147.0,113.0,4.7,Derrick Favors,,NOP,True,True
+redicjj01,31.533333333333335,0.873,0.875,0.75,0.25,0.0,16.2,7.7,17.1,1.5,0.0,10.1,24.1,147.0,117.0,18.6,J.J. Redick,,NOP,True,False
+hartjo01,15.9,0.0,0.0,1.0,2.0,11.6,19.3,15.2,7.2,0.0,0.0,0.0,4.6,75.0,119.0,-8.8,Josh Hart,,NOP,True,False
+hayesja02,10.366666666666667,1.042,1.0,0.0,1.0,0.0,29.6,14.0,0.0,4.5,0.0,0.0,10.7,221.0,104.0,7.3,Jaxson Hayes,,NOP,True,False
+mellini01,10.15,0.333,0.333,0.333,0.0,0.0,10.1,4.8,12.7,0.0,7.8,0.0,11.4,91.0,118.0,-2.9,Nicolò Melli,,NOP,True,False
+jacksfr01,9.183333333333334,0.5,0.5,0.2,0.0,10.1,0.0,5.3,16.6,0.0,0.0,28.6,29.3,80.0,126.0,-10.9,Frank Jackson,,NOP,True,False
+alexani01,8.033333333333333,0.75,0.75,1.0,0.0,0.0,0.0,0.0,0.0,5.7,0.0,66.7,28.8,36.0,113.0,-16.9,Nickeil Alexander-Walker,,NOP,True,False
+mooreet01,4.433333333333334,0.333,0.333,0.0,0.0,0.0,0.0,0.0,0.0,10.4,0.0,0.0,26.1,73.0,102.0,-4.9,E'Twaun Moore,,NOP,True,False
+willike04,,,,,,,,,,,,,,,,,Kenrich Williams,Did Not Play,NOP,True,False

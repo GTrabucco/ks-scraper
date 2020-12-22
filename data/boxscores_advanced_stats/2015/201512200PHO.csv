@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mayooj01,41.03333333333333,0.47,0.5,0.455,0.364,0.0,15.8,7.7,16.6,2.4,2.1,13.6,16.8,91.0,98.0,-1.5,O.J. Mayo,,MIL,False,True
+middlkh01,39.68333333333333,0.693,0.647,0.353,0.235,0.0,9.8,4.8,29.3,2.5,0.0,13.8,25.7,124.0,100.0,5.7,Khris Middleton,,MIL,False,True
+cartemi01,35.63333333333333,0.563,0.563,0.063,0.25,3.5,29.1,16.0,28.0,1.4,2.4,14.5,27.3,105.0,97.0,1.8,Michael Carter-Williams,,MIL,False,True
+parkeja01,27.483333333333334,0.4,0.286,0.0,0.571,9.0,18.9,13.8,4.7,1.8,0.0,0.0,14.9,100.0,100.0,-5.0,Jabari Parker,,MIL,False,True
+monrogr01,25.966666666666665,0.597,0.6,0.0,0.2,0.0,10.0,4.9,24.7,0.0,0.0,8.4,21.4,116.0,106.0,0.1,Greg Monroe,,MIL,False,True
+hensojo01,22.033333333333335,0.694,0.75,0.0,1.0,11.2,23.6,17.2,12.6,2.3,15.6,0.0,12.2,154.0,85.0,11.2,John Henson,,MIL,False,False
+obryajo01,17.766666666666666,0.6,0.6,0.0,0.0,6.9,21.9,14.2,0.0,2.8,0.0,28.6,18.4,84.0,98.0,-8.0,Johnny O'Bryant,,MIL,False,False
+vaughra01,17.15,0.5,0.5,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.3,19.1,80.0,108.0,-8.1,Rashad Vaughn,,MIL,False,False
+copelch01,8.0,0.0,0.0,1.0,0.0,0.0,16.2,7.9,0.0,0.0,0.0,0.0,11.7,0.0,105.0,-19.1,Chris Copeland,,MIL,False,False
+ennisty01,5.25,0.798,1.0,0.0,2.0,0.0,24.7,12.0,0.0,0.0,0.0,34.7,25.7,90.0,104.0,-6.5,Tyler Ennis,,MIL,False,False
+antetgi01,,,,,,,,,,,,,,,,,Giannis Antetokounmpo,Did Not Play,MIL,False,False
+inglida01,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,False,False
+plumlmi01,,,,,,,,,,,,,,,,,Miles Plumlee,Did Not Play,MIL,False,False
+bledser01,33.93333333333333,0.682,0.591,0.182,0.455,0.0,3.6,1.9,5.8,4.4,0.0,23.3,23.3,103.0,102.0,0.4,Eric Bledsoe,,PHO,True,True
+knighbr03,28.516666666666666,0.414,0.35,0.1,0.2,0.0,8.6,4.4,24.1,1.8,0.0,15.5,20.7,84.0,106.0,-6.9,Brandon Knight,,PHO,True,True
+chandty01,27.966666666666665,0.5,0.5,0.0,0.0,4.6,17.6,11.3,0.0,0.0,2.7,42.9,11.5,60.0,107.0,-9.6,Tyson Chandler,,PHO,True,True
+tuckepj01,24.783333333333335,1.128,1.25,0.5,0.75,10.5,24.8,17.8,15.3,0.0,0.0,27.3,13.6,157.0,109.0,10.5,P.J. Tucker,,PHO,True,True
+leuerjo01,21.783333333333335,0.654,0.75,0.167,0.333,11.9,22.6,17.4,0.0,0.0,0.0,12.7,16.6,113.0,108.0,-2.4,Jon Leuer,,PHO,True,True
+warretj01,24.133333333333333,0.61,0.538,0.077,0.308,0.0,5.1,2.6,0.0,0.0,0.0,0.0,28.1,122.0,111.0,0.2,T.J. Warren,,PHO,True,False
+lenal01,19.683333333333334,0.2,0.2,0.0,0.0,6.6,37.5,22.5,8.0,0.0,3.9,16.7,14.0,53.0,103.0,-7.4,Alex Len,,PHO,True,False
+bookede01,18.016666666666666,0.486,0.2,0.6,1.0,0.0,13.7,7.0,17.6,8.3,0.0,12.2,20.9,101.0,93.0,5.4,Devin Booker,,PHO,True,False
+pricero01,15.616666666666667,0.833,0.833,0.333,0.0,0.0,7.9,4.0,34.3,0.0,0.0,0.0,8.8,178.0,109.0,1.8,Ronnie Price,,PHO,True,False
+morrima02,15.316666666666666,0.633,0.5,0.2,0.6,0.0,24.1,12.4,46.9,3.3,0.0,44.2,33.9,83.0,102.0,0.3,Markieff Morris,,PHO,True,False
+teletmi01,10.25,0.188,0.188,0.75,0.0,0.0,48.0,24.6,16.5,0.0,0.0,11.1,40.3,42.0,106.0,-21.5,Mirza Teletović,,PHO,True,False
+goodwar01,,,,,,,,,,,,,,,,,Archie Goodwin,Did Not Play,PHO,True,False
+weemsso01,,,,,,,,,,,,,,,,,Sonny Weems,Did Not Play,PHO,True,False

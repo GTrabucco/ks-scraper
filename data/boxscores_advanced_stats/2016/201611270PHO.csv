@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+chandwi01,39.13333333333333,0.636,0.559,0.353,0.353,5.2,15.3,10.3,8.4,3.6,0.0,4.8,22.0,132.0,106.0,8.0,Wilson Chandler,,DEN,False,True
+mudiaem01,36.583333333333336,0.546,0.423,0.231,0.769,2.8,8.2,5.5,24.3,0.0,0.0,10.3,22.1,117.0,115.0,-2.1,Emmanuel Mudiay,,DEN,False,True
+farieke01,27.866666666666667,0.632,0.5,0.0,0.875,7.3,25.1,16.3,5.4,1.7,0.0,8.3,18.1,131.0,107.0,1.0,Kenneth Faried,,DEN,False,True
+nelsoja01,27.783333333333335,0.781,0.769,0.538,0.077,0.0,7.2,3.6,20.6,0.0,0.0,13.0,23.2,134.0,116.0,4.1,Jameer Nelson,,DEN,False,True
+nurkiju01,16.4,0.571,0.571,0.0,0.0,6.2,30.5,18.5,21.4,0.0,0.0,22.2,22.9,99.0,109.0,-3.0,Jusuf Nurkić,,DEN,False,True
+jokicni01,31.0,0.611,0.438,0.25,0.75,9.9,25.8,17.9,13.5,0.0,2.4,8.6,15.7,137.0,109.0,2.6,Nikola Jokić,,DEN,False,False
+murraja01,21.633333333333333,0.507,0.438,0.5,0.25,4.7,13.9,9.3,13.7,0.0,0.0,10.1,19.0,107.0,114.0,-5.3,Jamal Murray,,DEN,False,False
+arthuda01,20.716666666666665,0.444,0.444,0.444,0.0,0.0,4.8,2.4,14.5,0.0,0.0,0.0,18.1,102.0,116.0,-3.4,Darrell Arthur,,DEN,False,False
+geeal01,12.45,0.0,0.0,0.0,0.0,0.0,24.1,12.2,0.0,3.7,0.0,66.7,10.1,0.0,103.0,-11.6,Alonzo Gee,,DEN,False,False
+beaslma01,6.433333333333334,0.3,0.3,0.6,0.0,0.0,15.5,7.9,0.0,0.0,0.0,0.0,32.4,64.0,114.0,-14.8,Malik Beasley,,DEN,False,False
+bartowi01,,,,,,,,,,,,,,,,,Will Barton,Did Not Dress,DEN,False,False
+gallida01,,,,,,,,,,,,,,,,,Danilo Gallinari,Did Not Play,DEN,False,False
+hernaju01,,,,,,,,,,,,,,,,,Juan Hernangómez,Did Not Play,DEN,False,False
+tuckepj01,41.61666666666667,0.803,0.75,0.5,0.7,2.4,17.2,9.7,4.0,1.1,0.0,0.0,13.0,170.0,118.0,5.7,P.J. Tucker,,PHO,True,True
+bledser01,40.166666666666664,0.629,0.522,0.348,0.478,0.0,15.3,7.5,29.8,2.3,4.0,9.7,31.8,125.0,112.0,11.2,Eric Bledsoe,,PHO,True,True
+chandty01,38.38333333333333,0.833,0.833,0.0,0.0,10.4,29.3,19.7,0.0,0.0,4.2,0.0,6.5,180.0,114.0,2.1,Tyson Chandler,,PHO,True,True
+bookede01,35.71666666666667,0.514,0.481,0.37,0.185,0.0,8.6,4.2,25.3,1.3,0.0,3.3,35.0,109.0,120.0,1.5,Devin Booker,,PHO,True,True
+chrisma01,10.033333333333333,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,33.3,12.4,65.0,119.0,-15.5,Marquese Chriss,,PHO,True,True
+lenal01,29.15,0.396,0.2,0.0,0.6,10.3,24.5,17.3,0.0,1.6,5.5,13.7,10.4,96.0,110.0,-5.3,Alex Len,,PHO,True,False
+knighbr03,17.283333333333335,0.382,0.2,0.0,1.0,5.8,5.9,5.8,0.0,0.0,0.0,17.2,41.7,72.0,124.0,-19.7,Brandon Knight,,PHO,True,False
+bendedr01,13.583333333333334,0.0,0.0,0.5,0.0,0.0,7.5,3.7,0.0,0.0,0.0,50.0,12.2,0.0,123.0,-17.7,Dragan Bender,,PHO,True,False
+barbole01,8.033333333333333,0.0,0.0,0.333,0.0,0.0,12.7,6.3,0.0,0.0,0.0,0.0,15.5,0.0,122.0,-22.8,Leandro Barbosa,,PHO,True,False
+ulisty01,4.05,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,125.0,-10.9,Tyler Ulis,,PHO,True,False
+willial03,1.9833333333333334,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.9,0.0,125.0,-25.7,Alan Williams,,PHO,True,False
+dudleja01,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Dress,PHO,True,False
+jenkijo01,,,,,,,,,,,,,,,,,John Jenkins,Did Not Play,PHO,True,False

@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+jamesle01,35.0,0.52,0.423,0.231,0.5,5.5,18.3,10.3,34.4,0.0,2.7,5.9,38.8,119.0,128.0,3.2,LeBron James,,LAL,False,True
+kuzmaky01,33.416666666666664,0.605,0.571,0.143,0.143,0.0,0.0,0.0,32.4,1.4,0.0,16.8,21.5,116.0,129.0,-0.7,Kyle Kuzma,,LAL,False,True
+rondora01,28.45,0.375,0.375,0.25,0.0,3.4,22.5,10.5,18.6,1.7,0.0,20.0,7.1,107.0,125.0,-6.6,Rajon Rondo,,LAL,False,True
+bullore01,20.65,0.7,0.7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.5,140.0,133.0,-1.8,Reggie Bullock,,LAL,False,True
+mcgeeja01,18.866666666666667,0.575,0.6,0.0,0.1,15.3,33.9,22.3,0.0,7.6,5.1,16.1,26.5,103.0,106.0,-1.1,JaVale McGee,,LAL,False,True
+carusal01,27.8,0.694,0.583,0.167,1.0,6.9,5.8,6.5,8.3,8.6,10.4,0.0,12.5,161.0,106.0,14.1,Alex Caruso,,LAL,False,False
+caldwke01,27.616666666666667,0.481,0.455,0.636,0.091,7.0,11.6,8.7,0.0,0.0,0.0,0.0,16.7,114.0,131.0,-8.0,Kentavious Caldwell-Pope,,LAL,False,False
+willijo04,24.65,0.721,0.714,0.0,0.429,19.5,13.0,17.0,5.2,0.0,0.0,19.4,16.8,131.0,130.0,-6.4,Johnathan Williams,,LAL,False,False
+hartjo01,19.066666666666666,0.2,0.2,0.6,0.0,0.0,25.2,9.4,11.3,5.0,0.0,0.0,10.5,68.0,117.0,-5.2,Josh Hart,,LAL,False,False
+wagnemo01,4.483333333333333,0.615,0.625,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.8,121.0,132.0,2.1,Moritz Wagner,,LAL,False,False
+muscami01,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,LAL,False,False
+ingraan01,,,,,,,,,,,,,,,,,Andre Ingram,Did Not Play,LAL,False,False
+bongais01,,,,,,,,,,,,,,,,,Isaac Bonga,Did Not Play,LAL,False,False
+dotsoda01,41.333333333333336,0.599,0.575,0.5,0.1,0.0,13.9,8.7,3.6,0.0,0.0,8.7,23.8,118.0,124.0,-5.2,Damyean Dotson,,NYK,True,True
+knoxke01,37.166666666666664,0.679,0.679,0.357,0.0,0.0,12.9,8.1,3.8,1.3,0.0,17.6,19.6,113.0,122.0,-3.4,Kevin Knox,,NYK,True,True
+hezonma01,36.43333333333333,0.738,0.563,0.25,1.0,4.4,18.4,13.2,3.4,2.6,1.9,14.8,15.9,141.0,116.0,2.4,Mario Hezonja,,NYK,True,True
+jordade01,32.8,0.638,0.6,0.0,0.4,39.0,29.3,32.9,29.1,1.5,2.1,29.8,21.9,126.0,115.0,5.1,DeAndre Jordan,,NYK,True,True
+mudiaem01,32.78333333333333,0.909,0.864,0.364,0.909,0.0,5.9,3.7,36.3,0.0,2.1,20.6,25.4,156.0,126.0,11.6,Emmanuel Mudiay,,NYK,True,True
+allenka01,16.8,1.215,1.25,0.5,1.0,0.0,5.7,3.6,22.4,0.0,0.0,41.0,12.5,146.0,127.0,-0.8,Kadeem Allen,,NYK,True,False
+trieral01,15.916666666666666,0.34,0.4,0.4,0.4,0.0,6.0,3.8,23.8,0.0,0.0,33.8,24.0,67.0,126.0,-21.4,Allonzo Trier,,NYK,True,False
+robinmi01,15.2,0.41,0.5,0.0,0.5,10.5,12.6,11.8,0.0,0.0,9.0,0.0,6.9,108.0,118.0,-4.8,Mitchell Robinson,,NYK,True,False
+thomala01,11.566666666666666,0.875,0.875,0.5,0.0,0.0,8.3,5.2,0.0,0.0,0.0,33.3,22.3,98.0,126.0,-3.9,Lance Thomas,,NYK,True,False
+jenkijo01,,,,,,,,,,,,,,,,,John Jenkins,Did Not Play,NYK,True,False
+kornelu01,,,,,,,,,,,,,,,,,Luke Kornet,Did Not Play,NYK,True,False
+ellenhe01,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,NYK,True,False

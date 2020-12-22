@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+johnsst04,37.75,0.504,0.462,0.231,0.154,5.8,29.1,16.1,12.6,1.3,0.0,12.6,18.9,107.0,117.0,-2.7,Stanley Johnson,,DET,False,True
+drumman01,36.9,0.475,0.571,0.0,1.143,8.9,37.2,21.4,4.0,1.4,4.0,36.3,20.2,71.0,112.0,-7.2,Andre Drummond,,DET,False,True
+morrima03,34.46666666666667,0.587,0.591,0.545,0.545,3.2,4.0,3.5,18.8,1.5,0.0,0.0,17.8,137.0,121.0,3.0,Marcus Morris,,DET,False,True
+jacksre01,32.3,0.776,0.767,0.267,0.267,0.0,12.7,5.6,12.8,0.0,0.0,5.6,24.7,151.0,123.0,8.4,Reggie Jackson,,DET,False,True
+ilyaser01,17.9,0.225,0.188,0.625,0.25,0.0,0.0,0.0,0.0,0.0,0.0,10.1,24.8,46.0,125.0,-20.2,Ersan İlyasova,,DET,False,True
+tollian01,30.1,0.79,0.833,1.0,0.444,3.6,13.7,8.1,5.3,5.0,0.0,8.5,17.6,149.0,112.0,14.5,Anthony Tolliver,,DET,False,False
+hillida01,20.8,0.615,0.667,0.667,0.5,0.0,6.6,2.9,7.4,0.0,0.0,12.0,18.0,113.0,123.0,-3.7,Darrun Hilliard,,DET,False,False
+jennibr01,15.7,0.4,0.4,0.4,0.0,0.0,0.0,0.0,19.2,3.2,0.0,16.7,17.2,86.0,118.0,-6.4,Brandon Jennings,,DET,False,False
+baynear01,11.066666666666666,0.34,0.2,0.0,0.4,39.4,12.4,27.5,0.0,0.0,6.7,14.5,28.0,94.0,117.0,-10.6,Aron Baynes,,DET,False,False
+bullore01,3.033333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,125.0,-6.1,Reggie Bullock,,DET,False,False
+anthojo01,,,,,,,,,,,,,,,,,Joel Anthony,Did Not Play,DET,False,False
+blakest01,,,,,,,,,,,,,,,,,Steve Blake,Did Not Play,DET,False,False
+caldwke01,,,,,,,,,,,,,,,,,Kentavious Caldwell-Pope,Did Not Dress,DET,False,False
+ellismo01,33.21666666666667,0.508,0.429,0.143,0.286,0.0,16.4,9.1,19.7,3.1,0.0,20.2,13.6,103.0,107.0,0.3,Monta Ellis,,IND,True,True
+hillge01,33.11666666666667,0.571,0.536,0.214,0.143,0.0,13.2,7.3,9.4,0.0,0.0,0.0,20.6,124.0,114.0,-1.3,George Hill,,IND,True,True
+turnemy01,31.983333333333334,0.615,0.615,0.0,0.0,0.0,13.6,7.6,15.5,0.0,3.3,7.1,20.1,121.0,112.0,3.3,Myles Turner,,IND,True,True
+georgpa01,29.983333333333334,0.765,0.615,0.154,1.154,0.0,29.1,16.2,16.1,1.7,0.0,13.3,34.5,141.0,105.0,11.5,Paul George,,IND,True,True
+mahinia01,20.25,0.532,0.5,0.0,2.0,6.8,10.8,9.0,0.0,0.0,0.0,21.0,10.8,97.0,112.0,-9.9,Ian Mahinmi,,IND,True,True
+hilljo01,27.466666666666665,0.6,0.6,0.0,0.0,25.0,11.9,17.7,17.2,7.4,0.0,23.1,21.7,114.0,98.0,7.4,Jordan Hill,,IND,True,False
+milescj01,19.966666666666665,0.46,0.45,0.3,0.2,0.0,10.9,6.1,15.3,0.0,0.0,15.5,29.6,86.0,113.0,-9.7,C.J. Miles,,IND,True,False
+allenla01,15.766666666666667,0.512,0.5,0.0,0.5,8.7,34.6,23.1,0.0,0.0,0.0,17.0,17.1,95.0,108.0,-5.1,Lavoy Allen,,IND,True,False
+youngjo01,13.166666666666666,1.333,1.333,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,13.9,163.0,116.0,7.1,Joe Young,,IND,True,False
+robingl02,8.2,1.136,,,,0.0,0.0,0.0,14.3,0.0,0.0,0.0,4.9,241.0,118.0,6.9,Glenn Robinson,,IND,True,False
+hillso01,6.883333333333333,,,,,19.9,0.0,8.8,34.0,0.0,0.0,100.0,13.3,68.0,115.0,-8.3,Solomon Hill,,IND,True,False
+budinch01,,,,,,,,,,,,,,,,,Chase Budinger,Did Not Play,IND,True,False
+whittsh01,,,,,,,,,,,,,,,,,Shayne Whittington,Did Not Play,IND,True,False

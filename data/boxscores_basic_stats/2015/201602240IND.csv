@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+porzikr01,35.8,7.0,14.0,0.5,2.0,7.0,0.286,6.0,8.0,0.75,0.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,22.0,-4.0,Kristaps Porziņģis,,NYK,False,True
+anthoca01,34.766666666666666,5.0,20.0,0.25,1.0,4.0,0.25,3.0,4.0,0.75,1.0,6.0,7.0,3.0,1.0,0.0,1.0,4.0,14.0,-14.0,Carmelo Anthony,,NYK,False,True
+caldejo01,32.666666666666664,6.0,10.0,0.6,4.0,4.0,1.0,4.0,4.0,1.0,0.0,4.0,4.0,4.0,1.0,0.0,0.0,0.0,20.0,-6.0,José Calderón,,NYK,False,True
+lopezro01,25.2,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,2.0,5.0,7.0,1.0,0.0,3.0,2.0,2.0,4.0,-14.0,Robin Lopez,,NYK,False,True
+afflaar01,23.6,1.0,6.0,0.167,0.0,2.0,0.0,2.0,2.0,1.0,0.0,5.0,5.0,3.0,0.0,0.0,2.0,1.0,4.0,-10.0,Arron Afflalo,,NYK,False,True
+thomala01,32.06666666666667,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,4.0,0.0,0.0,3.0,3.0,5.0,13.0,Lance Thomas,,NYK,False,False
+gallola01,29.016666666666666,5.0,9.0,0.556,3.0,5.0,0.6,4.0,4.0,1.0,1.0,5.0,6.0,4.0,0.0,0.0,3.0,5.0,17.0,3.0,Langston Galloway,,NYK,False,False
+oquinky01,16.166666666666668,7.0,10.0,0.7,2.0,2.0,1.0,3.0,3.0,1.0,3.0,3.0,6.0,0.0,0.0,1.0,0.0,0.0,19.0,10.0,Kyle O'Quinn,,NYK,False,False
+vujacsa01,10.716666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,7.0,Sasha Vujačić,,NYK,False,False
+grantje02,,,,,,,,,,,,,,,,,,,,,Jerian Grant,Did Not Play,NYK,False,False
+fredeji01,,,,,,,,,,,,,,,,,,,,,Jimmer Fredette,Did Not Play,NYK,False,False
+serapke01,,,,,,,,,,,,,,,,,,,,,Kevin Séraphin,Did Not Play,NYK,False,False
+willide02,,,,,,,,,,,,,,,,,,,,,Derrick Williams,Did Not Play,NYK,False,False
+georgpa01,36.483333333333334,10.0,23.0,0.435,0.0,7.0,0.0,7.0,8.0,0.875,1.0,6.0,7.0,6.0,1.0,0.0,2.0,3.0,27.0,7.0,Paul George,,IND,True,True
+ellismo01,35.81666666666667,3.0,6.0,0.5,2.0,3.0,0.667,0.0,0.0,,1.0,7.0,8.0,7.0,2.0,1.0,1.0,2.0,8.0,10.0,Monta Ellis,,IND,True,True
+hillge01,31.066666666666666,5.0,8.0,0.625,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,2.0,0.0,0.0,0.0,10.0,7.0,George Hill,,IND,True,True
+mahinia01,30.65,4.0,5.0,0.8,0.0,0.0,,0.0,1.0,0.0,2.0,5.0,7.0,1.0,0.0,1.0,2.0,1.0,8.0,10.0,Ian Mahinmi,,IND,True,True
+turnemy01,29.716666666666665,10.0,20.0,0.5,0.0,1.0,0.0,4.0,5.0,0.8,1.0,5.0,6.0,0.0,1.0,0.0,1.0,3.0,24.0,12.0,Myles Turner,,IND,True,True
+allenla01,18.283333333333335,3.0,6.0,0.5,0.0,0.0,,0.0,0.0,,3.0,3.0,6.0,3.0,0.0,1.0,0.0,1.0,6.0,-9.0,Lavoy Allen,,IND,True,False
+hilljo01,17.35,3.0,8.0,0.375,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,6.0,-7.0,Jordan Hill,,IND,True,False
+youngjo01,15.05,3.0,8.0,0.375,0.0,1.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,3.0,8.0,-3.0,Joe Young,,IND,True,False
+hillso01,14.066666666666666,3.0,4.0,0.75,1.0,1.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,7.0,-8.0,Solomon Hill,,IND,True,False
+budinch01,11.516666666666667,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,2.0,1.0,2.0,3.0,4.0,-4.0,Chase Budinger,,IND,True,False
+milescj01,,,,,,,,,,,,,,,,,,,,,C.J. Miles,Did Not Dress,IND,True,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,True,False

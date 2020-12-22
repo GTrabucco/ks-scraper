@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+jamesle01,40.05,0.474,0.444,0.389,0.389,2.1,14.6,7.4,36.7,0.0,0.0,24.9,29.8,87.0,112.0,-3.2,LeBron James,,CLE,False,True
+loveke01,35.55,0.552,0.48,0.44,0.28,16.9,36.2,25.1,0.0,3.0,0.0,12.5,38.3,113.0,100.0,11.3,Kevin Love,,CLE,False,True
+smithjr01,30.916666666666668,0.17,0.0,0.8,0.4,5.5,7.6,6.4,5.5,3.4,0.0,14.5,9.5,58.0,107.0,-5.5,J.R. Smith,,CLE,False,True
+crowdja01,28.816666666666666,0.689,0.65,0.5,0.2,11.9,8.1,10.3,0.0,1.8,0.0,0.0,16.0,159.0,110.0,9.3,Jae Crowder,,CLE,False,True
+caldejo01,17.233333333333334,0.375,0.375,0.5,0.0,9.9,0.0,5.7,11.0,0.0,0.0,0.0,9.9,117.0,116.0,-4.7,José Calderón,,CLE,False,True
+wadedw01,29.3,0.492,0.409,0.364,0.455,2.9,16.0,8.4,30.6,5.4,0.0,0.0,19.1,129.0,100.0,12.5,Dwyane Wade,,CLE,False,False
+korveky01,21.083333333333332,0.5,0.5,0.667,0.0,0.0,16.7,7.0,0.0,0.0,0.0,25.0,8.1,79.0,112.0,-7.9,Kyle Korver,,CLE,False,False
+greenje02,19.616666666666667,0.25,0.25,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.3,15.2,51.0,116.0,-14.8,Jeff Green,,CLE,False,False
+thomptr01,11.7,0.205,0.0,0.0,0.5,14.7,40.0,25.4,0.0,0.0,0.0,0.0,17.7,73.0,106.0,-8.1,Tristan Thompson,,CLE,False,False
+osmande01,5.733333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.8,0.0,117.0,-18.5,Cedi Osman,,CLE,False,False
+zizican01,,,,,,,,,,,,,,,,,Ante Žižić,Did Not Play,CLE,False,False
+thomais02,,,,,,,,,,,,,,,,,Isaiah Thomas,Did Not Play,CLE,False,False
+fryech01,,,,,,,,,,,,,,,,,Channing Frye,Did Not Play,CLE,False,False
+greendr01,40.36666666666667,0.524,0.545,0.727,0.091,2.9,23.4,14.7,40.8,2.6,2.3,25.9,17.6,103.0,91.0,7.3,Draymond Green,,GSW,True,True
+duranke01,36.916666666666664,0.566,0.5,0.474,0.368,6.3,11.6,9.4,14.1,2.8,12.5,15.3,32.5,103.0,95.0,9.3,Kevin Durant,,GSW,True,True
+thompkl01,35.71666666666667,0.716,0.667,0.467,0.267,0.0,14.4,8.3,9.9,0.0,0.0,0.0,21.6,146.0,105.0,8.1,Klay Thompson,,GSW,True,True
+belljo01,26.45,0.571,0.571,0.143,0.0,13.3,13.0,13.1,17.7,2.0,0.0,12.5,13.9,123.0,102.0,2.0,Jordan Bell,,GSW,True,True
+mccawpa01,23.666666666666668,0.431,0.45,0.5,0.1,0.0,3.6,2.1,13.6,2.2,0.0,16.1,24.1,77.0,108.0,-8.1,Patrick McCaw,,GSW,True,True
+iguodan01,24.0,0.507,0.5,0.5,0.25,9.8,14.3,12.4,6.7,0.0,3.8,10.1,18.9,103.0,104.0,-2.0,Andre Iguodala,,GSW,True,False
+livinsh01,13.666666666666666,0.667,0.667,0.0,0.0,0.0,0.0,0.0,34.0,3.8,0.0,25.0,13.4,117.0,107.0,0.0,Shaun Livingston,,GSW,True,False
+westda01,13.383333333333333,0.0,0.0,0.0,0.0,8.7,19.2,14.8,18.9,0.0,0.0,50.0,13.7,42.0,101.0,-16.5,David West,,GSW,True,False
+casspom01,11.783333333333333,0.773,0.667,0.0,0.667,0.0,14.5,8.4,0.0,0.0,0.0,0.0,15.1,160.0,105.0,1.4,Omri Casspi,,GSW,True,False
+youngni01,11.216666666666667,0.0,0.0,1.0,0.0,0.0,7.6,4.4,0.0,0.0,0.0,0.0,12.3,0.0,111.0,-17.9,Nick Young,,GSW,True,False
+looneke01,2.8333333333333335,1.0,1.0,0.0,0.0,41.3,0.0,17.5,80.4,0.0,0.0,0.0,16.2,211.0,117.0,32.3,Kevon Looney,,GSW,True,False
+pachuza01,,,,,,,,,,,,,,,,,Zaza Pachulia,Did Not Play,GSW,True,False
+mcgeeja01,,,,,,,,,,,,,,,,,JaVale McGee,Did Not Play,GSW,True,False

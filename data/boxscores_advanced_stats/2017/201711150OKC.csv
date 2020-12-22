@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+markkla01,32.03333333333333,0.595,0.577,0.462,0.077,0.0,20.9,10.5,17.6,3.4,3.6,0.0,20.8,118.0,97.0,10.1,Lauri Markkanen,,CHI,False,True
+dunnkr01,29.283333333333335,0.136,0.136,0.273,0.0,3.8,19.1,11.4,20.2,1.9,0.0,15.4,22.0,40.0,103.0,-14.2,Kris Dunn,,CHI,False,True
+grantje02,26.616666666666667,0.444,0.2,0.2,0.8,0.0,12.6,6.3,22.4,2.1,0.0,37.2,20.0,68.0,106.0,-10.4,Jerian Grant,,CHI,False,True
+lopezro01,22.233333333333334,0.436,0.333,0.167,0.333,5.0,5.0,5.0,10.0,0.0,0.0,0.0,15.3,102.0,113.0,-5.8,Robin Lopez,,CHI,False,True
+pondequ01,20.933333333333334,0.301,0.0,0.5,1.5,5.3,0.0,2.7,0.0,2.6,0.0,13.1,18.1,64.0,109.0,-11.8,Quincy Pondexter,,CHI,False,True
+valende01,27.1,0.722,0.722,0.667,0.0,0.0,12.4,6.2,20.7,2.0,0.0,0.0,16.5,139.0,106.0,9.0,Denzel Valentine,,CHI,False,False
+blakean01,26.133333333333333,0.563,0.542,0.5,0.417,0.0,8.5,4.3,0.0,0.0,0.0,12.3,30.7,92.0,112.0,-2.1,Antonio Blakeney,,CHI,False,False
+portibo01,20.433333333333334,0.313,0.313,0.375,0.0,10.9,38.2,24.6,22.1,0.0,5.6,27.3,26.7,61.0,97.0,-7.4,Bobby Portis,,CHI,False,False
+feliccr01,17.766666666666666,1.031,1.0,0.0,0.667,6.3,6.3,6.3,30.2,3.1,0.0,20.5,13.6,169.0,106.0,11.9,Cristiano Felício,,CHI,False,False
+zipsepa01,17.483333333333334,0.25,0.25,0.25,0.0,0.0,25.5,12.8,11.8,0.0,0.0,0.0,11.3,62.0,105.0,-7.7,Paul Zipser,,CHI,False,False
+holidju01,,,,,,,,,,,,,,,,,Justin Holiday,Not With Team,CHI,False,False
+feldeka01,,,,,,,,,,,,,,,,,Kay Felder,Did Not Play,CHI,False,False
+georgpa01,36.53333333333333,0.388,0.333,0.533,0.267,0.0,15.3,7.6,0.0,0.0,2.9,23.0,28.2,62.0,93.0,-13.2,Paul George,,OKC,True,True
+westbru01,31.883333333333333,0.653,0.538,0.385,0.538,0.0,17.5,8.8,62.1,6.8,0.0,19.9,29.8,118.0,79.0,15.8,Russell Westbrook,,OKC,True,True
+anthoca01,28.116666666666667,0.589,0.35,0.2,1.2,0.0,43.7,21.8,0.0,0.0,0.0,0.0,25.8,133.0,88.0,6.0,Carmelo Anthony,,OKC,True,True
+roberan03,18.983333333333334,1.0,1.0,0.0,0.0,17.6,17.6,17.6,12.1,2.9,0.0,33.3,7.5,148.0,88.0,6.2,Andre Roberson,,OKC,True,True
+johnsda04,12.0,0.525,0.333,0.0,1.333,0.0,9.3,4.7,0.0,0.0,0.0,0.0,18.8,118.0,97.0,-2.9,Dakari Johnson,,OKC,True,True
+grantje01,34.56666666666667,0.644,0.556,0.222,0.667,16.1,19.4,17.8,7.3,1.6,3.0,14.7,18.7,126.0,88.0,4.6,Jerami Grant,,OKC,True,False
+abrinal01,23.266666666666666,0.34,0.3,1.0,0.4,0.0,19.2,9.6,0.0,0.0,0.0,0.0,12.0,76.0,94.0,-6.1,Álex Abrines,,OKC,True,False
+feltora01,19.45,0.417,0.417,0.5,0.0,5.7,11.5,8.6,35.1,0.0,0.0,14.3,17.1,96.0,96.0,-1.9,Raymond Felton,,OKC,True,False
+pattepa01,17.7,0.644,0.5,1.0,0.667,6.3,0.0,3.2,23.3,0.0,0.0,0.0,10.4,158.0,99.0,5.5,Patrick Patterson,,OKC,True,False
+huestjo01,10.266666666666667,0.2,0.2,0.4,0.0,10.9,0.0,5.4,21.9,5.3,0.0,0.0,23.1,67.0,87.0,-7.8,Josh Huestis,,OKC,True,False
+fergute01,3.6166666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,99.0,-4.7,Terrance Ferguson,,OKC,True,False
+hamilda02,3.6166666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,0.0,99.0,-17.9,Daniel Hamilton,,OKC,True,False
+collini01,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,True,False

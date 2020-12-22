@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+couside01,35.016666666666666,0.66,0.591,0.0,0.545,18.7,24.5,21.9,16.3,1.4,2.1,6.8,34.8,138.0,92.0,12.6,DeMarcus Cousins,,SAC,False,True
+rondora01,34.083333333333336,0.527,0.5,0.1,0.1,6.4,7.5,7.0,66.6,0.0,0.0,22.3,16.4,126.0,104.0,4.4,Rajon Rondo,,SAC,False,True
+gayru01,33.016666666666666,0.743,0.778,0.333,0.444,0.0,15.6,8.7,12.7,3.0,13.4,15.7,16.1,126.0,84.0,13.6,Rudy Gay,,SAC,False,True
+caulewi01,29.416666666666668,0.615,0.625,0.0,0.5,14.8,17.5,16.3,4.7,3.3,5.0,0.0,13.8,142.0,89.0,5.5,Willie Cauley-Stein,,SAC,False,True
+mclembe01,18.433333333333334,0.5,0.5,0.167,0.0,0.0,9.3,5.2,0.0,0.0,0.0,14.3,15.8,87.0,103.0,-13.1,Ben McLemore,,SAC,False,True
+casspom01,30.35,0.365,0.318,0.636,0.273,0.0,25.4,14.2,0.0,0.0,2.4,19.6,21.0,65.0,95.0,-11.6,Omri Casspi,,SAC,False,False
+collida01,21.266666666666666,0.74,0.7,0.4,0.8,0.0,8.1,4.5,0.0,0.0,0.0,12.9,15.2,129.0,104.0,-3.0,Darren Collison,,SAC,False,False
+belinma01,19.4,0.3,0.3,0.5,0.0,0.0,4.4,2.5,19.5,2.5,0.0,0.0,21.5,88.0,100.0,-4.1,Marco Belinelli,,SAC,False,False
+koufoko01,12.916666666666666,0.5,0.5,0.0,0.0,16.9,33.2,26.0,0.0,0.0,11.4,33.3,19.3,79.0,85.0,-7.3,Kosta Koufos,,SAC,False,False
+anderja01,2.0833333333333335,,,,,52.4,0.0,23.0,53.6,0.0,0.0,,0.0,212.0,107.0,22.3,James Anderson,,SAC,False,False
+curryse01,2.0833333333333335,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,107.0,-44.2,Seth Curry,,SAC,False,False
+acyqu01,1.9333333333333333,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.1,104.0,107.0,-4.3,Quincy Acy,,SAC,False,False
+butleca01,,,,,,,,,,,,,,,,,Caron Butler,Did Not Play,SAC,False,False
+clarkjo01,35.016666666666666,0.397,0.333,0.133,0.4,2.4,12.5,6.9,5.5,1.4,0.0,10.2,23.9,79.0,116.0,-7.5,Jordan Clarkson,,LAL,True,True
+willilo02,32.8,0.555,0.4,0.4,0.8,0.0,6.7,2.9,16.8,1.5,0.0,0.0,17.6,125.0,117.0,0.3,Lou Williams,,LAL,True,True
+bryanko01,31.2,0.493,0.385,0.538,0.385,5.5,7.0,6.2,17.9,1.6,0.0,11.6,23.5,100.0,117.0,-1.5,Kobe Bryant,,LAL,True,True
+randlju01,30.666666666666668,0.235,0.182,0.0,0.364,11.2,28.5,18.8,10.8,0.0,2.3,7.3,19.1,67.0,112.0,-8.3,Julius Randle,,LAL,True,True
+hibbero01,16.25,0.6,0.6,0.0,0.0,5.3,6.7,5.9,0.0,9.1,4.3,16.7,15.7,99.0,98.0,1.2,Roy Hibbert,,LAL,True,True
+bassbr01,29.666666666666668,0.654,0.583,0.0,0.333,11.6,11.0,11.3,15.7,0.0,7.0,6.8,21.2,133.0,115.0,8.3,Brandon Bass,,LAL,True,False
+russeda01,26.1,0.441,0.4,0.4,0.133,0.0,8.4,3.7,40.3,0.0,0.0,5.9,27.6,95.0,120.0,-0.8,D'Angelo Russell,,LAL,True,False
+kellyry01,17.333333333333332,0.2,0.2,0.6,0.0,0.0,18.9,8.3,9.5,0.0,0.0,0.0,12.3,52.0,116.0,-11.1,Ryan Kelly,,LAL,True,False
+brownan02,16.8,0.307,0.25,0.75,0.5,0.0,19.5,8.6,0.0,0.0,0.0,0.0,12.4,67.0,116.0,-11.2,Anthony Brown,,LAL,True,False
+sacrero01,2.0833333333333335,,,,,0.0,52.4,23.0,0.0,0.0,0.0,,0.0,0.0,105.0,-4.8,Robert Sacre,,LAL,True,False
+huertma01,2.0833333333333335,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,20.5,0.0,123.0,-36.3,Marcelo Huertas,,LAL,True,False
+blackta01,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,LAL,True,False
+youngni01,,,,,,,,,,,,,,,,,Nick Young,Did Not Play,LAL,True,False

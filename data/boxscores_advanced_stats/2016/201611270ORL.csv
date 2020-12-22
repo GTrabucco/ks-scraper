@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+snellto01,34.8,0.444,0.429,0.571,0.286,0.0,20.8,11.1,0.0,1.5,0.0,0.0,10.3,92.0,101.0,-5.4,Tony Snell,,MIL,False,True
+dellama01,31.183333333333334,0.308,0.308,0.538,0.0,0.0,2.9,1.6,33.8,1.6,0.0,7.1,20.4,86.0,106.0,-5.9,Matthew Dellavedova,,MIL,False,True
+antetgi01,30.733333333333334,0.705,0.682,0.091,0.364,3.4,23.6,14.2,20.8,1.6,7.3,32.0,27.7,98.0,93.0,3.6,Giannis Antetokounmpo,,MIL,False,True
+parkeja01,28.816666666666666,0.483,0.438,0.25,0.375,3.6,18.9,11.8,18.5,0.0,0.0,17.7,17.8,98.0,105.0,-3.3,Jabari Parker,,MIL,False,True
+hensojo01,28.633333333333333,0.639,0.615,0.0,0.462,7.3,15.8,11.9,6.1,1.8,7.9,0.0,24.8,135.0,95.0,9.9,John Henson,,MIL,False,True
+brogdma01,20.3,0.6,0.6,0.3,0.0,10.3,4.5,7.2,16.2,2.5,0.0,0.0,22.3,132.0,104.0,6.0,Malcolm Brogdon,,MIL,False,False
+beaslmi01,16.8,0.689,0.667,0.0,0.111,6.2,27.0,17.3,12.0,0.0,0.0,17.5,30.9,111.0,103.0,3.4,Michael Beasley,,MIL,False,False
+monrogr01,16.566666666666666,0.709,0.667,0.0,0.667,12.6,27.3,20.5,9.9,3.1,0.0,0.0,21.3,154.0,96.0,10.1,Greg Monroe,,MIL,False,False
+teletmi01,15.066666666666666,0.6,0.6,1.0,0.0,6.9,12.0,9.7,9.2,0.0,0.0,0.0,15.1,132.0,107.0,1.4,Mirza Teletović,,MIL,False,False
+terryja01,14.3,0.0,0.0,0.667,0.0,0.0,12.7,6.8,8.2,0.0,0.0,0.0,9.5,22.0,107.0,-13.2,Jason Terry,,MIL,False,False
+plumlmi01,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.8,0.0,0.0,0.0,16.2,53.0,110.0,-12.6,Miles Plumlee,,MIL,False,False
+makerth01,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,MIL,False,False
+novakst01,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,MIL,False,False
+fournev01,37.5,0.605,0.595,0.476,0.143,4.8,11.1,7.8,37.5,2.7,0.0,4.3,28.0,124.0,109.0,10.7,Evan Fournier,,ORL,True,True
+biyombi01,32.75,0.296,0.2,0.0,0.8,2.8,9.6,5.9,8.0,1.5,4.7,12.9,10.7,71.0,108.0,-6.5,Bismack Biyombo,,ORL,True,True
+ibakase01,32.71666666666667,0.531,0.5,0.235,0.118,0.0,19.1,8.9,5.6,0.0,4.7,0.0,24.6,107.0,109.0,1.0,Serge Ibaka,,ORL,True,True
+gordoaa01,31.966666666666665,0.0,0.0,0.25,0.0,11.3,13.1,12.1,11.9,1.6,0.0,0.0,16.9,37.0,111.0,-15.0,Aaron Gordon,,ORL,True,True
+augusdj01,25.333333333333332,0.786,0.786,0.429,0.0,0.0,8.2,3.8,33.2,0.0,0.0,0.0,12.5,163.0,116.0,5.2,D.J. Augustin,,ORL,True,True
+vucevni01,29.916666666666668,0.535,0.5,0.2,0.133,9.1,45.3,25.9,18.0,0.0,2.6,0.0,23.9,120.0,104.0,5.6,Nikola Vučević,,ORL,True,False
+paytoel01,29.2,0.743,0.722,0.333,0.444,0.0,10.7,5.0,17.5,1.7,0.0,21.8,21.2,113.0,111.0,-0.7,Elfrid Payton,,ORL,True,False
+watsocj01,20.633333333333333,0.145,0.0,0.333,0.333,0.0,5.1,2.3,0.0,2.5,0.0,22.5,19.4,25.0,111.0,-20.6,C.J. Watson,,ORL,True,False
+hezonma01,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Play,ORL,True,False
+onuakar01,,,,,,,,,,,,,,,,,Arinze Onuaku,Did Not Play,ORL,True,False
+rudezda01,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,ORL,True,False
+wilcocj01,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,ORL,True,False
+zimmest01,,,,,,,,,,,,,,,,,Stephen Zimmerman,Did Not Play,ORL,True,False

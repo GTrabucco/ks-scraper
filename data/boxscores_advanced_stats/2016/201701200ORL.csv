@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,team_id,is_home,is_starter,note
+parkeja01,37.61666666666667,0.623,0.559,0.353,0.412,5.2,14.5,9.6,32.2,0.0,0.0,16.6,28.9,114.0,123.0,3.7,Jabari Parker,MIL,False,True,
+antetgi01,35.7,0.453,0.382,0.235,0.235,5.5,36.7,20.2,31.1,1.4,0.0,17.6,28.8,91.0,112.0,-3.1,Giannis Antetokounmpo,MIL,False,True,
+brogdma01,35.3,0.727,0.727,0.545,0.0,0.0,6.2,2.9,21.0,1.5,0.0,8.3,15.3,134.0,123.0,2.9,Malcolm Brogdon,MIL,False,True,
+snellto01,24.416666666666668,0.333,0.333,0.667,0.0,0.0,4.5,2.1,6.1,2.1,0.0,0.0,5.5,83.0,123.0,-6.6,Tony Snell,MIL,False,True,
+hensojo01,16.366666666666667,0.82,0.75,0.0,0.5,6.0,26.7,15.8,23.3,0.0,5.0,29.1,19.0,122.0,116.0,4.2,John Henson,MIL,False,True,
+plumlmi01,15.933333333333334,0.433,0.4,0.0,1.4,0.0,0.0,0.0,0.0,0.0,5.1,0.0,22.9,90.0,126.0,-7.4,Miles Plumlee,MIL,False,False,
+teletmi01,15.0,0.333,0.333,0.667,0.0,0.0,7.3,3.4,0.0,0.0,0.0,25.0,12.0,49.0,126.0,-17.3,Mirza Teletović,MIL,False,False,
+monrogr01,14.066666666666666,0.405,0.333,0.0,1.0,27.9,7.8,18.3,12.6,3.6,0.0,0.0,27.7,109.0,118.0,-0.7,Greg Monroe,MIL,False,False,
+dellama01,12.7,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.2,0.0,128.0,-26.9,Matthew Dellavedova,MIL,False,False,
+terryja01,11.583333333333334,0.333,0.333,0.333,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,11.7,69.0,125.0,-6.7,Jason Terry,MIL,False,False,
+vaughra01,9.883333333333333,0.667,0.667,0.5,0.0,0.0,22.1,10.4,25.0,5.2,0.0,0.0,27.4,129.0,109.0,18.8,Rashad Vaughn,MIL,False,False,
+beaslmi01,6.866666666666667,0.25,0.25,0.0,0.0,0.0,31.8,15.0,0.0,0.0,0.0,0.0,26.3,53.0,117.0,-18.5,Michael Beasley,MIL,False,False,
+makerth01,4.566666666666666,,,,,21.5,0.0,11.3,0.0,11.2,0.0,,0.0,221.0,104.0,4.9,Thon Maker,MIL,False,False,
+paytoel01,37.483333333333334,0.733,0.636,0.273,0.545,2.9,7.8,5.5,23.8,4.1,0.0,18.0,19.4,134.0,102.0,6.5,Elfrid Payton,ORL,True,True,
+gordoaa01,32.1,0.456,0.438,0.25,0.375,6.8,15.3,11.3,15.2,3.2,0.0,0.0,25.4,111.0,101.0,0.3,Aaron Gordon,ORL,True,True,
+watsocj01,30.583333333333332,0.313,0.313,0.5,0.0,3.6,16.0,10.1,8.5,0.0,0.0,0.0,11.5,91.0,108.0,-10.3,C.J. Watson,ORL,True,True,
+vucevni01,23.0,0.505,0.5,0.0,0.167,19.0,8.5,13.5,15.2,0.0,0.0,7.2,26.4,115.0,110.0,-3.7,Nikola Vučević,ORL,True,True,
+ibakase01,22.133333333333333,0.781,0.714,0.429,0.429,4.9,13.3,9.3,6.9,4.6,0.0,26.5,22.4,115.0,99.0,5.2,Serge Ibaka,ORL,True,True,
+augusdj01,27.95,0.465,0.389,0.667,0.444,0.0,7.0,3.7,39.4,0.0,0.0,8.5,18.4,118.0,111.0,-1.1,D.J. Augustin,ORL,True,False,
+greenje02,26.816666666666666,0.592,0.5,0.385,0.385,12.2,18.3,15.4,12.2,1.9,3.1,0.0,24.8,141.0,101.0,7.0,Jeff Green,ORL,True,False,
+biyombi01,25.0,0.793,0.833,0.0,0.833,4.4,47.0,26.8,0.0,2.1,13.2,10.9,16.1,139.0,83.0,9.2,Bismack Biyombo,ORL,True,False,
+hezonma01,13.133333333333333,0.3,0.3,0.6,0.0,8.3,14.9,11.8,0.0,0.0,6.3,0.0,16.7,83.0,103.0,-8.3,Mario Hezonja,ORL,True,False,
+rudezda01,1.8333333333333335,,,,,0.0,0.0,0.0,65.5,0.0,0.0,,0.0,220.0,113.0,12.0,Damjan Rudež,ORL,True,False,
+fournev01,,,,,,,,,,,,,,,,,Evan Fournier,ORL,True,False,Did Not Dress
+meeksjo01,,,,,,,,,,,,,,,,,Jodie Meeks,ORL,True,False,Did Not Dress
+wilcocj01,,,,,,,,,,,,,,,,,C.J. Wilcox,ORL,True,False,Did Not Dress

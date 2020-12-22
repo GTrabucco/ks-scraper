@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+dienggo01,39.86666666666667,0.551,0.5,0.1,0.2,5.7,18.7,12.5,4.2,1.4,6.5,15.5,14.6,107.0,92.0,0.8,Gorgui Dieng,,MIN,False,True
+wiggian01,38.71666666666667,0.489,0.474,0.158,0.053,8.9,11.0,10.0,10.4,0.0,2.2,4.9,23.9,111.0,100.0,-0.2,Andrew Wiggins,,MIN,False,True
+lavinza01,38.3,0.654,0.583,0.667,0.333,3.0,8.4,5.8,8.7,1.4,2.2,6.8,17.4,140.0,98.0,7.2,Zach LaVine,,MIN,False,True
+townska01,37.333333333333336,0.479,0.438,0.188,0.25,12.2,40.0,26.6,24.7,0.0,2.3,25.3,28.8,90.0,92.0,-1.3,Karl-Anthony Towns,,MIN,False,True
+rubiori01,33.18333333333333,0.85,0.8,0.6,0.4,3.4,12.9,8.3,37.7,3.3,0.0,50.5,16.2,101.0,95.0,2.8,Ricky Rubio,,MIN,False,True
+muhamsh01,18.983333333333334,0.35,0.35,0.3,0.0,18.1,11.2,14.5,0.0,2.9,0.0,9.1,26.2,84.0,96.0,-4.9,Shabazz Muhammad,,MIN,False,False
+bjeline01,18.8,0.25,0.25,0.833,0.0,6.1,11.3,8.8,23.6,2.9,0.0,0.0,14.4,95.0,96.0,1.8,Nemanja Bjelica,,MIN,False,False
+dunnkr01,14.816666666666666,0.551,0.5,0.6,0.2,0.0,7.2,3.7,0.0,0.0,0.0,0.0,16.6,126.0,103.0,-3.8,Kris Dunn,,MIN,False,False
+aldrico01,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,False,False
+hilljo01,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,MIN,False,False
+jonesty01,,,,,,,,,,,,,,,,,Tyus Jones,Did Not Play,MIN,False,False
+paynead01,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,False,False
+rushbr01,,,,,,,,,,,,,,,,,Brandon Rush,Did Not Play,MIN,False,False
+millspa01,39.233333333333334,0.436,0.389,0.278,0.333,8.2,20.4,14.1,33.7,2.8,0.0,0.0,25.8,108.0,102.0,5.5,Paul Millsap,,ATL,True,True
+schrode01,36.833333333333336,0.5,0.5,0.333,0.0,0.0,3.1,1.5,43.5,0.0,0.0,4.5,29.3,106.0,116.0,0.8,Dennis Schröder,,ATL,True,True
+bazemke01,32.81666666666667,0.418,0.389,0.222,0.444,0.0,13.9,6.7,4.9,0.0,10.8,0.0,16.1,90.0,106.0,-0.5,Kent Bazemore,,ATL,True,True
+korveky01,32.78333333333333,0.5,0.5,0.6,0.0,0.0,17.4,8.4,15.6,0.0,10.8,28.6,21.0,75.0,104.0,-1.4,Kyle Korver,,ATL,True,True
+sefolth01,32.733333333333334,0.333,0.333,0.333,0.0,0.0,20.9,10.1,4.7,6.7,0.0,14.3,10.5,63.0,93.0,-3.9,Thabo Sefolosha,,ATL,True,True
+muscami01,30.25,0.847,0.833,0.333,0.111,7.1,7.6,7.3,0.0,1.8,0.0,17.5,18.6,130.0,110.0,2.3,Mike Muscala,,ATL,True,False
+scottmi01,18.05,0.41,0.25,0.25,0.5,17.7,6.3,12.2,0.0,0.0,0.0,0.0,13.3,112.0,115.0,-7.0,Mike Scott,,ATL,True,False
+princta02,10.516666666666667,0.0,0.0,0.0,0.0,0.0,10.9,5.2,0.0,5.2,0.0,33.3,14.0,0.0,101.0,-19.3,Taurean Waller-Prince,,ATL,True,False
+delanma01,5.733333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,0.0,33.3,25.7,0.0,96.0,-20.8,Malcolm Delaney,,ATL,True,False
+hardati02,1.05,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.8,200.0,118.0,45.5,Tim Hardaway,,ATL,True,False
+humphkr01,,,,,,,,,,,,,,,,,Kris Humphries,Did Not Play,ATL,True,False
+kellyry01,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,ATL,True,False

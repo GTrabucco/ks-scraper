@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+smartma01,35.71666666666667,0.481,0.5,0.364,0.091,2.9,15.6,9.1,32.3,1.5,0.0,14.9,17.0,106.0,110.0,-0.5,Marcus Smart,,BOS,False,True
+bradlav01,35.28333333333333,0.488,0.5,0.222,0.056,3.0,9.5,6.1,9.3,4.5,0.0,17.8,28.7,82.0,106.0,-3.3,Avery Bradley,,BOS,False,True
+horfoal01,33.28333333333333,0.559,0.559,0.471,0.0,3.1,10.1,6.5,30.4,0.0,2.3,5.6,24.4,119.0,114.0,7.4,Al Horford,,BOS,False,True
+johnsam01,28.866666666666667,0.375,0.375,0.125,0.0,14.5,15.5,14.9,14.2,1.8,5.4,11.1,14.0,101.0,106.0,-1.6,Amir Johnson,,BOS,False,True
+crowdja01,26.816666666666666,0.953,0.944,0.444,0.111,0.0,8.3,4.0,19.5,2.0,2.9,24.1,20.9,129.0,108.0,9.0,Jae Crowder,,BOS,False,True
+roziete01,28.55,0.25,0.25,0.167,0.0,7.3,11.7,9.4,14.4,0.0,0.0,0.0,18.9,78.0,114.0,-11.1,Terry Rozier,,BOS,False,False
+olynyke01,22.233333333333334,0.372,0.278,0.778,0.444,9.4,30.1,19.4,12.1,4.7,0.0,8.5,23.8,91.0,97.0,-2.6,Kelly Olynyk,,BOS,False,False
+brownja02,17.733333333333334,0.919,0.9,0.2,0.2,5.9,6.3,6.1,9.3,3.0,0.0,15.5,16.4,148.0,109.0,7.8,Jaylen Brown,,BOS,False,False
+jerebjo01,11.516666666666667,0.0,0.0,1.0,0.0,0.0,9.7,4.7,0.0,0.0,0.0,0.0,3.9,0.0,114.0,-13.2,Jonas Jerebko,,BOS,False,False
+greenge01,,,,,,,,,,,,,,,,,Gerald Green,Did Not Play,BOS,False,False
+jacksde01,,,,,,,,,,,,,,,,,Demetrius Jackson,Did Not Play,BOS,False,False
+youngja01,,,,,,,,,,,,,,,,,James Young,Did Not Play,BOS,False,False
+zellety01,,,,,,,,,,,,,,,,,Tyler Zeller,Did Not Play,BOS,False,False
+westbru01,36.2,0.591,0.577,0.192,0.462,9.3,25.9,17.9,35.5,2.9,0.0,18.3,47.5,109.0,101.0,9.3,Russell Westbrook,,OKC,True,True
+roberan03,32.7,0.286,0.286,0.571,0.0,3.4,12.8,8.2,0.0,1.6,5.1,12.5,11.0,65.0,105.0,-7.6,Andre Roberson,,OKC,True,True
+adamsst01,32.11666666666667,0.784,0.875,0.0,0.625,13.9,13.0,13.4,9.8,1.6,2.6,0.0,14.3,166.0,107.0,10.0,Steven Adams,,OKC,True,True
+sabondo01,16.833333333333332,0.333,0.333,0.333,0.0,6.6,24.8,16.0,8.1,0.0,9.8,14.3,18.7,78.0,101.0,-3.4,Domantas Sabonis,,OKC,True,True
+oladivi01,9.833333333333334,0.0,0.0,0.0,0.0,0.0,31.8,16.5,0.0,0.0,0.0,50.0,18.3,0.0,105.0,-28.3,Victor Oladipo,,OKC,True,True
+morroan01,27.883333333333333,0.25,0.25,0.5,0.0,4.0,0.0,1.9,9.2,3.8,0.0,0.0,12.9,81.0,108.0,-5.7,Anthony Morrow,,OKC,True,False
+kanteen01,24.583333333333332,0.643,0.6,0.2,0.2,13.6,17.0,15.4,13.3,0.0,6.7,0.0,19.9,151.0,106.0,8.8,Enes Kanter,,OKC,True,False
+lauvejo01,20.733333333333334,0.298,0.3,0.3,0.4,10.8,25.2,18.2,13.6,2.5,0.0,7.8,27.6,78.0,102.0,-7.2,Joffrey Lauvergne,,OKC,True,False
+chrisse01,20.55,0.945,1.167,0.333,1.333,0.0,0.0,0.0,13.7,5.1,0.0,0.0,10.4,189.0,105.0,12.0,Semaj Christon,,OKC,True,False
+singlky01,7.033333333333333,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.8,112.0,117.0,-6.9,Kyle Singler,,OKC,True,False
+grantje01,6.35,1.0,1.0,0.0,0.0,0.0,16.4,8.5,0.0,0.0,0.0,0.0,7.1,200.0,111.0,0.6,Jerami Grant,,OKC,True,False
+abrinal01,5.2,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,114.0,-17.2,Álex Abrines,,OKC,True,False
+collini01,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,True,False

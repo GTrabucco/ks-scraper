@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,team_id,is_home,is_starter,note
+roziete01,35.6,1.004,1.0,0.75,0.063,0.0,17.3,9.8,17.0,7.4,0.0,5.7,24.9,174.0,91.0,27.0,Terry Rozier,BOS,False,True,
+horfoal01,31.816666666666666,0.643,0.65,0.1,0.2,0.0,19.3,10.9,39.0,0.0,2.7,8.4,19.0,137.0,105.0,7.2,Al Horford,BOS,False,True,
+tatumja01,27.516666666666666,0.6,0.6,0.2,0.0,0.0,31.3,17.7,5.9,3.8,0.0,23.1,24.0,87.0,96.0,-4.5,Jayson Tatum,BOS,False,True,
+brownja02,25.183333333333334,0.752,0.65,0.3,0.6,0.0,9.8,5.5,6.7,2.1,3.4,24.0,33.6,111.0,101.0,-1.5,Jaylen Brown,BOS,False,True,
+baynear01,24.15,0.75,0.75,0.0,0.0,0.0,25.5,14.4,11.7,0.0,0.0,20.0,10.5,125.0,106.0,-1.5,Aron Baynes,BOS,False,True,
+ojelese01,27.55,0.58,0.667,0.5,0.667,5.8,4.5,5.1,0.0,0.0,0.0,11.4,16.2,101.0,110.0,-6.9,Semi Ojeleye,BOS,False,False,
+monrogr01,20.333333333333332,0.2,0.2,0.0,0.0,7.9,42.4,27.4,13.4,0.0,0.0,16.7,30.0,52.0,102.0,-19.9,Greg Monroe,BOS,False,False,
+larkish01,18.216666666666665,0.773,0.667,0.0,0.667,0.0,0.0,0.0,30.3,2.9,0.0,20.5,13.6,146.0,104.0,4.5,Shane Larkin,BOS,False,False,
+naderab01,12.133333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.3,12.6,0.0,111.0,-20.7,Abdel Nader,BOS,False,False,
+birdja01,8.7,,,,,18.4,0.0,8.0,0.0,0.0,0.0,,0.0,225.0,111.0,-5.1,Jabari Bird,BOS,False,False,
+yabusgu01,8.533333333333333,0.266,0.0,1.0,2.0,0.0,0.0,0.0,28.1,0.0,0.0,0.0,11.2,105.0,111.0,-2.1,Guerschon Yabusele,BOS,False,False,
+allenka01,0.26666666666666666,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,111.0,-6.9,Kadeem Allen,BOS,False,False,
+bogdabo01,34.13333333333333,0.2,0.2,0.5,0.0,0.0,4.7,2.0,12.0,4.6,0.0,0.0,14.0,59.0,109.0,-7.3,Bogdan Bogdanović,SAC,True,True,
+caulewi01,32.65,0.421,0.286,0.0,0.429,7.5,19.6,12.8,18.3,0.0,0.0,10.7,27.3,94.0,118.0,-5.3,Willie Cauley-Stein,SAC,True,True,
+labissk01,29.8,0.543,0.5,0.417,0.167,8.3,16.1,11.7,16.1,0.0,3.2,7.2,22.3,115.0,115.0,3.3,Skal Labissière,SAC,True,True,
+foxde01,26.483333333333334,0.55,0.55,0.3,0.0,0.0,0.0,0.0,6.3,0.0,0.0,23.1,23.5,83.0,119.0,-10.4,De'Aaron Fox,SAC,True,True,
+jacksju01,22.383333333333333,0.5,0.5,0.5,0.0,0.0,7.1,3.1,6.4,0.0,0.0,20.0,10.7,85.0,119.0,-7.5,Justin Jackson,SAC,True,True,
+koufoko01,25.9,1.0,1.0,0.0,0.0,9.5,43.2,24.2,6.1,2.0,0.0,0.0,7.4,205.0,112.0,5.8,Kosta Koufos,SAC,True,False,
+hieldbu01,25.616666666666667,0.622,0.594,0.438,0.125,4.8,31.2,16.3,8.1,6.2,0.0,19.2,39.0,99.0,104.0,8.3,Buddy Hield,SAC,True,False,
+cartevi01,21.516666666666666,0.625,0.625,0.75,0.0,0.0,22.3,9.7,0.0,0.0,0.0,33.3,13.3,76.0,118.0,-9.1,Vince Carter,SAC,True,False,
+masonfr01,21.516666666666666,0.75,0.75,0.125,0.0,0.0,22.3,9.7,36.3,0.0,0.0,11.1,20.0,140.0,118.0,4.3,Frank Mason,SAC,True,False,
+sampsja02,,,,,,,,,,,,,,,,,JaKarr Sampson,SAC,True,False,Did Not Play
+randoza01,,,,,,,,,,,,,,,,,Zach Randolph,SAC,True,False,Did Not Play
+cooleja01,,,,,,,,,,,,,,,,,Jack Cooley,SAC,True,False,Did Not Play
+cabocbr01,,,,,,,,,,,,,,,,,Bruno Caboclo,SAC,True,False,Did Not Play

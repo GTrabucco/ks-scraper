@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+morrimo01,40.8,0.612,0.577,0.231,0.154,4.9,14.3,9.3,34.8,1.3,0.0,6.7,16.6,145.0,117.0,4.2,Monte Morris,,DEN,False,True
+bartowi01,31.416666666666668,0.533,0.5,0.529,0.235,0.0,11.2,5.2,4.9,0.0,0.0,5.1,28.7,108.0,121.0,-4.2,Will Barton,,DEN,False,True
+jokicni01,29.266666666666666,0.393,0.308,0.154,0.615,27.3,32.0,29.5,46.3,0.0,0.0,23.2,33.6,102.0,116.0,-1.9,Nikola Jokić,,DEN,False,True
+beaslma01,28.7,0.786,0.786,0.5,0.0,0.0,8.2,3.8,0.0,3.7,0.0,6.7,23.9,135.0,114.0,9.8,Malik Beasley,,DEN,False,True
+millspa01,20.916666666666668,0.0,0.0,0.5,0.0,4.8,11.2,7.7,10.9,0.0,0.0,33.3,6.5,58.0,120.0,-12.5,Paul Millsap,,DEN,False,True
+craigto01,27.516666666666666,0.4,0.4,0.4,0.0,3.6,17.0,9.8,4.5,0.0,6.3,0.0,8.3,106.0,114.0,-4.9,Torrey Craig,,DEN,False,False
+plumlma01,26.0,0.333,0.333,0.0,0.0,7.7,13.5,10.4,24.1,0.0,10.1,14.3,12.3,106.0,111.0,-1.8,Mason Plumlee,,DEN,False,False
+lylestr01,19.816666666666666,0.731,0.731,0.462,0.0,5.0,29.5,16.3,0.0,0.0,0.0,0.0,29.9,144.0,117.0,9.5,Trey Lyles,,DEN,False,False
+hernaju01,15.566666666666666,0.667,0.667,0.5,0.0,0.0,7.5,3.5,0.0,0.0,11.2,0.0,17.6,132.0,112.0,5.1,Juan Hernangómez,,DEN,False,False
+lydonty01,,,,,,,,,,,,,,,,,Tyler Lydon,Did Not Play,DEN,False,False
+goodwbr01,,,,,,,,,,,,,,,,,Brandon Goodwin,Did Not Play,DEN,False,False
+townska01,37.1,0.675,0.684,0.263,0.474,9.5,24.3,17.4,34.2,2.8,2.3,11.6,32.3,128.0,109.0,15.8,Karl-Anthony Towns,,MIN,True,True
+bayleje01,34.75,0.625,0.625,0.583,0.0,3.4,5.8,4.7,41.0,0.0,0.0,14.3,18.6,128.0,125.0,3.1,Jerryd Bayless,,MIN,True,True
+wiggian01,34.75,0.46,0.4,0.3,0.2,0.0,11.5,6.2,7.6,1.5,2.5,0.0,14.4,103.0,117.0,-4.3,Andrew Wiggins,,MIN,True,True
+gibsota01,22.883333333333333,0.667,0.667,0.0,0.0,5.1,17.5,11.8,0.0,4.6,3.7,0.0,12.1,135.0,107.0,0.5,Taj Gibson,,MIN,True,True
+okogijo01,20.516666666666666,0.41,0.375,0.75,0.5,0.0,4.9,2.6,5.9,0.0,0.0,17.0,13.2,76.0,125.0,-11.5,Josh Okogie,,MIN,True,True
+rosede01,20.416666666666668,0.4,0.4,0.2,0.0,0.0,9.8,5.3,36.1,2.6,0.0,9.1,24.9,93.0,117.0,-2.9,Derrick Rose,,MIN,True,False
+denglu01,20.133333333333333,0.481,0.455,0.455,0.091,5.8,9.9,8.0,0.0,0.0,4.3,0.0,26.2,101.0,121.0,-3.4,Luol Deng,,MIN,True,False
+saricda01,18.783333333333335,0.429,0.429,0.571,0.0,6.2,16.0,11.5,0.0,0.0,0.0,12.5,19.6,80.0,121.0,-9.1,Dario Šarić,,MIN,True,False
+dienggo01,15.033333333333333,0.727,0.667,0.167,0.333,7.8,26.6,17.9,10.9,0.0,0.0,0.0,21.1,154.0,116.0,6.6,Gorgui Dieng,,MIN,True,False
+tollian01,11.283333333333333,1.5,1.5,1.0,0.0,0.0,8.9,4.8,11.3,0.0,0.0,0.0,4.1,275.0,124.0,5.9,Anthony Tolliver,,MIN,True,False
+canaais01,4.35,0.0,0.0,1.0,0.0,0.0,23.0,12.4,0.0,0.0,0.0,0.0,31.8,0.0,118.0,-37.4,Isaiah Canaan,,MIN,True,False
+teaguje01,,,,,,,,,,,,,,,,,Jeff Teague,Did Not Dress,MIN,True,False
+bateske01,,,,,,,,,,,,,,,,,Keita Bates-Diop,Did Not Play,MIN,True,False

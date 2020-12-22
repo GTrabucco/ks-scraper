@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+vucevni01,37.38333333333333,9.0,19.0,0.474,0.0,0.0,,0.0,0.0,,4.0,8.0,12.0,4.0,2.0,1.0,4.0,5.0,18.0,7.0,Nikola Vučević,,ORL,False,True
+harrito02,34.85,4.0,12.0,0.333,2.0,5.0,0.4,3.0,4.0,0.75,2.0,2.0,4.0,1.0,1.0,0.0,2.0,2.0,13.0,8.0,Tobias Harris,,ORL,False,True
+paytoel01,34.266666666666666,6.0,13.0,0.462,0.0,1.0,0.0,2.0,4.0,0.5,1.0,7.0,8.0,5.0,0.0,0.0,2.0,5.0,14.0,7.0,Elfrid Payton,,ORL,False,True
+fournev01,27.933333333333334,4.0,7.0,0.571,1.0,2.0,0.5,3.0,4.0,0.75,0.0,1.0,1.0,3.0,1.0,0.0,1.0,3.0,12.0,3.0,Evan Fournier,,ORL,False,True
+fryech01,16.816666666666666,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,5.0,5.0,1.0,0.0,0.0,1.0,2.0,0.0,10.0,Channing Frye,,ORL,False,True
+nichoan01,31.0,6.0,11.0,0.545,0.0,1.0,0.0,3.0,4.0,0.75,2.0,4.0,6.0,0.0,0.0,0.0,1.0,0.0,15.0,-5.0,Andrew Nicholson,,ORL,False,False
+oladivi01,27.566666666666666,5.0,11.0,0.455,1.0,3.0,0.333,2.0,2.0,1.0,1.0,3.0,4.0,4.0,3.0,2.0,2.0,4.0,13.0,-2.0,Victor Oladipo,,ORL,False,False
+gordoaa01,13.333333333333334,3.0,7.0,0.429,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,2.0,0.0,3.0,7.0,-7.0,Aaron Gordon,,ORL,False,False
+smithja02,10.566666666666666,1.0,1.0,1.0,0.0,0.0,,2.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,4.0,-4.0,Jason Smith,,ORL,False,False
+napiesh01,6.283333333333333,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,-2.0,Shabazz Napier,,ORL,False,False
+dedmode01,,,,,,,,,,,,,,,,,,,,,Dewayne Dedmon,Did Not Play,ORL,False,False
+hezonma01,,,,,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Play,ORL,False,False
+wiggian01,36.25,9.0,15.0,0.6,1.0,3.0,0.333,8.0,11.0,0.727,1.0,3.0,4.0,2.0,0.0,1.0,2.0,3.0,27.0,-5.0,Andrew Wiggins,,MIN,True,True
+rubiori01,26.65,0.0,5.0,0.0,0.0,3.0,0.0,3.0,4.0,0.75,1.0,4.0,5.0,3.0,3.0,0.0,2.0,2.0,3.0,-3.0,Ricky Rubio,,MIN,True,True
+martike02,23.116666666666667,4.0,9.0,0.444,2.0,2.0,1.0,6.0,6.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,16.0,-3.0,Kevin Martin,,MIN,True,True
+townska01,22.2,2.0,11.0,0.182,0.0,1.0,0.0,2.0,4.0,0.5,2.0,4.0,6.0,0.0,1.0,2.0,1.0,3.0,6.0,-9.0,Karl-Anthony Towns,,MIN,True,True
+garneke01,20.416666666666668,1.0,4.0,0.25,0.0,0.0,,2.0,2.0,1.0,2.0,6.0,8.0,0.0,0.0,3.0,2.0,1.0,4.0,-12.0,Kevin Garnett,,MIN,True,True
+dienggo01,29.0,4.0,6.0,0.667,0.0,0.0,,3.0,3.0,1.0,2.0,5.0,7.0,1.0,1.0,3.0,2.0,2.0,11.0,5.0,Gorgui Dieng,,MIN,True,False
+lavinza01,28.5,3.0,11.0,0.273,0.0,5.0,0.0,6.0,6.0,1.0,1.0,4.0,5.0,5.0,1.0,1.0,2.0,1.0,12.0,3.0,Zach LaVine,,MIN,True,False
+bjeline01,24.333333333333332,1.0,5.0,0.2,1.0,3.0,0.333,0.0,0.0,,3.0,5.0,8.0,2.0,1.0,1.0,0.0,3.0,3.0,10.0,Nemanja Bjelica,,MIN,True,False
+muhamsh01,16.6,4.0,9.0,0.444,0.0,2.0,0.0,1.0,2.0,0.5,0.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,9.0,0.0,Shabazz Muhammad,,MIN,True,False
+princta01,12.95,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,-1.0,Tayshaun Prince,,MIN,True,False
+millean02,,,,,,,,,,,,,,,,,,,,,Andre Miller,Did Not Play,MIN,True,False
+paynead01,,,,,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,True,False
+rudezda01,,,,,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,MIN,True,False

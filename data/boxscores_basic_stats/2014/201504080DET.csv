@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bradlav01,34.5,4.0,13.0,0.308,3.0,9.0,0.333,0.0,0.0,,0.0,5.0,5.0,3.0,2.0,0.0,2.0,0.0,11.0,15.0,Avery Bradley,,BOS,False,True
+turneev01,29.133333333333333,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,3.0,1.0,4.0,-18.0,Evan Turner,,BOS,False,True
+smartma01,28.983333333333334,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,0.0,1.0,2.0,0.0,0.0,3.0,3.0,-8.0,Marcus Smart,,BOS,False,True
+zellety01,21.3,2.0,7.0,0.286,0.0,0.0,,2.0,2.0,1.0,2.0,5.0,7.0,0.0,0.0,0.0,3.0,1.0,6.0,6.0,Tyler Zeller,,BOS,False,True
+bassbr01,20.783333333333335,5.0,7.0,0.714,0.0,1.0,0.0,6.0,6.0,1.0,2.0,2.0,4.0,1.0,1.0,0.0,0.0,2.0,16.0,-10.0,Brandon Bass,,BOS,False,True
+thomais02,29.783333333333335,10.0,17.0,0.588,4.0,8.0,0.5,10.0,11.0,0.909,2.0,1.0,3.0,6.0,0.0,0.0,2.0,0.0,34.0,35.0,Isaiah Thomas,,BOS,False,False
+crowdja01,29.75,4.0,8.0,0.5,0.0,1.0,0.0,9.0,9.0,1.0,0.0,6.0,6.0,3.0,2.0,0.0,1.0,1.0,17.0,23.0,Jae Crowder,,BOS,False,False
+olynyke01,18.35,5.0,9.0,0.556,0.0,1.0,0.0,2.0,2.0,1.0,2.0,2.0,4.0,2.0,2.0,0.0,0.0,5.0,12.0,5.0,Kelly Olynyk,,BOS,False,False
+jerebjo01,16.933333333333334,2.0,4.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,0.0,1.0,2.0,0.0,2.0,6.0,11.0,Jonas Jerebko,,BOS,False,False
+sullija01,10.483333333333333,1.0,5.0,0.2,0.0,1.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,-9.0,Jared Sullinger,,BOS,False,False
+datomlu01,,,,,,,,,,,,,,,,,,,,,Luigi Datome,Did Not Play,BOS,False,False
+pressph01,,,,,,,,,,,,,,,,,,,,,Phil Pressey,Did Not Play,BOS,False,False
+wallage01,,,,,,,,,,,,,,,,,,,,,Gerald Wallace,Did Not Play,BOS,False,False
+jacksre01,37.583333333333336,10.0,18.0,0.556,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,15.0,2.0,0.0,7.0,2.0,21.0,10.0,Reggie Jackson,,DET,True,True
+caldwke01,36.63333333333333,3.0,10.0,0.3,2.0,4.0,0.5,2.0,2.0,1.0,0.0,2.0,2.0,3.0,0.0,0.0,2.0,6.0,10.0,-2.0,Kentavious Caldwell-Pope,,DET,True,True
+monrogr01,30.65,9.0,14.0,0.643,0.0,0.0,,1.0,2.0,0.5,5.0,5.0,10.0,1.0,3.0,2.0,3.0,4.0,19.0,21.0,Greg Monroe,,DET,True,True
+drumman01,27.266666666666666,11.0,19.0,0.579,0.0,1.0,0.0,0.0,3.0,0.0,6.0,8.0,14.0,0.0,0.0,1.0,4.0,4.0,22.0,-11.0,Andre Drummond,,DET,True,True
+butleca01,17.3,0.0,5.0,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,5.0,5.0,1.0,0.0,0.0,0.0,1.0,0.0,-1.0,Caron Butler,,DET,True,True
+meeksjo01,29.133333333333333,4.0,4.0,1.0,3.0,3.0,1.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,0.0,1.0,0.0,2.0,13.0,-6.0,Jodie Meeks,,DET,True,False
+princta01,26.433333333333334,7.0,8.0,0.875,1.0,1.0,1.0,0.0,0.0,,0.0,4.0,4.0,3.0,1.0,1.0,2.0,1.0,15.0,-9.0,Tayshaun Prince,,DET,True,False
+tollian01,19.183333333333334,1.0,4.0,0.25,0.0,3.0,0.0,1.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,4.0,3.0,-17.0,Anthony Tolliver,,DET,True,False
+lucasjo02,10.416666666666666,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,-20.0,John Lucas III,,DET,True,False
+anthojo01,5.4,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,-15.0,Joel Anthony,,DET,True,False
+martica01,,,,,,,,,,,,,,,,,,,,,Cartier Martin,Did Not Play,DET,True,False
+millequ01,,,,,,,,,,,,,,,,,,,,,Quincy Miller,Did Not Play,DET,True,False
+willish03,,,,,,,,,,,,,,,,,,,,,Shawne Williams,Did Not Play,DET,True,False

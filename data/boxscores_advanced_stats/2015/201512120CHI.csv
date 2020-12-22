@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+davisan02,41.6,0.393,0.333,0.083,0.375,0.0,34.9,16.9,7.5,1.2,8.0,12.5,35.5,71.0,95.0,-5.1,Anthony Davis,,NOP,False,True
+geeal01,37.43333333333333,0.75,0.75,0.167,0.0,2.8,11.9,7.2,7.4,6.7,0.0,14.3,8.6,127.0,94.0,4.0,Alonzo Gee,,NOP,False,True
+evansty01,36.03333333333333,0.5,0.5,0.273,0.0,2.9,6.2,4.5,39.9,0.0,0.0,4.3,29.5,104.0,111.0,2.1,Tyreke Evans,,NOP,False,True
+gordoer01,34.28333333333333,0.441,0.4,0.4,0.133,0.0,0.0,0.0,8.5,1.5,0.0,5.9,22.8,84.0,109.0,-6.3,Eric Gordon,,NOP,False,True
+ajincal01,26.066666666666666,0.429,0.429,0.0,0.0,8.0,17.1,12.4,10.7,0.0,6.3,12.5,14.2,91.0,103.0,-4.1,Alexis Ajinça,,NOP,False,True
+coleno01,20.666666666666668,0.556,0.556,0.0,0.0,0.0,32.4,15.7,49.1,0.0,0.0,10.0,22.4,112.0,105.0,4.9,Norris Cole,,NOP,False,False
+cunnida01,17.366666666666667,1.5,1.5,1.0,0.0,0.0,6.4,3.1,0.0,0.0,0.0,0.0,2.7,300.0,110.0,-5.9,Dante Cunningham,,NOP,False,False
+smithis01,13.216666666666667,0.5,0.5,0.0,0.0,0.0,25.3,12.2,20.0,3.8,0.0,0.0,7.0,122.0,98.0,-0.2,Ish Smith,,NOP,False,False
+asikom01,12.533333333333333,1.0,1.0,0.0,0.0,8.3,26.7,17.2,26.9,4.0,0.0,0.0,11.1,204.0,97.0,12.6,Ömer Aşık,,NOP,False,False
+perkike01,0.7833333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,59.0,0.0,112.0,-69.8,Kendrick Perkins,,NOP,False,False
+babbilu01,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,NOP,False,False
+douglto01,,,,,,,,,,,,,,,,,Toney Douglas,Did Not Play,NOP,False,False
+holidjr01,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Play,NOP,False,False
+butleji01,38.35,0.376,0.25,0.063,0.563,0.0,8.2,4.2,0.0,2.6,1.7,4.8,25.3,76.0,96.0,-7.0,Jimmy Butler,,CHI,True,True
+gasolpa01,31.183333333333334,0.486,0.4,0.067,0.533,7.2,30.1,19.0,13.0,0.0,0.0,13.9,31.9,93.0,100.0,-4.1,Pau Gasol,,CHI,True,True
+rosede01,28.716666666666665,0.414,0.4,0.0,0.2,0.0,10.9,5.6,19.1,1.7,0.0,8.4,19.1,86.0,100.0,-4.6,Derrick Rose,,CHI,True,True
+gibsota01,17.166666666666668,0.515,0.333,0.0,0.667,6.5,30.4,18.9,0.0,2.9,0.0,20.5,13.2,95.0,94.0,-3.1,Taj Gibson,,CHI,True,True
+snellto01,16.0,0.0,0.0,1.0,0.0,0.0,6.5,3.4,9.1,3.1,4.1,50.0,11.6,13.0,92.0,-7.1,Tony Snell,,CHI,True,True
+noahjo01,29.55,0.868,0.75,0.0,1.0,11.3,21.2,16.4,11.6,0.0,8.9,0.0,9.0,191.0,90.0,8.6,Joakim Noah,,CHI,True,False
+mcderdo01,27.533333333333335,0.6,0.6,0.6,0.0,0.0,7.6,3.9,14.4,0.0,0.0,16.7,20.2,100.0,104.0,-1.2,Doug McDermott,,CHI,True,False
+brookaa01,18.866666666666667,0.715,0.682,0.545,0.182,0.0,5.5,2.9,43.0,0.0,0.0,7.8,31.6,134.0,104.0,12.0,Aaron Brooks,,CHI,True,False
+mirotni01,18.1,0.727,0.667,0.5,0.333,6.2,51.9,29.8,21.2,0.0,0.0,0.0,17.6,156.0,98.0,12.5,Nikola Mirotić,,CHI,True,False
+hinriki01,14.533333333333333,1.5,1.5,1.0,0.0,0.0,14.4,7.4,22.2,3.4,0.0,66.7,9.5,95.0,96.0,3.3,Kirk Hinrich,,CHI,True,False
+bairsca01,,,,,,,,,,,,,,,,,Cameron Bairstow,Did Not Play,CHI,True,False
+mooreet01,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,CHI,True,False
+portibo01,,,,,,,,,,,,,,,,,Bobby Portis,Did Not Play,CHI,True,False

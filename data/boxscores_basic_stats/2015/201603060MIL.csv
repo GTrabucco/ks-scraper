@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,40.266666666666666,6.0,14.0,0.429,4.0,9.0,0.444,16.0,18.0,0.889,1.0,12.0,13.0,8.0,2.0,1.0,5.0,2.0,32.0,10.0,Kevin Durant,,OKC,False,True
+westbru01,38.833333333333336,3.0,7.0,0.429,1.0,3.0,0.333,8.0,11.0,0.727,2.0,8.0,10.0,11.0,1.0,1.0,7.0,4.0,15.0,15.0,Russell Westbrook,,OKC,False,True
+ibakase01,35.46666666666667,5.0,12.0,0.417,1.0,4.0,0.25,2.0,4.0,0.5,1.0,2.0,3.0,0.0,0.0,2.0,2.0,2.0,13.0,13.0,Serge Ibaka,,OKC,False,True
+adamsst01,28.216666666666665,6.0,13.0,0.462,0.0,0.0,,2.0,4.0,0.5,5.0,4.0,9.0,4.0,0.0,0.0,1.0,2.0,14.0,13.0,Steven Adams,,OKC,False,True
+roberan03,10.1,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,1.0,0.0,4.0,3.0,3.0,Andre Roberson,,OKC,False,True
+waitedi01,28.9,1.0,8.0,0.125,0.0,3.0,0.0,0.0,0.0,,0.0,3.0,3.0,2.0,1.0,1.0,2.0,4.0,2.0,-6.0,Dion Waiters,,OKC,False,False
+singlky01,23.216666666666665,3.0,7.0,0.429,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,7.0,3.0,Kyle Singler,,OKC,False,False
+kanteen01,19.5,7.0,9.0,0.778,0.0,1.0,0.0,4.0,5.0,0.8,4.0,8.0,12.0,0.0,0.0,1.0,2.0,1.0,18.0,-6.0,Enes Kanter,,OKC,False,False
+foyera01,15.45,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,1.0,0.0,1.0,2.0,0.0,0.0,1.0,3.0,0.0,-7.0,Randy Foye,,OKC,False,False
+morroan01,0.05,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Anthony Morrow,,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+mohamna01,,,,,,,,,,,,,,,,,,,,,Nazr Mohammed,Did Not Play,OKC,False,False
+payneca01,,,,,,,,,,,,,,,,,,,,,Cameron Payne,Did Not Play,OKC,False,False
+antetgi01,42.43333333333333,8.0,20.0,0.4,0.0,2.0,0.0,10.0,11.0,0.909,2.0,10.0,12.0,10.0,3.0,4.0,2.0,3.0,26.0,-9.0,Giannis Antetokounmpo,,MIL,True,True
+middlkh01,39.9,6.0,19.0,0.316,2.0,6.0,0.333,4.0,4.0,1.0,1.0,4.0,5.0,3.0,5.0,0.0,2.0,5.0,18.0,-6.0,Khris Middleton,,MIL,True,True
+parkeja01,35.916666666666664,12.0,23.0,0.522,0.0,2.0,0.0,2.0,3.0,0.667,0.0,5.0,5.0,4.0,2.0,1.0,1.0,3.0,26.0,10.0,Jabari Parker,,MIL,True,True
+mayooj01,24.45,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,3.0,0.0,1.0,5.0,0.0,-20.0,O.J. Mayo,,MIL,True,True
+plumlmi01,17.516666666666666,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,0.0,0.0,1.0,1.0,1.0,2.0,-10.0,Miles Plumlee,,MIL,True,True
+bayleje01,31.533333333333335,2.0,4.0,0.5,1.0,3.0,0.333,7.0,8.0,0.875,2.0,4.0,6.0,1.0,0.0,0.0,2.0,4.0,12.0,-4.0,Jerryd Bayless,,MIL,True,False
+monrogr01,30.483333333333334,4.0,10.0,0.4,0.0,0.0,,1.0,2.0,0.5,6.0,4.0,10.0,2.0,2.0,0.0,1.0,1.0,9.0,2.0,Greg Monroe,,MIL,True,False
+vaughra01,10.683333333333334,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,-1.0,Rashad Vaughn,,MIL,True,False
+ennisty01,7.083333333333333,1.0,5.0,0.2,0.0,1.0,0.0,1.0,2.0,0.5,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,-2.0,Tyler Ennis,,MIL,True,False
+cartemi01,,,,,,,,,,,,,,,,,,,,,Michael Carter-Williams,Did Not Dress,MIL,True,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Did Not Dress,MIL,True,False
+inglida01,,,,,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,True,False
+obryajo01,,,,,,,,,,,,,,,,,,,,,Johnny O'Bryant,Did Not Play,MIL,True,False

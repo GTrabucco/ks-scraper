@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+zellety01,36.1,5.0,13.0,0.385,0.0,0.0,,2.0,3.0,0.667,2.0,4.0,6.0,0.0,0.0,1.0,1.0,1.0,12.0,-2.0,Tyler Zeller,,BOS,False,True
+turneev01,31.783333333333335,4.0,8.0,0.5,1.0,2.0,0.5,1.0,2.0,0.5,2.0,6.0,8.0,4.0,1.0,0.0,3.0,2.0,10.0,0.0,Evan Turner,,BOS,False,True
+bassbr01,29.75,7.0,11.0,0.636,0.0,0.0,,4.0,6.0,0.667,2.0,4.0,6.0,3.0,2.0,0.0,1.0,3.0,18.0,12.0,Brandon Bass,,BOS,False,True
+bradlav01,29.366666666666667,8.0,14.0,0.571,3.0,4.0,0.75,4.0,4.0,1.0,1.0,3.0,4.0,3.0,6.0,0.0,2.0,3.0,23.0,6.0,Avery Bradley,,BOS,False,True
+smartma01,23.7,2.0,7.0,0.286,1.0,4.0,0.25,3.0,4.0,0.75,0.0,2.0,2.0,3.0,1.0,0.0,1.0,1.0,8.0,-16.0,Marcus Smart,,BOS,False,True
+crowdja01,28.5,4.0,13.0,0.308,4.0,9.0,0.444,0.0,0.0,,0.0,7.0,7.0,4.0,2.0,0.0,0.0,0.0,12.0,3.0,Jae Crowder,,BOS,False,False
+thomais02,27.2,6.0,16.0,0.375,3.0,8.0,0.375,6.0,7.0,0.857,0.0,1.0,1.0,7.0,1.0,0.0,5.0,1.0,21.0,21.0,Isaiah Thomas,,BOS,False,False
+youngja01,18.633333333333333,2.0,3.0,0.667,1.0,1.0,1.0,3.0,4.0,0.75,1.0,4.0,5.0,1.0,0.0,0.0,0.0,2.0,8.0,-1.0,James Young,,BOS,False,False
+wallage01,14.983333333333333,1.0,4.0,0.25,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,2.0,1.0,3.0,2.0,Gerald Wallace,,BOS,False,False
+datomlu01,,,,,,,,,,,,,,,,,,,,,Luigi Datome,Did Not Play,BOS,False,False
+jerebjo01,,,,,,,,,,,,,,,,,,,,,Jonas Jerebko,Did Not Play,BOS,False,False
+pressph01,,,,,,,,,,,,,,,,,,,,,Phil Pressey,Did Not Play,BOS,False,False
+randosh01,,,,,,,,,,,,,,,,,,,,,Shavlik Randolph,Did Not Play,BOS,False,False
+bledser01,39.333333333333336,8.0,18.0,0.444,2.0,5.0,0.4,3.0,4.0,0.75,2.0,5.0,7.0,10.0,2.0,1.0,6.0,3.0,21.0,0.0,Eric Bledsoe,,PHO,True,True
+tuckepj01,35.233333333333334,4.0,10.0,0.4,0.0,3.0,0.0,5.0,5.0,1.0,3.0,9.0,12.0,0.0,2.0,0.0,4.0,4.0,13.0,2.0,P.J. Tucker,,PHO,True,True
+knighbr03,33.733333333333334,8.0,19.0,0.421,4.0,11.0,0.364,0.0,0.0,,1.0,0.0,1.0,4.0,0.0,0.0,4.0,6.0,20.0,-8.0,Brandon Knight,,PHO,True,True
+lenal01,31.65,5.0,7.0,0.714,0.0,0.0,,0.0,0.0,,1.0,11.0,12.0,0.0,0.0,6.0,0.0,2.0,10.0,-3.0,Alex Len,,PHO,True,True
+morrima02,30.05,3.0,9.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,6.0,3.0,0.0,0.0,2.0,7.0,-3.0,Markieff Morris,,PHO,True,True
+morrima03,18.483333333333334,2.0,8.0,0.25,1.0,5.0,0.2,0.0,0.0,,0.0,3.0,3.0,2.0,2.0,0.0,1.0,1.0,5.0,-2.0,Marcus Morris,,PHO,True,False
+wrighbr03,17.016666666666666,4.0,5.0,0.8,0.0,0.0,,3.0,3.0,1.0,2.0,3.0,5.0,1.0,0.0,0.0,0.0,1.0,11.0,-1.0,Brandan Wright,,PHO,True,False
+goodwar01,13.933333333333334,4.0,10.0,0.4,1.0,2.0,0.5,1.0,2.0,0.5,4.0,0.0,4.0,1.0,0.0,0.0,1.0,3.0,10.0,3.0,Archie Goodwin,,PHO,True,False
+warretj01,8.666666666666666,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,8.0,-7.0,T.J. Warren,,PHO,True,False
+thornma01,8.0,1.0,5.0,0.2,0.0,3.0,0.0,1.0,2.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,-7.0,Marcus Thornton,,PHO,True,False
+barroea01,3.9166666666666665,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,Earl Barron,,PHO,True,False
+bullore01,,,,,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Play,PHO,True,False
+greenge01,,,,,,,,,,,,,,,,,,,,,Gerald Green,Did Not Play,PHO,True,False

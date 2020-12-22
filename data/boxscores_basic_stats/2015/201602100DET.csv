@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gallida01,38.81666666666667,3.0,14.0,0.214,1.0,5.0,0.2,8.0,9.0,0.889,1.0,6.0,7.0,4.0,2.0,0.0,2.0,2.0,15.0,15.0,Danilo Gallinari,,DEN,False,True
+harriga01,36.4,4.0,11.0,0.364,1.0,3.0,0.333,2.0,2.0,1.0,0.0,2.0,2.0,4.0,2.0,0.0,1.0,1.0,11.0,0.0,Gary Harris,,DEN,False,True
+mudiaem01,33.983333333333334,6.0,12.0,0.5,1.0,3.0,0.333,1.0,3.0,0.333,0.0,4.0,4.0,6.0,2.0,1.0,2.0,1.0,14.0,15.0,Emmanuel Mudiay,,DEN,False,True
+jokicni01,24.916666666666668,2.0,7.0,0.286,0.0,1.0,0.0,1.0,1.0,1.0,0.0,6.0,6.0,2.0,1.0,0.0,1.0,0.0,5.0,5.0,Nikola Jokić,,DEN,False,True
+farieke01,18.383333333333333,6.0,9.0,0.667,0.0,0.0,,0.0,1.0,0.0,2.0,4.0,6.0,1.0,0.0,0.0,2.0,4.0,12.0,-1.0,Kenneth Faried,,DEN,False,True
+nurkiju01,24.233333333333334,8.0,12.0,0.667,0.0,1.0,0.0,0.0,0.0,,3.0,8.0,11.0,2.0,1.0,1.0,3.0,3.0,16.0,2.0,Jusuf Nurkić,,DEN,False,False
+bartowi01,21.633333333333333,7.0,12.0,0.583,1.0,3.0,0.333,5.0,6.0,0.833,1.0,4.0,5.0,2.0,2.0,1.0,1.0,0.0,20.0,7.0,Will Barton,,DEN,False,False
+lauvejo01,20.916666666666668,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,1.0,3.0,4.0,2.0,0.0,0.0,0.0,0.0,4.0,6.0,Joffrey Lauvergne,,DEN,False,False
+foyera01,20.716666666666665,2.0,4.0,0.5,2.0,3.0,0.667,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,0.0,2.0,6.0,6.0,Randy Foye,,DEN,False,False
+arthuda01,,,,,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,False,False
+hicksjj01,,,,,,,,,,,,,,,,,,,,,J.J. Hickson,Did Not Play,DEN,False,False
+millemi01,,,,,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,DEN,False,False
+drumman01,39.45,7.0,22.0,0.318,0.0,1.0,0.0,1.0,1.0,1.0,5.0,12.0,17.0,2.0,3.0,5.0,1.0,3.0,15.0,-8.0,Andre Drummond,,DET,True,True
+johnsst04,36.8,5.0,16.0,0.313,0.0,4.0,0.0,1.0,1.0,1.0,1.0,4.0,5.0,5.0,0.0,0.0,4.0,5.0,11.0,-17.0,Stanley Johnson,,DET,True,True
+tollian01,35.266666666666666,2.0,7.0,0.286,2.0,6.0,0.333,0.0,0.0,,1.0,6.0,7.0,1.0,2.0,1.0,1.0,2.0,6.0,-15.0,Anthony Tolliver,,DET,True,True
+morrima03,34.8,8.0,15.0,0.533,1.0,2.0,0.5,2.0,2.0,1.0,0.0,2.0,2.0,6.0,0.0,0.0,2.0,2.0,19.0,-8.0,Marcus Morris,,DET,True,True
+jennibr01,29.316666666666666,6.0,12.0,0.5,4.0,8.0,0.5,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,2.0,2.0,16.0,-11.0,Brandon Jennings,,DET,True,True
+hillida01,26.616666666666667,3.0,6.0,0.5,1.0,2.0,0.5,2.0,3.0,0.667,0.0,1.0,1.0,6.0,0.0,0.0,2.0,1.0,9.0,1.0,Darrun Hilliard,,DET,True,False
+baynear01,19.066666666666666,5.0,7.0,0.714,0.0,1.0,0.0,0.0,0.0,,0.0,7.0,7.0,0.0,0.0,2.0,1.0,1.0,10.0,3.0,Aron Baynes,,DET,True,False
+blakest01,18.683333333333334,2.0,3.0,0.667,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,6.0,0.0,Steve Blake,,DET,True,False
+anthojo01,,,,,,,,,,,,,,,,,,,,,Joel Anthony,Did Not Play,DET,True,False
+bullore01,,,,,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Dress,DET,True,False
+caldwke01,,,,,,,,,,,,,,,,,,,,,Kentavious Caldwell-Pope,Did Not Dress,DET,True,False
+ilyaser01,,,,,,,,,,,,,,,,,,,,,Ersan İlyasova,Did Not Dress,DET,True,False
+jacksre01,,,,,,,,,,,,,,,,,,,,,Reggie Jackson,Did Not Dress,DET,True,False

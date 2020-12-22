@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gordoaa01,35.81666666666667,0.607,0.65,0.3,0.35,13.4,31.9,22.9,9.8,0.0,2.4,11.5,32.3,108.0,108.0,3.7,Aaron Gordon,,ORL,False,True
+simmojo02,34.75,0.521,0.417,0.333,1.0,6.9,9.9,8.4,24.6,1.4,0.0,31.6,16.1,101.0,111.0,-3.5,Jonathon Simmons,,ORL,False,True
+vucevni01,34.733333333333334,0.651,0.639,0.222,0.056,6.9,32.9,20.2,30.9,0.0,5.0,5.1,24.8,133.0,106.0,9.9,Nikola Vučević,,ORL,False,True
+augusdj01,30.8,0.414,0.35,0.4,0.2,0.0,3.7,1.9,33.4,0.0,0.0,15.5,18.5,99.0,115.0,-6.1,D.J. Augustin,,ORL,False,True
+fournev01,19.3,0.917,0.917,0.167,0.0,0.0,11.8,6.1,16.8,2.5,0.0,0.0,13.8,180.0,108.0,9.7,Evan Fournier,,ORL,False,True
+hezonma01,25.383333333333333,0.398,0.35,0.7,0.3,0.0,9.0,4.6,0.0,0.0,3.4,0.0,19.8,83.0,111.0,-9.6,Mario Hezonja,,ORL,False,False
+macksh01,19.4,0.643,0.643,0.571,0.0,0.0,11.8,6.0,14.3,0.0,0.0,30.0,22.8,86.0,114.0,-7.9,Shelvin Mack,,ORL,False,False
+isaacjo01,13.583333333333334,0.5,0.5,0.0,0.0,0.0,16.8,8.6,9.2,7.2,0.0,33.3,9.8,76.0,97.0,-4.3,Jonathan Isaac,,ORL,False,False
+biyombi01,13.266666666666667,0.5,0.5,0.0,0.0,0.0,25.8,13.2,28.3,0.0,0.0,33.3,10.0,102.0,112.0,2.4,Bismack Biyombo,,ORL,False,False
+afflaar01,6.716666666666667,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.6,200.0,116.0,-3.5,Arron Afflalo,,ORL,False,False
+iwundwe01,6.266666666666667,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,7.8,0.0,33.3,21.2,58.0,98.0,-11.1,Wesley Iwundu,,ORL,False,False
+speigma01,,,,,,,,,,,,,,,,,Marreese Speights,Did Not Play,ORL,False,False
+birchkh01,,,,,,,,,,,,,,,,,Khem Birch,Did Not Play,ORL,False,False
+kuzmaky01,42.05,0.608,0.594,0.25,0.063,5.4,22.8,13.9,3.5,3.5,2.0,10.8,19.6,110.0,102.0,1.5,Kyle Kuzma,,LAL,True,True
+caldwke01,38.71666666666667,0.635,0.571,0.714,0.286,0.0,6.2,3.0,9.5,0.0,0.0,11.3,10.3,121.0,114.0,-3.8,Kentavious Caldwell-Pope,,LAL,True,True
+balllo01,37.18333333333333,0.5,0.5,0.813,0.0,3.1,16.1,9.4,18.3,2.6,4.6,15.8,22.9,94.0,103.0,1.1,Lonzo Ball,,LAL,True,True
+lopezbr01,34.5,0.715,0.694,0.222,0.111,0.0,0.0,0.0,15.9,1.4,0.0,9.6,27.1,126.0,112.0,3.7,Brook Lopez,,LAL,True,True
+randlju01,30.166666666666668,0.524,0.545,0.0,0.091,7.6,35.8,21.3,14.3,0.0,0.0,14.9,19.9,101.0,109.0,-4.4,Julius Randle,,LAL,True,True
+thomais02,25.916666666666668,0.542,0.542,0.5,0.0,4.4,9.3,6.8,49.4,0.0,0.0,14.3,24.2,116.0,114.0,2.9,Isaiah Thomas,,LAL,True,False
+zubaciv01,13.5,0.521,0.25,0.0,1.0,8.5,35.6,21.7,18.0,0.0,0.0,0.0,19.1,132.0,110.0,3.8,Ivica Zubac,,LAL,True,False
+carusal01,13.433333333333334,0.694,0.5,0.5,1.0,0.0,17.9,8.7,9.1,3.6,0.0,41.0,16.3,88.0,105.0,-3.8,Alex Caruso,,LAL,True,False
+bryanth01,2.9833333333333334,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,116.0,-7.1,Thomas Bryant,,LAL,True,False
+weartr01,1.55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57.7,0.0,110.0,-74.0,Travis Wear,,LAL,True,False
+ennisty01,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,LAL,True,False
+denglu01,,,,,,,,,,,,,,,,,Luol Deng,Did Not Play,LAL,True,False

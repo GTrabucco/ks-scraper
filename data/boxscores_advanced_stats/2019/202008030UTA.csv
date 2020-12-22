@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+davisan02,38.81666666666667,0.607,0.536,0.286,0.536,3.2,33.2,18.5,19.8,3.5,3.1,2.8,40.2,122.0,96.0,14.4,Anthony Davis,,LAL,False,True
+jamesle01,34.88333333333333,0.652,0.625,0.313,0.125,3.5,23.5,13.8,43.3,2.6,3.4,19.2,26.2,117.0,100.0,8.8,LeBron James,,LAL,False,True
+caldwke01,29.083333333333332,0.672,0.643,0.429,0.143,0.0,16.1,8.3,4.8,3.2,0.0,11.8,12.7,115.0,102.0,1.7,Kentavious Caldwell-Pope,,LAL,False,True
+greenda02,21.183333333333334,0.571,0.571,0.143,0.0,5.8,11.1,8.5,0.0,4.3,0.0,22.2,18.6,87.0,100.0,-1.6,Danny Green,,LAL,False,True
+mcgeeja01,13.833333333333334,0.0,0.0,0.0,0.0,0.0,8.5,4.3,0.0,0.0,0.0,0.0,3.2,0.0,111.0,-8.7,JaVale McGee,,LAL,False,True
+kuzmaky01,24.833333333333332,0.654,0.667,0.5,0.333,0.0,4.7,2.4,5.5,0.0,0.0,0.0,12.1,128.0,111.0,-2.0,Kyle Kuzma,,LAL,False,False
+carusal01,22.566666666666666,0.387,0.333,0.333,0.667,0.0,15.6,8.0,27.4,0.0,0.0,0.0,7.5,120.0,109.0,-2.5,Alex Caruso,,LAL,False,False
+waitedi01,18.783333333333335,0.478,0.333,0.333,0.5,0.0,0.0,0.0,21.4,4.9,0.0,35.3,26.4,73.0,101.0,-7.3,Dion Waiters,,LAL,False,False
+howardw01,17.1,0.955,1.0,0.0,1.0,7.2,27.4,17.5,0.0,2.7,7.0,14.8,17.3,161.0,97.0,8.9,Dwight Howard,,LAL,False,False
+smithjr01,14.0,0.515,0.333,0.667,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.1,107.0,112.0,-4.4,J.R. Smith,,LAL,False,False
+dudleja01,2.8833333333333333,0.0,0.0,1.0,0.0,0.0,40.6,20.8,0.0,0.0,0.0,0.0,15.2,0.0,105.0,-16.7,Jared Dudley,,LAL,False,False
+cookqu01,2.0,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,21.9,0.0,112.0,-27.6,Quinn Cook,,LAL,False,False
+morrima02,,,,,,,,,,,,,,,,,Markieff Morris,Did Not Play,LAL,False,False
+mitchdo01,35.233333333333334,0.605,0.5,0.455,0.545,0.0,17.5,8.5,22.0,0.0,0.0,12.8,37.1,110.0,115.0,3.2,Donovan Mitchell,,UTA,True,True
+inglejo01,35.21666666666667,0.5,0.5,0.8,0.0,0.0,7.0,3.4,19.9,1.3,2.4,54.5,13.0,61.0,111.0,-6.6,Joe Ingles,,UTA,True,True
+conlemi01,34.333333333333336,0.625,0.559,0.529,0.294,0.0,7.2,3.5,43.3,0.0,0.0,13.5,27.0,119.0,116.0,5.5,Mike Conley,,UTA,True,True
+onealro01,33.95,0.357,0.357,0.714,0.0,6.9,39.9,23.0,20.7,5.4,0.0,22.2,11.1,89.0,102.0,5.4,Royce O'Neale,,UTA,True,True
+goberru01,33.6,0.976,1.0,0.0,0.833,7.0,40.3,23.2,10.1,0.0,2.6,19.6,12.7,158.0,111.0,6.5,Rudy Gobert,,UTA,True,True
+clarkjo01,20.45,0.223,0.192,0.692,0.077,0.0,0.0,0.0,0.0,0.0,0.0,6.9,29.5,44.0,117.0,-21.7,Jordan Clarkson,,UTA,True,False
+niangge01,18.166666666666668,0.4,0.4,0.6,0.0,0.0,6.8,3.3,8.3,7.6,0.0,16.7,13.8,72.0,99.0,-0.9,Georges Niang,,UTA,True,False
+bradlto01,14.383333333333333,0.868,1.0,0.0,1.0,24.4,17.1,20.9,0.0,0.0,6.0,0.0,8.4,190.0,110.0,4.2,Tony Bradley,,UTA,True,False
+mudiaem01,9.333333333333334,0.7,0.7,0.4,0.0,0.0,13.2,6.4,0.0,0.0,0.0,28.6,31.3,80.0,116.0,-2.5,Emmanuel Mudiay,,UTA,True,False
+morgaju01,5.316666666666666,1.5,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.9,300.0,116.0,4.9,Juwan Morgan,,UTA,True,False
+davised01,,,,,,,,,,,,,,,,,Ed Davis,Did Not Play,UTA,True,False
+brantja01,,,,,,,,,,,,,,,,,Jarrell Brantley,Did Not Play,UTA,True,False
+tuckera01,,,,,,,,,,,,,,,,,Rayjon Tucker,Did Not Play,UTA,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hardeja01,40.45,0.547,0.395,0.421,0.789,0.0,6.2,3.1,48.9,0.0,2.0,16.3,32.3,115.0,126.0,3.3,James Harden,,HOU,False,True
+arizatr01,38.733333333333334,0.35,0.35,0.5,0.0,3.3,13.0,8.2,4.0,2.6,0.0,23.1,14.3,65.0,119.0,-6.6,Trevor Ariza,,HOU,False,True
+howardw01,35.46666666666667,0.685,0.714,0.0,0.571,17.8,17.8,17.8,19.2,1.4,4.7,25.5,14.1,122.0,118.0,4.1,Dwight Howard,,HOU,False,True
+beverpa01,33.45,0.611,0.438,0.125,0.75,3.8,22.7,13.2,9.3,0.0,4.9,0.0,13.6,148.0,119.0,4.2,Patrick Beverley,,HOU,False,True
+motiedo01,15.366666666666667,0.309,0.3,0.1,0.3,24.7,0.0,12.3,12.2,0.0,0.0,15.0,37.0,73.0,129.0,-17.9,Donatas Motiejūnas,,HOU,False,True
+terryja01,29.7,0.732,0.688,0.625,0.25,0.0,8.5,4.3,0.0,0.0,0.0,0.0,12.8,155.0,126.0,1.9,Jason Terry,,HOU,False,False
+smithjo03,18.016666666666666,0.9,0.9,0.8,0.0,0.0,7.0,3.5,9.9,2.8,0.0,28.6,16.6,116.0,120.0,4.3,Josh Smith,,HOU,False,False
+beaslmi01,11.883333333333333,0.53,0.556,0.0,0.111,10.6,42.5,26.6,0.0,0.0,0.0,24.1,44.7,77.0,116.0,-11.6,Michael Beasley,,HOU,False,False
+breweco01,9.616666666666667,0.532,0.0,0.0,2.0,0.0,0.0,0.0,14.3,0.0,0.0,34.7,12.8,91.0,128.0,-12.5,Corey Brewer,,HOU,False,False
+capelca01,6.383333333333334,1.0,1.0,0.0,0.0,19.8,19.8,19.8,0.0,0.0,0.0,0.0,6.7,207.0,123.0,5.5,Clint Capela,,HOU,False,False
+mcdankj01,0.95,1.5,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.9,300.0,125.0,89.9,K.J. McDaniels,,HOU,False,False
+harremo01,,,,,,,,,,,,,,,,,Montrezl Harrell,Did Not Play,HOU,False,False
+joneste01,,,,,,,,,,,,,,,,,Terrence Jones,Did Not Play,HOU,False,False
+greendr01,39.06666666666667,0.41,0.333,0.167,0.5,12.9,32.3,22.6,28.0,2.6,2.3,0.0,16.4,127.0,105.0,4.9,Draymond Green,,GSW,True,True
+thompkl01,36.7,0.629,0.475,0.4,0.8,3.4,6.9,5.2,22.1,1.4,0.0,12.9,37.0,127.0,117.0,3.6,Klay Thompson,,GSW,True,True
+barneha02,33.05,0.255,0.1,0.3,0.4,3.8,15.3,9.6,3.8,1.5,2.7,7.8,16.9,70.0,112.0,-12.6,Harrison Barnes,,GSW,True,True
+livinsh01,28.716666666666665,0.743,0.778,0.0,0.444,4.4,4.4,4.4,35.4,3.5,0.0,15.7,19.4,136.0,113.0,8.1,Shaun Livingston,,GSW,True,True
+bogutan01,27.133333333333333,0.727,0.833,0.0,0.333,23.3,9.3,16.3,11.4,1.9,9.8,22.5,14.3,125.0,110.0,4.5,Andrew Bogut,,GSW,True,True
+iguodan01,32.61666666666667,0.827,0.9,0.6,0.2,0.0,11.6,5.8,14.9,3.1,2.7,8.4,15.9,145.0,110.0,11.1,Andre Iguodala,,GSW,True,False
+barbole01,12.983333333333333,0.6,0.6,0.4,0.0,0.0,0.0,0.0,12.8,3.9,0.0,16.7,20.2,103.0,114.0,-3.3,Leandro Barbosa,,GSW,True,False
+rushbr01,12.9,0.0,0.0,1.0,0.0,0.0,19.6,9.8,0.0,0.0,0.0,0.0,3.4,0.0,116.0,-11.8,Brandon Rush,,GSW,True,False
+speigma01,10.95,0.75,0.75,0.167,0.0,11.5,11.5,11.5,19.5,0.0,0.0,14.3,28.0,126.0,118.0,3.1,Marreese Speights,,GSW,True,False
+ezelife01,3.3666666666666667,0.532,0.5,0.0,2.0,0.0,37.5,18.8,0.0,0.0,0.0,0.0,48.9,114.0,110.0,-2.4,Festus Ezeli,,GSW,True,False
+clarkia01,2.5166666666666666,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,121.0,-15.4,Ian Clark,,GSW,True,False
+mcadoja01,,,,,,,,,,,,,,,,,James Michael McAdoo,Did Not Play,GSW,True,False
+varejan01,,,,,,,,,,,,,,,,,Anderson Varejão,Did Not Play,GSW,True,False

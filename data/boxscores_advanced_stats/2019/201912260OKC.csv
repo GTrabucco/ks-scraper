@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+jacksja02,34.55,0.526,0.526,0.474,0.0,7.9,5.7,6.6,16.6,2.9,7.3,5.0,26.8,115.0,96.0,5.1,Jaren Jackson,,MEM,False,True
+valanjo01,27.933333333333334,0.823,0.818,0.0,0.364,9.8,7.0,8.2,5.6,0.0,0.0,7.3,22.8,155.0,108.0,4.9,Jonas Valančiūnas,,MEM,False,True
+moranja01,26.433333333333334,0.556,0.556,0.111,0.0,0.0,18.5,10.8,14.8,0.0,0.0,10.0,17.5,112.0,106.0,-4.6,Ja Morant,,MEM,False,True
+crowdja01,25.533333333333335,0.313,0.313,0.625,0.0,5.4,34.5,22.4,4.5,0.0,0.0,11.1,16.3,73.0,102.0,-9.1,Jae Crowder,,MEM,False,True
+brookdi01,25.25,0.41,0.313,0.25,0.5,5.4,3.9,4.5,0.0,2.0,0.0,17.0,21.5,78.0,105.0,-13.1,Dillon Brooks,,MEM,False,True
+jonesty01,21.566666666666666,1.071,1.071,0.571,0.0,0.0,9.1,5.3,13.6,0.0,0.0,22.2,19.3,149.0,108.0,8.4,Tyus Jones,,MEM,False,False
+meltode01,20.2,0.605,0.571,0.0,0.143,6.8,33.9,22.6,26.0,4.9,0.0,35.0,26.2,95.0,92.0,1.8,De'Anthony Melton,,MEM,False,False
+clarkbr01,19.283333333333335,0.945,1.0,0.333,0.333,0.0,20.3,11.9,14.8,2.6,4.4,22.5,21.3,136.0,96.0,13.4,Brandon Clarke,,MEM,False,False
+hillso01,14.233333333333333,0.333,0.333,0.333,0.0,0.0,34.4,20.1,7.9,0.0,17.7,25.0,13.0,64.0,87.0,1.6,Solomon Hill,,MEM,False,False
+allengr01,12.816666666666666,0.833,0.833,0.333,0.0,0.0,0.0,0.0,9.7,0.0,0.0,0.0,10.8,170.0,110.0,3.5,Grayson Allen,,MEM,False,False
+anderky01,12.2,0.333,0.333,0.0,0.0,11.2,40.1,28.1,65.5,0.0,6.9,0.0,11.4,148.0,95.0,20.2,Kyle Anderson,,MEM,False,False
+cabocbr01,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,MEM,False,False
+gudurma01,,,,,,,,,,,,,,,,,Marko Guduric,Did Not Play,MEM,False,False
+gilgesh01,37.13333333333333,0.506,0.447,0.316,0.211,0.0,11.1,4.6,4.7,4.0,0.0,4.6,26.4,97.0,113.0,-0.1,Shai Gilgeous-Alexander,,OKC,True,True
+fergute01,34.983333333333334,0.5,0.5,1.0,0.0,2.8,7.8,4.9,7.8,1.4,0.0,14.3,9.0,97.0,119.0,-5.2,Terrance Ferguson,,OKC,True,True
+paulch01,33.75,0.705,0.667,0.267,0.2,0.0,24.4,10.2,62.1,4.4,0.0,15.5,25.7,130.0,110.0,13.1,Chris Paul,,OKC,True,True
+adamsst01,27.566666666666666,0.68,0.7,0.0,0.4,7.1,19.9,12.4,27.0,1.8,3.0,0.0,19.2,146.0,114.0,9.8,Steven Adams,,OKC,True,True
+bazleda01,18.533333333333335,0.3,0.3,0.8,0.0,0.0,29.6,12.3,0.0,0.0,0.0,16.7,14.6,49.0,119.0,-14.2,Darius Bazley,,OKC,True,True
+schrode01,32.483333333333334,0.457,0.429,0.333,0.095,0.0,12.7,5.3,16.9,1.5,0.0,12.1,34.4,83.0,119.0,-4.8,Dennis Schröder,,OKC,True,False
+naderab01,16.783333333333335,0.333,0.333,0.556,0.0,0.0,16.3,6.8,8.9,0.0,0.0,0.0,24.1,71.0,121.0,-8.5,Abdel Nader,,OKC,True,False
+noelne01,16.55,0.5,0.5,0.0,0.0,11.8,8.3,10.4,8.3,6.0,14.7,0.0,5.4,142.0,97.0,4.6,Nerlens Noel,,OKC,True,False
+muscami01,11.466666666666667,0.0,0.0,1.0,0.0,8.5,23.9,15.0,0.0,0.0,0.0,0.0,7.8,36.0,120.0,-14.1,Mike Muscala,,OKC,True,False
+burtode02,9.45,0.0,0.0,0.5,0.0,10.4,0.0,6.0,0.0,0.0,0.0,0.0,9.5,36.0,124.0,-17.1,Deonte Burton,,OKC,True,False
+herveke01,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.6,0.0,124.0,-38.5,Kevin Hervey,,OKC,True,False
+diallha01,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Dress,OKC,True,False

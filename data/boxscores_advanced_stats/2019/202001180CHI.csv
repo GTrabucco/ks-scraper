@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+garlada01,37.6,0.554,0.536,0.5,0.071,4.4,7.7,6.2,19.7,0.0,0.0,35.7,26.0,83.0,122.0,-12.8,Darius Garland,,CLE,False,True
+thomptr01,36.833333333333336,0.902,0.833,0.0,0.667,4.5,23.7,14.7,7.8,0.0,6.3,39.2,15.1,110.0,114.0,-1.6,Tristan Thompson,,CLE,False,True
+loveke01,34.1,0.653,0.6,0.4,0.25,0.0,21.3,11.4,32.6,1.4,2.3,8.3,30.9,133.0,116.0,6.6,Kevin Love,,CLE,False,True
+sextoco01,33.65,0.727,0.706,0.353,0.118,4.9,25.9,16.1,11.1,0.0,0.0,18.3,28.3,116.0,121.0,-1.8,Collin Sexton,,CLE,False,True
+osmande01,27.866666666666667,1.183,1.2,1.0,0.8,0.0,15.7,8.3,10.4,3.4,0.0,12.9,12.1,194.0,114.0,11.7,Cedi Osman,,CLE,False,True
+nancela02,25.066666666666666,0.667,0.667,0.0,0.0,19.8,11.6,15.4,26.5,3.8,0.0,50.0,10.4,117.0,113.0,2.2,Larry Nance,,CLE,False,False
+mckinal01,20.25,0.615,0.5,0.333,0.5,8.2,35.9,22.9,0.0,0.0,0.0,12.0,17.9,118.0,120.0,-5.8,Alfonzo McKinnie,,CLE,False,False
+exumda01,15.316666666666666,0.266,0.0,0.5,2.0,0.0,0.0,0.0,7.8,0.0,5.1,21.0,13.5,61.0,117.0,-12.8,Dante Exum,,CLE,False,False
+dellama01,9.316666666666666,,,,,0.0,0.0,0.0,51.5,0.0,0.0,100.0,9.4,91.0,123.0,-6.0,Matthew Dellavedova,,CLE,False,False
+cookty01,,,,,,,,,,,,,,,,,Tyler Cook,Did Not Play,CLE,False,False
+wadede01,,,,,,,,,,,,,,,,,Dean Wade,Did Not Play,CLE,False,False
+lavinza01,39.25,0.641,0.645,0.194,0.129,7.4,16.9,11.8,14.8,6.1,5.6,3.0,38.8,125.0,107.0,12.1,Zach LaVine,,CHI,True,True
+markkla01,32.96666666666667,0.589,0.571,0.571,0.071,4.4,10.0,7.0,3.9,2.9,0.0,12.2,22.5,104.0,119.0,-5.8,Lauri Markkanen,,CHI,True,True
+dunnkr01,32.733333333333334,0.727,0.75,0.333,0.333,0.0,15.2,7.1,13.9,2.9,3.3,30.4,13.6,108.0,116.0,-3.6,Kris Dunn,,CHI,True,True
+satorto01,28.666666666666668,0.333,0.333,0.111,0.0,0.0,11.5,5.4,31.2,0.0,0.0,10.0,15.7,95.0,125.0,-12.5,Tomáš Satoranský,,CHI,True,True
+kornelu01,21.933333333333334,0.786,0.786,0.714,0.0,6.6,15.1,10.6,22.3,0.0,5.0,22.2,18.5,130.0,122.0,4.2,Luke Kornet,,CHI,True,True
+hutchch01,22.283333333333335,0.694,0.5,0.0,1.0,0.0,22.3,10.4,4.7,8.6,0.0,0.0,5.8,153.0,104.0,2.6,Chandler Hutchison,,CHI,True,False
+whiteco01,19.616666666666667,0.637,0.5,0.0,1.0,0.0,25.3,11.8,18.1,4.9,0.0,18.8,24.5,115.0,112.0,-0.2,Coby White,,CHI,True,False
+youngth01,15.233333333333333,0.7,0.7,0.2,0.0,0.0,21.7,10.2,0.0,0.0,0.0,0.0,14.8,132.0,124.0,-6.1,Thaddeus Young,,CHI,True,False
+feliccr01,13.983333333333333,1.0,1.0,0.0,0.0,0.0,0.0,0.0,7.7,3.4,0.0,50.0,6.4,103.0,119.0,-7.2,Cristiano Felício,,CHI,True,False
+harrish01,8.383333333333333,0.773,0.667,0.333,0.667,0.0,0.0,0.0,0.0,5.7,0.0,0.0,20.9,157.0,114.0,3.1,Shaquille Harrison,,CHI,True,False
+arcidry01,4.95,0.333,0.333,0.333,0.0,0.0,33.4,15.6,0.0,9.6,0.0,0.0,27.3,66.0,100.0,-7.3,Ryan Arcidiacono,,CHI,True,False
+valende01,,,,,,,,,,,,,,,,,Denzel Valentine,Did Not Play,CHI,True,False

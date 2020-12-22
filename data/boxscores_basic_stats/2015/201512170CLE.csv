@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,40.53333333333333,7.0,17.0,0.412,2.0,6.0,0.333,9.0,10.0,0.9,0.0,3.0,3.0,5.0,0.0,2.0,4.0,0.0,25.0,-2.0,Kevin Durant,,OKC,False,True
+ibakase01,38.21666666666667,8.0,14.0,0.571,2.0,5.0,0.4,5.0,6.0,0.833,3.0,6.0,9.0,1.0,0.0,1.0,1.0,0.0,23.0,10.0,Serge Ibaka,,OKC,False,True
+westbru01,34.46666666666667,10.0,18.0,0.556,1.0,3.0,0.333,6.0,6.0,1.0,0.0,3.0,3.0,10.0,3.0,0.0,4.0,4.0,27.0,-4.0,Russell Westbrook,,OKC,False,True
+adamsst01,27.266666666666666,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,0.0,0.0,1.0,2.0,6.0,4.0,3.0,Steven Adams,,OKC,False,True
+roberan03,20.966666666666665,2.0,3.0,0.667,1.0,1.0,1.0,0.0,0.0,,2.0,2.0,4.0,2.0,1.0,3.0,1.0,0.0,5.0,3.0,Andre Roberson,,OKC,False,True
+waitedi01,21.0,1.0,7.0,0.143,0.0,3.0,0.0,2.0,4.0,0.5,0.0,2.0,2.0,0.0,1.0,0.0,0.0,4.0,4.0,-11.0,Dion Waiters,,OKC,False,False
+kanteen01,18.45,2.0,4.0,0.5,0.0,0.0,,2.0,2.0,1.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0,1.0,6.0,-10.0,Enes Kanter,,OKC,False,False
+singlky01,16.733333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,Kyle Singler,,OKC,False,False
+augusdj01,14.483333333333333,1.0,5.0,0.2,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,2.0,-1.0,D.J. Augustin,,OKC,False,False
+collini01,7.883333333333333,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,4.0,4.0,-8.0,Nick Collison,,OKC,False,False
+huestjo01,,,,,,,,,,,,,,,,,,,,,Josh Huestis,Did Not Play,OKC,False,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,OKC,False,False
+payneca01,,,,,,,,,,,,,,,,,,,,,Cameron Payne,Did Not Play,OKC,False,False
+jamesle01,39.61666666666667,12.0,27.0,0.444,2.0,5.0,0.4,7.0,8.0,0.875,2.0,7.0,9.0,11.0,2.0,0.0,7.0,2.0,33.0,5.0,LeBron James,,CLE,True,True
+dellama01,38.75,3.0,10.0,0.3,3.0,6.0,0.5,2.0,2.0,1.0,2.0,3.0,5.0,10.0,0.0,0.0,1.0,3.0,11.0,1.0,Matthew Dellavedova,,CLE,True,True
+loveke01,32.483333333333334,4.0,10.0,0.4,2.0,5.0,0.4,1.0,1.0,1.0,1.0,6.0,7.0,5.0,2.0,0.0,3.0,2.0,11.0,-10.0,Kevin Love,,CLE,True,True
+smithjr01,24.783333333333335,5.0,12.0,0.417,1.0,5.0,0.2,0.0,0.0,,0.0,3.0,3.0,0.0,1.0,0.0,0.0,4.0,11.0,-8.0,J.R. Smith,,CLE,True,True
+mozgoti01,20.85,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,6.0,0.0,Timofey Mozgov,,CLE,True,True
+thomptr01,34.85,7.0,10.0,0.7,0.0,0.0,,0.0,2.0,0.0,11.0,4.0,15.0,1.0,0.0,1.0,1.0,3.0,14.0,13.0,Tristan Thompson,,CLE,True,False
+jefferi01,31.683333333333334,5.0,9.0,0.556,3.0,6.0,0.5,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,13.0,9.0,Richard Jefferson,,CLE,True,False
+cunnija01,13.416666666666666,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,2.0,4.0,5.0,13.0,Jared Cunningham,,CLE,True,False
+varejan01,3.5666666666666664,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Anderson Varejão,,CLE,True,False
+harrijo01,,,,,,,,,,,,,,,,,,,,,Joe Harris,Did Not Play,CLE,True,False
+jonesja02,,,,,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,True,False
+kaunsa01,,,,,,,,,,,,,,,,,,,,,Sasha Kaun,Did Not Play,CLE,True,False
+willima01,,,,,,,,,,,,,,,,,,,,,Mo Williams,Did Not Dress,CLE,True,False

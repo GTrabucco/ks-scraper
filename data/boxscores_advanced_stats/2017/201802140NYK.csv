@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bealbr01,42.86666666666667,0.758,0.727,0.318,0.182,0.0,11.2,6.4,24.2,3.3,2.9,11.2,27.9,135.0,108.0,11.7,Bradley Beal,,WAS,False,True
+porteot01,38.333333333333336,0.569,0.556,0.167,0.167,3.4,12.5,8.6,10.6,1.2,1.6,0.0,22.5,120.0,114.0,-0.4,Otto Porter,,WAS,False,True
+satorto01,33.2,0.563,0.563,0.5,0.0,3.9,8.7,6.6,37.7,0.0,5.6,11.1,12.1,135.0,114.0,5.3,Tomáš Satoranský,,WAS,False,True
+morrima02,24.883333333333333,0.591,0.591,0.182,0.0,0.0,27.0,15.5,15.9,0.0,0.0,8.3,21.6,111.0,114.0,-3.1,Markieff Morris,,WAS,False,True
+gortama01,22.266666666666666,0.429,0.429,0.0,0.0,5.8,30.2,19.8,15.6,2.1,0.0,0.0,14.1,109.0,109.0,-1.6,Marcin Gortat,,WAS,False,True
+oubreke01,27.016666666666666,0.167,0.167,0.667,0.0,0.0,14.2,8.2,3.8,0.0,0.0,14.3,11.6,38.0,118.0,-15.5,Kelly Oubre,,WAS,False,False
+mahinia01,25.6,0.738,0.75,0.0,1.0,15.2,18.8,17.2,0.0,1.9,7.2,25.8,27.1,111.0,105.0,-2.8,Ian Mahinmi,,WAS,False,False
+meeksjo01,13.35,1.064,1.0,0.0,2.0,0.0,14.4,8.3,26.4,3.6,0.0,0.0,12.6,224.0,110.0,14.7,Jodie Meeks,,WAS,False,False
+scottmi01,12.483333333333333,0.417,0.417,0.333,0.0,0.0,7.7,4.4,0.0,0.0,0.0,14.3,25.1,68.0,119.0,-16.7,Mike Scott,,WAS,False,False
+robinde01,,,,,,,,,,,,,,,,,Devin Robinson,Did Not Play,WAS,False,False
+mcculch01,,,,,,,,,,,,,,,,,Chris McCullough,Did Not Play,WAS,False,False
+beaslmi01,40.18333333333333,0.333,0.333,0.0,0.0,4.8,29.1,15.1,10.1,0.0,0.0,4.0,26.0,79.0,119.0,-9.4,Michael Beasley,,NYK,True,True
+hardati02,39.85,0.731,0.708,0.375,0.125,2.4,13.0,6.9,4.3,2.4,0.0,10.6,29.7,129.0,116.0,10.0,Tim Hardaway,,NYK,True,True
+kanteen01,34.266666666666666,0.648,0.6,0.0,0.533,16.8,30.3,22.5,21.6,0.0,2.1,0.0,22.6,151.0,117.0,10.9,Enes Kanter,,NYK,True,True
+leeco01,33.733333333333334,0.333,0.333,0.417,0.0,0.0,11.5,4.9,10.9,0.0,0.0,0.0,14.9,83.0,121.0,-10.6,Courtney Lee,,NYK,True,True
+jackja01,27.533333333333335,0.425,0.3,0.2,0.4,0.0,9.4,4.0,20.2,1.7,0.0,14.5,10.4,104.0,118.0,-4.0,Jarrett Jack,,NYK,True,True
+mudiaem01,20.466666666666665,0.388,0.333,0.222,0.333,4.7,12.7,8.1,18.5,4.7,0.0,27.9,29.2,70.0,111.0,-8.6,Emmanuel Mudiay,,NYK,True,False
+thomala01,19.266666666666666,1.0,1.0,0.5,0.0,0.0,13.5,5.7,0.0,0.0,0.0,0.0,8.7,193.0,121.0,4.9,Lance Thomas,,NYK,True,False
+oquinky01,13.733333333333333,0.5,0.5,0.0,0.0,7.0,9.4,8.0,0.0,0.0,0.0,0.0,6.1,123.0,121.0,-10.0,Kyle O'Quinn,,NYK,True,False
+ntilila01,10.966666666666667,0.868,1.0,0.0,1.0,0.0,0.0,0.0,12.1,8.7,0.0,25.8,14.8,126.0,103.0,5.5,Frank Ntilikina,,NYK,True,False
+kornelu01,,,,,,,,,,,,,,,,,Luke Kornet,Did Not Play,NYK,True,False
+hicksis01,,,,,,,,,,,,,,,,,Isaiah Hicks,Did Not Play,NYK,True,False
+dotsoda01,,,,,,,,,,,,,,,,,Damyean Dotson,Did Not Play,NYK,True,False
+burketr01,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,NYK,True,False

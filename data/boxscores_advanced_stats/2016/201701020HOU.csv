@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gortama01,40.2,0.597,0.6,0.0,0.2,11.6,26.5,19.4,11.6,1.2,0.0,26.9,16.3,98.0,102.0,0.9,Marcin Gortat,,WAS,False,True
+walljo01,37.0,0.466,0.444,0.111,0.167,3.2,11.5,7.5,56.4,2.6,0.0,20.6,28.9,93.0,102.0,2.7,John Wall,,WAS,False,True
+bealbr01,35.43333333333333,0.683,0.639,0.556,0.222,0.0,9.0,4.7,10.5,2.7,0.0,13.2,28.2,115.0,102.0,11.3,Bradley Beal,,WAS,False,True
+porteot01,32.8,0.333,0.333,0.417,0.0,0.0,9.8,5.1,4.6,1.5,3.1,0.0,16.1,72.0,102.0,-4.9,Otto Porter,,WAS,False,True
+morrima02,32.75,0.487,0.455,0.364,0.273,3.6,22.8,13.6,14.3,0.0,3.1,14.0,19.2,93.0,103.0,-1.6,Markieff Morris,,WAS,False,True
+oubreke01,23.05,0.0,0.0,0.25,0.0,5.1,27.8,17.0,0.0,4.2,0.0,0.0,7.6,18.0,95.0,-5.8,Kelly Oubre,,WAS,False,False
+thornma01,18.483333333333334,0.438,0.438,0.375,0.0,0.0,17.3,9.1,0.0,2.6,0.0,11.1,21.4,75.0,100.0,-4.0,Marcus Thornton,,WAS,False,False
+burketr01,11.0,0.333,0.333,0.333,0.0,0.0,0.0,0.0,25.9,0.0,0.0,25.0,16.0,69.0,110.0,-10.6,Trey Burke,,WAS,False,False
+smithja02,9.283333333333333,0.667,0.667,0.0,0.0,0.0,23.0,12.0,0.0,0.0,0.0,25.0,18.9,87.0,105.0,-5.9,Jason Smith,,WAS,False,False
+mcclesh01,,,,,,,,,,,,,,,,,Sheldon Mac,Did Not Play,WAS,False,False
+nichoan01,,,,,,,,,,,,,,,,,Andrew Nicholson,Did Not Play,WAS,False,False
+ochefda01,,,,,,,,,,,,,,,,,Daniel Ochefu,Did Not Play,WAS,False,False
+satorto01,,,,,,,,,,,,,,,,,Tomáš Satoranský,Did Not Play,WAS,False,False
+arizatr01,43.63333333333333,0.5,0.5,0.6,0.0,0.0,16.1,7.7,16.9,3.3,3.6,0.0,10.2,114.0,88.0,5.6,Trevor Ariza,,HOU,True,True
+hardeja01,42.06666666666667,0.405,0.292,0.458,0.417,2.5,25.0,13.3,37.8,3.4,0.0,17.4,36.3,85.0,89.0,-1.0,James Harden,,HOU,True,True
+harremo01,33.03333333333333,0.568,0.545,0.0,0.273,9.7,21.3,15.2,5.1,0.0,4.8,14.0,19.2,105.0,93.0,-1.0,Montrezl Harrell,,HOU,True,True
+anderry01,32.266666666666666,0.571,0.571,0.714,0.0,3.3,10.9,6.9,9.1,1.5,2.4,12.5,11.0,107.0,94.0,-0.2,Ryan Anderson,,HOU,True,True
+breweco01,15.933333333333334,0.5,0.5,0.5,0.0,0.0,7.3,3.5,19.5,0.0,0.0,20.0,13.9,91.0,100.0,-4.9,Corey Brewer,,HOU,True,True
+gordoer01,36.43333333333333,0.784,0.778,0.667,0.222,0.0,6.4,3.1,17.6,0.0,2.2,13.2,27.7,126.0,98.0,9.8,Eric Gordon,,HOU,True,False
+dekkesa01,16.6,0.0,0.0,1.0,0.0,6.4,35.3,20.2,0.0,2.9,9.5,0.0,5.3,37.0,81.0,-0.8,Sam Dekker,,HOU,True,False
+hilarne01,14.1,0.58,0.667,0.0,0.667,7.6,16.6,11.9,14.6,3.4,5.6,0.0,24.4,118.0,86.0,10.7,Nenê Hilário,,HOU,True,False
+ennisty01,5.933333333333334,0.25,0.25,0.25,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,29.9,64.0,101.0,-13.5,Tyler Ennis,,HOU,True,False
+beverpa01,,,,,,,,,,,,,,,,,Patrick Beverley,Did Not Dress,HOU,True,False
+brownbo02,,,,,,,,,,,,,,,,,Bobby Brown,Did Not Play,HOU,True,False
+mcdankj01,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,HOU,True,False
+wiltjky01,,,,,,,,,,,,,,,,,Kyle Wiltjer,Did Not Play,HOU,True,False

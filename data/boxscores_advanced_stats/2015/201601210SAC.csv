@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+horfoal01,33.75,0.5,0.5,0.273,0.0,9.3,13.7,11.6,15.3,4.2,0.0,0.0,14.3,116.0,90.0,4.9,Al Horford,,ATL,False,True
+millspa01,32.61666666666667,0.543,0.5,0.083,0.167,12.8,28.3,21.0,16.9,7.3,8.7,28.0,24.0,89.0,71.0,7.6,Paul Millsap,,ATL,False,True
+bazemke01,28.383333333333333,0.583,0.611,0.333,0.111,0.0,13.0,6.9,12.7,1.7,0.0,24.1,19.2,85.0,96.0,-1.5,Kent Bazemore,,ATL,False,True
+korveky01,27.5,0.409,0.409,0.909,0.0,0.0,3.4,1.8,17.6,3.5,2.6,8.3,19.1,83.0,96.0,1.8,Kyle Korver,,ATL,False,True
+teaguje01,19.983333333333334,0.25,0.25,0.25,0.0,0.0,9.2,4.9,31.8,2.4,3.5,27.3,24.1,53.0,94.0,-10.2,Jeff Teague,,ATL,False,True
+sefolth01,27.366666666666667,0.581,0.5,0.333,0.333,0.0,6.7,3.6,11.8,1.7,0.0,12.7,12.6,108.0,99.0,-0.7,Thabo Sefolosha,,ATL,False,False
+schrode01,25.216666666666665,0.403,0.393,0.429,0.143,0.0,7.3,3.9,29.9,1.9,0.0,28.7,36.3,63.0,98.0,-11.7,Dennis Schröder,,ATL,False,False
+hardati02,15.55,0.461,0.375,0.375,0.5,0.0,29.7,15.7,0.0,3.1,0.0,0.0,27.5,95.0,84.0,0.0,Tim Hardaway,,ATL,False,False
+splitti01,15.133333333333333,0.725,1.0,0.0,4.0,0.0,18.3,9.7,0.0,0.0,4.7,0.0,8.0,146.0,95.0,1.5,Tiago Splitter,,ATL,False,False
+scottmi01,14.5,0.75,0.75,0.75,0.0,0.0,6.4,3.4,0.0,0.0,9.7,0.0,12.1,136.0,97.0,4.4,Mike Scott,,ATL,False,False
+macksh01,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,ATL,False,False
+muscami01,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,ATL,False,False
+tavarwa01,,,,,,,,,,,,,,,,,Edy Tavares,Did Not Play,ATL,False,False
+couside01,39.016666666666666,0.448,0.42,0.04,0.16,9.5,32.1,20.1,29.7,3.7,4.8,18.3,33.2,86.0,80.0,5.6,DeMarcus Cousins,,SAC,True,True
+casspom01,37.63333333333333,0.553,0.55,0.7,0.4,2.5,11.1,6.5,9.1,6.3,0.0,7.8,13.4,112.0,82.0,7.0,Omri Casspi,,SAC,True,True
+rondora01,37.5,0.344,0.344,0.25,0.0,4.9,19.5,11.8,52.9,0.0,2.5,27.3,23.2,75.0,92.0,-4.2,Rajon Rondo,,SAC,True,True
+mclembe01,33.9,0.444,0.429,0.5,0.286,2.7,6.2,4.3,21.9,2.8,2.8,16.0,21.9,87.0,89.0,2.6,Ben McLemore,,SAC,True,True
+caulewi01,30.016666666666666,0.676,0.625,0.0,0.25,15.4,20.9,17.9,0.0,3.2,0.0,0.0,11.7,151.0,87.0,6.7,Willie Cauley-Stein,,SAC,True,True
+belinma01,18.933333333333334,0.228,0.0,0.714,0.571,0.0,22.0,10.3,15.4,0.0,0.0,10.2,20.4,62.0,94.0,-10.3,Marco Belinelli,,SAC,True,False
+collida01,16.316666666666666,0.255,0.2,0.0,0.4,0.0,0.0,0.0,0.0,2.9,0.0,14.5,16.6,50.0,91.0,-11.7,Darren Collison,,SAC,True,False
+koufoko01,14.983333333333333,0.51,0.4,0.0,0.4,24.6,13.9,19.6,0.0,0.0,0.0,14.5,18.1,109.0,95.0,-4.1,Kosta Koufos,,SAC,True,False
+acyqu01,11.483333333333333,0.694,0.5,0.0,1.0,0.0,9.1,4.3,0.0,0.0,0.0,0.0,9.9,156.0,96.0,-1.1,Quincy Acy,,SAC,True,False
+anderja01,0.21666666666666667,,,,,0.0,100.0,100.0,0.0,0.0,0.0,,0.0,0.0,2.0,25.6,James Anderson,,SAC,True,False
+butleca01,,,,,,,,,,,,,,,,,Caron Butler,Did Not Play,SAC,True,False
+curryse01,,,,,,,,,,,,,,,,,Seth Curry,Did Not Play,SAC,True,False
+gayru01,,,,,,,,,,,,,,,,,Rudy Gay,Did Not Dress,SAC,True,False

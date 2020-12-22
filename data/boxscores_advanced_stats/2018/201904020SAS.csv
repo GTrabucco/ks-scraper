@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+youngtr01,29.933333333333334,0.436,0.333,0.4,0.333,0.0,4.5,1.8,27.5,1.6,0.0,0.0,24.2,109.0,120.0,-5.8,Trae Young,,ATL,False,True
+lenal01,27.95,0.77,0.818,0.455,0.545,3.3,19.1,9.8,16.6,1.7,3.4,0.0,20.6,155.0,116.0,12.3,Alex Len,,ATL,False,True
+cartevi01,27.783333333333335,0.68,0.6,0.4,0.4,3.3,4.8,3.9,22.8,0.0,0.0,14.5,10.4,140.0,124.0,-0.9,Vince Carter,,ATL,False,True
+huertke01,26.916666666666668,0.591,0.591,0.273,0.0,0.0,9.9,4.1,5.5,3.5,3.6,8.3,18.8,106.0,112.0,0.6,Kevin Huerter,,ATL,False,True
+anderju01,25.65,0.415,0.438,0.25,0.125,10.8,26.0,17.0,0.0,1.9,0.0,19.2,17.2,80.0,118.0,-10.1,Justin Anderson,,ATL,False,True
+bazemke01,24.05,0.77,0.781,0.438,0.125,0.0,22.2,9.1,17.3,5.9,0.0,10.6,33.1,126.0,109.0,18.8,Kent Bazemore,,ATL,False,False
+davisde01,20.466666666666665,0.765,0.8,0.0,0.4,13.5,52.1,29.3,0.0,4.7,0.0,33.8,18.3,103.0,109.0,-5.0,Deyonta Davis,,ATL,False,False
+adamsja01,19.616666666666667,0.0,0.0,0.5,0.0,4.7,6.8,5.6,39.8,2.4,0.0,0.0,17.2,59.0,118.0,-11.7,Jaylen Adams,,ATL,False,False
+bembrde01,19.316666666666666,0.581,0.583,0.333,0.333,0.0,20.7,8.5,14.0,2.5,0.0,22.5,19.4,94.0,117.0,-4.1,DeAndre' Bembry,,ATL,False,False
+humphis01,18.316666666666666,0.222,0.222,0.333,0.0,10.1,21.8,14.9,0.0,2.6,0.0,0.0,20.7,63.0,117.0,-16.4,Isaac Humphries,,ATL,False,False
+princta02,,,,,,,,,,,,,,,,,Taurean Waller-Prince,Did Not Dress,ATL,False,False
+aldrila01,38.38333333333333,0.587,0.545,0.0,0.545,3.5,24.0,15.6,0.0,0.0,6.3,6.8,17.3,111.0,107.0,-3.7,LaMarcus Aldridge,,SAS,True,True
+derozde01,36.083333333333336,0.804,0.636,0.0,1.455,0.0,17.9,10.6,28.5,2.6,0.0,21.7,29.0,138.0,107.0,4.5,DeMar DeRozan,,SAS,True,True
+whitede01,30.716666666666665,0.958,0.958,0.25,0.0,4.3,9.0,7.1,17.8,0.0,5.2,25.0,23.7,135.0,112.0,8.2,Derrick White,,SAS,True,True
+forbebr01,29.316666666666666,0.864,0.864,0.636,0.0,0.0,6.3,3.7,16.1,0.0,0.0,15.4,20.1,137.0,117.0,5.5,Bryn Forbes,,SAS,True,True
+gayru01,24.983333333333334,0.3,0.3,0.2,0.0,5.3,36.9,24.0,21.2,1.9,0.0,16.7,21.8,75.0,104.0,-6.8,Rudy Gay,,SAS,True,True
+belinma01,25.566666666666666,0.3,0.3,0.8,0.0,0.0,14.4,8.5,4.9,1.9,0.0,16.7,21.3,54.0,110.0,-13.5,Marco Belinelli,,SAS,True,False
+millspa02,21.216666666666665,0.778,0.778,0.889,0.0,0.0,4.4,2.6,14.7,2.2,3.8,0.0,19.3,150.0,110.0,12.4,Patty Mills,,SAS,True,False
+bertada01,19.35,0.25,0.25,0.5,0.0,0.0,14.3,8.5,6.3,0.0,0.0,0.0,9.4,65.0,114.0,-10.7,Dāvis Bertāns,,SAS,True,False
+poeltja01,9.616666666666667,1.0,1.0,0.0,0.0,13.9,9.6,11.3,13.5,4.9,0.0,0.0,4.7,216.0,105.0,8.8,Jakob Poeltl,,SAS,True,False
+walkelo01,4.766666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,9.5,59.0,116.0,-16.3,Lonnie Walker,,SAS,True,False
+eubandr01,,,,,,,,,,,,,,,,,Drew Eubanks,Did Not Play,SAS,True,False
+cunnida01,,,,,,,,,,,,,,,,,Dante Cunningham,Did Not Play,SAS,True,False
+pondequ01,,,,,,,,,,,,,,,,,Quincy Pondexter,Did Not Play,SAS,True,False

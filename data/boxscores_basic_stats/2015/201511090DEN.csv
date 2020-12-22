@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lillada01,38.4,9.0,22.0,0.409,3.0,7.0,0.429,9.0,9.0,1.0,3.0,0.0,3.0,7.0,1.0,0.0,1.0,4.0,30.0,3.0,Damian Lillard,,POR,False,True
+mccolcj01,35.53333333333333,6.0,15.0,0.4,2.0,5.0,0.4,2.0,2.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,1.0,0.0,16.0,-11.0,CJ McCollum,,POR,False,True
+leoname01,34.46666666666667,5.0,10.0,0.5,1.0,4.0,0.25,0.0,0.0,,1.0,8.0,9.0,4.0,0.0,0.0,2.0,6.0,11.0,11.0,Meyers Leonard,,POR,False,True
+aminual01,33.7,5.0,16.0,0.313,2.0,7.0,0.286,0.0,0.0,,1.0,3.0,4.0,2.0,1.0,1.0,1.0,2.0,12.0,-6.0,Al-Farouq Aminu,,POR,False,True
+plumlma01,32.63333333333333,5.0,7.0,0.714,0.0,0.0,,5.0,7.0,0.714,0.0,7.0,7.0,2.0,2.0,2.0,1.0,4.0,15.0,-6.0,Mason Plumlee,,POR,False,True
+crabbal01,22.716666666666665,4.0,12.0,0.333,1.0,5.0,0.2,2.0,3.0,0.667,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,11.0,0.0,Allen Crabbe,,POR,False,False
+davised01,15.366666666666667,0.0,1.0,0.0,0.0,0.0,,3.0,4.0,0.75,2.0,3.0,5.0,1.0,2.0,0.0,1.0,4.0,3.0,2.0,Ed Davis,,POR,False,False
+harklma01,14.3,2.0,5.0,0.4,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,6.0,2.0,Maurice Harkless,,POR,False,False
+vonleno01,12.883333333333333,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,-15.0,Noah Vonleh,,POR,False,False
+alexacl01,,,,,,,,,,,,,,,,,,,,,Cliff Alexander,Did Not Play,POR,False,False
+connapa01,,,,,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,POR,False,False
+fraziti01,,,,,,,,,,,,,,,,,,,,,Tim Frazier,Did Not Play,POR,False,False
+kamanch01,,,,,,,,,,,,,,,,,,,,,Chris Kaman,Did Not Play,POR,False,False
+gallida01,35.416666666666664,2.0,10.0,0.2,0.0,5.0,0.0,2.0,2.0,1.0,0.0,5.0,5.0,3.0,1.0,0.0,4.0,1.0,6.0,3.0,Danilo Gallinari,,DEN,True,True
+farieke01,30.7,8.0,13.0,0.615,0.0,0.0,,1.0,4.0,0.25,4.0,4.0,8.0,1.0,1.0,0.0,2.0,2.0,17.0,3.0,Kenneth Faried,,DEN,True,True
+hicksjj01,29.65,7.0,11.0,0.636,0.0,0.0,,5.0,11.0,0.455,2.0,11.0,13.0,1.0,0.0,3.0,0.0,4.0,19.0,4.0,J.J. Hickson,,DEN,True,True
+mudiaem01,28.333333333333332,6.0,12.0,0.5,1.0,3.0,0.333,5.0,7.0,0.714,1.0,5.0,6.0,5.0,0.0,2.0,2.0,3.0,18.0,-4.0,Emmanuel Mudiay,,DEN,True,True
+harriga01,25.466666666666665,3.0,8.0,0.375,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,3.0,0.0,0.0,1.0,2.0,7.0,0.0,Gary Harris,,DEN,True,True
+bartowi01,23.033333333333335,4.0,7.0,0.571,1.0,2.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,11.0,4.0,Will Barton,,DEN,True,False
+foyera01,19.666666666666668,4.0,6.0,0.667,3.0,4.0,0.75,2.0,2.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,2.0,1.0,13.0,8.0,Randy Foye,,DEN,True,False
+arthuda01,19.533333333333335,1.0,5.0,0.2,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,2.0,1.0,3.0,2.0,2.0,Darrell Arthur,,DEN,True,False
+jokicni01,15.616666666666667,3.0,3.0,1.0,0.0,0.0,,4.0,4.0,1.0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,10.0,-1.0,Nikola Jokić,,DEN,True,False
+papanko01,12.583333333333334,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,5.0,1.0,Kostas Papanikolaou,,DEN,True,False
+millemi01,,,,,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,DEN,True,False
+nelsoja01,,,,,,,,,,,,,,,,,,,,,Jameer Nelson,Did Not Dress,DEN,True,False
+lauvejo01,,,,,,,,,,,,,,,,,,,,,Joffrey Lauvergne,Did Not Dress,DEN,True,False

@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+irvinky01,40.65,0.694,0.646,0.25,0.25,2.7,12.8,7.3,41.5,1.2,2.0,7.0,31.2,138.0,129.0,11.8,Kyrie Irving,,BOS,False,True
+tatumja01,31.466666666666665,0.636,0.611,0.111,0.111,0.0,4.1,1.9,4.1,1.5,2.6,9.6,14.7,112.0,130.0,-3.8,Jayson Tatum,,BOS,False,True
+horfoal01,30.183333333333334,0.633,0.633,0.2,0.0,0.0,8.6,3.9,15.5,0.0,2.7,6.3,23.5,118.0,133.0,0.6,Al Horford,,BOS,False,True
+smartma01,30.116666666666667,0.63,0.667,0.333,1.333,7.2,17.2,11.8,19.1,1.6,0.0,17.4,8.5,138.0,129.0,-2.4,Marcus Smart,,BOS,False,True
+morrima03,28.416666666666668,0.47,0.409,0.364,0.364,7.7,18.3,12.5,4.4,1.7,0.0,0.0,19.9,107.0,128.0,-6.4,Marcus Morris,,BOS,False,True
+haywago01,23.733333333333334,0.417,0.417,0.5,0.0,4.6,5.5,5.0,14.8,0.0,7.0,14.3,13.1,94.0,131.0,-4.1,Gordon Hayward,,BOS,False,False
+brownja02,22.533333333333335,0.509,0.5,0.417,0.333,0.0,17.3,7.9,0.0,4.3,0.0,0.0,27.1,99.0,122.0,-3.6,Jaylen Brown,,BOS,False,False
+theisda01,17.116666666666667,1.031,1.0,0.0,0.667,0.0,30.3,13.8,15.3,0.0,9.7,20.5,12.6,165.0,123.0,7.0,Daniel Theis,,BOS,False,False
+roziete01,15.783333333333333,0.167,0.167,0.667,0.0,0.0,24.7,11.3,7.2,0.0,0.0,0.0,25.3,42.0,131.0,-21.9,Terry Rozier,,BOS,False,False
+yabusgu01,,,,,,,,,,,,,,,,,Guerschon Yabusele,Did Not Play,BOS,False,False
+wanambr01,,,,,,,,,,,,,,,,,Brad Wanamaker,Did Not Play,BOS,False,False
+ojelese01,,,,,,,,,,,,,,,,,Semi Ojeleye,Did Not Play,BOS,False,False
+williro04,,,,,,,,,,,,,,,,,Robert Williams,Did Not Play,BOS,False,False
+lavinza01,38.88333333333333,0.693,0.672,0.379,0.103,3.3,14.0,9.1,19.0,0.0,0.0,14.2,39.6,123.0,120.0,3.6,Zach LaVine,,CHI,True,True
+markkla01,37.0,0.73,0.675,0.35,0.45,10.5,35.4,24.0,8.3,1.3,0.0,4.0,29.4,153.0,115.0,11.2,Lauri Markkanen,,CHI,True,True
+lopezro01,27.333333333333332,0.833,0.75,0.0,0.625,14.2,12.0,13.0,19.3,0.0,0.0,8.9,17.8,171.0,121.0,8.0,Robin Lopez,,CHI,True,True
+dunnkr01,24.55,0.286,0.286,0.286,0.0,5.3,0.0,2.4,22.7,0.0,0.0,12.5,14.2,95.0,122.0,-10.7,Kris Dunn,,CHI,True,True
+porteot01,14.233333333333333,0.0,0.0,0.5,0.0,9.1,15.3,12.5,21.5,0.0,0.0,20.0,15.3,56.0,120.0,-15.1,Otto Porter,,CHI,True,True
+arcidry01,27.433333333333334,0.82,0.75,0.75,0.5,0.0,11.9,6.5,16.1,1.8,0.0,17.0,9.3,155.0,117.0,2.7,Ryan Arcidiacono,,CHI,True,False
+seldewa01,25.733333333333334,0.654,0.583,0.5,0.333,5.0,21.2,13.8,9.0,0.0,3.0,30.4,16.7,104.0,116.0,-2.7,Wayne Selden,,CHI,True,False
+harrish01,18.716666666666665,1.0,1.0,0.0,0.0,0.0,11.7,6.3,11.5,5.2,4.1,0.0,2.3,212.0,105.0,8.7,Shaquille Harrison,,CHI,True,False
+feliccr01,15.133333333333333,0.6,0.6,0.0,0.0,8.6,43.3,27.4,0.0,0.0,0.0,0.0,14.4,133.0,116.0,-1.7,Cristiano Felício,,CHI,True,False
+luwawti01,10.983333333333333,0.375,0.375,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.9,86.0,122.0,-12.8,Timothé Luwawu-Cabarrot,,CHI,True,False
+blakean01,,,,,,,,,,,,,,,,,Antonio Blakeney,Did Not Play,CHI,True,False

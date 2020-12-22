@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+willima02,35.6,5.0,11.0,0.455,3.0,5.0,0.6,0.0,0.0,,3.0,9.0,12.0,3.0,0.0,1.0,2.0,2.0,13.0,6.0,Marvin Williams,,CHO,False,True
+walkeke02,34.6,5.0,15.0,0.333,1.0,5.0,0.2,2.0,2.0,1.0,0.0,4.0,4.0,6.0,1.0,0.0,3.0,3.0,13.0,6.0,Kemba Walker,,CHO,False,True
+batumni01,33.36666666666667,6.0,10.0,0.6,1.0,4.0,0.25,1.0,1.0,1.0,2.0,9.0,11.0,4.0,1.0,0.0,7.0,2.0,14.0,6.0,Nicolas Batum,,CHO,False,True
+jeffeal01,29.866666666666667,5.0,15.0,0.333,0.0,0.0,,0.0,0.0,,4.0,7.0,11.0,0.0,1.0,2.0,0.0,1.0,10.0,6.0,Al Jefferson,,CHO,False,True
+hairspj02,16.6,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,-6.0,P.J. Hairston,,CHO,False,True
+linje01,27.116666666666667,2.0,8.0,0.25,2.0,4.0,0.5,6.0,6.0,1.0,2.0,2.0,4.0,4.0,1.0,0.0,3.0,2.0,12.0,3.0,Jeremy Lin,,CHO,False,False
+hawessp01,17.85,4.0,6.0,0.667,0.0,0.0,,0.0,3.0,0.0,1.0,3.0,4.0,4.0,2.0,0.0,2.0,5.0,8.0,-9.0,Spencer Hawes,,CHO,False,False
+zelleco01,16.85,2.0,5.0,0.4,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,5.0,-26.0,Cody Zeller,,CHO,False,False
+lambje01,14.633333333333333,4.0,8.0,0.5,3.0,5.0,0.6,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,2.0,1.0,0.0,11.0,-9.0,Jeremy Lamb,,CHO,False,False
+kaminfr01,13.516666666666667,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,5.0,8.0,Frank Kaminsky,,CHO,False,False
+hansbty01,,,,,,,,,,,,,,,,,,,,,Tyler Hansbrough,Did Not Play,CHO,False,False
+harriaa01,,,,,,,,,,,,,,,,,,,,,Aaron Harrison,Did Not Play,CHO,False,False
+roberbr01,,,,,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,CHO,False,False
+millspa01,36.88333333333333,5.0,10.0,0.5,2.0,4.0,0.5,6.0,7.0,0.857,1.0,9.0,10.0,4.0,2.0,2.0,4.0,3.0,18.0,1.0,Paul Millsap,,ATL,True,True
+horfoal01,34.86666666666667,8.0,15.0,0.533,2.0,5.0,0.4,0.0,0.0,,1.0,5.0,6.0,3.0,0.0,1.0,2.0,2.0,18.0,12.0,Al Horford,,ATL,True,True
+teaguje01,33.68333333333333,6.0,14.0,0.429,0.0,4.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,4.0,0.0,1.0,3.0,2.0,14.0,-3.0,Jeff Teague,,ATL,True,True
+schrode01,33.016666666666666,6.0,15.0,0.4,0.0,3.0,0.0,2.0,2.0,1.0,0.0,5.0,5.0,2.0,2.0,0.0,2.0,2.0,14.0,-4.0,Dennis Schröder,,ATL,True,True
+bazemke01,30.633333333333333,7.0,13.0,0.538,4.0,5.0,0.8,1.0,2.0,0.5,2.0,7.0,9.0,1.0,0.0,0.0,1.0,3.0,19.0,-9.0,Kent Bazemore,,ATL,True,True
+pattela01,21.183333333333334,0.0,2.0,0.0,0.0,2.0,0.0,3.0,4.0,0.75,1.0,1.0,2.0,3.0,2.0,0.0,1.0,1.0,3.0,2.0,Lamar Patterson,,ATL,True,False
+sefolth01,20.916666666666668,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,0.0,1.0,5.0,6.0,3.0,2.0,0.0,1.0,1.0,4.0,13.0,Thabo Sefolosha,,ATL,True,False
+splitti01,15.8,2.0,7.0,0.286,0.0,0.0,,3.0,3.0,1.0,1.0,2.0,3.0,0.0,1.0,0.0,1.0,1.0,7.0,7.0,Tiago Splitter,,ATL,True,False
+scottmi01,13.033333333333333,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,-4.0,Mike Scott,,ATL,True,False
+holidju01,,,,,,,,,,,,,,,,,,,,,Justin Holiday,Did Not Play,ATL,True,False
+hardati02,,,,,,,,,,,,,,,,,,,,,Tim Hardaway,Did Not Play,ATL,True,False
+macksh01,,,,,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,ATL,True,False
+tavarwa01,,,,,,,,,,,,,,,,,,,,,Edy Tavares,Did Not Play,ATL,True,False

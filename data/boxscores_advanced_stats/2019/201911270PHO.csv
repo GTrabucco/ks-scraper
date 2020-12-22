@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bealbr01,39.7,0.781,0.722,0.333,0.556,0.0,5.8,3.3,19.2,1.2,2.2,4.3,25.3,156.0,130.0,6.0,Bradley Beal,,WAS,False,True
+hachiru01,31.033333333333335,0.338,0.25,0.125,0.25,4.8,18.4,12.5,0.0,0.0,5.6,0.0,12.3,80.0,127.0,-11.2,Rui Hachimura,,WAS,False,True
+bryanth01,29.8,0.933,0.909,0.182,0.273,5.0,30.7,19.6,22.1,0.0,0.0,7.5,19.2,178.0,127.0,10.5,Thomas Bryant,,WAS,False,True
+thomais02,25.433333333333334,0.5,0.5,0.5,0.0,0.0,13.5,7.7,22.7,1.8,0.0,20.0,25.3,94.0,127.0,-11.8,Isaiah Thomas,,WAS,False,True
+browntr01,14.183333333333334,0.5,0.5,0.2,0.0,0.0,8.1,4.6,0.0,3.2,0.0,28.6,21.2,64.0,126.0,-12.4,Troy Brown,,WAS,False,True
+bertada01,27.383333333333333,0.81,0.778,0.889,0.222,11.0,8.3,9.5,12.5,0.0,3.2,9.2,17.1,154.0,131.0,3.4,Dāvis Bertāns,,WAS,False,False
+smithis01,25.633333333333333,0.852,0.818,0.273,0.273,0.0,17.8,10.1,36.4,5.4,0.0,14.0,24.0,156.0,118.0,13.3,Ish Smith,,WAS,False,False
+mcraejo01,24.333333333333332,0.688,0.688,0.75,0.0,0.0,4.7,2.7,13.7,1.9,0.0,11.1,15.9,126.0,129.0,-0.5,Jordan McRae,,WAS,False,False
+wagnemo01,18.2,0.786,0.786,0.286,0.0,0.0,25.1,14.3,20.9,5.0,0.0,30.0,23.6,110.0,117.0,0.8,Moritz Wagner,,WAS,False,False
+bongais01,4.3,,,,,0.0,0.0,0.0,0.0,0.0,20.3,,0.0,0.0,123.0,2.6,Isaac Bonga,,WAS,False,False
+mahinia01,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Dress,WAS,False,False
+chiozch01,,,,,,,,,,,,,,,,,Chris Chiozza,Did Not Play,WAS,False,False
+bookede01,38.1,0.608,0.55,0.3,0.25,0.0,7.9,3.4,28.5,1.2,2.3,11.9,26.8,125.0,134.0,0.4,Devin Booker,,PHO,True,True
+saricda01,36.61666666666667,0.612,0.577,0.538,0.154,18.7,24.6,21.3,6.5,2.5,4.9,17.8,18.7,122.0,128.0,-0.7,Dario Šarić,,PHO,True,True
+rubiori01,25.383333333333333,0.66,0.591,0.364,0.545,4.5,0.0,2.6,20.6,0.0,0.0,12.8,24.9,131.0,140.0,-5.2,Ricky Rubio,,PHO,True,True
+oubreke01,17.783333333333335,0.667,0.667,0.333,0.0,0.0,25.3,10.9,0.0,0.0,0.0,25.0,27.3,89.0,138.0,-12.4,Kelly Oubre,,PHO,True,True
+kaminfr01,15.816666666666666,0.0,0.0,0.5,0.0,0.0,19.0,8.2,6.3,2.9,5.6,0.0,10.2,22.0,126.0,-13.1,Frank Kaminsky,,PHO,True,True
+johnsca02,31.616666666666667,0.781,0.75,0.7,0.2,3.6,14.2,8.2,3.9,1.4,2.8,8.4,15.2,147.0,133.0,2.0,Cameron Johnson,,PHO,True,False
+diallch01,23.316666666666666,0.912,0.875,0.0,0.375,9.8,51.5,27.8,6.1,0.0,0.0,9.7,17.9,169.0,136.0,5.8,Cheick Diallo,,PHO,True,False
+okoboel01,20.783333333333335,0.722,0.722,0.556,0.0,5.5,0.0,3.1,50.7,2.2,0.0,10.0,19.5,157.0,135.0,11.1,Elie Okobo,,PHO,True,False
+johnsty01,18.9,0.571,0.5,0.571,0.857,6.0,23.8,13.7,25.2,2.4,0.0,9.4,22.8,129.0,133.0,0.7,Tyler Johnson,,PHO,True,False
+bridgmi01,11.683333333333334,0.0,0.0,0.0,0.0,0.0,12.8,5.6,0.0,0.0,7.6,0.0,6.9,0.0,132.0,-11.8,Mikal Bridges,,PHO,True,False
+jeromty01,,,,,,,,,,,,,,,,,Ty Jerome,Did Not Play,PHO,True,False
+carteje01,,,,,,,,,,,,,,,,,Jevon Carter,Did Not Play,PHO,True,False
+baynear01,,,,,,,,,,,,,,,,,Aron Baynes,Did Not Play,PHO,True,False

@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gordoaa01,38.3,0.363,0.292,0.5,0.333,9.5,25.1,16.6,8.0,1.2,2.5,17.9,18.2,77.0,108.0,-5.7,Aaron Gordon,,ORL,False,True
+fournev01,32.016666666666666,0.62,0.529,0.471,0.529,0.0,13.3,6.1,12.2,1.5,0.0,0.0,27.2,127.0,112.0,8.6,Evan Fournier,,ORL,False,True
+fultzma01,30.116666666666667,0.391,0.286,0.071,0.429,0.0,17.7,8.1,50.1,1.6,0.0,10.7,25.7,91.0,110.0,-2.3,Markelle Fultz,,ORL,False,True
+isaacjo01,28.283333333333335,0.385,0.385,0.154,0.0,9.6,22.6,15.6,12.8,0.0,16.6,13.3,22.1,80.0,101.0,-1.9,Jonathan Isaac,,ORL,False,True
+birchkh01,27.9,0.333,0.333,0.0,0.0,6.5,15.3,10.5,10.3,1.7,6.7,40.0,7.5,72.0,106.0,-3.0,Khem Birch,,ORL,False,True
+rosste01,30.5,0.71,0.714,0.429,0.357,0.0,14.0,6.4,7.0,0.0,0.0,5.8,23.4,124.0,115.0,7.1,Terrence Ross,,ORL,False,False
+augusdj01,23.233333333333334,0.505,0.458,0.5,0.167,0.0,0.0,0.0,41.9,4.0,0.0,7.2,24.8,105.0,109.0,5.4,D.J. Augustin,,ORL,False,False
+cartemi01,16.0,0.333,0.333,0.0,0.0,0.0,13.3,6.1,9.4,5.9,0.0,25.0,10.4,58.0,102.0,-2.9,Michael Carter-Williams,,ORL,False,False
+bambamo01,12.45,0.25,0.25,0.5,0.0,0.0,8.6,3.9,0.0,0.0,15.1,0.0,13.4,51.0,106.0,-8.9,Mohamed Bamba,,ORL,False,False
+jeffeam01,1.2,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,119.0,-6.9,Amile Jefferson,,ORL,False,False
+iwundwe01,,,,,,,,,,,,,,,,,Wesley Iwundu,Did Not Play,ORL,False,False
+frazime01,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,False,False
+antetgi01,34.71666666666667,0.587,0.591,0.227,0.545,12.3,28.7,21.2,41.9,1.4,2.3,6.8,36.0,125.0,95.0,16.2,Giannis Antetokounmpo,,MIL,True,True
+bledser01,31.95,0.333,0.333,0.222,0.0,3.3,19.8,12.3,31.2,0.0,4.9,30.8,17.3,81.0,98.0,-4.4,Eric Bledsoe,,MIL,True,True
+middlkh01,29.25,0.556,0.556,0.556,0.0,0.0,27.9,15.1,22.0,1.6,0.0,14.3,30.6,98.0,96.0,1.9,Khris Middleton,,MIL,True,True
+matthwe02,25.15,0.5,0.5,0.667,0.0,0.0,3.6,1.9,14.6,1.9,0.0,0.0,10.2,121.0,102.0,0.6,Wesley Matthews,,MIL,True,True
+lopezbr01,23.633333333333333,0.643,0.643,0.714,0.0,4.5,7.7,6.2,0.0,2.0,0.0,0.0,12.6,128.0,101.0,3.1,Brook Lopez,,MIL,True,True
+hillge01,20.783333333333335,0.919,0.9,0.4,0.2,5.1,8.7,7.1,6.8,0.0,0.0,35.5,17.3,108.0,105.0,-4.6,George Hill,,MIL,True,False
+divindo01,20.266666666666666,0.75,0.75,0.375,0.0,0.0,8.9,4.8,7.6,2.3,0.0,11.1,18.9,123.0,100.0,5.7,Donte DiVincenzo,,MIL,True,False
+ilyaser01,16.233333333333334,0.935,1.0,0.4,0.4,13.1,22.3,18.1,0.0,0.0,4.8,0.0,15.4,179.0,97.0,15.0,Ersan İlyasova,,MIL,True,False
+lopezro01,14.0,0.25,0.25,0.5,0.0,0.0,6.5,3.5,19.0,0.0,0.0,0.0,24.4,69.0,106.0,-13.0,Robin Lopez,,MIL,True,False
+connapa01,12.716666666666667,0.0,0.0,1.0,0.0,8.4,21.4,15.4,26.3,7.4,0.0,0.0,6.7,99.0,85.0,7.0,Pat Connaughton,,MIL,True,False
+korveky01,11.3,0.0,0.0,1.0,0.0,0.0,16.0,8.7,0.0,0.0,0.0,33.3,11.3,0.0,103.0,-18.4,Kyle Korver,,MIL,True,False
+wilsodj01,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,True,False
+brownst02,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,True,False

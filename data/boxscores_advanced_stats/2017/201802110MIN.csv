@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+foxde01,34.8,0.589,0.531,0.188,0.5,0.0,7.7,3.4,8.9,4.4,0.0,20.4,29.8,102.0,115.0,-0.4,De'Aaron Fox,,SAC,False,True
+bogdabo01,30.8,0.505,0.5,0.417,0.167,3.5,8.7,5.8,36.4,1.6,0.0,13.4,20.4,119.0,121.0,1.7,Bogdan Bogdanović,,SAC,False,True
+randoza01,28.633333333333333,0.545,0.545,0.364,0.0,0.0,27.9,12.6,0.0,0.0,0.0,15.4,19.2,98.0,121.0,-6.4,Zach Randolph,,SAC,False,True
+caulewi01,26.466666666666665,0.536,0.5,0.0,0.375,12.4,20.2,15.9,0.0,1.9,0.0,30.0,21.3,86.0,118.0,-9.8,Willie Cauley-Stein,,SAC,False,True
+jacksju01,22.683333333333334,0.438,0.438,0.375,0.0,9.6,5.9,7.9,17.8,2.2,0.0,11.1,16.8,110.0,120.0,0.2,Justin Jackson,,SAC,False,True
+templga01,23.833333333333332,0.515,0.5,0.667,0.667,4.6,11.2,7.6,0.0,4.2,0.0,0.0,6.9,127.0,115.0,-0.7,Garrett Temple,,SAC,False,False
+koufoko01,23.816666666666666,0.545,0.545,0.0,0.0,22.9,28.0,25.2,0.0,2.1,0.0,0.0,19.5,134.0,116.0,-1.8,Kosta Koufos,,SAC,False,False
+hieldbu01,18.866666666666667,0.576,0.538,0.385,0.154,11.6,14.1,12.7,9.5,5.4,5.1,17.8,37.8,107.0,108.0,8.6,Buddy Hield,,SAC,False,False
+sampsja02,17.083333333333332,0.75,0.75,0.25,0.0,6.4,15.6,10.5,8.4,3.0,5.6,0.0,9.9,166.0,113.0,5.7,JaKarr Sampson,,SAC,False,False
+cartevi01,13.033333333333333,0.75,0.75,1.0,0.0,0.0,20.5,9.2,19.2,0.0,0.0,33.3,9.7,120.0,122.0,0.6,Vince Carter,,SAC,False,False
+cooleja01,,,,,,,,,,,,,,,,,Jack Cooley,Did Not Play,SAC,False,False
+butleji01,39.1,0.694,0.611,0.111,1.0,3.4,11.2,7.7,11.9,2.6,0.0,18.8,18.8,120.0,112.0,-0.8,Jimmy Butler,,MIN,True,True
+townska01,36.68333333333333,0.722,0.647,0.412,0.412,7.3,17.8,13.1,32.8,1.4,6.2,4.7,26.5,149.0,109.0,15.4,Karl-Anthony Towns,,MIN,True,True
+wiggian01,35.36666666666667,0.576,0.577,0.231,0.154,0.0,24.7,13.6,14.8,1.4,2.2,22.4,23.3,89.0,108.0,-4.0,Andrew Wiggins,,MIN,True,True
+teaguje01,32.35,0.888,0.9,0.4,0.8,0.0,3.4,1.9,47.8,4.7,0.0,22.8,12.5,154.0,110.0,7.9,Jeff Teague,,MIN,True,True
+gibsota01,32.13333333333333,0.609,0.545,0.091,0.273,4.1,17.0,11.2,0.0,0.0,0.0,7.5,19.1,115.0,115.0,-7.8,Taj Gibson,,MIN,True,True
+crawfja01,21.583333333333332,0.721,0.643,0.857,0.429,6.2,0.0,2.8,7.3,0.0,0.0,10.7,19.9,131.0,122.0,0.2,Jamal Crawford,,MIN,True,False
+bjeline01,15.816666666666666,0.5,0.5,0.667,0.0,8.4,6.9,7.6,26.8,0.0,4.8,25.0,11.7,111.0,117.0,3.0,Nemanja Bjelica,,MIN,True,False
+jonesty01,15.65,0.41,0.25,0.25,0.5,0.0,20.9,11.5,27.1,9.7,0.0,17.0,17.3,95.0,93.0,2.2,Tyus Jones,,MIN,True,False
+dienggo01,11.316666666666666,0.17,0.0,0.2,0.4,23.6,9.6,15.9,0.0,0.0,0.0,25.4,32.1,48.0,118.0,-33.5,Gorgui Dieng,,MIN,True,False
+muhamsh01,,,,,,,,,,,,,,,,,Shabazz Muhammad,Did Not Play,MIN,True,False
+georgma01,,,,,,,,,,,,,,,,,Marcus Georges-Hunt,Did Not Play,MIN,True,False
+brookaa01,,,,,,,,,,,,,,,,,Aaron Brooks,Did Not Play,MIN,True,False
+aldrico01,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,True,False

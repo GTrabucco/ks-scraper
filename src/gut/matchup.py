@@ -10,10 +10,10 @@ import pandas as pd
 import pathlib
 
 class Matchup():
-	def __init__(self, date, day, season, team, opponent, site, final_score, rest, line, total, su_margin, ats_margin, ou_margin, dps, dpa, su_record, ats_record, ou_record, ot):
+	def __init__(self, date, day, season, team, opponent, site, final_score, rest, line, total, su_margin, ats_margin, ou_margin, dps, dpa, su_record, ats_record, ou_record, ot, load_lineup=False):
 		self.date = date
 		self.day = day
-		self.season = season
+		self.season = str(season)
 		self.team = team
 		self.opponent = opponent
 		self.site = site
@@ -30,7 +30,7 @@ class Matchup():
 		self.dpa = float(dpa)
 		self.su_record = su_record
 		self.ats_record = ats_record
-		self.ou_record = ou_record
+		self.ou_record = str(ou_record)
 		self.ot = re.sub('[^0-9a-zA-Z]+', '', ot)
 		self.lineup = []
 		self.opponent_lineup = []
@@ -40,7 +40,10 @@ class Matchup():
 		self.pfs = 0
 		self.fg3as = 0
 		self.stls = 0
-		self._get_lineup_info()
+		self.ts = 0
+		self.opp_ts = 0
+		if load_lineup == True:
+			self._get_lineup_info()
 
 	def _get_lineup_info(self):
 		team_id = 0
@@ -51,21 +54,35 @@ class Matchup():
 				team_id = abbr
 
 		boxscore_id = self.date.strftime(f"%Y%m%d{team_id}")
-		path = os.path.abspath(os.path.join(os.path.dirname(__file__),f"../../data/boxscores/{self.season}/{boxscore_id}.csv"))
+		path = os.path.abspath(os.path.join(os.path.dirname(__file__),f"../../data/boxscores_basic_stats/{self.season}/{boxscore_id}.csv"))
+		path_adv_stats = os.path.abspath(os.path.join(os.path.dirname(__file__),f"../../data/boxscores_advanced_stats/{self.season}/{boxscore_id}.csv"))
 		try:
 			if not os.path.isfile(path):
 				b = sportsref.nba.BoxScore(boxscore_id)
 				lineups = b.basic_stats()
 				lineups.to_csv(path, index=False, header=True)
+
+			if not os.path.isfile(path_adv_stats):
+				b = sportsref.nba.BoxScore(boxscore_id)
+				lineups_adv_stats = b.advanced_stats()
+				lineups_adv_stats.to_csv(path_adv_stats, index=False, header=True)
+				lineup_adv_stats = pd.read_csv(path_adv_stats)				
+		
+			lineups = pd.read_csv(path)
+			self.lineup = Lineup(lineups.loc[lineups['is_home'] == (self.site == 'home')], 'basic')
+			self.turnovers = sum([player.tov for player in self.lineup.lineup if player.tov > 0])
+			self.assists = sum([player.ast for player in self.lineup.lineup if player.ast > 0])
+			self.ftas = sum([player.fta for player in self.lineup.lineup if player.fta > 0])
+			self.pfs = sum([player.pf for player in self.lineup.lineup if player.pf > 0])
+			self.fg3as = sum([player.fg3a for player in self.lineup.lineup if player.fg3a > 0])
+			self.stls = sum([player.stl for player in self.lineup.lineup if player.stl > 0])
+			self.opponent_lineup = Lineup(lineups.loc[lineups['is_home'] != (self.site == 'home')], 'basic')
+			self.ts = self.lineup.ts
+			self.opp_ts = self.opponent_lineup.ts
+
+			#lineup_adv_stats = pd.read_csv(path_adv_stats)
+			#self.lineup_adv_stats = Lineup(lineup_adv_stats.loc[lineups['is_home'] == (self.site == 'home')], 'advanced')
+			#self.opponent_lineup_adv_stats = Lineup(lineup_adv_stats.loc[lineups['is_home'] != (self.site == 'home')], 'advanced')
+			
 		except Exception as e:
 			print('get_lineup_info', e, self.team, self.opponent)
-
-		lineups = pd.read_csv(path)
-		self.lineup = Lineup(lineups.loc[lineups['is_home'] == (self.site == 'home')])
-		self.turnovers = sum([player.tov for player in self.lineup.lineup if player.tov > 0])
-		self.assists = sum([player.ast for player in self.lineup.lineup if player.ast > 0])
-		self.ftas = sum([player.fta for player in self.lineup.lineup if player.fta > 0])
-		self.pfs = sum([player.pf for player in self.lineup.lineup if player.pf > 0])
-		self.fg3as = sum([player.fg3a for player in self.lineup.lineup if player.fg3a > 0])
-		self.stls = sum([player.stl for player in self.lineup.lineup if player.stl > 0])
-		self.opponent_lineup = Lineup(lineups.loc[lineups['is_home'] != (self.site == 'home')])

@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+harrijo01,33.516666666666666,0.435,0.35,0.6,0.6,2.7,10.1,6.5,10.0,0.0,0.0,19.2,18.1,83.0,112.0,-8.8,Joe Harris,,BRK,False,True
+russeda01,31.033333333333335,0.357,0.326,0.522,0.217,2.9,5.4,4.2,39.1,1.5,0.0,3.8,32.7,91.0,111.0,-3.5,D'Angelo Russell,,BRK,False,True
+allenja01,29.7,0.767,0.833,0.0,2.667,21.0,14.2,17.5,13.0,1.5,2.5,7.1,18.3,159.0,105.0,10.5,Jarrett Allen,,BRK,False,True
+crabbal01,27.6,0.355,0.227,0.636,0.636,3.2,9.2,6.3,0.0,1.6,2.7,6.6,21.2,79.0,108.0,-8.8,Allen Crabbe,,BRK,False,True
+kurucro01,20.716666666666665,1.015,1.0,0.714,0.286,8.6,16.3,12.5,10.8,2.2,0.0,11.3,16.6,170.0,104.0,15.4,Rodions Kurucs,,BRK,False,True
+dinwisp01,30.333333333333332,0.656,0.643,0.5,0.571,0.0,16.7,8.6,50.5,0.0,2.5,10.2,25.0,131.0,107.0,8.9,Spencer Dinwiddie,,BRK,False,False
+carrode01,27.55,0.666,0.625,0.625,0.5,0.0,15.3,7.8,0.0,3.3,0.0,23.5,18.0,97.0,102.0,-1.2,DeMarre Carroll,,BRK,False,False
+leverca01,21.233333333333334,0.167,0.167,0.333,0.0,4.2,15.9,10.2,7.4,2.1,0.0,25.0,14.6,42.0,105.0,-12.1,Caris LeVert,,BRK,False,False
+davised01,18.3,0.137,0.0,0.0,6.0,9.7,27.6,18.9,15.9,0.0,0.0,0.0,7.7,80.0,103.0,-4.1,Ed Davis,,BRK,False,False
+pinsoth01,,,,,,,,,,,,,,,,,Theo Pinson,Did Not Play,BRK,False,False
+dudleja01,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Play,BRK,False,False
+holliro01,,,,,,,,,,,,,,,,,Rondae Hollis-Jefferson,Did Not Play,BRK,False,False
+collijo01,29.916666666666668,0.689,0.65,0.05,0.45,16.9,38.6,27.5,17.7,1.5,3.8,7.7,32.3,137.0,95.0,17.9,John Collins,,ATL,True,True
+lenal01,29.4,0.536,0.536,0.5,0.0,5.7,6.0,5.9,0.0,0.0,3.9,6.7,19.0,108.0,113.0,-3.3,Alex Len,,ATL,True,True
+princta02,29.0,0.591,0.591,0.545,0.0,2.9,6.1,4.5,21.5,1.6,0.0,8.3,15.4,124.0,111.0,3.4,Taurean Waller-Prince,,ATL,True,True
+youngtr01,28.65,0.547,0.357,0.286,1.143,8.8,21.7,15.1,57.1,1.6,0.0,8.7,29.9,129.0,105.0,15.4,Trae Young,,ATL,True,True
+huertke01,23.716666666666665,0.225,0.125,0.25,0.25,3.6,15.0,9.1,5.5,0.0,0.0,10.1,15.5,59.0,110.0,-13.8,Kevin Huerter,,ATL,True,True
+cartevi01,25.55,0.349,0.308,0.462,0.231,3.3,3.5,3.4,6.0,5.3,0.0,0.0,20.8,87.0,104.0,-2.2,Vince Carter,,ATL,True,False
+adamsja01,19.35,0.25,0.25,1.0,0.0,4.4,9.2,6.7,20.4,0.0,0.0,14.3,13.5,73.0,114.0,-6.7,Jaylen Adams,,ATL,True,False
+bazemke01,19.316666666666666,0.363,0.25,0.5,0.333,0.0,18.4,9.0,0.0,0.0,0.0,12.7,15.2,74.0,108.0,-12.7,Kent Bazemore,,ATL,True,False
+bembrde01,18.316666666666666,0.375,0.375,0.25,0.0,4.6,4.9,4.7,0.0,2.5,0.0,0.0,16.2,89.0,110.0,-4.4,DeAndre' Bembry,,ATL,True,False
+zellety01,7.0,0.0,0.0,0.5,0.0,24.1,25.4,24.7,0.0,0.0,0.0,0.0,10.6,58.0,105.0,-15.6,Tyler Zeller,,ATL,True,False
+johnsbj01,5.65,0.0,0.0,1.0,0.0,0.0,15.7,7.7,0.0,0.0,0.0,33.3,19.7,0.0,107.0,-33.4,B.J. Johnson,,ATL,True,False
+anderju01,4.083333333333333,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.1,0.0,118.0,-14.5,Justin Anderson,,ATL,True,False

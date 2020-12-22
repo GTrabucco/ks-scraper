@@ -329,7 +329,7 @@ for matchup in t.schedule:
 	r = Rotation(players, matchup.team, matchup.season)
 	o_r = Rotation(opp_players, matchup.opponent, matchup.season)
 
-	v = r.get_formatted_data()
+	v = r.get_formatted_data() + o_r.get_formatted_data()
 
 	if last_matchup == None:
 		last_matchup_pfs = 0

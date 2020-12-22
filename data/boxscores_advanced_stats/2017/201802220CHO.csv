@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+dinwisp01,33.68333333333333,0.416,0.393,0.357,0.071,0.0,13.3,6.0,44.4,0.0,2.2,6.5,20.3,103.0,121.0,-4.2,Spencer Dinwiddie,,BRK,False,True
+russeda01,32.4,0.519,0.471,0.471,0.176,0.0,13.8,6.2,28.9,0.0,2.2,14.1,29.2,97.0,120.0,-3.8,D'Angelo Russell,,BRK,False,True
+carrode01,32.38333333333333,0.253,0.182,0.364,0.182,8.6,6.9,7.8,9.0,0.0,2.2,7.8,17.7,71.0,123.0,-12.6,DeMarre Carroll,,BRK,False,True
+crabbal01,31.0,0.367,0.367,0.467,0.0,3.0,3.6,3.3,10.4,3.3,0.0,0.0,21.5,84.0,118.0,-5.2,Allen Crabbe,,BRK,False,True
+allenja01,26.283333333333335,0.571,0.571,0.0,0.286,10.5,17.0,13.5,12.7,1.9,5.5,11.3,15.0,117.0,113.0,0.1,Jarrett Allen,,BRK,False,True
+harrijo01,29.083333333333332,0.676,0.688,0.625,0.25,3.2,3.8,3.5,11.2,3.5,2.5,18.4,16.6,108.0,116.0,3.3,Joe Harris,,BRK,False,False
+cunnida01,26.733333333333334,0.799,0.833,0.583,0.333,10.4,37.6,22.7,33.2,0.0,2.7,0.0,22.8,161.0,113.0,21.3,Dante Cunningham,,BRK,False,False
+acyqu01,24.233333333333334,0.25,0.25,1.0,0.0,0.0,23.0,10.4,5.8,2.1,3.0,14.3,12.8,51.0,112.0,-9.1,Quincy Acy,,BRK,False,False
+whiteis01,2.1,0.333,0.333,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.4,67.0,126.0,-26.4,Isaiah Whitehead,,BRK,False,False
+stausni01,2.1,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,127.0,-11.8,Nik Stauskas,,BRK,False,False
+okafoja01,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,BRK,False,False
+mozgoti01,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,BRK,False,False
+walkeke02,35.016666666666666,0.665,0.636,0.364,0.136,0.0,0.0,0.0,37.6,2.9,0.0,4.1,30.4,140.0,104.0,14.5,Kemba Walker,,CHO,True,True
+batumni01,31.8,0.625,0.625,0.5,0.0,0.0,14.5,7.9,29.4,1.6,3.0,20.0,13.7,121.0,100.0,4.9,Nicolas Batum,,CHO,True,True
+howardw01,29.9,0.439,0.429,0.0,0.5,29.9,49.4,40.6,5.0,0.0,3.2,14.9,29.4,98.0,90.0,-5.0,Dwight Howard,,CHO,True,True
+willima02,25.85,0.619,0.563,0.625,0.25,0.0,7.1,3.9,10.2,0.0,3.7,25.3,20.1,97.0,106.0,-2.6,Marvin Williams,,CHO,True,True
+kiddgmi01,23.55,0.707,0.571,0.0,0.714,9.5,11.8,10.7,6.0,0.0,4.1,9.8,18.9,143.0,104.0,3.5,Michael Kidd-Gilchrist,,CHO,True,True
+lambje01,23.066666666666666,0.409,0.409,0.182,0.0,0.0,16.0,8.8,24.7,0.0,0.0,0.0,20.8,106.0,105.0,-2.8,Jeremy Lamb,,CHO,True,False
+kaminfr01,22.15,0.368,0.3,0.4,0.2,10.1,20.8,16.0,21.8,0.0,0.0,0.0,10.7,128.0,103.0,2.1,Frank Kaminsky,,CHO,True,False
+zelleco01,16.716666666666665,0.68,0.6,0.0,0.4,6.7,11.0,9.1,8.6,0.0,0.0,0.0,15.4,154.0,107.0,2.7,Cody Zeller,,CHO,True,False
+cartemi01,16.016666666666666,0.75,0.75,0.0,0.0,0.0,5.8,3.2,18.2,0.0,6.0,33.3,16.4,100.0,105.0,-0.1,Michael Carter-Williams,,CHO,True,False
+grahatr01,11.783333333333333,0.5,0.5,0.0,0.0,0.0,7.8,4.3,0.0,0.0,0.0,0.0,7.4,105.0,108.0,-8.9,Treveon Graham,,CHO,True,False
+hernawi01,1.3833333333333333,,,,,0.0,100.0,73.1,0.0,0.0,69.4,,0.0,0.0,14.0,31.5,Willy Hernangómez,,CHO,True,False
+bacondw01,1.3833333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,111.0,-5.2,Dwayne Bacon,,CHO,True,False
+monkma01,1.3833333333333333,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.7,94.8,38.0,111.0,-45.5,Malik Monk,,CHO,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+drumman01,40.7,8.0,18.0,0.444,0.0,0.0,,1.0,2.0,0.5,4.0,13.0,17.0,3.0,1.0,0.0,2.0,5.0,17.0,-5.0,Andre Drummond,,DET,False,True
+caldwke01,33.03333333333333,4.0,15.0,0.267,2.0,5.0,0.4,0.0,1.0,0.0,1.0,2.0,3.0,2.0,2.0,0.0,0.0,1.0,10.0,0.0,Kentavious Caldwell-Pope,,DET,False,True
+morrima03,31.533333333333335,3.0,12.0,0.25,0.0,3.0,0.0,1.0,3.0,0.333,3.0,4.0,7.0,2.0,1.0,2.0,0.0,3.0,7.0,4.0,Marcus Morris,,DET,False,True
+ilyaser01,28.85,2.0,10.0,0.2,1.0,4.0,0.25,1.0,2.0,0.5,2.0,4.0,6.0,0.0,0.0,0.0,1.0,2.0,6.0,-6.0,Ersan İlyasova,,DET,False,True
+jacksre01,24.283333333333335,4.0,11.0,0.364,1.0,4.0,0.25,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,0.0,5.0,1.0,9.0,-13.0,Reggie Jackson,,DET,False,True
+dinwisp01,23.716666666666665,6.0,9.0,0.667,1.0,3.0,0.333,4.0,5.0,0.8,0.0,2.0,2.0,4.0,0.0,0.0,1.0,4.0,17.0,1.0,Spencer Dinwiddie,,DET,False,False
+tollian01,19.15,1.0,6.0,0.167,1.0,5.0,0.2,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,3.0,-6.0,Anthony Tolliver,,DET,False,False
+johnsst04,16.466666666666665,2.0,6.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,2.0,0.0,1.0,5.0,4.0,-16.0,Stanley Johnson,,DET,False,False
+bullore01,14.966666666666667,1.0,4.0,0.25,1.0,1.0,1.0,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,-12.0,Reggie Bullock,,DET,False,False
+baynear01,7.3,4.0,5.0,0.8,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,9.0,-7.0,Aron Baynes,,DET,False,False
+anthojo01,,,,,,,,,,,,,,,,,,,,,Joel Anthony,Did Not Play,DET,False,False
+blakest01,,,,,,,,,,,,,,,,,,,,,Steve Blake,Did Not Play,DET,False,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,False,False
+bryanko01,35.71666666666667,6.0,19.0,0.316,1.0,4.0,0.25,4.0,4.0,1.0,0.0,8.0,8.0,9.0,2.0,0.0,4.0,3.0,17.0,14.0,Kobe Bryant,,LAL,True,True
+randlju01,30.65,3.0,8.0,0.375,0.0,0.0,,2.0,3.0,0.667,3.0,5.0,8.0,2.0,1.0,1.0,2.0,2.0,8.0,-3.0,Julius Randle,,LAL,True,True
+clarkjo01,29.233333333333334,5.0,10.0,0.5,2.0,4.0,0.5,5.0,8.0,0.625,0.0,6.0,6.0,3.0,0.0,0.0,5.0,4.0,17.0,0.0,Jordan Clarkson,,LAL,True,True
+hibbero01,28.3,3.0,6.0,0.5,0.0,0.0,,6.0,8.0,0.75,0.0,7.0,7.0,1.0,0.0,2.0,1.0,2.0,12.0,2.0,Roy Hibbert,,LAL,True,True
+russeda01,20.9,3.0,9.0,0.333,1.0,6.0,0.167,2.0,2.0,1.0,0.0,5.0,5.0,2.0,0.0,0.0,1.0,0.0,9.0,-7.0,D'Angelo Russell,,LAL,True,True
+youngni01,25.9,4.0,6.0,0.667,2.0,2.0,1.0,3.0,3.0,1.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,13.0,20.0,Nick Young,,LAL,True,False
+willilo02,19.966666666666665,1.0,4.0,0.25,0.0,1.0,0.0,2.0,4.0,0.5,0.0,2.0,2.0,4.0,0.0,0.0,1.0,2.0,4.0,11.0,Lou Williams,,LAL,True,False
+bassbr01,19.7,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,2.0,0.0,2.0,1.0,1.0,6.0,10.0,Brandon Bass,,LAL,True,False
+nancela02,17.35,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,0.0,1.0,0.0,0.0,1.0,6.0,15.0,Larry Nance,,LAL,True,False
+artesro01,12.283333333333333,0.0,3.0,0.0,0.0,2.0,0.0,5.0,7.0,0.714,1.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,5.0,-2.0,Metta World Peace,,LAL,True,False
+blackta01,,,,,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,LAL,True,False
+huertma01,,,,,,,,,,,,,,,,,,,,,Marcelo Huertas,Did Not Play,LAL,True,False
+kellyry01,,,,,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,LAL,True,False

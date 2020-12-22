@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+richajo01,38.36666666666667,0.709,0.722,0.444,0.222,3.2,5.8,4.6,13.6,1.3,0.0,16.8,14.1,125.0,110.0,1.2,Josh Richardson,,MIA,False,True
+dragigo01,30.733333333333334,0.563,0.531,0.25,0.25,4.0,7.3,5.7,46.1,1.6,0.0,18.4,32.3,111.0,109.0,0.9,Goran Dragić,,MIA,False,True
+whiteha01,28.3,0.735,0.7,0.0,0.2,8.7,51.3,31.0,5.4,0.0,9.8,15.5,20.8,127.0,95.0,5.5,Hassan Whiteside,,MIA,False,True
+olynyke01,27.283333333333335,0.619,0.625,0.5,0.25,4.5,8.2,6.4,4.9,1.8,0.0,25.3,19.9,93.0,109.0,-5.7,Kelly Olynyk,,MIA,False,True
+jonesde02,20.766666666666666,0.621,0.667,0.167,0.167,5.9,0.0,2.8,6.8,2.3,3.3,13.4,16.3,112.0,107.0,0.9,Derrick Jones,,MIA,False,True
+ellinwa01,32.666666666666664,0.558,0.538,0.769,0.077,0.0,17.1,9.0,8.2,0.0,2.1,0.0,18.8,115.0,109.0,1.7,Wayne Ellington,,MIA,False,False
+adebaba01,31.183333333333334,0.579,0.444,0.111,1.0,0.0,7.2,3.8,20.9,1.6,0.0,7.2,20.4,125.0,110.0,3.1,Bam Adebayo,,MIA,False,False
+johnsty01,30.7,0.75,0.75,0.6,0.0,0.0,18.2,9.5,9.3,1.6,0.0,16.7,17.8,119.0,107.0,2.5,Tyler Johnson,,MIA,False,False
+winslju01,,,,,,,,,,,,,,,,,Justise Winslow,Not With Team,MIA,False,False
+waltode01,,,,,,,,,,,,,,,,,Derrick Walton,Did Not Play,MIA,False,False
+mickejo01,,,,,,,,,,,,,,,,,Jordan Mickey,Did Not Play,MIA,False,False
+johnsja01,,,,,,,,,,,,,,,,,James Johnson,Player Suspended,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+oladivi01,37.766666666666666,0.503,0.429,0.286,0.524,3.0,19.6,10.8,16.1,3.9,0.0,13.4,33.3,100.0,110.0,1.9,Victor Oladipo,,IND,True,True
+bogdabo02,32.35,0.588,0.545,0.364,0.364,0.0,22.8,10.9,0.0,0.0,0.0,7.3,17.9,116.0,119.0,-2.5,Bojan Bogdanović,,IND,True,True
+sabondo01,30.9,0.551,0.533,0.0,0.2,10.8,19.9,15.2,0.0,0.0,0.0,19.7,27.7,97.0,119.0,-6.9,Domantas Sabonis,,IND,True,True
+youngth01,29.4,0.711,0.75,0.0,0.125,15.2,20.9,17.9,4.9,1.7,3.2,10.6,13.5,139.0,113.0,7.9,Thaddeus Young,,IND,True,True
+collida01,27.333333333333332,0.658,0.5,0.0,0.75,0.0,0.0,0.0,13.3,3.6,3.4,0.0,8.2,155.0,111.0,4.6,Darren Collison,,IND,True,True
+josepco01,26.683333333333334,0.282,0.25,0.375,0.25,4.2,9.2,6.6,4.6,0.0,0.0,10.1,15.6,68.0,121.0,-9.9,Cory Joseph,,IND,True,False
+stephla01,24.683333333333334,0.609,0.591,0.364,0.273,9.0,29.9,19.0,24.8,0.0,0.0,0.0,21.1,143.0,118.0,10.2,Lance Stephenson,,IND,True,False
+jeffeal01,17.1,0.4,0.4,0.0,0.0,0.0,14.4,6.8,0.0,0.0,5.5,28.6,17.3,59.0,115.0,-12.1,Al Jefferson,,IND,True,False
+leaftj01,8.483333333333333,0.5,0.5,0.5,0.0,13.2,0.0,6.9,0.0,0.0,0.0,33.3,14.9,82.0,122.0,-7.2,T.J. Leaf,,IND,True,False
+youngjo01,5.3,0.347,0.5,0.0,1.0,0.0,23.2,11.0,0.0,9.2,0.0,0.0,22.9,72.0,98.0,2.9,Joe Young,,IND,True,False
+poythal01,,,,,,,,,,,,,,,,,Alex Poythress,Did Not Play,IND,True,False

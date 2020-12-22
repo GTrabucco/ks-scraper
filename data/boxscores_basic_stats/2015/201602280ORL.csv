@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+smithis01,36.06666666666667,6.0,12.0,0.5,1.0,3.0,0.333,4.0,5.0,0.8,0.0,5.0,5.0,7.0,0.0,0.0,5.0,2.0,17.0,-11.0,Ish Smith,,PHI,False,True
+covinro01,30.166666666666668,3.0,8.0,0.375,1.0,5.0,0.2,7.0,8.0,0.875,0.0,5.0,5.0,1.0,1.0,0.0,2.0,4.0,14.0,-4.0,Robert Covington,,PHI,False,True
+okafoja01,28.033333333333335,12.0,18.0,0.667,0.0,1.0,0.0,2.0,4.0,0.5,2.0,1.0,3.0,3.0,0.0,0.0,3.0,3.0,26.0,-14.0,Jahlil Okafor,,PHI,False,True
+stausni01,20.05,1.0,3.0,0.333,0.0,1.0,0.0,2.0,3.0,0.667,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,4.0,-18.0,Nik Stauskas,,PHI,False,True
+noelne01,17.133333333333333,4.0,7.0,0.571,0.0,0.0,,2.0,2.0,1.0,1.0,2.0,3.0,0.0,0.0,1.0,1.0,1.0,10.0,-23.0,Nerlens Noel,,PHI,False,True
+grantje01,38.4,4.0,7.0,0.571,0.0,2.0,0.0,5.0,8.0,0.625,0.0,8.0,8.0,1.0,3.0,5.0,3.0,4.0,13.0,5.0,Jerami Grant,,PHI,False,False
+canaais01,33.75,6.0,13.0,0.462,3.0,9.0,0.333,3.0,3.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,1.0,3.0,18.0,1.0,Isaiah Canaan,,PHI,False,False
+mccontj01,20.266666666666666,1.0,5.0,0.2,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,2.0,1.0,T.J. McConnell,,PHI,False,False
+holmeri01,16.133333333333333,4.0,4.0,1.0,0.0,0.0,,4.0,4.0,1.0,0.0,4.0,4.0,0.0,1.0,1.0,1.0,2.0,12.0,-7.0,Richaun Holmes,,PHI,False,False
+brandel01,,,,,,,,,,,,,,,,,,,,,Elton Brand,Did Not Play,PHI,False,False
+landrca01,,,,,,,,,,,,,,,,,,,,,Carl Landry,Did Not Play,PHI,False,False
+marshke01,,,,,,,,,,,,,,,,,,,,,Kendall Marshall,Did Not Play,PHI,False,False
+thompho01,,,,,,,,,,,,,,,,,,,,,Hollis Thompson,Did Not Dress,PHI,False,False
+oladivi01,43.88333333333333,9.0,17.0,0.529,2.0,4.0,0.5,8.0,9.0,0.889,0.0,1.0,1.0,3.0,4.0,0.0,0.0,3.0,28.0,16.0,Victor Oladipo,,ORL,True,True
+gordoaa01,35.9,7.0,10.0,0.7,2.0,2.0,1.0,6.0,6.0,1.0,1.0,6.0,7.0,3.0,1.0,2.0,1.0,1.0,22.0,15.0,Aaron Gordon,,ORL,True,True
+paytoel01,32.666666666666664,4.0,9.0,0.444,0.0,0.0,,3.0,4.0,0.75,2.0,2.0,4.0,10.0,1.0,1.0,5.0,3.0,11.0,11.0,Elfrid Payton,,ORL,True,True
+vucevni01,27.55,13.0,18.0,0.722,0.0,0.0,,2.0,3.0,0.667,2.0,4.0,6.0,1.0,1.0,0.0,4.0,6.0,28.0,6.0,Nikola Vučević,,ORL,True,True
+hezonma01,27.2,5.0,9.0,0.556,2.0,3.0,0.667,1.0,1.0,1.0,0.0,2.0,2.0,3.0,1.0,0.0,1.0,5.0,13.0,9.0,Mario Hezonja,,ORL,True,True
+watsocj01,23.833333333333332,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,3.0,7.0,C.J. Watson,,ORL,True,False
+smithja02,20.45,5.0,12.0,0.417,0.0,0.0,,2.0,2.0,1.0,1.0,4.0,5.0,0.0,0.0,1.0,0.0,2.0,12.0,8.0,Jason Smith,,ORL,True,False
+jennibr01,16.416666666666668,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,5.0,0.0,2.0,0.0,2.0,3.0,-1.0,Brandon Jennings,,ORL,True,False
+ilyaser01,12.1,4.0,5.0,0.8,2.0,3.0,0.667,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,3.0,10.0,-1.0,Ersan İlyasova,,ORL,True,False
+dedmode01,,,,,,,,,,,,,,,,,,,,,Dewayne Dedmon,Did Not Play,ORL,True,False
+marblde01,,,,,,,,,,,,,,,,,,,,,Devyn Marble,Did Not Play,ORL,True,False
+napiesh01,,,,,,,,,,,,,,,,,,,,,Shabazz Napier,Did Not Play,ORL,True,False
+nichoan01,,,,,,,,,,,,,,,,,,,,,Andrew Nicholson,Did Not Play,ORL,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,36.516666666666666,0.536,0.469,0.5,0.375,6.3,26.3,16.0,26.2,2.7,0.0,5.1,24.0,121.0,107.0,6.9,Paul George,,IND,False,True
+ellismo01,36.516666666666666,0.594,0.538,0.308,0.231,0.0,16.4,8.0,32.0,4.1,2.1,17.3,21.1,112.0,104.0,4.2,Monta Ellis,,IND,False,True
+hillge01,36.15,0.68,0.65,0.7,0.4,0.0,10.0,4.9,12.7,1.4,0.0,14.5,17.0,119.0,113.0,0.4,George Hill,,IND,False,True
+mahinia01,30.55,0.644,0.5,0.0,0.667,0.0,11.8,5.7,4.7,1.6,5.0,11.4,12.8,121.0,107.0,-1.4,Ian Mahinmi,,IND,False,True
+turnemy01,19.316666666666666,0.697,0.611,0.111,0.444,11.8,31.1,21.2,0.0,0.0,3.9,8.5,27.1,133.0,109.0,3.5,Myles Turner,,IND,False,True
+stuckro01,23.333333333333332,0.694,0.5,0.4,1.0,0.0,5.1,2.5,12.1,4.2,3.3,29.4,19.5,105.0,104.0,2.2,Rodney Stuckey,,IND,False,False
+hillso01,20.783333333333335,0.5,0.5,0.25,0.0,11.0,28.9,19.7,16.1,0.0,0.0,0.0,17.1,121.0,113.0,-0.6,Solomon Hill,,IND,False,False
+hilljo01,16.9,0.661,0.571,0.0,0.429,13.5,7.1,10.4,10.7,2.9,0.0,19.4,27.2,116.0,110.0,0.2,Jordan Hill,,IND,False,False
+milescj01,11.483333333333333,0.3,0.3,0.8,0.0,0.0,0.0,0.0,0.0,0.0,6.6,16.7,23.3,51.0,111.0,-13.6,C.J. Miles,,IND,False,False
+allenla01,8.433333333333334,0.5,0.5,0.0,0.0,13.6,28.5,20.8,35.2,0.0,0.0,0.0,10.6,146.0,113.0,2.5,Lavoy Allen,,IND,False,False
+robingl02,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,False,False
+lawsoty01,,,,,,,,,,,,,,,,,Ty Lawson,Did Not Dress,IND,False,False
+youngjo01,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,False,False
+parsoch01,40.78333333333333,0.462,0.462,0.231,0.0,0.0,14.0,7.2,16.8,1.2,0.0,7.1,15.6,97.0,117.0,-2.7,Chandler Parsons,,DAL,True,True
+matthwe02,35.833333333333336,0.577,0.577,0.308,0.0,0.0,15.9,8.2,25.4,2.8,0.0,13.3,19.0,107.0,113.0,3.9,Wesley Matthews,,DAL,True,True
+nowitdi01,35.31666666666667,0.768,0.719,0.313,0.5,0.0,16.2,8.3,9.9,2.8,0.0,0.0,25.0,152.0,113.0,14.5,Dirk Nowitzki,,DAL,True,True
+willide01,32.35,0.514,0.4,0.5,0.6,0.0,10.6,5.4,32.5,3.1,0.0,28.3,24.7,91.0,113.0,-2.4,Deron Williams,,DAL,True,True
+pachuza01,17.316666666666666,0.333,0.333,0.0,0.0,27.7,33.0,30.4,8.5,0.0,0.0,0.0,23.6,96.0,115.0,-6.5,Zaza Pachulia,,DAL,True,True
+bareajo01,23.716666666666665,0.625,0.625,0.125,0.0,5.1,9.6,7.4,32.8,0.0,0.0,20.0,19.1,113.0,121.0,0.1,J.J. Barea,,DAL,True,False
+leeda02,19.183333333333334,0.833,0.833,0.0,0.0,12.5,35.7,24.4,8.8,0.0,4.7,14.3,16.5,140.0,111.0,4.0,David Lee,,DAL,True,False
+feltora01,18.116666666666667,0.4,0.4,0.2,0.0,0.0,6.3,3.2,7.4,0.0,0.0,16.7,15.0,71.0,121.0,-13.8,Raymond Felton,,DAL,True,False
+harride01,17.383333333333333,0.37,0.2,0.6,0.8,0.0,6.6,3.4,7.2,0.0,0.0,12.9,20.2,75.0,121.0,-13.4,Devin Harris,,DAL,True,False
+anderju01,,,,,,,,,,,,,,,,,Justin Anderson,Did Not Play,DAL,True,False
+mejrisa01,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,True,False
+poweldw01,,,,,,,,,,,,,,,,,Dwight Powell,Did Not Play,DAL,True,False
+villach01,,,,,,,,,,,,,,,,,Charlie Villanueva,Did Not Play,DAL,True,False

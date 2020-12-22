@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+russeda01,21.066666666666666,0.429,0.429,0.214,0.0,5.0,14.2,9.7,56.2,0.0,3.9,36.4,40.5,67.0,104.0,-13.0,D'Angelo Russell,,BRK,False,True
+crabbal01,18.9,0.188,0.188,0.875,0.0,0.0,15.9,8.1,14.3,4.5,0.0,11.1,18.5,47.0,97.0,-7.6,Allen Crabbe,,BRK,False,True
+carrode01,17.816666666666666,0.654,0.583,0.5,0.333,11.7,22.5,17.2,9.0,0.0,0.0,30.4,21.5,98.0,105.0,-5.1,DeMarre Carroll,,BRK,False,True
+dinwisp01,17.066666666666666,0.417,0.417,0.333,0.0,0.0,11.7,6.0,17.4,0.0,0.0,0.0,13.6,98.0,108.0,-5.6,Spencer Dinwiddie,,BRK,False,True
+mozgoti01,15.75,0.814,0.7,0.6,0.8,19.9,19.0,19.5,0.0,0.0,0.0,22.8,21.6,131.0,106.0,1.1,Timofey Mozgov,,BRK,False,True
+zellety01,27.783333333333335,0.831,0.8,0.0,0.6,0.0,18.0,9.2,0.0,1.5,2.9,0.0,17.7,167.0,101.0,7.9,Tyler Zeller,,BRK,False,False
+leverca01,25.6,0.604,0.611,0.222,0.444,0.0,11.7,6.0,13.1,0.0,6.4,15.7,19.3,103.0,103.0,0.8,Caris LeVert,,BRK,False,False
+harrijo01,21.9,0.551,0.5,0.6,0.2,0.0,13.7,7.0,0.0,3.9,0.0,15.5,11.4,91.0,99.0,-1.8,Joe Harris,,BRK,False,False
+wileyja01,21.066666666666666,0.515,0.5,0.333,0.667,5.0,33.2,19.4,6.4,2.0,0.0,0.0,7.1,122.0,99.0,-0.3,Jacob Wiley,,BRK,False,False
+kilpase01,20.466666666666665,0.442,0.417,0.417,0.083,0.0,9.8,5.0,24.6,2.1,0.0,24.3,31.2,73.0,103.0,-6.6,Sean Kilpatrick,,BRK,False,False
+acyqu01,17.533333333333335,0.34,0.3,1.0,0.4,6.0,11.4,8.7,7.8,2.5,0.0,25.4,17.4,64.0,102.0,-7.8,Quincy Acy,,BRK,False,False
+whiteis01,15.05,0.417,0.417,0.167,0.0,0.0,13.3,6.8,40.3,11.4,10.8,25.0,20.6,82.0,74.0,16.5,Isaiah Whitehead,,BRK,False,False
+holliro01,,,,,,,,,,,,,,,,,Rondae Hollis-Jefferson,Did Not Dress,BRK,False,False
+chandwi01,34.85,0.414,0.35,0.4,0.2,5.7,24.0,14.7,0.0,0.0,2.6,15.5,14.7,79.0,99.0,-8.8,Wilson Chandler,,DEN,True,True
+jokicni01,31.366666666666667,0.742,0.72,0.36,0.24,6.4,33.3,19.5,39.2,2.7,5.7,3.5,36.3,145.0,88.0,23.6,Nikola Jokić,,DEN,True,True
+harriga01,30.0,0.375,0.375,0.333,0.0,0.0,13.9,6.8,21.3,8.6,0.0,7.7,17.2,87.0,83.0,2.4,Gary Harris,,DEN,True,True
+millspa01,25.516666666666666,0.666,0.682,0.364,0.364,0.0,8.2,4.0,18.3,3.4,7.0,13.6,23.0,115.0,91.0,7.9,Paul Millsap,,DEN,True,True
+murraja01,25.416666666666668,0.41,0.25,0.5,0.5,7.9,0.0,4.0,17.9,3.4,0.0,45.0,13.9,75.0,98.0,-6.7,Jamal Murray,,DEN,True,True
+bartowi01,31.116666666666667,0.535,0.533,0.4,0.133,0.0,26.8,13.1,18.6,1.4,5.7,20.1,25.4,89.0,93.0,-1.8,Will Barton,,DEN,True,False
+mudiaem01,21.8,0.167,0.167,0.333,0.0,9.2,4.8,7.0,10.5,0.0,0.0,25.0,14.6,54.0,104.0,-15.5,Emmanuel Mudiay,,DEN,True,False
+beaslma01,16.333333333333332,0.333,0.333,0.5,0.0,0.0,12.8,6.3,7.7,0.0,0.0,0.0,14.6,77.0,102.0,-11.3,Malik Beasley,,DEN,True,False
+plumlma01,14.633333333333333,0.931,1.0,0.0,2.0,0.0,21.4,10.5,8.8,5.9,12.1,34.7,15.6,118.0,79.0,4.9,Mason Plumlee,,DEN,True,False
+farieke01,5.983333333333333,0.0,0.0,0.0,0.0,16.7,0.0,8.5,18.2,7.2,0.0,50.0,13.3,53.0,89.0,-7.7,Kenneth Faried,,DEN,True,False
+lylestr01,2.9833333333333334,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.3,200.0,105.0,4.1,Trey Lyles,,DEN,True,False
+jefferi01,,,,,,,,,,,,,,,,,Richard Jefferson,Did Not Play,DEN,True,False
+arthuda01,,,,,,,,,,,,,,,,,Darrell Arthur,Did Not Play,DEN,True,False

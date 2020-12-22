@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+beverpa01,31.683333333333334,0.5,0.5,0.5,0.0,4.2,10.1,7.5,25.6,1.5,2.1,0.0,2.8,177.0,130.0,2.5,Patrick Beverley,,LAC,False,True
+gallida01,25.633333333333333,0.444,0.25,0.7,0.8,0.0,20.8,11.6,5.6,1.9,0.0,12.9,26.4,88.0,127.0,-11.8,Danilo Gallinari,,LAC,False,True
+gilgesh01,22.0,0.625,0.625,0.375,0.0,0.0,4.8,2.7,7.7,2.2,0.0,27.3,21.8,86.0,131.0,-7.0,Shai Gilgeous-Alexander,,LAC,False,True
+templga01,18.1,0.41,0.25,0.5,0.5,14.7,5.9,9.8,15.4,0.0,0.0,29.1,16.6,92.0,136.0,-9.9,Garrett Temple,,LAC,False,True
+zubaciv01,14.85,0.521,0.5,0.0,1.0,0.0,7.2,4.0,9.6,0.0,0.0,58.1,20.2,48.0,135.0,-19.2,Ivica Zubac,,LAC,False,True
+harremo01,34.6,0.688,0.7,0.0,0.7,7.7,30.8,20.6,30.5,1.4,1.9,7.1,17.7,147.0,123.0,6.5,Montrezl Harrell,,LAC,False,False
+willilo02,33.983333333333334,0.702,0.58,0.32,0.64,0.0,3.1,1.7,30.3,1.4,0.0,17.9,50.1,119.0,133.0,1.6,Lou Williams,,LAC,False,False
+shamela01,33.31666666666667,0.856,0.786,0.714,0.571,4.0,6.4,5.3,9.2,2.9,0.0,10.2,12.8,159.0,129.0,5.9,Landry Shamet,,LAC,False,False
+greenja01,20.466666666666665,1.375,1.375,0.75,0.0,13.0,26.1,20.3,0.0,2.3,0.0,20.0,10.6,184.0,124.0,9.4,JaMychal Green,,LAC,False,False
+robinje01,5.3,,,,,0.0,0.0,0.0,24.5,0.0,0.0,,0.0,232.0,137.0,-1.5,Jerome Robinson,,LAC,False,False
+thornsi01,0.06666666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,138.0,-4.5,Sindarius Thornwell,,LAC,False,False
+wallaty01,,,,,,,,,,,,,,,,,Tyrone Wallace,Did Not Play,LAC,False,False
+motlejo01,,,,,,,,,,,,,,,,,Johnathan Motley,Did Not Play,LAC,False,False
+denglu01,37.833333333333336,0.51,0.5,0.2,0.4,5.6,24.7,14.1,3.1,2.5,0.0,0.0,12.7,123.0,119.0,-2.3,Luol Deng,,MIN,True,True
+teaguje01,34.916666666666664,0.525,0.433,0.067,0.467,3.1,11.5,6.8,35.5,1.4,0.0,5.2,22.3,132.0,124.0,0.6,Jeff Teague,,MIN,True,True
+saricda01,33.46666666666667,0.83,0.818,0.455,0.091,12.7,15.9,14.2,7.8,2.9,0.0,8.0,15.1,163.0,120.0,8.4,Dario Šarić,,MIN,True,True
+townska01,26.883333333333333,0.737,0.636,0.091,1.091,19.8,24.8,22.0,10.4,3.6,0.0,23.5,32.2,125.0,116.0,2.4,Karl-Anthony Towns,,MIN,True,True
+okogijo01,26.7,0.683,0.583,0.333,0.5,4.0,15.0,8.9,4.3,3.6,0.0,12.0,12.7,136.0,118.0,0.9,Josh Okogie,,MIN,True,True
+rosede01,24.583333333333332,0.545,0.5,0.111,0.278,0.0,5.4,2.4,39.8,1.9,4.5,4.7,35.1,124.0,121.0,6.1,Derrick Rose,,MIN,True,False
+gibsota01,21.183333333333334,1.036,1.0,0.0,0.8,0.0,18.9,8.4,6.4,2.3,0.0,22.8,16.8,151.0,121.0,7.3,Taj Gibson,,MIN,True,False
+bayleje01,14.666666666666666,0.333,0.333,0.667,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,8.3,106.0,129.0,-12.3,Jerryd Bayless,,MIN,True,False
+dienggo01,14.466666666666667,0.4,0.4,0.2,0.0,22.1,18.4,20.5,19.7,9.9,0.0,9.1,31.0,103.0,103.0,2.8,Gorgui Dieng,,MIN,True,False
+canaais01,5.3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,19.3,0.0,0.0,0.0,7.7,62.0,129.0,-15.1,Isaiah Canaan,,MIN,True,False
+bateske01,,,,,,,,,,,,,,,,,Keita Bates-Diop,Did Not Play,MIN,True,False
+jonesty01,,,,,,,,,,,,,,,,,Tyus Jones,Did Not Dress,MIN,True,False
+tollian01,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,MIN,True,False

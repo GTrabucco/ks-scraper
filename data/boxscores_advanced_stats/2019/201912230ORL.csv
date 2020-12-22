@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+lavinza01,38.166666666666664,0.447,0.365,0.5,0.269,2.5,21.0,10.8,10.1,1.3,2.3,14.7,39.1,83.0,106.0,-3.4,Zach LaVine,,CHI,False,True
+satorto01,33.36666666666667,0.833,0.833,0.417,0.0,5.6,13.7,9.3,18.4,1.5,0.0,7.7,17.1,154.0,109.0,10.2,Tomáš Satoranský,,CHI,False,True
+dunnkr01,31.55,0.581,0.583,0.5,0.333,0.0,14.5,6.5,30.0,6.3,0.0,22.5,12.3,110.0,97.0,4.4,Kris Dunn,,CHI,False,True
+markkla01,29.983333333333334,0.455,0.455,0.636,0.0,0.0,11.4,5.2,11.2,0.0,2.9,0.0,16.1,101.0,110.0,-0.9,Lauri Markkanen,,CHI,False,True
+cartewe01,27.983333333333334,0.375,0.375,0.125,0.0,10.1,28.6,18.4,0.0,0.0,0.0,20.0,15.7,74.0,109.0,-12.3,Wendell Carter,,CHI,False,True
+youngth01,22.033333333333335,0.444,0.357,0.286,0.286,12.8,20.7,16.4,28.4,2.3,0.0,20.2,19.6,101.0,105.0,-0.5,Thaddeus Young,,CHI,False,False
+whiteco01,19.466666666666665,0.5,0.5,0.222,0.0,0.0,11.7,5.3,9.8,0.0,4.5,10.0,22.5,92.0,108.0,-1.6,Coby White,,CHI,False,False
+arcidry01,16.433333333333334,0.515,0.5,0.333,0.667,0.0,34.8,15.7,9.1,0.0,0.0,0.0,10.3,116.0,109.0,-1.5,Ryan Arcidiacono,,CHI,False,False
+gaffoda01,14.766666666666667,0.868,1.0,0.0,1.0,12.7,0.0,7.0,11.4,0.0,11.8,25.8,11.5,138.0,103.0,2.5,Daniel Gafford,,CHI,False,False
+valende01,5.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,43.8,0.0,114.0,-46.1,Denzel Valentine,,CHI,False,False
+kornelu01,1.2333333333333334,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,114.0,-8.5,Luke Kornet,,CHI,False,False
+feliccr01,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,False,False
+harrish01,,,,,,,,,,,,,,,,,Shaquille Harrison,Did Not Play,CHI,False,False
+isaacjo01,33.166666666666664,0.666,0.625,0.125,0.5,3.4,22.7,14.0,22.8,6.0,8.5,9.3,15.0,136.0,84.0,11.5,Jonathan Isaac,,ORL,True,True
+fournev01,31.85,0.694,0.5,0.5,1.0,0.0,11.8,6.5,8.4,3.1,0.0,34.2,12.7,98.0,101.0,-6.6,Evan Fournier,,ORL,True,True
+gordoaa01,31.366666666666667,0.481,0.464,0.214,0.429,7.3,27.0,18.1,20.5,1.6,9.0,10.7,27.4,99.0,93.0,3.5,Aaron Gordon,,ORL,True,True
+vucevni01,31.033333333333335,0.547,0.588,0.176,0.294,7.4,15.2,11.6,12.3,0.0,6.1,5.0,30.0,106.0,103.0,2.3,Nikola Vučević,,ORL,True,True
+fultzma01,26.966666666666665,0.591,0.591,0.273,0.0,0.0,20.9,11.5,25.1,0.0,3.5,31.3,27.4,84.0,102.0,-7.0,Markelle Fultz,,ORL,True,True
+rosste01,31.45,0.693,0.647,0.765,0.235,0.0,12.0,6.6,0.0,1.6,0.0,0.0,27.5,132.0,104.0,8.7,Terrence Ross,,ORL,True,False
+augusdj01,21.033333333333335,0.333,0.333,0.0,0.0,0.0,8.9,4.9,31.1,0.0,0.0,0.0,6.6,122.0,109.0,-5.1,D.J. Augustin,,ORL,True,False
+bambamo01,16.966666666666665,0.667,0.667,0.333,0.0,6.7,5.5,6.1,8.5,0.0,22.2,0.0,8.2,148.0,95.0,6.7,Mohamed Bamba,,ORL,True,False
+iwundwe01,16.15,0.0,0.0,0.0,0.0,0.0,5.8,3.2,0.0,6.1,0.0,20.0,14.3,0.0,96.0,-17.1,Wesley Iwundu,,ORL,True,False
+johnsbj01,,,,,,,,,,,,,,,,,B.J. Johnson,Did Not Play,ORL,True,False
+frazime01,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,True,False
+jeffeam01,,,,,,,,,,,,,,,,,Amile Jefferson,Did Not Play,ORL,True,False
+birchkh01,,,,,,,,,,,,,,,,,Khem Birch,Did Not Play,ORL,True,False

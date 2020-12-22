@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+rondora01,42.06666666666667,5.0,9.0,0.556,3.0,4.0,0.75,0.0,0.0,,1.0,6.0,7.0,9.0,3.0,0.0,1.0,2.0,13.0,3.0,Rajon Rondo,,SAC,False,True
+couside01,40.483333333333334,8.0,19.0,0.421,0.0,2.0,0.0,13.0,15.0,0.867,0.0,12.0,12.0,6.0,3.0,3.0,4.0,2.0,29.0,13.0,DeMarcus Cousins,,SAC,False,True
+collida01,35.71666666666667,2.0,11.0,0.182,1.0,3.0,0.333,4.0,4.0,1.0,0.0,2.0,2.0,1.0,3.0,0.0,4.0,0.0,9.0,-9.0,Darren Collison,,SAC,False,True
+mclembe01,25.166666666666668,3.0,12.0,0.25,0.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,4.0,3.0,8.0,-7.0,Ben McLemore,,SAC,False,True
+caulewi01,17.266666666666666,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,0.0,0.0,2.0,0.0,3.0,2.0,-11.0,Willie Cauley-Stein,,SAC,False,True
+casspom01,31.816666666666666,5.0,11.0,0.455,1.0,3.0,0.333,0.0,0.0,,3.0,8.0,11.0,2.0,1.0,0.0,1.0,3.0,11.0,18.0,Omri Casspi,,SAC,False,False
+belinma01,26.716666666666665,3.0,7.0,0.429,2.0,5.0,0.4,5.0,6.0,0.833,0.0,2.0,2.0,3.0,0.0,0.0,0.0,2.0,13.0,22.0,Marco Belinelli,,SAC,False,False
+koufoko01,20.766666666666666,4.0,7.0,0.571,0.0,0.0,,4.0,4.0,1.0,2.0,3.0,5.0,0.0,1.0,0.0,0.0,1.0,12.0,1.0,Kosta Koufos,,SAC,False,False
+acyqu01,,,,,,,,,,,,,,,,,,,,,Quincy Acy,Did Not Play,SAC,False,False
+anderja01,,,,,,,,,,,,,,,,,,,,,James Anderson,Did Not Play,SAC,False,False
+butleca01,,,,,,,,,,,,,,,,,,,,,Caron Butler,Did Not Play,SAC,False,False
+curryse01,,,,,,,,,,,,,,,,,,,,,Seth Curry,Did Not Play,SAC,False,False
+moreler01,,,,,,,,,,,,,,,,,,,,,Eric Moreland,Did Not Play,SAC,False,False
+paytoel01,37.81666666666667,3.0,12.0,0.25,1.0,2.0,0.5,0.0,0.0,,2.0,3.0,5.0,8.0,0.0,0.0,5.0,1.0,7.0,-3.0,Elfrid Payton,,ORL,True,True
+harrito02,36.7,10.0,16.0,0.625,0.0,4.0,0.0,4.0,4.0,1.0,0.0,4.0,4.0,3.0,3.0,3.0,3.0,2.0,24.0,3.0,Tobias Harris,,ORL,True,True
+fournev01,35.166666666666664,7.0,20.0,0.35,3.0,11.0,0.273,0.0,0.0,,0.0,4.0,4.0,3.0,3.0,0.0,3.0,4.0,17.0,11.0,Evan Fournier,,ORL,True,True
+oladivi01,25.733333333333334,4.0,11.0,0.364,2.0,5.0,0.4,1.0,2.0,0.5,3.0,3.0,6.0,4.0,0.0,0.0,1.0,2.0,11.0,-15.0,Victor Oladipo,,ORL,True,True
+vucevni01,25.05,5.0,10.0,0.5,0.0,0.0,,1.0,2.0,0.5,4.0,7.0,11.0,2.0,1.0,0.0,1.0,3.0,11.0,-10.0,Nikola Vučević,,ORL,True,True
+gordoaa01,20.566666666666666,3.0,7.0,0.429,0.0,2.0,0.0,0.0,0.0,,2.0,5.0,7.0,2.0,1.0,1.0,1.0,4.0,6.0,-6.0,Aaron Gordon,,ORL,True,False
+hezonma01,16.716666666666665,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,2.0,2.0,3.0,-10.0,Mario Hezonja,,ORL,True,False
+napiesh01,11.95,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Shabazz Napier,,ORL,True,False
+fryech01,9.966666666666667,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,1.0,0.0,1.0,3.0,8.0,Channing Frye,,ORL,True,False
+smithja02,9.183333333333334,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,0.0,3.0,2.0,-6.0,Jason Smith,,ORL,True,False
+nichoan01,7.35,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,2.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,4.0,-4.0,Andrew Nicholson,,ORL,True,False
+dedmode01,3.8,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,2.0,Dewayne Dedmon,,ORL,True,False
+marblde01,,,,,,,,,,,,,,,,,,,,,Devyn Marble,Did Not Play,ORL,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+paytoel01,38.21666666666667,5.0,15.0,0.333,0.0,1.0,0.0,7.0,8.0,0.875,1.0,4.0,5.0,5.0,1.0,0.0,4.0,3.0,17.0,-12.0,Elfrid Payton,,ORL,False,True
+fournev01,36.63333333333333,7.0,17.0,0.412,1.0,6.0,0.167,3.0,3.0,1.0,0.0,6.0,6.0,6.0,1.0,0.0,0.0,1.0,18.0,-13.0,Evan Fournier,,ORL,False,True
+vucevni01,35.733333333333334,8.0,18.0,0.444,0.0,0.0,,3.0,4.0,0.75,2.0,11.0,13.0,2.0,0.0,1.0,1.0,4.0,19.0,-18.0,Nikola Vučević,,ORL,False,True
+harrito02,35.56666666666667,5.0,11.0,0.455,0.0,1.0,0.0,0.0,0.0,,2.0,3.0,5.0,0.0,0.0,0.0,2.0,2.0,10.0,-5.0,Tobias Harris,,ORL,False,True
+fryech01,16.3,2.0,4.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,0.0,3.0,5.0,1.0,Channing Frye,,ORL,False,True
+gordoaa01,31.7,4.0,10.0,0.4,0.0,2.0,0.0,4.0,6.0,0.667,1.0,6.0,7.0,2.0,3.0,0.0,0.0,4.0,12.0,-10.0,Aaron Gordon,,ORL,False,False
+hezonma01,17.183333333333334,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,8.0,0.0,Mario Hezonja,,ORL,False,False
+napiesh01,16.4,3.0,5.0,0.6,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,4.0,1.0,6.0,3.0,Shabazz Napier,,ORL,False,False
+dedmode01,12.266666666666667,1.0,1.0,1.0,0.0,0.0,,2.0,3.0,0.667,0.0,4.0,4.0,0.0,1.0,1.0,0.0,2.0,4.0,9.0,Dewayne Dedmon,,ORL,False,False
+nichoan01,,,,,,,,,,,,,,,,,,,,,Andrew Nicholson,Did Not Play,ORL,False,False
+smithja02,,,,,,,,,,,,,,,,,,,,,Jason Smith,Not With Team,ORL,False,False
+watsocj01,,,,,,,,,,,,,,,,,,,,,C.J. Watson,Did Not Play,ORL,False,False
+marblde01,,,,,,,,,,,,,,,,,,,,,Devyn Marble,Did Not Play,ORL,False,False
+porteot01,36.15,4.0,13.0,0.308,1.0,5.0,0.2,0.0,0.0,,0.0,10.0,10.0,4.0,4.0,1.0,1.0,3.0,9.0,20.0,Otto Porter,,WAS,True,True
+walljo01,34.516666666666666,5.0,14.0,0.357,1.0,5.0,0.2,4.0,6.0,0.667,0.0,3.0,3.0,11.0,1.0,1.0,4.0,2.0,15.0,9.0,John Wall,,WAS,True,True
+templga01,31.166666666666668,5.0,10.0,0.5,3.0,6.0,0.5,5.0,6.0,0.833,0.0,3.0,3.0,2.0,1.0,0.0,0.0,2.0,18.0,6.0,Garrett Temple,,WAS,True,True
+humphkr01,29.733333333333334,9.0,14.0,0.643,5.0,8.0,0.625,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,2.0,1.0,2.0,23.0,7.0,Kris Humphries,,WAS,True,True
+gortama01,27.816666666666666,4.0,9.0,0.444,0.0,0.0,,5.0,7.0,0.714,5.0,5.0,10.0,1.0,0.0,1.0,0.0,3.0,13.0,6.0,Marcin Gortat,,WAS,True,True
+hilarne01,20.183333333333334,4.0,8.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,5.0,6.0,3.0,0.0,1.0,1.0,3.0,9.0,3.0,Nenê Hilário,,WAS,True,False
+dudleja01,19.916666666666668,1.0,2.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,0.0,5.0,5.0,1.0,0.0,0.0,0.0,1.0,5.0,0.0,Jared Dudley,,WAS,True,False
+nealga01,16.833333333333332,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,1.0,3.0,7.0,3.0,Gary Neal,,WAS,True,False
+sessira01,13.916666666666666,2.0,5.0,0.4,0.0,0.0,,1.0,3.0,0.333,0.0,4.0,4.0,5.0,0.0,0.0,3.0,1.0,5.0,0.0,Ramon Sessions,,WAS,True,False
+oubreke01,9.766666666666667,2.0,3.0,0.667,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,4.0,-9.0,Kelly Oubre,,WAS,True,False
+bealbr01,,,,,,,,,,,,,,,,,,,,,Bradley Beal,Did Not Dress,WAS,True,False
+blairde01,,,,,,,,,,,,,,,,,,,,,DeJuan Blair,Did Not Play,WAS,True,False
+goodedr01,,,,,,,,,,,,,,,,,,,,,Drew Gooden,Did Not Play,WAS,True,False

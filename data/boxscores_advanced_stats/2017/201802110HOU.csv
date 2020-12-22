@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+smithde03,34.78333333333333,0.444,0.444,0.333,0.0,0.0,16.4,7.3,53.6,1.4,0.0,25.0,29.0,83.0,107.0,-2.2,Dennis Smith,,DAL,False,True
+mcderdo01,33.86666666666667,0.444,0.444,0.667,0.0,2.7,6.7,4.5,16.8,1.4,0.0,10.0,12.4,98.0,107.0,-2.5,Doug McDermott,,DAL,False,True
+ferreyo01,33.53333333333333,0.672,0.643,0.571,0.143,0.0,17.0,7.6,5.1,4.3,0.0,0.0,18.7,133.0,100.0,10.3,Yogi Ferrell,,DAL,False,True
+barneha02,30.816666666666666,0.346,0.3,0.333,0.133,3.0,14.8,8.3,4.9,0.0,0.0,0.0,21.7,81.0,111.0,-6.3,Harrison Barnes,,DAL,False,True
+poweldw01,28.7,0.615,0.5,0.0,0.5,16.1,27.9,21.4,0.0,0.0,5.1,12.0,24.4,119.0,106.0,2.0,Dwight Powell,,DAL,False,True
+colliky01,31.066666666666666,0.291,0.333,0.222,0.333,11.9,14.7,13.1,23.2,1.6,9.4,8.8,15.3,87.0,100.0,1.5,Kyle Collinsworth,,DAL,False,False
+jonesja04,22.816666666666666,0.538,0.5,0.286,0.143,4.0,45.1,22.4,6.6,0.0,0.0,21.2,17.4,89.0,108.0,-2.7,Jalen Jones,,DAL,False,False
+klebima01,20.366666666666667,0.714,0.714,0.286,0.0,0.0,16.8,7.5,18.0,0.0,0.0,22.2,18.6,105.0,109.0,-1.6,Maxi Kleber,,DAL,False,False
+motlejo01,4.05,0.0,0.0,0.0,1.0,0.0,28.2,12.6,31.2,0.0,35.9,0.0,29.9,20.0,84.0,-12.3,Johnathan Motley,,DAL,False,False
+mejrisa01,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,False,False
+bareajo01,,,,,,,,,,,,,,,,,J.J. Barea,Not With Team,DAL,False,False
+paulch01,35.2,0.709,0.667,0.467,0.4,0.0,21.0,11.6,56.5,4.1,0.0,10.2,26.4,139.0,93.0,15.4,Chris Paul,,HOU,True,True
+hardeja01,34.15,0.556,0.421,0.684,0.632,0.0,16.2,9.0,27.5,2.8,2.3,11.0,37.8,106.0,96.0,8.2,James Harden,,HOU,True,True
+capelca01,31.266666666666666,0.539,0.6,0.0,1.1,7.3,26.6,18.0,0.0,1.6,7.4,0.0,22.4,113.0,91.0,3.7,Clint Capela,,HOU,True,True
+mbahalu01,29.866666666666667,0.667,0.667,0.333,0.0,0.0,9.3,5.1,0.0,0.0,0.0,25.0,6.3,91.0,106.0,-6.9,Luc Mbah a Moute,,HOU,True,True
+tuckepj01,25.55,0.5,0.5,1.0,0.0,0.0,3.6,2.0,0.0,5.7,0.0,25.0,7.4,69.0,95.0,-0.1,P.J. Tucker,,HOU,True,True
+gordoer01,24.25,0.273,0.273,0.818,0.0,0.0,7.6,4.2,0.0,0.0,6.4,0.0,21.4,53.0,102.0,-9.1,Eric Gordon,,HOU,True,False
+anderry01,22.45,0.34,0.2,0.6,0.4,0.0,20.6,11.4,0.0,0.0,3.4,0.0,12.4,69.0,99.0,-6.9,Ryan Anderson,,HOU,True,False
+greenge01,19.333333333333332,0.667,0.667,1.0,0.0,0.0,4.8,2.6,0.0,0.0,0.0,0.0,22.0,120.0,107.0,2.9,Gerald Green,,HOU,True,False
+hilarne01,16.733333333333334,0.902,1.0,0.0,0.667,0.0,27.6,15.3,11.3,0.0,0.0,34.0,16.6,115.0,99.0,-3.0,Nenê Hilário,,HOU,True,False
+brownma02,1.2,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,109.0,-5.6,Markel Brown,,HOU,True,False
+blackta01,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,HOU,True,False
+arizatr01,,,,,,,,,,,,,,,,,Trevor Ariza,Did Not Play,HOU,True,False

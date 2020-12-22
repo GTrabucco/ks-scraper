@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+derozde01,39.166666666666664,9.0,22.0,0.409,0.0,0.0,,10.0,13.0,0.769,0.0,5.0,5.0,6.0,1.0,0.0,4.0,3.0,28.0,-6.0,DeMar DeRozan,,TOR,False,True
+carrode01,39.13333333333333,7.0,12.0,0.583,3.0,6.0,0.5,0.0,0.0,,1.0,1.0,2.0,2.0,6.0,0.0,1.0,1.0,17.0,2.0,DeMarre Carroll,,TOR,False,True
+lowryky01,38.61666666666667,7.0,15.0,0.467,2.0,7.0,0.286,12.0,12.0,1.0,3.0,3.0,6.0,3.0,2.0,1.0,2.0,6.0,28.0,0.0,Kyle Lowry,,TOR,False,True
+valanjo01,31.183333333333334,3.0,9.0,0.333,0.0,0.0,,3.0,4.0,0.75,5.0,6.0,11.0,0.0,0.0,0.0,3.0,5.0,9.0,-1.0,Jonas Valančiūnas,,TOR,False,True
+scolalu01,27.8,3.0,7.0,0.429,0.0,2.0,0.0,0.0,2.0,0.0,1.0,4.0,5.0,0.0,1.0,0.0,2.0,5.0,6.0,-7.0,Luis Scola,,TOR,False,True
+josepco01,28.35,4.0,7.0,0.571,0.0,0.0,,5.0,8.0,0.625,1.0,4.0,5.0,6.0,1.0,0.0,0.0,4.0,13.0,-4.0,Cory Joseph,,TOR,False,False
+pattepa01,19.7,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,3.0,0.0,Patrick Patterson,,TOR,False,False
+johnsja01,9.383333333333333,3.0,4.0,0.75,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,6.0,-5.0,James Johnson,,TOR,False,False
+biyombi01,6.666666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,-4.0,Bismack Biyombo,,TOR,False,False
+bennean01,,,,,,,,,,,,,,,,,,,,,Anthony Bennett,Did Not Play,TOR,False,False
+powelno01,,,,,,,,,,,,,,,,,,,,,Norman Powell,Did Not Play,TOR,False,False
+wrighde01,,,,,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,False,False
+rosste01,,,,,,,,,,,,,,,,,,,,,Terrence Ross,Did Not Play,TOR,False,False
+curryst01,39.583333333333336,13.0,23.0,0.565,5.0,10.0,0.5,6.0,7.0,0.857,0.0,2.0,2.0,9.0,2.0,0.0,7.0,1.0,37.0,11.0,Stephen Curry,,GSW,True,True
+greendr01,35.15,3.0,6.0,0.5,1.0,4.0,0.25,2.0,2.0,1.0,0.0,9.0,9.0,5.0,1.0,1.0,3.0,4.0,9.0,1.0,Draymond Green,,GSW,True,True
+thompkl01,34.3,8.0,19.0,0.421,2.0,9.0,0.222,1.0,2.0,0.5,0.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,19.0,4.0,Klay Thompson,,GSW,True,True
+barneha02,32.083333333333336,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,0.0,0.0,3.0,7.0,8.0,Harrison Barnes,,GSW,True,True
+bogutan01,17.35,5.0,6.0,0.833,0.0,0.0,,3.0,6.0,0.5,2.0,4.0,6.0,2.0,1.0,1.0,2.0,5.0,13.0,-8.0,Andrew Bogut,,GSW,True,True
+iguodan01,32.0,3.0,3.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,3.0,7.0,0.0,0.0,1.0,4.0,7.0,4.0,Andre Iguodala,,GSW,True,False
+ezelife01,22.233333333333334,3.0,4.0,0.75,0.0,0.0,,2.0,4.0,0.5,1.0,5.0,6.0,1.0,2.0,4.0,2.0,3.0,8.0,12.0,Festus Ezeli,,GSW,True,False
+barbole01,15.783333333333333,2.0,8.0,0.25,0.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,3.0,0.0,1.0,3.0,6.0,1.0,Leandro Barbosa,,GSW,True,False
+clarkia01,6.333333333333333,1.0,3.0,0.333,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,4.0,-6.0,Ian Clark,,GSW,True,False
+speigma01,5.183333333333334,2.0,3.0,0.667,0.0,0.0,,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,2.0,3.0,5.0,-2.0,Marreese Speights,,GSW,True,False
+mcadoja01,,,,,,,,,,,,,,,,,,,,,James Michael McAdoo,Did Not Play,GSW,True,False
+thompja02,,,,,,,,,,,,,,,,,,,,,Jason Thompson,Did Not Play,GSW,True,False
+rushbr01,,,,,,,,,,,,,,,,,,,,,Brandon Rush,Did Not Play,GSW,True,False

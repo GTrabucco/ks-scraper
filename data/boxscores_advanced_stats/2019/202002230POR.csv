@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+rosede01,27.666666666666668,0.444,0.406,0.25,0.125,0.0,8.3,4.1,19.6,0.0,0.0,22.9,35.9,77.0,124.0,-13.9,Derrick Rose,,DET,False,True
+snellto01,24.933333333333334,0.375,0.375,0.75,0.0,0.0,13.8,6.8,0.0,2.1,0.0,20.0,9.1,62.0,118.0,-8.2,Tony Snell,,DET,False,True
+doumbse01,24.233333333333334,0.5,0.5,0.571,0.0,0.0,14.1,7.0,0.0,2.2,0.0,0.0,13.1,105.0,117.0,-5.3,Sekou Doumbouya,,DET,False,True
+makerth01,16.016666666666666,0.333,0.333,0.333,0.0,7.0,14.3,10.6,19.3,3.3,5.5,14.3,19.8,82.0,110.0,-3.3,Thon Maker,,DET,False,True
+mykhasv01,15.4,0.5,0.5,0.8,0.0,7.2,0.0,3.7,20.3,0.0,0.0,16.7,17.7,105.0,125.0,-5.1,Sviatoslav Mykhailiuk,,DET,False,True
+brownbr01,33.333333333333336,0.368,0.3,0.1,0.2,6.7,27.4,16.9,4.4,1.6,0.0,15.5,17.5,79.0,115.0,-11.1,Bruce Brown,,DET,False,False
+woodch01,30.666666666666668,0.719,0.667,0.267,0.467,7.3,26.1,16.6,6.8,0.0,5.8,0.0,26.7,154.0,115.0,12.3,Christian Wood,,DET,False,False
+gallola01,24.4,0.63,0.556,0.556,0.333,4.6,14.1,9.3,27.0,2.1,0.0,8.8,21.0,135.0,117.0,5.3,Langston Galloway,,DET,False,False
+hensojo01,23.016666666666666,0.581,0.5,0.167,0.333,19.4,14.9,17.2,13.6,4.6,7.7,0.0,13.6,150.0,106.0,9.1,John Henson,,DET,False,False
+knighbr03,20.333333333333332,0.768,0.688,0.875,0.5,0.0,11.2,5.6,25.7,0.0,0.0,0.0,21.8,169.0,122.0,10.6,Brandon Knight,,DET,False,False
+halldo01,,,,,,,,,,,,,,,,,Donta Hall,Did Not Play,DET,False,False
+waltode01,,,,,,,,,,,,,,,,,Derrick Walton,Did Not Play,DET,False,False
+mccolcj01,43.25,0.612,0.6,0.367,0.267,2.6,20.6,11.8,54.7,1.2,0.0,2.9,37.4,136.0,114.0,15.6,CJ McCollum,,POR,True,True
+whiteha01,38.43333333333333,0.522,0.571,0.0,0.214,14.9,34.9,25.0,12.1,0.0,9.8,11.5,21.1,112.0,105.0,0.9,Hassan Whiteside,,POR,True,True
+anthoca01,37.35,0.858,0.844,0.563,0.375,0.0,12.0,6.0,4.8,0.0,0.0,0.0,23.4,172.0,119.0,11.7,Carmelo Anthony,,POR,True,True
+arizatr01,36.06666666666667,0.25,0.25,0.5,0.0,3.2,9.3,6.3,0.0,2.9,0.0,55.6,11.7,30.0,114.0,-15.4,Trevor Ariza,,POR,True,True
+trentga02,34.45,0.375,0.375,0.25,0.0,0.0,6.5,3.3,7.6,4.6,2.7,11.1,12.3,80.0,109.0,-3.0,Gary Trent,,POR,True,True
+simonan01,18.35,0.375,0.375,0.625,0.0,0.0,0.0,0.0,7.3,0.0,0.0,11.1,23.0,75.0,123.0,-15.9,Anfernee Simons,,POR,True,False
+gabriwe01,12.8,0.694,0.5,0.0,1.0,17.9,17.4,17.6,0.0,0.0,0.0,0.0,10.6,167.0,117.0,-3.5,Wenyen Gabriel,,POR,True,False
+hezonma01,11.933333333333334,,,,,0.0,0.0,0.0,9.8,0.0,0.0,,0.0,232.0,123.0,-4.5,Mario Hezonja,,POR,True,False
+littlna01,7.366666666666666,0.0,0.0,0.5,0.0,0.0,15.2,7.7,0.0,0.0,0.0,0.0,12.7,0.0,118.0,-26.9,Nassir Little,,POR,True,False
+nurkiju01,,,,,,,,,,,,,,,,,Jusuf Nurkić,Did Not Dress,POR,True,False
+lillada01,,,,,,,,,,,,,,,,,Damian Lillard,Did Not Dress,POR,True,False
+swanica01,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,POR,True,False

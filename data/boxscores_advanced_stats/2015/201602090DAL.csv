@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+haywago01,45.166666666666664,0.45,0.4,0.3,0.25,0.0,15.9,7.3,12.2,1.2,0.0,4.3,23.9,103.0,122.0,-5.1,Gordon Hayward,,UTA,False,True
+hoodro01,43.2,0.522,0.5,0.308,0.154,0.0,16.6,7.7,18.4,0.0,0.0,0.0,29.9,121.0,125.0,1.9,Rodney Hood,,UTA,False,True
+goberru01,37.266666666666666,0.81,0.833,0.0,1.0,9.9,26.9,17.8,10.4,0.0,3.1,18.8,13.3,143.0,121.0,4.9,Rudy Gobert,,UTA,False,True
+favorde01,35.016666666666666,0.508,0.5,0.0,0.286,10.6,20.5,15.1,24.3,1.6,0.0,11.3,23.6,114.0,121.0,3.1,Derrick Favors,,UTA,False,True
+netora01,18.783333333333335,0.82,0.875,0.5,0.5,0.0,0.0,0.0,14.3,2.9,0.0,17.0,14.6,139.0,121.0,0.3,Raul Neto,,UTA,False,True
+johnsch04,21.45,0.868,0.75,1.0,1.0,17.2,26.7,21.6,5.4,0.0,5.4,0.0,6.2,197.0,120.0,8.6,Chris Johnson,,UTA,False,False
+booketr01,19.183333333333334,1.0,1.0,0.0,0.0,19.3,7.5,13.8,0.0,0.0,0.0,20.0,12.1,159.0,126.0,1.0,Trevor Booker,,UTA,False,False
+inglejo01,18.433333333333334,0.75,0.75,1.0,0.0,0.0,7.8,3.6,0.0,0.0,0.0,33.3,15.1,91.0,127.0,-5.3,Joe Ingles,,UTA,False,False
+lylestr01,14.316666666666666,0.628,0.571,0.286,0.571,8.6,20.0,13.9,22.3,0.0,0.0,10.2,31.7,128.0,125.0,6.0,Trey Lyles,,UTA,False,False
+greener01,12.183333333333334,0.4,0.4,0.4,0.0,0.0,11.8,5.4,0.0,0.0,0.0,0.0,19.1,89.0,126.0,-12.7,Erick Green,,UTA,False,False
+burketr01,,,,,,,,,,,,,,,,,Trey Burke,Not With Team,UTA,False,False
+witheje01,,,,,,,,,,,,,,,,,Jeff Withey,Did Not Play,UTA,False,False
+matthwe02,42.083333333333336,0.743,0.667,0.556,0.444,3.4,2.9,3.1,12.7,0.0,0.0,8.5,14.2,144.0,129.0,-0.1,Wesley Matthews,,DAL,True,True
+willide01,41.55,0.649,0.5,0.25,1.083,0.0,5.9,3.2,21.5,1.3,0.0,14.5,25.4,121.0,126.0,-0.9,Deron Williams,,DAL,True,True
+pachuza01,41.416666666666664,0.527,0.25,0.0,1.5,13.8,20.8,17.6,18.4,0.0,0.0,23.1,10.6,127.0,125.0,0.2,Zaza Pachulia,,DAL,True,True
+nowitdi01,39.733333333333334,0.539,0.464,0.429,0.286,0.0,27.9,15.0,0.0,1.4,0.0,6.0,21.5,101.0,120.0,-5.8,Dirk Nowitzki,,DAL,True,True
+parsoch01,35.733333333333334,0.629,0.594,0.5,0.438,0.0,3.4,1.9,0.0,1.5,2.2,13.6,31.5,102.0,124.0,-3.6,Chandler Parsons,,DAL,True,True
+feltora01,28.033333333333335,0.73,0.611,0.222,0.667,5.1,26.4,16.5,35.6,1.9,0.0,0.0,21.2,163.0,119.0,11.6,Raymond Felton,,DAL,True,False
+bareajo01,14.866666666666667,0.5,0.5,0.4,0.0,0.0,8.3,4.5,74.1,0.0,0.0,0.0,17.1,139.0,128.0,5.4,J.J. Barea,,DAL,True,False
+poweldw01,11.583333333333334,1.017,1.0,0.0,0.333,0.0,21.3,11.4,0.0,0.0,0.0,22.5,19.5,137.0,125.0,4.2,Dwight Powell,,DAL,True,False
+anderju01,10.0,0.5,0.5,1.0,0.0,0.0,12.3,6.6,0.0,5.5,0.0,0.0,15.3,95.0,116.0,-0.2,Justin Anderson,,DAL,True,False
+jenkijo01,,,,,,,,,,,,,,,,,John Jenkins,Did Not Play,DAL,True,False
+mcgeeja01,,,,,,,,,,,,,,,,,JaVale McGee,Did Not Play,DAL,True,False
+mejrisa01,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,True,False
+villach01,,,,,,,,,,,,,,,,,Charlie Villanueva,Did Not Play,DAL,True,False

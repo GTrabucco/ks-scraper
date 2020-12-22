@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+batumni01,41.65,0.651,0.611,0.444,0.444,0.0,9.4,4.8,27.4,0.0,2.0,31.7,17.6,103.0,126.0,-1.6,Nicolas Batum,,CHO,False,True
+walkeke02,36.43333333333333,0.411,0.381,0.381,0.095,0.0,10.8,5.4,16.0,6.1,2.3,8.4,30.6,89.0,110.0,2.2,Kemba Walker,,CHO,False,True
+zelleco01,30.033333333333335,0.778,0.714,0.0,0.857,13.3,16.3,14.8,6.1,0.0,8.3,0.0,15.0,174.0,119.0,9.5,Cody Zeller,,CHO,False,True
+willima02,26.4,0.66,0.625,0.5,0.167,3.8,11.1,7.5,7.9,0.0,3.1,7.2,24.5,132.0,124.0,6.4,Marvin Williams,,CHO,False,True
+hairspj02,20.55,0.2,0.2,0.6,0.0,4.9,23.8,14.4,0.0,0.0,0.0,0.0,11.3,60.0,117.0,-10.5,P.J. Hairston,,CHO,False,True
+lambje01,27.783333333333335,0.25,0.25,0.4,0.0,7.2,14.1,10.7,5.7,0.0,3.0,0.0,16.8,75.0,122.0,-8.7,Jeremy Lamb,,CHO,False,False
+kaminfr01,27.233333333333334,0.597,0.55,0.5,0.2,7.3,7.2,7.3,14.0,6.1,0.0,8.4,20.3,126.0,114.0,6.1,Frank Kaminsky,,CHO,False,False
+roberbr01,16.983333333333334,0.68,0.6,0.4,0.4,5.9,5.8,5.8,0.0,0.0,0.0,0.0,16.1,150.0,130.0,0.9,Brian Roberts,,CHO,False,False
+hansbty01,12.933333333333334,0.167,0.167,0.0,0.0,23.2,7.6,15.3,0.0,0.0,0.0,14.3,25.2,57.0,128.0,-25.1,Tyler Hansbrough,,CHO,False,False
+danietr01,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,CHO,False,False
+harriaa01,,,,,,,,,,,,,,,,,Aaron Harrison,Did Not Play,CHO,False,False
+linje01,,,,,,,,,,,,,,,,,Jeremy Lin,Did Not Dress,CHO,False,False
+hawessp01,,,,,,,,,,,,,,,,,Spencer Hawes,Did Not Dress,CHO,False,False
+lowryky01,41.28333333333333,0.507,0.438,0.438,0.25,7.1,7.3,7.2,44.1,2.7,0.0,25.3,24.7,108.0,110.0,2.2,Kyle Lowry,,TOR,True,True
+derozde01,36.65,0.546,0.444,0.111,0.389,0.0,0.0,0.0,4.9,1.5,0.0,4.5,25.8,126.0,116.0,1.4,DeMar DeRozan,,TOR,True,True
+carrode01,25.133333333333333,0.636,0.636,0.636,0.0,7.8,4.0,5.9,0.0,4.4,0.0,8.3,20.5,130.0,108.0,10.5,DeMarre Carroll,,TOR,True,True
+valanjo01,24.05,0.446,0.333,0.0,0.556,28.5,20.8,24.7,13.3,0.0,0.0,8.2,21.8,123.0,110.0,-0.3,Jonas Valančiūnas,,TOR,True,True
+scolalu01,21.3,0.25,0.25,0.4,0.0,13.8,28.2,20.9,0.0,0.0,0.0,0.0,20.1,82.0,106.0,-11.0,Luis Scola,,TOR,True,True
+biyombi01,23.95,0.773,0.667,0.0,0.667,8.2,37.6,22.7,0.0,0.0,15.1,43.6,12.3,92.0,92.0,2.9,Bismack Biyombo,,TOR,True,False
+pattepa01,22.65,0.778,0.778,0.667,0.0,8.6,17.7,13.1,8.3,2.4,0.0,10.0,18.9,150.0,105.0,13.3,Patrick Patterson,,TOR,True,False
+rosste01,21.75,0.444,0.444,0.667,0.0,4.5,23.0,13.7,0.0,0.0,0.0,0.0,17.7,113.0,108.0,-5.2,Terrence Ross,,TOR,True,False
+josepco01,18.066666666666666,0.5,0.5,0.167,0.0,0.0,5.5,2.7,56.9,0.0,0.0,0.0,14.2,150.0,117.0,6.4,Cory Joseph,,TOR,True,False
+johnsja01,5.166666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-6.7,James Johnson,,TOR,True,False
+wrighde01,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,True,False
+noguelu01,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,True,False
+cabocbr01,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,TOR,True,False

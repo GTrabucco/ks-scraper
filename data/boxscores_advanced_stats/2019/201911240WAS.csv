@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+holmeri01,36.4,0.81,0.778,0.0,0.222,3.4,26.4,15.7,4.4,2.7,9.1,9.2,13.5,148.0,97.0,6.9,Richaun Holmes,,SAC,False,True
+hieldbu01,36.166666666666664,0.527,0.393,0.5,0.5,3.4,2.9,3.2,19.7,0.0,0.0,10.5,23.8,110.0,117.0,-3.0,Buddy Hield,,SAC,False,True
+josepco01,35.75,0.5,0.5,0.1,0.0,0.0,6.0,3.2,20.8,2.7,0.0,0.0,12.6,118.0,110.0,-1.0,Cory Joseph,,SAC,False,True
+barneha02,34.95,1.012,1.063,0.375,1.375,0.0,12.2,6.5,4.7,0.0,0.0,18.9,20.5,156.0,114.0,7.2,Harrison Barnes,,SAC,False,True
+bjeline01,29.033333333333335,0.273,0.273,0.364,0.0,17.0,29.4,23.6,14.6,5.0,2.9,31.3,24.9,65.0,95.0,-8.4,Nemanja Bjelica,,SAC,False,True
+bogdabo01,27.65,0.563,0.531,0.563,0.375,0.0,15.4,8.3,25.9,1.8,0.0,5.1,32.1,114.0,109.0,4.3,Bogdan Bogdanović,,SAC,False,False
+jamesju01,16.183333333333334,0.833,0.833,0.667,0.0,0.0,6.6,3.5,9.0,0.0,0.0,0.0,8.4,165.0,116.0,-0.9,Justin James,,SAC,False,False
+ferreyo01,12.25,0.5,0.5,0.25,0.0,0.0,34.8,18.7,12.6,0.0,0.0,0.0,14.7,108.0,107.0,-3.7,Yogi Ferrell,,SAC,False,False
+dedmode01,11.583333333333334,0.509,0.417,0.667,0.333,0.0,0.0,0.0,13.5,4.2,0.0,12.7,30.7,95.0,108.0,-6.1,Dewayne Dedmon,,SAC,False,False
+guyky01,,,,,,,,,,,,,,,,,Kyle Guy,Did Not Play,SAC,False,False
+gilesha01,,,,,,,,,,,,,,,,,Harry Giles,Did Not Play,SAC,False,False
+gabriwe01,,,,,,,,,,,,,,,,,Wenyen Gabriel,Did Not Play,SAC,False,False
+swanica01,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,SAC,False,False
+bealbr01,41.166666666666664,0.53,0.5,0.333,0.111,5.2,3.0,4.2,28.6,0.0,0.0,9.6,21.5,117.0,120.0,-1.0,Bradley Beal,,WAS,True,True
+thomais02,29.233333333333334,0.743,0.727,0.636,0.091,0.0,8.4,3.9,10.2,0.0,3.3,20.8,20.9,111.0,116.0,-0.2,Isaiah Thomas,,WAS,True,True
+bryanth01,28.4,0.643,0.7,0.0,0.2,18.8,13.0,16.1,11.2,0.0,0.0,21.6,20.7,109.0,119.0,-3.2,Thomas Bryant,,WAS,True,True
+hachiru01,23.4,0.444,0.357,0.286,0.286,0.0,21.0,9.8,5.4,2.1,0.0,11.3,16.1,90.0,113.0,-4.0,Rui Hachimura,,WAS,True,True
+browntr01,14.6,0.0,0.0,0.167,0.0,0.0,16.9,7.8,23.5,3.3,0.0,0.0,17.4,36.0,110.0,-13.3,Troy Brown,,WAS,True,True
+bertada01,29.35,0.6,0.6,0.9,0.0,3.6,21.0,11.7,9.2,1.7,3.3,0.0,14.4,131.0,111.0,4.7,Dāvis Bertāns,,WAS,True,False
+smithis01,24.116666666666667,0.389,0.389,0.444,0.0,0.0,25.5,11.8,16.6,2.0,0.0,18.2,19.3,78.0,112.0,-6.1,Ish Smith,,WAS,True,False
+mcraejo01,23.783333333333335,0.581,0.5,0.222,0.333,0.0,15.5,7.2,23.8,2.1,0.0,16.2,21.9,112.0,113.0,0.0,Jordan McRae,,WAS,True,False
+wagnemo01,18.983333333333334,0.667,0.667,0.222,0.0,16.9,51.9,33.1,37.7,0.0,0.0,18.2,24.6,124.0,113.0,8.9,Moritz Wagner,,WAS,True,False
+milescj01,5.1,0.521,0.5,0.5,1.0,20.9,0.0,11.2,0.0,0.0,0.0,25.8,32.2,86.0,120.0,-13.2,C.J. Miles,,WAS,True,False
+bongais01,0.6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.6,200.0,121.0,66.9,Isaac Bonga,,WAS,True,False
+schofad01,0.6,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,121.0,-6.6,Admiral Schofield,,WAS,True,False
+robinju01,0.6,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,121.0,-8.6,Justin Robinson,,WAS,True,False

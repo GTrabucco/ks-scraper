@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,37.266666666666666,11.0,20.0,0.55,3.0,8.0,0.375,8.0,10.0,0.8,2.0,11.0,13.0,8.0,3.0,1.0,3.0,3.0,33.0,4.0,Kevin Durant,,OKC,False,True
+westbru01,35.93333333333333,4.0,17.0,0.235,3.0,9.0,0.333,3.0,4.0,0.75,3.0,8.0,11.0,14.0,1.0,0.0,7.0,4.0,14.0,-2.0,Russell Westbrook,,OKC,False,True
+roberan03,28.583333333333332,1.0,2.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,4.0,4.0,7.0,Andre Roberson,,OKC,False,True
+adamsst01,25.533333333333335,5.0,6.0,0.833,0.0,0.0,,1.0,2.0,0.5,1.0,1.0,2.0,1.0,3.0,0.0,0.0,2.0,11.0,-9.0,Steven Adams,,OKC,False,True
+ibakase01,23.45,4.0,6.0,0.667,0.0,1.0,0.0,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,1.0,0.0,2.0,8.0,-10.0,Serge Ibaka,,OKC,False,True
+foyera01,29.45,4.0,8.0,0.5,2.0,5.0,0.4,2.0,3.0,0.667,0.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,12.0,9.0,Randy Foye,,OKC,False,False
+kanteen01,23.95,6.0,11.0,0.545,0.0,1.0,0.0,3.0,3.0,1.0,3.0,7.0,10.0,0.0,0.0,1.0,1.0,3.0,15.0,13.0,Enes Kanter,,OKC,False,False
+waitedi01,17.633333333333333,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,5.0,2.0,9.0,0.0,Dion Waiters,,OKC,False,False
+payneca01,10.15,0.0,1.0,0.0,0.0,0.0,,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,Cameron Payne,,OKC,False,False
+morroan01,8.05,3.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,7.0,5.0,Anthony Morrow,,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+mohamna01,,,,,,,,,,,,,,,,,,,,,Nazr Mohammed,Did Not Play,OKC,False,False
+singlky01,,,,,,,,,,,,,,,,,,,,,Kyle Singler,Did Not Play,OKC,False,False
+ellismo01,42.46666666666667,4.0,10.0,0.4,2.0,5.0,0.4,1.0,1.0,1.0,1.0,5.0,6.0,7.0,3.0,0.0,4.0,5.0,11.0,-4.0,Monta Ellis,,IND,True,True
+georgpa01,40.85,14.0,29.0,0.483,4.0,10.0,0.4,13.0,15.0,0.867,2.0,5.0,7.0,4.0,2.0,0.0,2.0,2.0,45.0,4.0,Paul George,,IND,True,True
+hillge01,38.166666666666664,6.0,10.0,0.6,3.0,6.0,0.5,5.0,6.0,0.833,0.0,3.0,3.0,9.0,2.0,0.0,1.0,2.0,20.0,8.0,George Hill,,IND,True,True
+mahinia01,35.56666666666667,5.0,13.0,0.385,0.0,0.0,,1.0,4.0,0.25,1.0,4.0,5.0,0.0,1.0,0.0,3.0,3.0,11.0,10.0,Ian Mahinmi,,IND,True,True
+turnemy01,31.066666666666666,4.0,10.0,0.4,0.0,0.0,,2.0,2.0,1.0,3.0,5.0,8.0,1.0,1.0,2.0,1.0,1.0,10.0,4.0,Myles Turner,,IND,True,True
+stuckro01,15.366666666666667,4.0,4.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,4.0,0.0,0.0,1.0,2.0,8.0,-12.0,Rodney Stuckey,,IND,True,False
+hillso01,13.316666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,-6.0,Solomon Hill,,IND,True,False
+allenla01,10.1,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,4.0,-5.0,Lavoy Allen,,IND,True,False
+hilljo01,7.666666666666667,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,-11.0,Jordan Hill,,IND,True,False
+milescj01,5.45,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,-8.0,C.J. Miles,,IND,True,False
+lawsoty01,,,,,,,,,,,,,,,,,,,,,Ty Lawson,Did Not Play,IND,True,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,True,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+rondora01,46.36666666666667,6.0,12.0,0.5,1.0,4.0,0.25,1.0,2.0,0.5,3.0,5.0,8.0,20.0,4.0,1.0,6.0,3.0,14.0,-11.0,Rajon Rondo,,SAC,False,True
+gayru01,42.03333333333333,13.0,21.0,0.619,2.0,4.0,0.5,0.0,1.0,0.0,1.0,9.0,10.0,0.0,1.0,0.0,3.0,4.0,28.0,-2.0,Rudy Gay,,SAC,False,True
+couside01,30.883333333333333,13.0,21.0,0.619,2.0,6.0,0.333,2.0,4.0,0.5,1.0,10.0,11.0,1.0,1.0,3.0,4.0,5.0,30.0,-8.0,DeMarcus Cousins,,SAC,False,True
+mclembe01,19.383333333333333,4.0,6.0,0.667,0.0,2.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,5.0,10.0,10.0,Ben McLemore,,SAC,False,True
+caulewi01,8.35,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Willie Cauley-Stein,,SAC,False,True
+belinma01,38.38333333333333,7.0,17.0,0.412,2.0,8.0,0.25,1.0,1.0,1.0,0.0,0.0,0.0,3.0,2.0,0.0,1.0,3.0,17.0,-23.0,Marco Belinelli,,SAC,False,False
+collida01,29.133333333333333,3.0,11.0,0.273,0.0,3.0,0.0,1.0,1.0,1.0,0.0,3.0,3.0,4.0,0.0,0.0,1.0,2.0,7.0,-10.0,Darren Collison,,SAC,False,False
+casspom01,26.766666666666666,2.0,7.0,0.286,1.0,4.0,0.25,1.0,1.0,1.0,1.0,4.0,5.0,3.0,0.0,0.0,2.0,3.0,6.0,18.0,Omri Casspi,,SAC,False,False
+koufoko01,23.7,4.0,9.0,0.444,0.0,0.0,,2.0,4.0,0.5,2.0,5.0,7.0,1.0,1.0,3.0,1.0,5.0,10.0,0.0,Kosta Koufos,,SAC,False,False
+acyqu01,,,,,,,,,,,,,,,,,,,,,Quincy Acy,Did Not Play,SAC,False,False
+anderja01,,,,,,,,,,,,,,,,,,,,,James Anderson,Did Not Play,SAC,False,False
+butleca01,,,,,,,,,,,,,,,,,,,,,Caron Butler,Did Not Play,SAC,False,False
+curryse01,,,,,,,,,,,,,,,,,,,,,Seth Curry,Did Not Play,SAC,False,False
+walkeke02,46.71666666666667,16.0,23.0,0.696,4.0,6.0,0.667,3.0,4.0,0.75,2.0,4.0,6.0,5.0,2.0,3.0,2.0,0.0,39.0,11.0,Kemba Walker,,CHO,True,True
+batumni01,43.3,5.0,16.0,0.313,1.0,7.0,0.143,7.0,7.0,1.0,1.0,9.0,10.0,8.0,2.0,1.0,5.0,1.0,18.0,5.0,Nicolas Batum,,CHO,True,True
+jeffeal01,22.95,4.0,10.0,0.4,0.0,0.0,,2.0,4.0,0.5,0.0,3.0,3.0,3.0,1.0,1.0,3.0,1.0,10.0,-8.0,Al Jefferson,,CHO,True,True
+hairspj02,19.45,2.0,5.0,0.4,1.0,4.0,0.25,0.0,0.0,,0.0,6.0,6.0,1.0,0.0,1.0,1.0,2.0,5.0,-6.0,P.J. Hairston,,CHO,True,True
+willima02,19.433333333333334,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,1.0,4.0,9.0,-17.0,Marvin Williams,,CHO,True,True
+linje01,30.683333333333334,5.0,12.0,0.417,1.0,3.0,0.333,3.0,5.0,0.6,1.0,2.0,3.0,3.0,2.0,1.0,4.0,1.0,14.0,18.0,Jeremy Lin,,CHO,True,False
+zelleco01,28.033333333333335,4.0,8.0,0.5,0.0,0.0,,4.0,4.0,1.0,1.0,5.0,6.0,0.0,1.0,0.0,1.0,4.0,12.0,16.0,Cody Zeller,,CHO,True,False
+lambje01,25.9,5.0,9.0,0.556,0.0,2.0,0.0,1.0,2.0,0.5,0.0,5.0,5.0,2.0,1.0,0.0,1.0,5.0,11.0,-11.0,Jeremy Lamb,,CHO,True,False
+kaminfr01,20.883333333333333,4.0,8.0,0.5,1.0,4.0,0.25,0.0,0.0,,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,9.0,23.0,Frank Kaminsky,,CHO,True,False
+hawessp01,7.65,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,-6.0,Spencer Hawes,,CHO,True,False
+hansbty01,,,,,,,,,,,,,,,,,,,,,Tyler Hansbrough,Did Not Play,CHO,True,False
+harriaa01,,,,,,,,,,,,,,,,,,,,,Aaron Harrison,Did Not Play,CHO,True,False
+roberbr01,,,,,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,CHO,True,False

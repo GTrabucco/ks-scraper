@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,39.15,0.675,0.645,0.484,0.226,0.0,13.9,7.3,47.3,2.3,0.0,15.0,42.7,122.0,107.0,10.8,Paul George,,LAC,False,True
+leonaka01,37.18333333333333,0.649,0.479,0.125,0.792,6.5,26.4,16.9,9.9,0.0,0.0,19.8,45.2,112.0,110.0,1.2,Kawhi Leonard,,LAC,False,True
+harklma01,30.116666666666667,0.833,0.833,0.667,0.0,8.0,14.5,11.4,0.0,3.0,0.0,25.0,5.5,136.0,105.0,3.0,Maurice Harkless,,LAC,False,True
+mannte01,17.65,,,,,0.0,12.4,6.5,20.9,0.0,6.2,,0.0,228.0,108.0,3.4,Terance Mann,,LAC,False,True
+zubaciv01,16.466666666666665,0.868,1.0,0.0,1.0,0.0,46.4,24.3,0.0,0.0,6.6,0.0,7.3,173.0,102.0,5.1,Ivica Zubac,,LAC,False,True
+harremo01,31.533333333333335,0.592,0.538,0.0,0.385,11.4,3.5,7.2,0.0,0.0,0.0,16.5,24.1,108.0,113.0,-6.2,Montrezl Harrell,,LAC,False,False
+waltode01,30.35,1.087,1.5,1.0,4.0,0.0,3.6,1.9,12.7,1.5,0.0,0.0,3.8,223.0,110.0,5.8,Derrick Walton,,LAC,False,False
+pattepa01,19.133333333333333,0.347,0.0,1.0,1.0,0.0,34.2,17.9,6.4,0.0,0.0,25.8,8.5,70.0,108.0,-2.2,Patrick Patterson,,LAC,False,False
+mcgruro01,15.0,0.0,0.0,0.667,0.0,8.0,14.5,11.4,0.0,0.0,0.0,0.0,8.3,31.0,111.0,-11.6,Rodney McGruder,,LAC,False,False
+robinje01,3.4166666666666665,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,114.0,-5.8,Jerome Robinson,,LAC,False,False
+willilo02,,,,,,,,,,,,,,,,,Lou Williams,Did Not Play,LAC,False,False
+kabenmf01,,,,,,,,,,,,,,,,,Mfiondu Kabengele,Did Not Play,LAC,False,False
+motlejo01,,,,,,,,,,,,,,,,,Johnathan Motley,Did Not Play,LAC,False,False
+wiggian01,39.333333333333336,0.723,0.65,0.35,0.4,2.8,6.1,4.4,10.4,1.1,0.0,14.5,28.2,126.0,120.0,5.1,Andrew Wiggins,,MIN,True,True
+townska01,35.25,0.703,0.659,0.455,0.591,12.4,27.2,19.5,18.9,2.5,0.0,15.3,37.4,125.0,113.0,13.8,Karl-Anthony Towns,,MIN,True,True
+covinro01,32.86666666666667,0.455,0.455,0.727,0.0,0.0,18.3,8.7,0.0,4.1,2.7,15.4,15.9,75.0,109.0,-1.9,Robert Covington,,MIN,True,True
+okogijo01,31.383333333333333,0.361,0.286,0.571,0.429,0.0,15.3,7.3,8.8,0.0,0.0,26.5,14.5,63.0,121.0,-10.1,Josh Okogie,,MIN,True,True
+culveja01,17.566666666666666,0.0,0.0,0.6,0.0,6.2,6.8,6.5,0.0,0.0,0.0,0.0,11.5,18.0,122.0,-15.4,Jarrett Culver,,MIN,True,True
+teaguje01,32.56666666666667,0.795,0.667,0.222,1.222,3.3,11.1,7.0,25.3,0.0,2.7,6.7,18.3,162.0,120.0,8.8,Jeff Teague,,MIN,True,False
+napiesh01,14.45,0.0,0.0,1.0,0.0,0.0,8.3,4.0,26.2,3.1,0.0,40.0,13.9,32.0,115.0,-14.0,Shabazz Napier,,MIN,True,False
+dienggo01,11.666666666666666,0.5,0.5,0.4,0.0,0.0,51.4,24.5,0.0,3.8,7.6,0.0,17.2,99.0,100.0,4.6,Gorgui Dieng,,MIN,True,False
+belljo01,11.016666666666667,0.266,0.0,0.0,2.0,0.0,32.7,15.6,22.9,4.1,0.0,0.0,6.9,98.0,108.0,5.9,Jordan Bell,,MIN,True,False
+bateske01,11.016666666666667,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,0.0,124.0,-7.5,Keita Bates-Diop,,MIN,True,False
+grahatr01,2.8833333333333333,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,27.9,0.0,124.0,-31.8,Treveon Graham,,MIN,True,False
+vonleno01,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,MIN,True,False

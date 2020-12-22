@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+leonaka01,34.4,0.602,0.554,0.143,0.357,6.1,14.7,10.0,33.4,6.4,3.1,13.4,42.7,114.0,109.0,10.7,Kawhi Leonard,,LAC,False,True
+mcgruro01,32.38333333333333,0.333,0.333,0.5,0.0,3.2,7.8,5.3,6.9,2.7,0.0,14.3,8.5,82.0,121.0,-4.3,Rodney McGruder,,LAC,False,True
+beverpa01,30.616666666666667,0.507,0.438,0.625,0.25,10.2,12.4,11.2,22.8,4.3,0.0,18.4,14.0,117.0,115.0,1.8,Patrick Beverley,,LAC,False,True
+shamela01,29.933333333333334,0.611,0.611,0.444,0.0,0.0,16.9,7.6,4.2,0.0,0.0,0.0,11.8,127.0,124.0,-5.4,Landry Shamet,,LAC,False,True
+zubaciv01,15.566666666666666,0.255,0.2,0.0,0.4,13.4,8.1,11.0,14.4,0.0,0.0,0.0,14.8,93.0,126.0,-10.5,Ivica Zubac,,LAC,False,True
+willilo02,30.966666666666665,0.708,0.563,0.438,0.938,0.0,16.3,7.4,22.0,2.9,3.4,4.2,29.9,149.0,117.0,14.9,Lou Williams,,LAC,False,False
+harremo01,24.683333333333334,0.779,0.818,0.0,0.909,4.2,5.1,4.6,0.0,0.0,0.0,0.0,24.5,158.0,128.0,5.7,Montrezl Harrell,,LAC,False,False
+robinje01,20.883333333333333,0.75,0.75,1.0,0.0,0.0,6.0,2.7,0.0,0.0,0.0,0.0,3.8,148.0,126.0,-6.6,Jerome Robinson,,LAC,False,False
+greenja01,14.916666666666666,0.6,0.6,1.0,0.0,0.0,25.4,11.5,0.0,0.0,0.0,37.5,21.1,68.0,122.0,-13.6,JaMychal Green,,LAC,False,False
+pattepa01,5.583333333333333,0.333,0.333,0.333,0.0,18.7,67.9,40.9,0.0,0.0,0.0,0.0,21.1,92.0,114.0,-8.0,Patrick Patterson,,LAC,False,False
+mannte01,0.06666666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,129.0,-7.9,Terance Mann,,LAC,False,False
+motlejo01,,,,,,,,,,,,,,,,,Johnathan Motley,Did Not Play,LAC,False,False
+ingrabr01,40.5,0.498,0.444,0.444,0.389,3.1,15.5,9.9,18.9,1.1,0.0,15.9,24.2,104.0,124.0,-6.1,Brandon Ingram,,NOP,True,True
+balllo01,39.166666666666664,0.547,0.563,0.563,0.063,3.2,24.0,14.6,36.0,2.3,2.0,26.7,22.4,105.0,118.0,1.1,Lonzo Ball,,NOP,True,True
+hartjo01,34.55,0.45,0.45,0.6,0.0,14.6,18.1,16.5,3.4,3.8,2.2,23.1,14.7,90.0,115.0,-4.3,Josh Hart,,NOP,True,True
+redicjj01,30.016666666666666,0.612,0.542,0.5,0.667,0.0,7.0,3.8,8.4,0.0,0.0,11.4,22.8,119.0,128.0,-3.8,J.J. Redick,,NOP,True,True
+favorde01,28.1,0.935,1.0,0.0,0.4,13.5,29.7,22.4,17.7,1.6,0.0,0.0,16.4,193.0,120.0,13.4,Derrick Favors,,NOP,True,True
+mooreet01,18.383333333333333,0.563,0.563,0.625,0.0,0.0,5.7,3.1,22.0,0.0,0.0,11.1,19.1,117.0,128.0,-2.1,E'Twaun Moore,,NOP,True,False
+hayesja02,15.583333333333334,0.845,1.0,0.0,4.0,24.3,13.4,18.3,33.5,0.0,5.0,10.8,23.3,169.0,122.0,14.5,Jaxson Hayes,,NOP,True,False
+jacksfr01,14.05,1.333,1.333,0.667,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,8.3,260.0,129.0,6.0,Frank Jackson,,NOP,True,False
+alexani01,13.966666666666667,0.644,0.667,0.833,0.667,0.0,14.9,8.2,9.6,0.0,5.5,20.5,27.3,102.0,122.0,-2.3,Nickeil Alexander-Walker,,NOP,True,False
+mellini01,5.683333333333334,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,13.8,0.0,129.0,-24.4,Nicolò Melli,,NOP,True,False
+okafoja01,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Dress,NOP,True,False
+willike04,,,,,,,,,,,,,,,,,Kenrich Williams,Did Not Dress,NOP,True,False
+holidjr01,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Dress,NOP,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gayru01,40.68333333333333,9.0,20.0,0.45,2.0,6.0,0.333,2.0,2.0,1.0,2.0,2.0,4.0,1.0,1.0,3.0,4.0,3.0,22.0,15.0,Rudy Gay,,SAC,False,True
+couside01,36.43333333333333,8.0,18.0,0.444,0.0,2.0,0.0,12.0,17.0,0.706,4.0,8.0,12.0,5.0,2.0,0.0,4.0,5.0,28.0,11.0,DeMarcus Cousins,,SAC,False,True
+rondora01,36.38333333333333,7.0,13.0,0.538,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,15.0,3.0,0.0,2.0,0.0,14.0,0.0,Rajon Rondo,,SAC,False,True
+belinma01,23.4,3.0,9.0,0.333,0.0,4.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,6.0,-3.0,Marco Belinelli,,SAC,False,True
+caulewi01,17.25,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,0.5,2.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,3.0,-14.0,Willie Cauley-Stein,,SAC,False,True
+collida01,31.8,9.0,12.0,0.75,2.0,2.0,1.0,5.0,6.0,0.833,0.0,3.0,3.0,3.0,0.0,0.0,1.0,1.0,25.0,10.0,Darren Collison,,SAC,False,False
+casspom01,19.566666666666666,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,2.0,0.0,0.0,0.0,2.0,2.0,-10.0,Omri Casspi,,SAC,False,False
+acyqu01,14.816666666666666,2.0,3.0,0.667,0.0,1.0,0.0,2.0,2.0,1.0,3.0,1.0,4.0,0.0,0.0,2.0,1.0,3.0,6.0,13.0,Quincy Acy,,SAC,False,False
+koufoko01,14.8,4.0,5.0,0.8,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,0.0,1.0,0.0,2.0,8.0,0.0,Kosta Koufos,,SAC,False,False
+anderja01,4.866666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,-2.0,James Anderson,,SAC,False,False
+butleca01,,,,,,,,,,,,,,,,,,,,,Caron Butler,Did Not Play,SAC,False,False
+curryse01,,,,,,,,,,,,,,,,,,,,,Seth Curry,Did Not Play,SAC,False,False
+mclembe01,,,,,,,,,,,,,,,,,,,,,Ben McLemore,Did Not Play,SAC,False,False
+okafoja01,38.68333333333333,11.0,18.0,0.611,0.0,0.0,,4.0,5.0,0.8,3.0,7.0,10.0,5.0,0.0,2.0,6.0,5.0,26.0,-10.0,Jahlil Okafor,,PHI,True,True
+covinro01,32.06666666666667,9.0,16.0,0.563,7.0,11.0,0.636,4.0,6.0,0.667,2.0,3.0,5.0,1.0,6.0,0.0,7.0,5.0,29.0,-5.0,Robert Covington,,PHI,True,True
+stausni01,31.466666666666665,6.0,10.0,0.6,4.0,5.0,0.8,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,0.0,0.0,0.0,16.0,1.0,Nik Stauskas,,PHI,True,True
+smithis01,30.916666666666668,2.0,6.0,0.333,0.0,1.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,10.0,0.0,0.0,1.0,2.0,5.0,1.0,Ish Smith,,PHI,True,True
+grantje01,28.75,2.0,8.0,0.25,1.0,3.0,0.333,2.0,2.0,1.0,2.0,4.0,6.0,6.0,0.0,4.0,1.0,0.0,7.0,11.0,Jerami Grant,,PHI,True,True
+thompho01,23.033333333333335,3.0,11.0,0.273,1.0,7.0,0.143,0.0,0.0,,3.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0,7.0,-10.0,Hollis Thompson,,PHI,True,False
+mccontj01,17.466666666666665,2.0,5.0,0.4,0.0,1.0,0.0,0.0,0.0,,4.0,1.0,5.0,3.0,1.0,0.0,1.0,1.0,4.0,-7.0,T.J. McConnell,,PHI,True,False
+canaais01,16.316666666666666,2.0,7.0,0.286,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,-5.0,Isaiah Canaan,,PHI,True,False
+holmeri01,15.433333333333334,4.0,7.0,0.571,0.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0,1.0,4.0,2.0,3.0,8.0,-10.0,Richaun Holmes,,PHI,True,False
+landrca01,5.866666666666667,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,1.0,0.0,0.0,1.0,1.0,2.0,14.0,Carl Landry,,PHI,True,False
+marshke01,,,,,,,,,,,,,,,,,,,,,Kendall Marshall,Did Not Play,PHI,True,False
+noelne01,,,,,,,,,,,,,,,,,,,,,Nerlens Noel,Did Not Dress,PHI,True,False
+sampsja02,,,,,,,,,,,,,,,,,,,,,JaKarr Sampson,Did Not Play,PHI,True,False

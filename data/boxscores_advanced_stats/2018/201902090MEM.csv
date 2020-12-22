@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+willike04,37.13333333333333,0.46,0.45,0.6,0.2,14.9,20.1,17.3,31.4,0.0,2.2,0.0,12.5,131.0,108.0,6.9,Kenrich Williams,,NOP,False,True
+davisan02,33.96666666666667,0.585,0.5,0.125,1.125,5.4,44.0,23.3,29.9,3.0,4.8,14.3,17.5,120.0,92.0,10.7,Anthony Davis,,NOP,False,True
+holidjr01,29.683333333333334,0.504,0.536,0.143,0.143,9.3,14.4,11.7,35.6,1.7,0.0,11.8,24.2,103.0,107.0,4.8,Jrue Holiday,,NOP,False,True
+jacksfr01,26.283333333333335,0.25,0.25,0.25,0.0,3.5,8.1,5.6,0.0,2.0,0.0,0.0,19.4,63.0,108.0,-11.5,Frank Jackson,,NOP,False,True
+milleda01,19.6,0.4,0.4,0.8,0.0,0.0,0.0,0.0,18.4,0.0,0.0,0.0,21.7,97.0,115.0,-3.1,Darius Miller,,NOP,False,True
+randlju01,30.783333333333335,0.589,0.538,0.231,0.846,9.0,10.4,9.6,13.5,1.7,2.6,18.3,30.2,103.0,106.0,2.4,Julius Randle,,NOP,False,False
+fraziti01,21.0,0.644,0.5,1.0,0.667,0.0,5.1,2.4,21.6,0.0,0.0,34.0,11.9,100.0,113.0,-8.1,Tim Frazier,,NOP,False,False
+mooreet01,15.85,0.313,0.313,0.375,0.0,5.8,6.7,6.2,0.0,0.0,0.0,27.3,29.5,51.0,113.0,-17.9,E'Twaun Moore,,NOP,False,False
+diallch01,12.683333333333334,0.82,1.0,0.0,0.5,7.3,16.8,11.7,0.0,0.0,6.4,29.1,11.5,93.0,105.0,-3.1,Cheick Diallo,,NOP,False,False
+johnsst04,7.55,0.0,0.0,0.667,0.0,0.0,14.1,6.6,0.0,6.8,0.0,0.0,16.9,0.0,96.0,-15.2,Stanley Johnson,,NOP,False,False
+clarkia01,5.466666666666667,0.333,0.333,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,31.1,50.0,115.0,-20.1,Ian Clark,,NOP,False,False
+smithja02,,,,,,,,,,,,,,,,,Jason Smith,Did Not Play,NOP,False,False
+hillso01,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,NOP,False,False
+conlemi01,32.46666666666667,0.417,0.273,0.545,0.455,6.6,11.4,9.1,39.6,0.0,0.0,7.0,19.8,112.0,100.0,0.6,Mike Conley,,MEM,True,True
+holidju01,31.05,0.75,0.75,0.5,0.0,3.4,11.9,8.0,16.1,0.0,0.0,16.7,17.5,121.0,100.0,6.4,Justin Holiday,,MEM,True,True
+rabbiv01,27.783333333333335,0.601,0.571,0.0,0.429,3.8,26.6,16.0,16.7,0.0,0.0,0.0,13.6,135.0,92.0,4.3,Ivan Rabb,,MEM,True,True
+jacksja02,27.066666666666666,0.461,0.385,0.308,0.385,0.0,10.2,5.5,5.7,3.8,3.3,0.0,25.4,100.0,91.0,3.9,Jaren Jackson,,MEM,True,True
+bradlav01,24.766666666666666,0.4,0.4,0.4,0.0,0.0,3.7,2.0,12.0,2.1,0.0,23.1,23.8,66.0,99.0,-9.1,Avery Bradley,,MEM,True,True
+noahjo01,30.283333333333335,0.62,0.571,0.0,0.214,17.6,27.4,22.9,18.8,0.0,0.0,6.1,24.4,131.0,92.0,7.7,Joakim Noah,,MEM,True,False
+wrighde01,23.233333333333334,0.444,0.429,0.429,0.286,0.0,4.0,2.1,13.0,2.2,0.0,11.3,17.3,87.0,99.0,-4.3,Delon Wright,,MEM,True,False
+milescj01,20.716666666666665,0.722,0.722,0.333,0.0,0.0,8.9,4.8,19.2,0.0,0.0,0.0,19.7,142.0,102.0,9.3,C.J. Miles,,MEM,True,False
+carteje01,15.533333333333333,0.0,0.0,0.5,0.0,0.0,11.9,6.4,16.3,6.6,0.0,20.0,14.6,23.0,86.0,-6.8,Jevon Carter,,MEM,True,False
+cabocbr01,7.1,0.333,0.333,0.667,0.0,15.0,13.0,13.9,0.0,0.0,12.8,25.0,25.5,63.0,89.0,-20.7,Bruno Caboclo,,MEM,True,False
+washbju01,,,,,,,,,,,,,,,,,Julian Washburn,Did Not Play,MEM,True,False
+dorsety01,,,,,,,,,,,,,,,,,Tyler Dorsey,Did Not Play,MEM,True,False
+watanyu01,,,,,,,,,,,,,,,,,Yuta Watanabe,Did Not Play,MEM,True,False

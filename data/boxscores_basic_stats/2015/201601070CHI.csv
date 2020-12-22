@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+crowdja01,39.1,6.0,17.0,0.353,1.0,4.0,0.25,4.0,7.0,0.571,3.0,1.0,4.0,4.0,3.0,1.0,0.0,3.0,17.0,-7.0,Jae Crowder,,BOS,False,True
+turneev01,37.233333333333334,4.0,12.0,0.333,0.0,2.0,0.0,2.0,2.0,1.0,1.0,4.0,5.0,6.0,4.0,0.0,3.0,3.0,10.0,-11.0,Evan Turner,,BOS,False,True
+thomais02,32.983333333333334,5.0,17.0,0.294,0.0,4.0,0.0,4.0,5.0,0.8,1.0,1.0,2.0,1.0,2.0,0.0,4.0,3.0,14.0,-14.0,Isaiah Thomas,,BOS,False,True
+olynyke01,32.53333333333333,6.0,14.0,0.429,2.0,5.0,0.4,2.0,2.0,1.0,2.0,7.0,9.0,2.0,0.0,0.0,0.0,1.0,16.0,-19.0,Kelly Olynyk,,BOS,False,True
+johnsam01,21.766666666666666,6.0,8.0,0.75,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,1.0,0.0,3.0,12.0,-13.0,Amir Johnson,,BOS,False,True
+smartma01,29.6,3.0,11.0,0.273,2.0,6.0,0.333,2.0,2.0,1.0,2.0,3.0,5.0,2.0,2.0,0.0,0.0,3.0,10.0,7.0,Marcus Smart,,BOS,False,False
+sullija01,25.4,5.0,13.0,0.385,0.0,3.0,0.0,3.0,4.0,0.75,4.0,7.0,11.0,2.0,0.0,1.0,1.0,3.0,13.0,11.0,Jared Sullinger,,BOS,False,False
+zellety01,9.15,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,7.0,7.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,Tyler Zeller,,BOS,False,False
+jerebjo01,8.083333333333334,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,Jonas Jerebko,,BOS,False,False
+youngja01,4.15,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,James Young,,BOS,False,False
+bradlav01,,,,,,,,,,,,,,,,,,,,,Avery Bradley,Did Not Dress,BOS,False,False
+hunterj01,,,,,,,,,,,,,,,,,,,,,R.J. Hunter,Did Not Play,BOS,False,False
+leeda02,,,,,,,,,,,,,,,,,,,,,David Lee,Did Not Play,BOS,False,False
+butleji01,38.65,5.0,14.0,0.357,1.0,3.0,0.333,8.0,9.0,0.889,0.0,5.0,5.0,10.0,1.0,1.0,3.0,1.0,19.0,12.0,Jimmy Butler,,CHI,True,True
+gasolpa01,34.7,8.0,19.0,0.421,0.0,1.0,0.0,1.0,2.0,0.5,5.0,13.0,18.0,4.0,0.0,1.0,3.0,0.0,17.0,14.0,Pau Gasol,,CHI,True,True
+rosede01,34.45,9.0,16.0,0.563,0.0,1.0,0.0,0.0,0.0,,2.0,5.0,7.0,3.0,0.0,0.0,2.0,4.0,18.0,6.0,Derrick Rose,,CHI,True,True
+gibsota01,27.633333333333333,5.0,9.0,0.556,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,3.0,1.0,0.0,2.0,5.0,10.0,1.0,Taj Gibson,,CHI,True,True
+mirotni01,27.216666666666665,3.0,10.0,0.3,2.0,7.0,0.286,3.0,4.0,0.75,2.0,6.0,8.0,1.0,1.0,1.0,2.0,1.0,11.0,22.0,Nikola Mirotić,,CHI,True,True
+portibo01,23.5,2.0,9.0,0.222,0.0,1.0,0.0,0.0,0.0,,3.0,5.0,8.0,0.0,0.0,2.0,0.0,3.0,4.0,-11.0,Bobby Portis,,CHI,True,False
+mcderdo01,20.183333333333334,3.0,8.0,0.375,3.0,4.0,0.75,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,9.0,5.0,Doug McDermott,,CHI,True,False
+snellto01,20.116666666666667,3.0,6.0,0.5,2.0,3.0,0.667,2.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,1.0,10.0,-7.0,Tony Snell,,CHI,True,False
+hinriki01,13.55,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,3.0,3.0,Kirk Hinrich,,CHI,True,False
+bairsca01,,,,,,,,,,,,,,,,,,,,,Cameron Bairstow,Did Not Play,CHI,True,False
+brookaa01,,,,,,,,,,,,,,,,,,,,,Aaron Brooks,Did Not Play,CHI,True,False
+mooreet01,,,,,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,CHI,True,False
+noahjo01,,,,,,,,,,,,,,,,,,,,,Joakim Noah,Did Not Dress,CHI,True,False

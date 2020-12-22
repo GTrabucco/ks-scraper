@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+derozde01,39.733333333333334,0.66,0.588,0.059,0.765,0.0,13.4,6.7,16.7,2.7,0.0,11.7,32.1,124.0,108.0,4.7,DeMar DeRozan,,TOR,False,True
+lowryky01,37.9,0.531,0.472,0.222,0.222,0.0,10.6,5.3,16.4,5.7,0.0,4.8,27.2,111.0,101.0,2.9,Kyle Lowry,,TOR,False,True
+biyombi01,34.46666666666667,0.425,0.4,0.0,0.4,15.5,42.6,29.0,0.0,0.0,2.8,14.5,9.9,106.0,108.0,-4.9,Bismack Biyombo,,TOR,False,True
+johnsja01,32.18333333333333,0.658,0.611,0.222,0.222,4.1,0.0,2.1,22.2,1.7,3.0,0.0,15.2,150.0,109.0,7.8,James Johnson,,TOR,False,True
+scolalu01,26.933333333333334,0.608,0.594,0.125,0.063,5.0,9.9,7.4,7.1,0.0,3.6,0.0,30.3,126.0,111.0,1.2,Luis Scola,,TOR,False,True
+rosste01,25.383333333333333,0.944,0.944,0.889,0.0,0.0,5.3,2.6,6.4,2.1,7.7,10.0,19.6,159.0,102.0,16.9,Terrence Ross,,TOR,False,False
+pattepa01,23.9,0.333,0.333,0.667,0.0,0.0,44.6,22.3,5.2,2.3,0.0,0.0,6.2,84.0,105.0,-3.5,Patrick Patterson,,TOR,False,False
+josepco01,19.5,0.0,0.0,0.667,0.0,0.0,20.5,10.3,12.0,5.5,0.0,25.0,10.2,30.0,100.0,-8.8,Cory Joseph,,TOR,False,False
+bennean01,,,,,,,,,,,,,,,,,Anthony Bennett,Did Not Play,TOR,False,False
+carrode01,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Dress,TOR,False,False
+noguelu01,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,False,False
+powelno01,,,,,,,,,,,,,,,,,Norman Powell,Did Not Play,TOR,False,False
+denglu01,34.21666666666667,0.418,0.333,0.556,0.444,3.9,7.8,5.8,8.7,1.6,0.0,0.0,16.0,98.0,123.0,-3.4,Luol Deng,,MIA,True,True
+dragigo01,33.4,0.628,0.615,0.154,0.231,0.0,8.0,4.0,30.6,1.6,0.0,12.3,24.8,117.0,123.0,1.4,Goran Dragić,,MIA,True,True
+wadedw01,31.466666666666665,0.577,0.5,0.125,0.313,8.5,16.9,12.7,33.5,0.0,0.0,30.5,42.3,90.0,126.0,-6.4,Dwyane Wade,,MIA,True,True
+whiteha01,31.4,0.667,0.667,0.0,0.0,4.2,51.0,27.6,0.0,0.0,13.0,0.0,9.7,134.0,108.0,4.7,Hassan Whiteside,,MIA,True,True
+boshch01,28.916666666666668,0.619,0.563,0.25,0.25,0.0,18.4,9.2,17.6,1.9,0.0,10.1,17.4,118.0,121.0,0.7,Chris Bosh,,MIA,True,True
+greenge01,31.15,0.648,0.633,0.667,0.067,0.0,0.0,0.0,6.4,1.7,0.0,6.1,26.8,115.0,124.0,4.2,Gerald Green,,MIA,True,False
+udrihbe01,21.733333333333334,0.625,0.625,0.25,0.0,0.0,18.4,9.2,14.4,0.0,0.0,20.0,11.7,106.0,125.0,-4.7,Beno Udrih,,MIA,True,False
+winslju01,18.35,0.347,0.0,1.0,1.0,0.0,14.5,7.3,0.0,0.0,0.0,0.0,8.0,76.0,126.0,-10.5,Justise Winslow,,MIA,True,False
+hasleud01,5.933333333333334,0.0,0.0,1.0,0.0,0.0,22.5,11.2,23.1,0.0,0.0,0.0,8.6,52.0,125.0,-3.2,Udonis Haslem,,MIA,True,False
+richajo01,3.4333333333333336,,,,,0.0,0.0,0.0,0.0,0.0,23.7,,0.0,0.0,103.0,-1.6,Josh Richardson,,MIA,True,False
+stokeja01,,,,,,,,,,,,,,,,,Jarnell Stokes,Did Not Play,MIA,True,False
+stoudam01,,,,,,,,,,,,,,,,,Amar'e Stoudemire,Did Not Play,MIA,True,False

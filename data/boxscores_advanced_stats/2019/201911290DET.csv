@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+grahade01,37.46666666666667,0.571,0.571,0.5,0.0,0.0,3.2,1.6,31.7,0.0,5.3,12.5,20.6,123.0,129.0,-0.5,Devonte' Graham,,CHO,False,True
+roziete01,34.88333333333333,0.745,0.733,0.6,0.067,3.3,10.3,6.7,9.5,3.1,0.0,0.0,21.3,153.0,121.0,7.1,Terry Rozier,,CHO,False,True
+washipj01,34.5,0.862,0.875,0.25,0.583,0.0,17.4,8.5,15.2,6.4,0.0,6.2,22.5,163.0,111.0,13.9,P.J. Washington,,CHO,False,True
+biyombi01,33.85,0.488,0.5,0.0,0.25,16.9,14.2,15.6,9.0,0.0,5.9,18.4,23.2,101.0,124.0,-10.1,Bismack Biyombo,,CHO,False,True
+bridgmi02,27.6,0.576,0.538,0.462,0.154,12.4,17.4,14.8,17.6,0.0,7.2,0.0,24.2,139.0,122.0,3.5,Miles Bridges,,CHO,False,True
+batumni01,26.733333333333334,0.0,0.0,1.0,0.0,8.6,13.5,10.9,9.0,2.0,0.0,0.0,5.4,88.0,123.0,-9.8,Nicolas Batum,,CHO,False,False
+willima02,22.833333333333332,0.563,0.563,0.875,0.0,0.0,15.8,7.7,25.0,2.4,0.0,20.0,21.1,107.0,120.0,-2.6,Marvin Williams,,CHO,False,False
+monkma01,22.133333333333333,0.509,0.417,0.5,0.333,0.0,16.3,7.9,12.2,0.0,0.0,22.5,19.3,93.0,126.0,-12.9,Malik Monk,,CHO,False,False
+bacondw01,,,,,,,,,,,,,,,,,Dwayne Bacon,Did Not Play,CHO,False,False
+hernawi01,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,CHO,False,False
+kiddgmi01,,,,,,,,,,,,,,,,,Michael Kidd-Gilchrist,Did Not Play,CHO,False,False
+drumman01,37.63333333333333,0.545,0.583,0.0,0.333,25.5,33.4,29.6,11.9,1.5,5.7,22.5,21.6,108.0,116.0,-3.7,Andre Drummond,,DET,True,True
+kennalu01,33.31666666666667,0.618,0.618,0.588,0.0,0.0,3.4,1.8,19.6,0.0,3.2,0.0,23.4,142.0,131.0,3.6,Luke Kennard,,DET,True,True
+griffbl01,31.733333333333334,0.529,0.5,0.538,0.538,3.8,10.8,7.4,14.2,0.0,3.4,11.1,26.1,110.0,129.0,-5.3,Blake Griffin,,DET,True,True
+gallola01,27.183333333333334,0.45,0.375,1.0,0.25,4.4,12.6,8.6,4.5,4.0,0.0,18.4,9.2,100.0,121.0,-4.5,Langston Galloway,,DET,True,True
+brownbr01,26.266666666666666,0.333,0.333,0.167,0.0,0.0,17.4,8.9,24.5,2.1,0.0,14.3,12.2,101.0,124.0,-7.0,Bruce Brown,,DET,True,True
+rosede01,21.866666666666667,0.786,0.792,0.333,0.5,0.0,10.5,5.4,37.5,0.0,0.0,6.4,32.8,155.0,131.0,15.2,Derrick Rose,,DET,True,False
+snellto01,20.95,1.125,1.125,1.0,0.0,0.0,21.8,11.2,13.4,0.0,0.0,42.9,15.3,108.0,128.0,1.2,Tony Snell,,DET,True,False
+morrima02,16.266666666666666,0.75,0.75,0.333,0.0,7.4,0.0,3.6,30.3,3.4,0.0,14.3,19.7,144.0,126.0,7.5,Markieff Morris,,DET,True,False
+mykhasv01,14.55,0.3,0.3,0.6,0.0,16.5,0.0,8.0,17.5,0.0,0.0,0.0,15.7,114.0,134.0,-8.3,Sviatoslav Mykhailiuk,,DET,True,False
+woodch01,10.233333333333333,0.205,0.25,0.0,0.5,11.7,33.5,22.9,0.0,0.0,0.0,0.0,21.8,60.0,124.0,-19.6,Christian Wood,,DET,True,False
+fraziti01,,,,,,,,,,,,,,,,,Tim Frazier,Did Not Play,DET,True,False
+makerth01,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,DET,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+dudleja01,36.916666666666664,0.784,0.75,0.625,0.625,0.0,13.5,7.9,13.5,1.3,0.0,8.9,13.1,149.0,124.0,2.3,Jared Dudley,,WAS,False,True
+walljo01,35.7,0.393,0.341,0.227,0.227,0.0,22.4,13.1,49.1,1.3,5.3,14.2,34.1,95.0,117.0,-4.4,John Wall,,WAS,False,True
+templga01,34.18333333333333,0.393,0.393,0.5,0.0,0.0,11.7,6.8,14.8,1.4,0.0,0.0,17.7,95.0,123.0,-8.1,Garrett Temple,,WAS,False,True
+gortama01,27.05,0.918,1.0,0.0,1.75,26.1,22.2,23.8,9.4,1.8,7.0,22.0,14.5,158.0,115.0,6.6,Marcin Gortat,,WAS,False,True
+porteot01,12.016666666666667,0.5,0.5,0.556,0.0,11.7,16.6,14.6,0.0,0.0,0.0,0.0,32.3,103.0,126.0,-5.2,Otto Porter,,WAS,False,True
+bealbr01,29.516666666666666,0.557,0.5,0.556,0.222,0.0,10.2,5.9,16.9,0.0,0.0,16.8,17.4,106.0,128.0,-6.0,Bradley Beal,,WAS,False,False
+hilarne01,18.883333333333333,0.806,1.0,0.0,1.25,0.0,10.6,6.2,14.6,2.5,5.0,13.9,16.5,135.0,118.0,4.6,Nenê Hilário,,WAS,False,False
+sessira01,18.133333333333333,0.799,0.75,0.25,0.75,0.0,16.5,9.7,8.3,2.6,0.0,8.6,27.7,144.0,119.0,8.1,Ramon Sessions,,WAS,False,False
+nealga01,16.433333333333334,1.2,1.2,0.4,0.0,0.0,6.1,3.6,0.0,0.0,0.0,0.0,13.1,240.0,129.0,11.4,Gary Neal,,WAS,False,False
+goodedr01,11.083333333333334,0.833,0.833,0.333,0.0,12.7,36.1,26.4,0.0,0.0,0.0,25.0,15.6,117.0,122.0,1.5,Drew Gooden,,WAS,False,False
+oubreke01,0.1,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,131.0,-6.5,Kelly Oubre,,WAS,False,False
+blairde01,,,,,,,,,,,,,,,,,DeJuan Blair,Did Not Play,WAS,False,False
+eddieja01,,,,,,,,,,,,,,,,,Jarell Eddie,Did Not Play,WAS,False,False
+hardeja01,37.333333333333336,0.82,0.75,0.45,0.5,2.7,22.7,11.0,55.3,5.1,0.0,7.6,30.7,165.0,115.0,24.9,James Harden,,HOU,True,True
+arizatr01,35.68333333333333,0.666,0.591,0.545,0.364,2.8,23.7,11.5,3.9,1.3,0.0,0.0,15.5,142.0,124.0,1.9,Trevor Ariza,,HOU,True,True
+beverpa01,34.81666666666667,0.75,0.75,0.4,0.0,0.0,12.2,5.0,21.1,2.8,0.0,0.0,12.5,161.0,122.0,5.1,Patrick Beverley,,HOU,True,True
+breweco01,29.5,0.336,0.357,0.429,0.143,0.0,14.4,6.0,8.6,0.0,3.0,11.8,12.4,73.0,125.0,-9.1,Corey Brewer,,HOU,True,True
+howardw01,28.516666666666666,0.689,0.636,0.0,0.727,7.0,24.8,14.4,0.0,0.0,0.0,12.1,25.2,125.0,126.0,-3.3,Dwight Howard,,HOU,True,True
+lawsoty01,18.766666666666666,0.717,0.625,0.5,0.5,0.0,7.5,3.1,7.1,0.0,0.0,0.0,11.3,154.0,129.0,-4.0,Ty Lawson,,HOU,True,False
+capelca01,17.416666666666668,0.077,0.0,0.0,2.667,11.5,16.2,13.4,0.0,2.8,10.2,23.5,21.2,32.0,113.0,-22.4,Clint Capela,,HOU,True,False
+smithjo03,17.25,0.5,0.5,0.333,0.0,17.4,8.2,13.6,27.9,0.0,0.0,18.2,27.7,107.0,128.0,-4.7,Josh Smith,,HOU,True,False
+terryja01,14.983333333333333,0.429,0.429,1.0,0.0,6.7,0.0,3.9,9.3,0.0,0.0,12.5,23.2,89.0,129.0,-11.2,Jason Terry,,HOU,True,False
+joneste01,5.733333333333333,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.3,53.0,130.0,-23.6,Terrence Jones,,HOU,True,False
+dekkesa01,,,,,,,,,,,,,,,,,Sam Dekker,Did Not Dress,HOU,True,False
+thornma01,,,,,,,,,,,,,,,,,Marcus Thornton,Did Not Play,HOU,True,False
+harremo01,,,,,,,,,,,,,,,,,Montrezl Harrell,Did Not Play,HOU,True,False

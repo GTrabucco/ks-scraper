@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,36.95,0.365,0.344,0.563,0.063,0.0,19.5,8.6,10.9,3.9,0.0,0.0,19.4,81.0,93.0,-0.9,Paul George,,OKC,False,True
+westbru01,36.583333333333336,0.431,0.381,0.381,0.238,0.0,39.4,17.3,39.7,3.9,0.0,23.2,36.0,74.0,90.0,-1.1,Russell Westbrook,,OKC,False,True
+anthoca01,34.05,0.398,0.324,0.529,0.412,2.8,21.1,10.8,12.1,1.4,0.0,4.7,27.0,86.0,98.0,-1.3,Carmelo Anthony,,OKC,False,True
+adamsst01,29.016666666666666,0.916,0.8,0.0,1.2,6.5,16.5,10.9,0.0,8.3,3.0,28.2,16.0,132.0,81.0,7.7,Steven Adams,,OKC,False,True
+roberan03,28.733333333333334,0.4,0.4,0.2,0.0,9.8,4.2,7.3,13.0,3.3,3.0,16.7,9.1,95.0,93.0,-0.1,Andre Roberson,,OKC,False,True
+grantje01,26.683333333333334,0.512,0.5,0.25,0.5,7.1,18.0,11.9,8.3,0.0,0.0,9.3,17.6,102.0,102.0,-4.2,Jerami Grant,,OKC,False,False
+pattepa01,15.216666666666667,0.5,0.5,0.6,0.0,0.0,0.0,0.0,0.0,3.2,0.0,16.7,17.2,79.0,97.0,-5.2,Patrick Patterson,,OKC,False,False
+feltora01,13.9,0.0,0.0,0.25,0.0,0.0,17.3,7.6,23.8,3.5,0.0,0.0,12.5,25.0,94.0,-8.8,Raymond Felton,,OKC,False,False
+huestjo01,8.966666666666667,1.5,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.9,300.0,104.0,5.2,Josh Huestis,,OKC,False,False
+abrinal01,5.216666666666667,0.333,0.333,0.667,0.0,18.0,0.0,10.1,0.0,0.0,0.0,0.0,25.1,82.0,104.0,-9.6,Álex Abrines,,OKC,False,False
+fergute01,4.7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.3,0.0,104.0,-14.8,Terrance Ferguson,,OKC,False,False
+johnsda04,,,,,,,,,,,,,,,,,Dakari Johnson,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+templga01,30.766666666666666,0.444,0.444,0.667,0.0,0.0,15.3,8.6,9.7,0.0,0.0,18.2,16.0,77.0,92.0,-3.7,Garrett Temple,,SAC,True,True
+randoza01,26.533333333333335,0.567,0.533,0.067,0.133,4.5,24.8,15.9,24.1,3.6,0.0,27.4,36.9,85.0,80.0,1.7,Zach Randolph,,SAC,True,True
+hillge01,24.1,0.129,0.0,0.667,0.667,0.0,19.5,10.9,16.1,0.0,0.0,20.5,9.1,53.0,90.0,-7.1,George Hill,,SAC,True,True
+caulewi01,21.083333333333332,0.658,0.5,0.0,0.75,11.4,13.4,12.5,14.0,2.3,9.3,27.3,15.5,114.0,81.0,7.1,Willie Cauley-Stein,,SAC,True,True
+bogdabo01,21.083333333333332,0.394,0.313,0.25,0.25,11.4,8.9,10.0,0.0,0.0,9.3,18.4,23.1,74.0,88.0,-3.4,Bogdan Bogdanović,,SAC,True,True
+jacksju01,30.45,0.571,0.571,0.429,0.0,0.0,12.4,6.9,0.0,0.0,0.0,0.0,20.6,107.0,93.0,1.2,Justin Jackson,,SAC,True,False
+hieldbu01,27.616666666666667,1.017,1.0,0.444,0.333,0.0,23.9,13.4,7.0,3.5,0.0,22.5,21.6,140.0,80.0,16.3,Buddy Hield,,SAC,True,False
+foxde01,23.9,0.5,0.5,0.2,0.0,0.0,7.9,4.4,59.6,0.0,4.1,33.3,28.1,86.0,91.0,-0.7,De'Aaron Fox,,SAC,True,False
+cartevi01,14.833333333333334,0.333,0.333,0.333,0.0,0.0,6.3,3.6,19.2,3.2,0.0,25.0,12.1,71.0,87.0,-1.2,Vince Carter,,SAC,True,False
+labissk01,10.566666666666666,0.333,0.333,0.0,0.0,0.0,26.7,15.0,0.0,0.0,0.0,25.0,16.9,48.0,87.0,-15.1,Skal Labissière,,SAC,True,False
+koufoko01,9.083333333333334,1.0,1.0,0.0,0.0,0.0,31.1,17.4,0.0,0.0,0.0,0.0,4.9,200.0,86.0,4.4,Kosta Koufos,,SAC,True,False
+richama01,,,,,,,,,,,,,,,,,Malachi Richardson,Did Not Play,SAC,True,False
+masonfr01,,,,,,,,,,,,,,,,,Frank Mason,Did Not Play,SAC,True,False

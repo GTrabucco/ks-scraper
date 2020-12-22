@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jamesle01,45.8,11.0,16.0,0.688,1.0,3.0,0.333,6.0,6.0,1.0,4.0,5.0,9.0,6.0,2.0,1.0,1.0,3.0,29.0,-3.0,LeBron James,,CLE,False,True
+irvinky01,38.68333333333333,11.0,21.0,0.524,3.0,8.0,0.375,1.0,1.0,1.0,0.0,3.0,3.0,6.0,1.0,0.0,4.0,3.0,26.0,-8.0,Kyrie Irving,,CLE,False,True
+smithjr01,32.03333333333333,3.0,12.0,0.25,3.0,11.0,0.273,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,9.0,-4.0,J.R. Smith,,CLE,False,True
+loveke01,30.65,4.0,14.0,0.286,2.0,7.0,0.286,0.0,0.0,,1.0,6.0,7.0,3.0,0.0,0.0,1.0,0.0,10.0,-4.0,Kevin Love,,CLE,False,True
+thomptr01,29.033333333333335,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,3.0,6.0,9.0,0.0,1.0,0.0,2.0,3.0,2.0,-14.0,Tristan Thompson,,CLE,False,True
+fryech01,21.366666666666667,4.0,8.0,0.5,4.0,8.0,0.5,0.0,0.0,,1.0,5.0,6.0,1.0,0.0,0.0,0.0,3.0,12.0,6.0,Channing Frye,,CLE,False,False
+dellama01,15.483333333333333,1.0,4.0,0.25,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,5.0,0.0,1.0,1.0,2.0,2.0,-3.0,Matthew Dellavedova,,CLE,False,False
+jefferi01,14.816666666666666,4.0,4.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,Richard Jefferson,,CLE,False,False
+shumpim01,12.15,0.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,Iman Shumpert,,CLE,False,False
+mozgoti01,,,,,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,CLE,False,False
+jonesja02,,,,,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,False,False
+jonesda02,,,,,,,,,,,,,,,,,,,,,Dahntay Jones,Player Suspended,CLE,False,False
+willima01,,,,,,,,,,,,,,,,,,,,,Mo Williams,Did Not Play,CLE,False,False
+lowryky01,44.25,14.0,20.0,0.7,4.0,7.0,0.571,3.0,4.0,0.75,1.0,4.0,5.0,5.0,3.0,0.0,2.0,4.0,35.0,4.0,Kyle Lowry,,TOR,True,True
+biyombi01,41.7,2.0,4.0,0.5,0.0,0.0,,1.0,4.0,0.25,3.0,11.0,14.0,1.0,0.0,3.0,1.0,3.0,5.0,9.0,Bismack Biyombo,,TOR,True,True
+derozde01,39.916666666666664,14.0,23.0,0.609,0.0,1.0,0.0,4.0,4.0,1.0,0.0,3.0,3.0,3.0,1.0,0.0,2.0,2.0,32.0,8.0,DeMar DeRozan,,TOR,True,True
+carrode01,36.266666666666666,3.0,12.0,0.25,1.0,7.0,0.143,4.0,5.0,0.8,2.0,1.0,3.0,2.0,1.0,0.0,0.0,2.0,11.0,10.0,DeMarre Carroll,,TOR,True,True
+scolalu01,14.233333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,-2.0,Luis Scola,,TOR,True,True
+pattepa01,33.766666666666666,3.0,5.0,0.6,1.0,3.0,0.333,2.0,2.0,1.0,2.0,3.0,5.0,2.0,1.0,0.0,2.0,2.0,9.0,8.0,Patrick Patterson,,TOR,True,False
+josepco01,16.466666666666665,4.0,8.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,8.0,-1.0,Cory Joseph,,TOR,True,False
+rosste01,7.316666666666666,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,-3.0,Terrence Ross,,TOR,True,False
+johnsja01,6.083333333333333,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,-3.0,James Johnson,,TOR,True,False
+powelno01,,,,,,,,,,,,,,,,,,,,,Norman Powell,Did Not Play,TOR,True,False
+thompja02,,,,,,,,,,,,,,,,,,,,,Jason Thompson,Did Not Play,TOR,True,False
+valanjo01,,,,,,,,,,,,,,,,,,,,,Jonas Valančiūnas,Did Not Play,TOR,True,False
+wrighde01,,,,,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,True,False

@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+mahinia01,32.03333333333333,3.0,4.0,0.75,0.0,0.0,,4.0,6.0,0.667,2.0,6.0,8.0,4.0,0.0,1.0,4.0,2.0,10.0,-9.0,Ian Mahinmi,,IND,False,True
+ellismo01,29.65,2.0,11.0,0.182,1.0,3.0,0.333,2.0,2.0,1.0,0.0,6.0,6.0,2.0,0.0,0.0,1.0,1.0,7.0,-6.0,Monta Ellis,,IND,False,True
+georgpa01,28.5,7.0,15.0,0.467,2.0,5.0,0.4,4.0,4.0,1.0,1.0,8.0,9.0,1.0,1.0,1.0,3.0,1.0,20.0,-1.0,Paul George,,IND,False,True
+hillge01,28.416666666666668,3.0,9.0,0.333,2.0,7.0,0.286,2.0,3.0,0.667,1.0,5.0,6.0,0.0,1.0,0.0,2.0,3.0,10.0,-7.0,George Hill,,IND,False,True
+allenla01,14.683333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,1.0,1.0,0.0,-3.0,Lavoy Allen,,IND,False,True
+turnemy01,30.55,6.0,11.0,0.545,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,1.0,1.0,1.0,1.0,2.0,12.0,1.0,Myles Turner,,IND,False,False
+milescj01,19.733333333333334,4.0,8.0,0.5,2.0,5.0,0.4,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,3.0,10.0,8.0,C.J. Miles,,IND,False,False
+stuckro01,19.583333333333332,6.0,9.0,0.667,0.0,0.0,,5.0,5.0,1.0,1.0,3.0,4.0,1.0,0.0,0.0,2.0,2.0,17.0,12.0,Rodney Stuckey,,IND,False,False
+hillso01,18.5,2.0,5.0,0.4,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,2.0,0.0,4.0,19.0,Solomon Hill,,IND,False,False
+lawsoty01,18.35,1.0,7.0,0.143,0.0,1.0,0.0,0.0,0.0,,1.0,3.0,4.0,5.0,1.0,0.0,0.0,3.0,2.0,11.0,Ty Lawson,,IND,False,False
+hilljo01,,,,,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,IND,False,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,False,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,False,False
+lopezro01,35.233333333333334,5.0,16.0,0.313,0.0,0.0,,0.0,0.0,,10.0,5.0,15.0,3.0,0.0,6.0,1.0,2.0,10.0,7.0,Robin Lopez,,NYK,True,True
+vujacsa01,32.416666666666664,7.0,15.0,0.467,5.0,10.0,0.5,2.0,2.0,1.0,1.0,2.0,3.0,3.0,2.0,0.0,3.0,3.0,21.0,-8.0,Sasha Vujačić,,NYK,True,True
+willide02,27.85,5.0,13.0,0.385,1.0,3.0,0.333,1.0,2.0,0.5,0.0,6.0,6.0,2.0,0.0,0.0,1.0,0.0,12.0,-9.0,Derrick Williams,,NYK,True,True
+grantje02,26.033333333333335,2.0,9.0,0.222,1.0,3.0,0.333,1.0,2.0,0.5,1.0,2.0,3.0,2.0,1.0,0.0,0.0,2.0,6.0,10.0,Jerian Grant,,NYK,True,True
+earlycl01,17.416666666666668,0.0,6.0,0.0,0.0,2.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,2.0,-1.0,Cleanthony Early,,NYK,True,True
+afflaar01,34.016666666666666,5.0,15.0,0.333,0.0,4.0,0.0,5.0,5.0,1.0,2.0,6.0,8.0,2.0,1.0,1.0,2.0,3.0,15.0,-10.0,Arron Afflalo,,NYK,True,False
+gallola01,31.366666666666667,3.0,9.0,0.333,0.0,3.0,0.0,3.0,7.0,0.429,1.0,1.0,2.0,6.0,3.0,0.0,0.0,2.0,9.0,-5.0,Langston Galloway,,NYK,True,False
+serapke01,23.233333333333334,3.0,8.0,0.375,0.0,0.0,,0.0,0.0,,1.0,7.0,8.0,0.0,0.0,1.0,2.0,4.0,6.0,1.0,Kevin Séraphin,,NYK,True,False
+oquinky01,12.433333333333334,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,2.0,3.0,5.0,1.0,0.0,0.0,0.0,0.0,6.0,-10.0,Kyle O'Quinn,,NYK,True,False
+amundlo01,,,,,,,,,,,,,,,,,,,,,Lou Amundson,Did Not Play,NYK,True,False
+anthoca01,,,,,,,,,,,,,,,,,,,,,Carmelo Anthony,Did Not Dress,NYK,True,False
+porzikr01,,,,,,,,,,,,,,,,,,,,,Kristaps Porziņģis,Did Not Dress,NYK,True,False

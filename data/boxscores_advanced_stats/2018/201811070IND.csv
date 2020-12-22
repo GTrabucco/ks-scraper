@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+embiijo01,36.05,0.536,0.469,0.313,0.375,3.5,26.1,15.9,10.0,1.4,6.3,21.2,30.1,87.0,91.0,-1.3,Joel Embiid,,PHI,False,True
+covinro01,35.93333333333333,0.689,0.667,0.667,0.111,0.0,11.6,6.4,4.6,2.7,4.2,9.6,13.3,117.0,93.0,4.8,Robert Covington,,PHI,False,True
+saricda01,35.9,0.648,0.615,0.462,0.154,0.0,20.3,11.1,9.6,0.0,0.0,6.7,19.0,117.0,101.0,4.2,Dario Šarić,,PHI,False,True
+simmobe01,34.31666666666667,0.581,0.583,0.0,0.333,0.0,30.4,16.7,42.7,0.0,4.4,6.8,19.7,124.0,94.0,7.2,Ben Simmons,,PHI,False,True
+fultzma01,25.6,0.444,0.429,0.0,0.286,4.9,8.2,6.7,24.7,5.7,0.0,11.3,15.9,100.0,91.0,2.9,Markelle Fultz,,PHI,False,True
+redicjj01,28.8,0.43,0.222,0.778,0.667,4.4,0.0,2.0,30.6,0.0,0.0,20.5,23.3,92.0,106.0,-6.1,J.J. Redick,,PHI,False,False
+shamela01,22.883333333333333,0.711,0.688,0.75,0.125,0.0,4.6,2.5,7.6,2.1,3.3,10.6,18.9,118.0,97.0,5.6,Landry Shamet,,PHI,False,False
+chandwi01,15.366666666666667,0.333,0.333,0.667,0.0,16.4,20.4,18.6,0.0,0.0,0.0,25.0,11.9,77.0,101.0,-8.6,Wilson Chandler,,PHI,False,False
+johnsam01,5.15,0.5,0.5,0.0,0.0,0.0,40.5,22.2,0.0,0.0,0.0,50.0,35.6,41.0,94.0,-27.7,Amir Johnson,,PHI,False,False
+korkmfu01,,,,,,,,,,,,,,,,,Furkan Korkmaz,Did Not Play,PHI,False,False
+boldejo01,,,,,,,,,,,,,,,,,Jonah Bolden,Did Not Play,PHI,False,False
+mccontj01,,,,,,,,,,,,,,,,,T.J. McConnell,Did Not Play,PHI,False,False
+oladivi01,36.65,0.551,0.533,0.467,0.2,0.0,20.7,9.4,49.1,2.7,8.4,3.0,39.9,114.0,95.0,22.0,Victor Oladipo,,IND,True,True
+bogdabo02,36.55,0.547,0.5,0.545,0.182,0.0,17.3,7.8,4.1,1.3,0.0,0.0,14.1,114.0,105.0,-0.6,Bojan Bogdanović,,IND,True,True
+turnemy01,30.166666666666668,0.359,0.25,0.0,0.5,3.5,12.6,7.6,0.0,1.6,6.8,0.0,14.1,83.0,100.0,-6.1,Myles Turner,,IND,True,True
+youngth01,21.15,0.375,0.375,0.375,0.0,14.8,11.9,13.5,0.0,4.6,0.0,33.3,24.7,61.0,98.0,-11.2,Thaddeus Young,,IND,True,True
+collida01,18.383333333333333,0.0,0.0,0.0,0.0,0.0,6.9,3.1,7.1,2.7,0.0,25.0,9.5,13.0,103.0,-14.9,Darren Collison,,IND,True,True
+sabondo01,31.75,0.538,0.5,0.071,0.143,9.9,31.8,19.8,17.2,0.0,3.2,6.3,21.7,114.0,104.0,4.2,Domantas Sabonis,,IND,True,False
+josepco01,31.2,0.75,0.75,0.5,0.0,0.0,16.2,7.3,20.0,3.1,0.0,14.3,9.7,134.0,101.0,3.8,Cory Joseph,,IND,True,False
+evansty01,21.116666666666667,0.322,0.3,0.2,0.2,0.0,12.0,5.4,15.1,0.0,0.0,8.4,24.4,68.0,109.0,-9.8,Tyreke Evans,,IND,True,False
+mcderdo01,11.35,0.0,0.0,0.5,0.5,9.2,11.1,10.1,0.0,0.0,0.0,0.0,9.3,28.0,109.0,-14.5,Doug McDermott,,IND,True,False
+oquinky01,1.6833333333333333,0.0,0.0,0.5,0.0,0.0,75.0,33.9,77.1,0.0,0.0,0.0,51.6,25.0,100.0,-19.6,Kyle O'Quinn,,IND,True,False
+holidaa01,,,,,,,,,,,,,,,,,Aaron Holiday,Did Not Play,IND,True,False
+leaftj01,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,True,False

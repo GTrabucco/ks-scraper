@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,team_id,is_home,is_starter,note
+hardeja01,35.35,0.43,0.278,0.556,0.667,0.0,10.7,5.2,33.7,4.1,0.0,37.6,22.5,81.0,111.0,-9.0,James Harden,HOU,False,True,
+howardw01,28.55,0.74,0.8,0.0,0.8,8.4,31.0,19.4,0.0,3.4,5.3,37.2,16.1,89.0,105.0,-4.3,Dwight Howard,HOU,False,True,
+beverpa01,28.4,0.5,0.5,0.7,0.0,0.0,0.0,0.0,15.7,8.5,0.0,16.7,18.0,94.0,104.0,-0.8,Patrick Beverley,HOU,False,True,
+capelca01,26.816666666666666,0.338,0.375,0.0,0.25,13.4,28.3,20.7,0.0,0.0,0.0,25.3,18.9,63.0,116.0,-17.9,Clint Capela,HOU,False,True,
+arizatr01,3.8333333333333335,0.333,0.333,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.4,70.0,123.0,-20.8,Trevor Ariza,HOU,False,True,
+breweco01,34.13333333333333,0.688,0.688,0.5,0.0,10.5,0.0,5.4,10.7,4.2,0.0,20.0,25.0,110.0,113.0,1.6,Corey Brewer,HOU,False,False,
+thornma01,26.016666666666666,0.828,0.806,0.444,0.167,0.0,29.1,14.2,32.8,5.5,0.0,4.9,33.3,154.0,104.0,24.8,Marcus Thornton,HOU,False,False,
+lawsoty01,19.283333333333335,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.9,2.5,4.0,0.0,6.6,92.0,115.0,-3.5,Ty Lawson,HOU,False,False,
+joneste01,16.183333333333334,0.5,0.5,0.4,0.0,7.4,15.6,11.4,17.9,3.0,0.0,0.0,13.2,128.0,112.0,-0.3,Terrence Jones,HOU,False,False,
+terryja01,14.683333333333334,0.68,0.6,0.8,0.4,8.2,8.6,8.4,10.1,6.6,0.0,0.0,17.1,153.0,106.0,9.6,Jason Terry,HOU,False,False,
+motiedo01,6.75,,,,,0.0,18.7,9.1,18.2,0.0,0.0,100.0,12.6,28.0,118.0,-16.8,Donatas Motiejūnas,HOU,False,False,
+johnsjo02,43.38333333333333,0.674,0.667,0.333,0.2,8.7,5.5,7.1,25.3,3.3,0.0,10.9,18.1,140.0,108.0,6.5,Joe Johnson,BRK,True,True,
+lopezbr01,38.68333333333333,0.721,0.643,0.0,0.429,13.1,12.4,12.7,0.0,1.2,13.2,26.5,25.1,110.0,104.0,-1.6,Brook Lopez,BRK,True,True,
+bogdabo02,38.05,0.563,0.594,0.438,0.125,3.3,12.6,8.1,3.6,2.5,0.0,0.0,19.0,122.0,108.0,0.1,Bojan Bogdanović,BRK,True,True,
+jackja01,37.43333333333333,0.563,0.5,0.125,0.25,3.4,12.8,8.2,28.9,3.9,0.0,36.0,15.9,101.0,105.0,-2.5,Jarrett Jack,BRK,True,True,
+youngth01,33.81666666666667,0.769,0.769,0.0,0.0,7.5,35.5,21.8,23.0,4.3,0.0,27.8,22.8,115.0,99.0,6.7,Thaddeus Young,BRK,True,True,
+ellinwa01,16.233333333333334,0.438,0.438,0.375,0.0,7.8,7.4,7.6,0.0,0.0,0.0,11.1,23.8,88.0,115.0,-12.4,Wayne Ellington,BRK,True,False,
+larkish01,15.716666666666667,0.347,0.0,0.0,1.0,0.0,0.0,0.0,20.4,6.1,0.0,58.1,18.8,54.0,103.0,-10.4,Shane Larkin,BRK,True,False,
+robinth01,10.783333333333333,0.436,0.333,0.0,0.333,0.0,44.5,22.8,0.0,0.0,18.9,22.5,17.6,73.0,94.0,-10.7,Thomas Robinson,BRK,True,False,
+brownma02,5.9,0.75,0.75,1.0,0.0,0.0,20.3,10.4,22.1,0.0,0.0,0.0,14.5,168.0,112.0,5.9,Markel Brown,BRK,True,False,
+bargnan01,,,,,,,,,,,,,,,,,Andrea Bargnani,BRK,True,False,Did Not Dress
+karasse01,,,,,,,,,,,,,,,,,Sergey Karasev,BRK,True,False,Did Not Play
+reedwi02,,,,,,,,,,,,,,,,,Willie Reed,BRK,True,False,Did Not Play
+sloando01,,,,,,,,,,,,,,,,,Donald Sloan,BRK,True,False,Did Not Play

@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+simmobe01,36.43333333333333,0.495,0.438,0.0,0.313,5.9,32.0,17.7,23.5,2.5,0.0,14.2,22.7,109.0,124.0,-4.0,Ben Simmons,,PHI,False,True
+harrito02,35.93333333333333,0.724,0.7,0.133,0.133,3.0,21.7,11.4,9.9,1.3,6.1,5.9,18.3,142.0,123.0,2.6,Tobias Harris,,PHI,False,True
+richajo01,35.85,0.535,0.5,0.4,0.133,3.0,10.9,6.5,18.0,1.3,3.0,23.9,22.7,95.0,126.0,-7.7,Josh Richardson,,PHI,False,True
+horfoal01,30.466666666666665,0.521,0.521,0.167,0.0,10.5,8.5,9.6,31.4,1.5,7.2,4.0,31.9,120.0,122.0,3.9,Al Horford,,PHI,False,True
+thybuma01,16.75,0.3,0.3,0.8,0.0,0.0,0.0,0.0,5.6,5.5,6.5,0.0,11.6,80.0,114.0,-4.9,Matisse Thybulle,,PHI,False,True
+ennisja01,24.85,1.215,1.25,0.5,1.0,8.6,26.1,16.5,3.9,5.6,0.0,0.0,4.5,240.0,117.0,3.9,James Ennis,,PHI,False,False
+korkmfu01,19.683333333333334,0.611,0.611,0.667,0.0,0.0,19.8,8.9,11.0,0.0,11.1,0.0,17.8,132.0,122.0,4.0,Furkan Korkmaz,,PHI,False,False
+oquinky01,17.533333333333335,0.477,0.5,0.444,0.111,24.3,22.2,23.4,31.8,0.0,0.0,9.6,23.2,121.0,131.0,1.3,Kyle O'Quinn,,PHI,False,False
+scottmi01,16.466666666666665,0.667,0.667,0.667,0.0,0.0,0.0,0.0,7.4,0.0,0.0,0.0,21.3,136.0,132.0,-0.4,Mike Scott,,PHI,False,False
+netora01,6.033333333333333,0.667,0.667,0.0,0.0,0.0,43.0,19.4,41.8,7.6,0.0,0.0,19.4,153.0,111.0,16.6,Raul Neto,,PHI,False,False
+boldejo01,,,,,,,,,,,,,,,,,Jonah Bolden,Did Not Play,PHI,False,False
+embiijo01,,,,,,,,,,,,,,,,,Joel Embiid,Did Not Play,PHI,False,False
+burketr01,,,,,,,,,,,,,,,,,Trey Burke,Did Not Play,PHI,False,False
+lillada01,39.06666666666667,0.953,0.938,0.688,0.188,0.0,13.7,7.5,35.1,2.4,0.0,28.8,27.9,140.0,123.0,9.7,Damian Lillard,,POR,True,True
+mccolcj01,38.36666666666667,0.477,0.4,0.267,0.267,0.0,8.3,4.6,3.3,0.0,0.0,10.7,21.9,89.0,129.0,-14.4,CJ McCollum,,POR,True,True
+hezonma01,36.6,0.506,0.5,0.4,0.2,7.1,29.1,19.2,13.2,2.5,0.0,15.5,15.8,109.0,118.0,-1.6,Mario Hezonja,,POR,True,True
+hoodro01,31.416666666666668,0.98,1.0,0.545,0.364,0.0,6.8,3.7,4.9,1.5,0.0,7.3,19.6,174.0,126.0,9.0,Rodney Hood,,POR,True,True
+tollian01,27.2,0.515,0.417,0.5,0.667,4.8,3.9,4.3,4.3,0.0,0.0,11.4,14.4,106.0,130.0,-7.1,Anthony Tolliver,,POR,True,True
+bazemke01,25.933333333333334,0.518,0.5,0.2,0.8,0.0,24.7,13.5,4.5,3.5,5.0,22.8,15.2,85.0,113.0,-2.0,Kent Bazemore,,POR,True,False
+labissk01,22.716666666666665,0.759,0.778,0.0,0.222,5.7,14.1,10.3,14.0,0.0,2.9,9.2,21.5,144.0,125.0,0.9,Skal Labissière,,POR,True,False
+simonan01,14.3,0.945,0.917,0.833,0.333,0.0,7.5,4.1,21.3,0.0,4.5,22.5,27.9,144.0,126.0,11.4,Anfernee Simons,,POR,True,False
+trentga02,4.4,,,,,0.0,24.2,13.3,0.0,0.0,0.0,,0.0,0.0,125.0,-8.7,Gary Trent,,POR,True,False
+whiteha01,,,,,,,,,,,,,,,,,Hassan Whiteside,Did Not Dress,POR,True,False
+colliza01,,,,,,,,,,,,,,,,,Zach Collins,Did Not Dress,POR,True,False
+littlna01,,,,,,,,,,,,,,,,,Nassir Little,Did Not Play,POR,True,False

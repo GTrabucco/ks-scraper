@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+anderch01,36.516666666666666,0.65,0.65,0.2,0.0,10.7,17.0,13.5,7.3,1.5,0.0,0.0,13.3,145.0,127.0,0.7,Chris Andersen,,MEM,False,True
+barnema02,35.15,0.643,0.6,0.5,0.2,7.4,17.6,12.0,11.0,1.5,2.3,26.9,20.6,104.0,124.0,-3.7,Matt Barnes,,MEM,False,True
+greenja01,25.2,0.556,0.556,0.056,0.0,0.0,12.3,5.6,22.9,0.0,6.5,5.3,36.7,110.0,125.0,0.6,JaMychal Green,,MEM,False,True
+allento01,23.633333333333333,0.58,0.583,0.167,0.667,5.5,6.6,6.0,5.4,2.3,3.4,0.0,16.0,128.0,124.0,1.6,Tony Allen,,MEM,False,True
+farmajo01,23.35,0.698,0.643,0.286,0.286,0.0,13.3,6.0,28.7,6.9,0.0,20.2,20.6,125.0,115.0,6.9,Jordan Farmar,,MEM,False,True
+stephla01,27.533333333333335,0.551,0.567,0.133,0.067,0.0,5.6,2.6,17.4,5.9,0.0,0.0,27.3,118.0,119.0,2.9,Lance Stephenson,,MEM,False,False
+mccalra01,20.683333333333334,0.35,0.35,0.3,0.0,0.0,29.9,13.7,6.3,2.6,0.0,9.1,25.9,71.0,122.0,-12.3,Ray McCallum,,MEM,False,False
+martija01,15.7,0.798,1.0,0.0,2.0,8.3,9.9,9.0,14.9,0.0,0.0,0.0,5.8,181.0,131.0,0.0,Jarell Martin,,MEM,False,False
+cartevi01,13.1,0.727,0.667,0.333,0.333,0.0,11.8,5.4,12.5,0.0,0.0,22.5,33.0,111.0,130.0,-4.4,Vince Carter,,MEM,False,False
+holliry01,12.35,,,,,10.5,0.0,5.7,0.0,4.4,0.0,,0.0,214.0,123.0,-10.8,Ryan Hollins,,MEM,False,False
+munfoxa02,6.783333333333333,,,,,0.0,68.5,31.2,32.2,0.0,0.0,,0.0,216.0,122.0,4.1,Xavier Munford,,MEM,False,False
+hairspj02,,,,,,,,,,,,,,,,,P.J. Hairston,Not With Team,MEM,False,False
+randoza01,,,,,,,,,,,,,,,,,Zach Randolph,Not With Team,MEM,False,False
+martike02,33.5,0.468,0.423,0.615,0.154,0.0,11.6,6.3,7.5,0.0,0.0,12.6,23.0,93.0,122.0,-10.7,Kevin Martin,,SAS,True,True
+parketo01,33.333333333333336,0.549,0.455,0.091,0.364,0.0,11.7,6.4,19.6,1.6,2.2,28.2,25.9,93.0,117.0,-7.2,Tony Parker,,SAS,True,True
+aldrila01,33.1,0.802,0.75,0.0,0.563,23.4,27.4,25.6,5.5,3.3,6.7,4.8,30.7,162.0,106.0,16.9,LaMarcus Aldridge,,SAS,True,True
+duncati01,30.95,0.711,0.75,0.0,0.125,10.0,25.1,18.2,31.3,1.7,0.0,10.6,14.8,149.0,116.0,11.3,Tim Duncan,,SAS,True,True
+anderky01,24.3,0.6,0.6,0.2,0.0,0.0,16.0,8.7,0.0,2.2,3.0,0.0,10.0,122.0,114.0,-1.2,Kyle Anderson,,SAS,True,True
+ginobma01,24.1,0.929,0.929,0.571,0.0,0.0,0.0,0.0,29.3,2.2,0.0,30.0,20.1,131.0,120.0,7.7,Manu Ginóbili,,SAS,True,False
+westda01,21.2,0.8,0.8,0.0,0.0,0.0,30.6,16.6,6.5,0.0,0.0,16.7,13.7,129.0,119.0,-3.3,David West,,SAS,True,False
+simmojo02,19.6,0.508,0.5,0.286,0.286,7.9,13.2,10.8,6.7,0.0,0.0,0.0,19.5,119.0,122.0,-5.2,Jonathon Simmons,,SAS,True,False
+millean02,15.883333333333333,0.5,0.5,0.25,0.0,0.0,0.0,0.0,23.9,3.4,0.0,20.0,15.3,105.0,117.0,-4.0,Andre Miller,,SAS,True,False
+bonnema01,2.0166666666666666,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.1,0.0,125.0,-32.8,Matt Bonner,,SAS,True,False
+marjabo01,2.0166666666666666,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,125.0,-8.8,Boban Marjanović,,SAS,True,False
+greenda02,,,,,,,,,,,,,,,,,Danny Green,Did Not Dress,SAS,True,False
+millspa02,,,,,,,,,,,,,,,,,Patty Mills,Did Not Dress,SAS,True,False

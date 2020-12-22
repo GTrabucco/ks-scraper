@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,40.45,0.546,0.5,0.588,0.176,0.0,17.9,8.9,15.5,8.6,5.1,17.9,26.0,90.0,84.0,9.8,Paul George,,IND,False,True
+ellismo01,38.8,0.5,0.5,0.273,0.0,0.0,6.2,3.1,49.1,1.3,0.0,26.7,18.2,99.0,106.0,-0.5,Monta Ellis,,IND,False,True
+hillge01,38.75,0.591,0.591,0.545,0.0,0.0,15.5,7.8,18.9,0.0,0.0,15.4,15.8,102.0,106.0,-1.9,George Hill,,IND,False,True
+mahinia01,28.566666666666666,0.77,0.75,0.0,0.125,4.2,25.3,14.8,5.8,1.7,3.6,10.6,15.6,131.0,97.0,3.2,Ian Mahinmi,,IND,False,True
+allenla01,18.033333333333335,0.6,0.6,0.0,0.0,6.7,6.7,6.7,8.6,0.0,0.0,16.7,15.7,102.0,108.0,-4.4,Lavoy Allen,,IND,False,True
+stuckro01,29.633333333333333,0.623,0.6,0.1,0.1,0.0,16.3,8.1,11.1,3.3,0.0,16.1,19.8,100.0,99.0,0.0,Rodney Stuckey,,IND,False,False
+milescj01,26.983333333333334,0.295,0.273,0.818,0.182,0.0,17.9,8.9,10.1,1.8,3.9,7.8,22.5,61.0,99.0,-8.4,C.J. Miles,,IND,False,False
+turnemy01,12.783333333333333,0.667,0.667,0.0,0.0,9.4,9.4,9.4,11.9,0.0,8.1,0.0,11.1,143.0,103.0,3.7,Myles Turner,,IND,False,False
+robingl02,12.55,0.667,0.667,0.333,0.0,0.0,28.8,14.4,24.4,0.0,0.0,0.0,11.3,142.0,103.0,3.6,Glenn Robinson,,IND,False,False
+hilljo01,11.65,0.507,0.5,0.0,0.25,20.7,20.7,20.7,0.0,0.0,0.0,18.4,44.0,84.0,105.0,-10.3,Jordan Hill,,IND,False,False
+youngjo01,6.8,0.436,0.333,0.333,0.333,0.0,0.0,0.0,44.3,0.0,0.0,22.5,30.8,85.0,111.0,-6.7,Joe Young,,IND,False,False
+budinch01,,,,,,,,,,,,,,,,,Chase Budinger,Did Not Play,IND,False,False
+hillso01,,,,,,,,,,,,,,,,,Solomon Hill,Did Not Play,IND,False,False
+howardw01,42.733333333333334,0.567,0.6,0.067,0.533,11.3,36.6,24.0,13.4,2.3,0.0,13.9,22.0,108.0,95.0,3.9,Dwight Howard,,HOU,True,True
+hardeja01,42.56666666666667,0.483,0.45,0.45,0.2,0.0,25.5,12.7,38.6,1.2,0.0,18.7,27.5,95.0,98.0,-0.8,James Harden,,HOU,True,True
+arizatr01,41.63333333333333,0.761,0.75,0.643,0.286,2.9,11.6,7.2,0.0,0.0,0.0,16.0,19.7,120.0,103.0,3.3,Trevor Ariza,,HOU,True,True
+beverpa01,38.766666666666666,0.627,0.545,0.727,0.364,3.1,12.4,7.8,24.5,2.6,0.0,19.0,17.8,118.0,97.0,6.0,Patrick Beverley,,HOU,True,True
+capelca01,19.783333333333335,0.5,0.5,0.0,0.0,12.2,24.4,18.3,14.8,7.5,9.1,71.4,15.5,53.0,76.0,-0.3,Clint Capela,,HOU,True,True
+thornma01,22.733333333333334,0.134,0.143,0.286,0.143,5.3,10.6,7.9,6.4,2.2,0.0,0.0,14.3,47.0,98.0,-9.3,Marcus Thornton,,HOU,True,False
+terryja01,19.733333333333334,0.357,0.357,0.571,0.0,0.0,0.0,0.0,8.0,2.5,0.0,0.0,15.5,83.0,98.0,-2.6,Jason Terry,,HOU,True,False
+joneste01,18.6,0.333,0.333,0.167,0.0,6.5,13.0,9.7,8.6,2.7,4.8,14.3,16.5,73.0,92.0,-2.7,Terrence Jones,,HOU,True,False
+breweco01,18.45,0.761,0.714,0.571,0.286,0.0,6.5,3.3,10.4,0.0,0.0,20.2,23.4,117.0,103.0,3.4,Corey Brewer,,HOU,True,False
+harremo01,,,,,,,,,,,,,,,,,Montrezl Harrell,Did Not Play,HOU,True,False
+lawsoty01,,,,,,,,,,,,,,,,,Ty Lawson,Player Suspended,HOU,True,False

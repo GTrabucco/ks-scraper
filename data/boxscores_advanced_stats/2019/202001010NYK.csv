@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+lillada01,35.4,0.275,0.275,0.4,0.0,2.4,26.5,13.3,35.9,1.4,0.0,9.1,27.5,71.0,117.0,-7.8,Damian Lillard,,POR,False,True
+whiteha01,33.15,0.529,0.462,0.0,0.538,18.1,15.7,17.0,0.0,2.9,7.0,0.0,21.4,124.0,109.0,4.1,Hassan Whiteside,,POR,False,True
+mccolcj01,32.38333333333333,0.479,0.469,0.438,0.25,2.6,9.7,5.8,21.1,0.0,0.0,0.0,24.2,108.0,123.0,-0.4,CJ McCollum,,POR,False,True
+anthoca01,31.283333333333335,0.727,0.735,0.294,0.118,2.7,20.0,10.5,0.0,0.0,0.0,5.3,26.7,132.0,121.0,6.1,Carmelo Anthony,,POR,False,True
+bazemke01,29.116666666666667,0.409,0.409,0.455,0.0,0.0,14.3,6.5,5.4,0.0,2.7,21.4,21.3,66.0,120.0,-9.7,Kent Bazemore,,POR,False,True
+simonan01,25.883333333333333,0.169,0.125,0.25,0.25,0.0,12.1,5.5,15.8,1.9,0.0,10.1,16.9,47.0,119.0,-11.3,Anfernee Simons,,POR,False,False
+tollian01,23.216666666666665,0.5,0.5,1.0,0.0,0.0,18.0,8.1,5.9,0.0,3.3,25.0,7.6,81.0,119.0,-5.8,Anthony Tolliver,,POR,False,False
+trentga02,13.85,0.833,0.833,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,160.0,126.0,-1.7,Gary Trent,,POR,False,False
+littlna01,10.966666666666667,0.0,0.0,0.0,0.0,0.0,19.0,8.6,0.0,0.0,0.0,0.0,4.0,0.0,121.0,-13.1,Nassir Little,,POR,False,False
+brownmo01,4.75,0.5,0.5,0.0,0.0,0.0,22.0,9.9,0.0,0.0,0.0,0.0,18.6,99.0,121.0,-4.4,Moses Brown,,POR,False,False
+nurkiju01,,,,,,,,,,,,,,,,,Jusuf Nurkić,Did Not Dress,POR,False,False
+hezonma01,,,,,,,,,,,,,,,,,Mario Hezonja,Did Not Play,POR,False,False
+morrima03,33.416666666666664,0.443,0.421,0.368,0.158,3.1,15.4,9.9,11.7,0.0,0.0,0.0,26.3,100.0,98.0,-2.3,Marcus Morris,,NYK,True,True
+randlju01,29.866666666666667,0.656,0.633,0.4,0.267,3.5,34.4,20.5,14.1,1.6,2.6,15.2,28.6,114.0,86.0,7.9,Julius Randle,,NYK,True,True
+paytoel01,25.0,0.202,0.222,0.333,0.222,4.2,10.3,7.5,35.6,0.0,6.2,0.0,17.1,89.0,95.0,-2.1,Elfrid Payton,,NYK,True,True
+barrerj01,24.6,0.281,0.292,0.333,0.083,0.0,13.9,7.7,0.0,0.0,0.0,19.4,27.1,45.0,98.0,-21.2,RJ Barrett,,NYK,True,True
+gibsota01,9.916666666666666,1.0,1.0,0.0,0.0,0.0,0.0,0.0,11.5,0.0,0.0,0.0,4.4,209.0,103.0,-0.6,Taj Gibson,,NYK,True,True
+robinmi01,27.416666666666668,1.0,1.0,0.0,0.0,15.2,12.5,13.7,0.0,1.8,2.8,0.0,17.3,205.0,93.0,14.8,Mitchell Robinson,,NYK,True,False
+ntilila01,23.0,0.765,0.7,0.6,0.4,0.0,11.2,6.1,51.2,2.1,6.7,0.0,11.0,184.0,88.0,17.6,Frank Ntilikina,,NYK,True,False
+portibo01,20.783333333333335,0.715,0.682,0.364,0.182,10.0,16.5,13.6,7.0,0.0,0.0,7.8,26.8,134.0,98.0,8.7,Bobby Portis,,NYK,True,False
+knoxke01,17.3,0.417,0.417,0.667,0.0,0.0,34.7,19.0,6.7,0.0,0.0,0.0,15.0,92.0,92.0,-2.6,Kevin Knox,,NYK,True,False
+bullore01,15.433333333333334,0.611,0.611,0.556,0.0,0.0,11.1,6.1,0.0,0.0,0.0,0.0,25.2,115.0,99.0,0.9,Reggie Bullock,,NYK,True,False
+dotsoda01,13.266666666666667,,,,,0.0,6.5,3.5,15.4,0.0,0.0,,0.0,230.0,101.0,-2.4,Damyean Dotson,,NYK,True,False
+trieral01,,,,,,,,,,,,,,,,,Allonzo Trier,Did Not Play,NYK,True,False
+ellinwa01,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,NYK,True,False

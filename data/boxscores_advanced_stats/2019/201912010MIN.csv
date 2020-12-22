@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+crowdja01,33.166666666666664,0.487,0.455,0.545,0.273,5.3,24.1,14.1,12.3,0.0,0.0,7.5,16.0,107.0,105.0,-1.8,Jae Crowder,,MEM,False,True
+brookdi01,31.9,0.658,0.611,0.278,0.222,2.7,3.1,2.9,16.4,0.0,0.0,4.8,26.0,130.0,111.0,5.9,Dillon Brooks,,MEM,False,True
+jonesty01,25.416666666666668,0.607,0.611,0.222,0.222,0.0,15.7,7.3,41.9,1.8,3.9,16.8,18.7,118.0,101.0,4.5,Tyus Jones,,MEM,False,True
+jacksja02,19.283333333333335,0.6,0.6,0.6,0.0,0.0,10.4,4.8,8.7,0.0,5.1,16.7,24.8,94.0,106.0,-4.6,Jaren Jackson,,MEM,False,True
+clarkbr01,10.4,0.0,0.0,0.333,0.0,0.0,9.6,4.5,11.3,0.0,0.0,0.0,11.5,22.0,109.0,-17.1,Brandon Clarke,,MEM,False,True
+allengr01,30.066666666666666,0.658,0.611,0.667,0.222,0.0,16.6,7.7,0.0,1.5,0.0,0.0,13.1,131.0,103.0,0.2,Grayson Allen,,MEM,False,False
+cabocbr01,28.716666666666665,0.392,0.357,0.214,0.214,15.2,27.9,21.1,5.1,4.8,0.0,11.5,24.1,88.0,92.0,-3.5,Bruno Caboclo,,MEM,False,False
+hillso01,25.833333333333332,0.506,0.5,0.5,0.2,6.8,11.6,9.0,5.5,1.8,0.0,0.0,16.8,113.0,104.0,-0.1,Solomon Hill,,MEM,False,False
+meltode01,22.583333333333332,0.383,0.25,0.4,0.4,7.7,22.1,14.4,46.3,4.1,4.3,7.8,22.6,109.0,93.0,9.0,De'Anthony Melton,,MEM,False,False
+gudurma01,12.633333333333333,0.621,0.583,0.333,0.167,0.0,7.9,3.7,25.7,0.0,0.0,23.7,26.7,98.0,110.0,-3.0,Marko Guduric,,MEM,False,False
+watanyu01,,,,,,,,,,,,,,,,,Yuta Watanabe,Did Not Play,MEM,False,False
+townska01,35.71666666666667,0.464,0.375,0.5,0.3,8.4,22.0,15.7,28.5,0.0,0.0,8.1,28.4,103.0,112.0,-0.8,Karl-Anthony Towns,,MIN,True,True
+wiggian01,35.03333333333333,0.469,0.382,0.353,0.294,2.9,12.5,8.0,38.7,1.3,4.6,13.5,26.1,98.0,109.0,1.7,Andrew Wiggins,,MIN,True,True
+covinro01,31.233333333333334,0.658,0.611,0.667,0.222,0.0,8.4,4.5,5.7,1.5,2.6,16.8,15.7,106.0,112.0,-1.5,Robert Covington,,MIN,True,True
+culveja01,25.6,0.509,0.542,0.333,0.333,3.9,20.5,12.7,8.6,1.8,0.0,6.8,23.8,96.0,109.0,-2.4,Jarrett Culver,,MIN,True,True
+grahatr01,21.616666666666667,0.444,0.2,0.2,0.8,9.3,12.1,10.8,0.0,0.0,0.0,12.9,14.8,97.0,116.0,-9.6,Treveon Graham,,MIN,True,True
+teaguje01,25.983333333333334,0.864,0.625,0.25,2.0,0.0,13.4,7.2,37.8,0.0,0.0,28.5,16.7,138.0,115.0,0.2,Jeff Teague,,MIN,True,False
+bateske01,25.016666666666666,0.714,0.714,0.286,0.0,0.0,17.4,9.3,7.6,1.8,0.0,22.2,14.8,100.0,110.0,-0.7,Keita Bates-Diop,,MIN,True,False
+okogijo01,18.65,0.322,0.167,0.333,0.667,5.4,18.7,12.5,8.5,2.5,4.3,0.0,17.2,85.0,105.0,-3.6,Josh Okogie,,MIN,True,False
+dienggo01,12.283333333333333,0.375,0.375,0.75,0.0,16.3,21.3,19.0,0.0,3.7,13.0,20.0,16.8,80.0,94.0,-2.7,Gorgui Dieng,,MIN,True,False
+napiesh01,8.866666666666667,1.064,1.5,1.0,2.0,0.0,9.8,5.3,0.0,5.2,0.0,34.7,13.4,97.0,104.0,0.3,Shabazz Napier,,MIN,True,False
+belljo01,,,,,,,,,,,,,,,,,Jordan Bell,Did Not Play,MIN,True,False
+vonleno01,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,MIN,True,False
+reidna01,,,,,,,,,,,,,,,,,Naz Reid,Did Not Dress,MIN,True,False

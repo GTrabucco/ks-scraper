@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+knighbr03,40.65,0.281,0.225,0.4,0.15,2.0,16.9,8.2,30.2,2.4,0.0,4.5,22.7,79.0,103.0,-2.5,Brandon Knight,,PHO,False,True
+morrima02,36.4,0.393,0.364,0.364,0.227,4.5,18.8,10.4,9.9,0.0,0.0,7.6,29.7,83.0,109.0,-5.1,Markieff Morris,,PHO,False,True
+chandty01,35.983333333333334,0.67,0.7,0.0,0.1,13.6,34.9,22.5,5.0,0.0,0.0,0.0,12.0,147.0,107.0,2.8,Tyson Chandler,,PHO,False,True
+bledser01,31.633333333333333,0.385,0.342,0.211,0.211,0.0,14.5,6.0,39.5,3.1,2.8,12.6,31.0,83.0,99.0,0.7,Eric Bledsoe,,PHO,False,True
+tuckepj01,26.616666666666667,0.798,0.75,0.5,2.0,3.1,8.6,5.4,10.5,1.8,0.0,0.0,5.8,177.0,105.0,2.3,P.J. Tucker,,PHO,False,True
+warretj01,21.483333333333334,0.463,0.455,0.091,0.182,15.1,5.3,11.1,9.0,2.3,0.0,0.0,22.8,110.0,104.0,2.7,T.J. Warren,,PHO,False,False
+pricero01,16.466666666666665,0.75,0.75,1.0,0.0,0.0,13.9,5.8,21.4,3.0,0.0,14.3,17.6,126.0,102.0,7.8,Ronnie Price,,PHO,False,False
+leuerjo01,11.533333333333333,0.875,0.875,0.5,0.0,14.1,9.9,12.4,0.0,4.3,0.0,0.0,14.3,172.0,100.0,13.1,Jon Leuer,,PHO,False,False
+weemsso01,7.55,0.0,0.0,0.0,0.0,0.0,30.3,12.6,0.0,0.0,0.0,50.0,10.9,0.0,108.0,-20.6,Sonny Weems,,PHO,False,False
+lenal01,6.916666666666667,0.258,0.0,0.0,0.667,0.0,66.1,27.5,0.0,0.0,0.0,20.5,29.1,47.0,105.0,-18.2,Alex Len,,PHO,False,False
+teletmi01,4.8,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,110.0,-18.3,Mirza Teletović,,PHO,False,False
+jeffeco01,,,,,,,,,,,,,,,,,Cory Jefferson,Did Not Play,PHO,False,False
+goodwar01,,,,,,,,,,,,,,,,,Archie Goodwin,Did Not Play,PHO,False,False
+griffbl01,33.95,0.608,0.533,0.0,0.467,3.4,21.6,14.0,11.0,0.0,2.1,0.0,25.0,126.0,96.0,6.3,Blake Griffin,,LAC,True,True
+jordade01,31.883333333333333,0.902,1.0,0.0,0.667,0.0,23.0,13.4,0.0,1.5,6.6,20.5,7.2,132.0,89.0,2.9,DeAndre Jordan,,LAC,True,True
+paulch01,30.783333333333335,0.535,0.5,0.133,0.133,0.0,7.9,4.6,29.9,1.6,0.0,23.9,31.9,86.0,101.0,-4.8,Chris Paul,,LAC,True,True
+redicjj01,27.833333333333332,0.402,0.375,0.833,0.083,4.1,5.8,5.1,10.8,0.0,0.0,7.4,22.7,82.0,106.0,-4.9,J.J. Redick,,LAC,True,True
+stephla01,18.333333333333332,0.388,0.333,0.0,0.167,6.2,22.2,15.6,16.5,0.0,0.0,13.4,19.1,85.0,97.0,-6.2,Lance Stephenson,,LAC,True,True
+crawfja01,26.283333333333335,0.517,0.313,0.5,0.75,0.0,6.2,3.6,16.4,1.9,0.0,0.0,19.0,115.0,102.0,1.7,Jamal Crawford,,LAC,True,False
+piercpa01,23.166666666666668,0.583,0.583,0.667,0.0,0.0,21.1,12.3,13.5,0.0,0.0,14.3,14.2,102.0,98.0,0.9,Paul Pierce,,LAC,True,False
+riverau01,17.65,0.543,0.5,0.167,0.167,0.0,0.0,0.0,9.4,2.8,0.0,13.4,19.8,94.0,103.0,-0.6,Austin Rivers,,LAC,True,False
+smithjo03,15.65,0.595,0.6,0.8,0.4,0.0,20.8,12.1,29.8,0.0,4.5,14.5,20.7,110.0,95.0,9.9,Josh Smith,,LAC,True,False
+johnswe01,14.05,0.827,0.8,0.2,0.2,0.0,17.4,10.1,0.0,0.0,0.0,0.0,18.2,158.0,100.0,6.8,Wesley Johnson,,LAC,True,False
+mbahalu01,0.4166666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,109.0,-3.7,Luc Mbah a Moute,,LAC,True,False
+aldrico01,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,LAC,True,False
+prigipa01,,,,,,,,,,,,,,,,,Pablo Prigioni,Did Not Play,LAC,True,False

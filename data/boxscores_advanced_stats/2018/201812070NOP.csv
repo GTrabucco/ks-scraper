@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+conlemi01,34.583333333333336,0.307,0.167,0.333,0.5,3.3,6.6,5.0,38.3,1.4,0.0,6.4,20.4,96.0,111.0,-5.7,Mike Conley,,MEM,False,True
+templga01,32.916666666666664,0.444,0.444,0.667,0.0,6.9,6.9,6.9,12.6,1.5,0.0,18.2,15.1,91.0,111.0,-5.9,Garrett Temple,,MEM,False,True
+anderky01,32.7,0.69,0.708,0.083,0.333,7.0,31.5,19.2,21.5,4.5,8.0,0.0,19.0,146.0,93.0,16.8,Kyle Anderson,,MEM,False,True
+gasolma01,32.583333333333336,0.545,0.458,0.083,0.333,3.5,17.5,10.5,18.6,0.0,5.4,0.0,19.1,127.0,108.0,3.2,Marc Gasol,,MEM,False,True
+jacksja02,14.733333333333333,0.307,0.25,0.25,0.5,0.0,0.0,0.0,0.0,0.0,5.9,29.1,21.1,44.0,112.0,-22.1,Jaren Jackson,,MEM,False,True
+greenja01,27.516666666666666,0.872,0.875,0.333,0.333,8.3,24.9,16.6,0.0,3.6,0.0,12.7,25.9,139.0,102.0,10.3,JaMychal Green,,MEM,False,False
+macksh01,23.366666666666667,0.357,0.357,0.143,0.0,0.0,4.9,2.4,29.4,2.1,0.0,22.2,17.4,79.0,110.0,-7.6,Shelvin Mack,,MEM,False,False
+noahjo01,16.516666666666666,0.666,0.625,0.0,0.5,6.9,27.7,17.3,35.6,3.0,0.0,17.0,32.1,117.0,102.0,6.4,Joakim Noah,,MEM,False,False
+brookma01,14.516666666666667,0.595,0.6,0.2,0.4,7.9,0.0,3.9,0.0,3.4,0.0,0.0,18.3,123.0,109.0,1.2,MarShon Brooks,,MEM,False,False
+casspom01,10.566666666666666,0.694,0.5,0.0,1.0,0.0,32.4,16.2,13.2,0.0,8.3,0.0,12.3,157.0,102.0,5.3,Omri Casspi,,MEM,False,False
+stephdj01,,,,,,,,,,,,,,,,,D.J. Stephens,Did Not Play,MEM,False,False
+seldewa01,,,,,,,,,,,,,,,,,Wayne Selden,Did Not Play,MEM,False,False
+holidjr01,39.083333333333336,0.553,0.467,0.133,0.467,5.8,8.8,7.3,45.9,0.0,1.9,14.2,23.0,118.0,115.0,5.2,Jrue Holiday,,NOP,True,True
+davisan02,35.85,0.539,0.476,0.238,0.238,6.4,28.7,17.5,16.3,2.8,8.4,11.5,31.2,104.0,98.0,7.5,Anthony Davis,,NOP,True,True
+randlju01,34.86666666666667,0.577,0.553,0.158,0.421,9.8,32.8,21.3,17.0,2.8,0.0,8.2,30.0,115.0,104.0,8.5,Julius Randle,,NOP,True,True
+hillso01,30.25,0.875,0.875,0.75,0.0,0.0,3.8,1.9,0.0,0.0,0.0,11.1,12.7,137.0,118.0,4.4,Solomon Hill,,NOP,True,True
+fraziti01,29.466666666666665,1.167,1.167,0.333,0.0,3.9,11.6,7.8,29.5,1.7,0.0,57.1,10.1,106.0,112.0,1.4,Tim Frazier,,NOP,True,True
+mooreet01,25.4,0.291,0.167,0.5,0.333,9.0,0.0,4.5,5.2,0.0,0.0,12.7,13.2,76.0,119.0,-9.9,E'Twaun Moore,,NOP,True,False
+mirotni01,20.433333333333334,0.291,0.167,0.667,0.333,0.0,11.2,5.6,6.6,0.0,0.0,30.4,20.6,49.0,115.0,-17.9,Nikola Mirotić,,NOP,True,False
+milleda01,19.8,0.3,0.3,1.0,0.0,0.0,17.3,8.7,0.0,0.0,0.0,0.0,10.8,66.0,114.0,-10.9,Darius Miller,,NOP,True,False
+diallch01,4.85,0.0,0.0,0.0,0.0,0.0,23.6,11.8,0.0,0.0,0.0,50.0,17.6,0.0,112.0,-25.5,Cheick Diallo,,NOP,True,False
+clarkia01,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,NOP,True,False
+harrian01,,,,,,,,,,,,,,,,,Andrew Harrison,Did Not Play,NOP,True,False
+okafoja01,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,NOP,True,False
+johnswe01,,,,,,,,,,,,,,,,,Wesley Johnson,Did Not Play,NOP,True,False

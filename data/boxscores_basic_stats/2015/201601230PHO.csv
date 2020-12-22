@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+horfoal01,38.56666666666667,4.0,12.0,0.333,0.0,3.0,0.0,1.0,2.0,0.5,4.0,12.0,16.0,5.0,1.0,2.0,2.0,0.0,9.0,2.0,Al Horford,,ATL,False,True
+korveky01,34.36666666666667,4.0,9.0,0.444,3.0,6.0,0.5,0.0,0.0,,1.0,4.0,5.0,3.0,0.0,2.0,2.0,1.0,11.0,13.0,Kyle Korver,,ATL,False,True
+bazemke01,30.183333333333334,7.0,16.0,0.438,3.0,6.0,0.5,4.0,6.0,0.667,1.0,5.0,6.0,0.0,0.0,0.0,2.0,3.0,21.0,-14.0,Kent Bazemore,,ATL,False,True
+teaguje01,24.65,4.0,13.0,0.308,1.0,6.0,0.167,0.0,0.0,,0.0,1.0,1.0,3.0,2.0,1.0,5.0,5.0,9.0,-5.0,Jeff Teague,,ATL,False,True
+splitti01,17.233333333333334,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,1.0,2.0,2.0,-13.0,Tiago Splitter,,ATL,False,True
+sefolth01,27.916666666666668,1.0,9.0,0.111,0.0,3.0,0.0,6.0,6.0,1.0,2.0,5.0,7.0,1.0,3.0,0.0,0.0,0.0,8.0,-2.0,Thabo Sefolosha,,ATL,False,False
+scottmi01,26.433333333333334,7.0,11.0,0.636,2.0,3.0,0.667,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,1.0,0.0,2.0,16.0,3.0,Mike Scott,,ATL,False,False
+schrode01,23.933333333333334,6.0,10.0,0.6,3.0,6.0,0.5,4.0,4.0,1.0,1.0,0.0,1.0,5.0,2.0,1.0,3.0,2.0,19.0,4.0,Dennis Schröder,,ATL,False,False
+hardati02,12.183333333333334,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,Tim Hardaway,,ATL,False,False
+tavarwa01,4.533333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,-5.0,Edy Tavares,,ATL,False,False
+macksh01,,,,,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,ATL,False,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,ATL,False,False
+pattela01,,,,,,,,,,,,,,,,,,,,,Lamar Patterson,Did Not Play,ATL,False,False
+chandty01,44.21666666666667,3.0,10.0,0.3,0.0,0.0,,7.0,10.0,0.7,13.0,14.0,27.0,5.0,1.0,2.0,2.0,3.0,13.0,19.0,Tyson Chandler,,PHO,True,True
+goodwar01,41.38333333333333,7.0,17.0,0.412,2.0,3.0,0.667,8.0,9.0,0.889,0.0,1.0,1.0,4.0,2.0,2.0,4.0,0.0,24.0,5.0,Archie Goodwin,,PHO,True,True
+tuckepj01,38.733333333333334,6.0,13.0,0.462,3.0,5.0,0.6,1.0,2.0,0.5,1.0,5.0,6.0,2.0,1.0,1.0,2.0,1.0,16.0,0.0,P.J. Tucker,,PHO,True,True
+bookede01,35.983333333333334,6.0,19.0,0.316,3.0,9.0,0.333,0.0,0.0,,0.0,2.0,2.0,1.0,2.0,0.0,3.0,6.0,15.0,13.0,Devin Booker,,PHO,True,True
+lenal01,35.333333333333336,6.0,10.0,0.6,0.0,0.0,,4.0,4.0,1.0,1.0,11.0,12.0,5.0,0.0,0.0,3.0,3.0,16.0,-5.0,Alex Len,,PHO,True,True
+warretj01,16.466666666666665,3.0,8.0,0.375,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,6.0,-8.0,T.J. Warren,,PHO,True,False
+teletmi01,14.516666666666667,2.0,5.0,0.4,2.0,5.0,0.4,0.0,0.0,,0.0,3.0,3.0,0.0,2.0,0.0,1.0,2.0,6.0,1.0,Mirza Teletović,,PHO,True,False
+weemsso01,6.75,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,-8.0,Sonny Weems,,PHO,True,False
+brownlo01,6.616666666666667,1.0,3.0,0.333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,2.0,-2.0,Lorenzo Brown,,PHO,True,False
+jeffeco01,,,,,,,,,,,,,,,,,,,,,Cory Jefferson,Did Not Play,PHO,True,False
+knighbr03,,,,,,,,,,,,,,,,,,,,,Brandon Knight,Did Not Dress,PHO,True,False
+leuerjo01,,,,,,,,,,,,,,,,,,,,,Jon Leuer,Did Not Dress,PHO,True,False
+morrima02,,,,,,,,,,,,,,,,,,,,,Markieff Morris,Did Not Play,PHO,True,False

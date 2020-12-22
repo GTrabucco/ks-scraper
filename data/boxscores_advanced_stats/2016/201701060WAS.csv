@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+dienggo01,39.55,0.582,0.542,0.083,0.167,9.1,31.3,18.8,7.0,2.7,0.0,7.2,16.0,127.0,121.0,2.8,Gorgui Dieng,,MIN,False,True
+wiggian01,39.36666666666667,0.596,0.55,0.1,0.333,3.0,0.0,1.7,10.8,2.7,0.0,5.5,42.1,122.0,124.0,6.4,Andrew Wiggins,,MIN,False,True
+townska01,37.833333333333336,0.469,0.412,0.118,0.294,12.7,24.6,17.9,19.2,1.4,2.2,13.5,26.7,104.0,122.0,-0.8,Karl-Anthony Towns,,MIN,False,True
+lavinza01,37.016666666666666,0.286,0.286,0.429,0.0,0.0,20.9,9.1,10.2,0.0,0.0,6.7,18.4,72.0,128.0,-12.5,Zach LaVine,,MIN,False,True
+rubiori01,34.8,0.667,0.667,0.0,0.0,3.4,17.8,9.7,24.6,1.5,0.0,50.0,7.8,103.0,125.0,-6.2,Ricky Rubio,,MIN,False,True
+rushbr01,19.616666666666667,1.25,1.25,0.5,0.0,6.1,0.0,3.4,0.0,0.0,4.3,0.0,9.3,246.0,125.0,13.7,Brandon Rush,,MIN,False,False
+dunnkr01,13.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0,3.4,112.0,130.0,-6.0,Kris Dunn,,MIN,False,False
+bjeline01,10.966666666666667,0.5,0.5,0.8,0.0,0.0,14.1,6.2,0.0,0.0,0.0,0.0,20.7,108.0,129.0,-3.7,Nemanja Bjelica,,MIN,False,False
+aldrico01,7.65,1.0,1.0,0.0,0.0,31.4,40.5,35.3,0.0,0.0,0.0,0.0,11.9,206.0,126.0,8.0,Cole Aldrich,,MIN,False,False
+hilljo01,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,MIN,False,False
+jonesty01,,,,,,,,,,,,,,,,,Tyus Jones,Did Not Play,MIN,False,False
+lucasjo02,,,,,,,,,,,,,,,,,John Lucas III,Did Not Play,MIN,False,False
+paynead01,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,False,False
+walljo01,40.05,0.533,0.5,0.063,0.125,0.0,3.0,1.7,59.2,2.7,0.0,15.1,24.8,128.0,118.0,3.5,John Wall,,WAS,True,True
+morrima02,35.93333333333333,0.54,0.5,0.231,0.154,0.0,20.0,11.3,3.5,0.0,0.0,6.7,20.7,102.0,118.0,-8.1,Markieff Morris,,WAS,True,True
+porteot01,34.43333333333333,0.708,0.708,0.5,0.0,4.5,17.4,11.8,7.7,1.5,4.0,14.3,20.3,119.0,113.0,4.4,Otto Porter,,WAS,True,True
+bealbr01,34.15,0.826,0.792,0.583,0.25,0.0,10.5,5.9,11.7,0.0,0.0,7.0,21.0,149.0,121.0,6.9,Bradley Beal,,WAS,True,True
+gortama01,32.8,0.962,1.0,0.0,0.222,9.4,29.3,20.6,4.5,0.0,6.3,33.6,22.7,115.0,111.0,2.7,Marcin Gortat,,WAS,True,True
+smithja02,22.3,0.625,0.625,0.0,0.0,0.0,16.1,9.1,12.2,0.0,6.1,0.0,17.9,130.0,115.0,4.7,Jason Smith,,WAS,True,False
+oubreke01,13.7,0.75,0.75,0.75,0.0,0.0,8.8,4.9,0.0,0.0,0.0,20.0,18.3,101.0,121.0,-7.2,Kelly Oubre,,WAS,True,False
+mcclesh01,11.283333333333333,0.0,0.0,0.0,0.0,13.7,0.0,6.0,27.7,0.0,0.0,0.0,4.4,142.0,125.0,2.2,Sheldon Mac,,WAS,True,False
+burketr01,10.516666666666667,0.75,0.75,0.5,0.0,14.7,0.0,6.4,11.0,0.0,0.0,0.0,9.5,168.0,125.0,3.4,Trey Burke,,WAS,True,False
+nichoan01,4.833333333333333,0.5,0.5,0.5,0.0,0.0,24.8,14.0,0.0,0.0,0.0,0.0,20.7,95.0,116.0,-19.6,Andrew Nicholson,,WAS,True,False
+ochefda01,,,,,,,,,,,,,,,,,Daniel Ochefu,Did Not Play,WAS,True,False
+satorto01,,,,,,,,,,,,,,,,,Tomáš Satoranský,Did Not Play,WAS,True,False
+thornma01,,,,,,,,,,,,,,,,,Marcus Thornton,Did Not Play,WAS,True,False

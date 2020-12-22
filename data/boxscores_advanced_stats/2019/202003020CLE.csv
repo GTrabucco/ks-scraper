@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mitchdo01,34.25,0.598,0.567,0.467,0.133,0.0,25.2,15.2,15.1,0.0,2.8,20.1,26.7,105.0,119.0,-5.5,Donovan Mitchell,,UTA,False,True
+goberru01,33.7,0.929,0.889,0.0,0.444,8.6,19.9,15.4,4.0,3.0,14.2,15.7,17.4,159.0,106.0,10.0,Rudy Gobert,,UTA,False,True
+bogdabo02,33.516666666666666,0.674,0.658,0.526,0.211,13.0,11.5,12.1,26.3,1.5,0.0,12.6,32.7,134.0,122.0,5.2,Bojan Bogdanović,,UTA,False,True
+conlemi01,30.0,0.582,0.583,0.5,0.167,0.0,6.4,3.9,25.7,0.0,0.0,0.0,19.8,141.0,127.0,-2.2,Mike Conley,,UTA,False,True
+onealro01,28.733333333333334,1.0,1.0,1.0,0.0,0.0,23.4,14.1,12.4,0.0,3.3,0.0,9.6,199.0,120.0,10.7,Royce O'Neale,,UTA,False,True
+inglejo01,28.55,0.868,0.75,1.0,1.0,0.0,10.1,6.1,29.7,0.0,0.0,41.0,7.9,152.0,126.0,0.2,Joe Ingles,,UTA,False,False
+clarkjo01,24.866666666666667,0.65,0.65,0.4,0.0,0.0,7.7,4.7,0.0,0.0,0.0,16.7,22.2,100.0,127.0,-8.6,Jordan Clarkson,,UTA,False,False
+bradlto01,14.3,1.0,1.0,0.0,0.0,20.3,26.9,24.3,18.2,0.0,0.0,0.0,9.7,218.0,121.0,8.7,Tony Bradley,,UTA,False,False
+niangge01,10.716666666666667,0.571,0.571,0.857,0.0,13.6,0.0,5.4,0.0,0.0,0.0,12.5,34.4,102.0,129.0,-10.4,Georges Niang,,UTA,False,False
+brantja01,0.6833333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,67.4,0.0,130.0,-78.5,Jarrell Brantley,,UTA,False,False
+onimi01,0.6833333333333333,,,,,0.0,100.0,84.6,0.0,0.0,0.0,,0.0,0.0,86.0,5.1,Miye Oni,,UTA,False,False
+davised01,,,,,,,,,,,,,,,,,Ed Davis,Did Not Play,UTA,False,False
+mudiaem01,,,,,,,,,,,,,,,,,Emmanuel Mudiay,Did Not Play,UTA,False,False
+porteke02,40.9,0.494,0.429,0.643,0.357,0.0,14.2,5.7,13.0,1.3,2.8,11.0,20.4,100.0,136.0,-8.0,Kevin Porter,,CLE,True,True
+osmande01,39.483333333333334,0.5,0.5,0.429,0.0,9.7,3.7,7.3,7.0,1.3,0.0,12.5,18.5,104.0,139.0,-9.7,Cedi Osman,,CLE,True,True
+sextoco01,39.46666666666667,0.78,0.765,0.353,0.471,2.4,14.7,7.3,12.7,3.9,0.0,4.6,24.9,150.0,131.0,9.6,Collin Sexton,,CLE,True,True
+nancela02,39.416666666666664,0.471,0.471,0.353,0.0,7.3,18.5,11.7,29.1,2.6,0.0,0.0,19.7,124.0,133.0,0.5,Larry Nance,,CLE,True,True
+loveke01,31.883333333333333,0.674,0.667,0.733,0.2,0.0,41.1,16.3,9.6,1.6,0.0,5.8,24.9,124.0,132.0,4.4,Kevin Love,,CLE,True,True
+dellama01,29.083333333333332,0.5,0.5,0.4,0.0,3.3,5.0,4.0,38.4,1.8,0.0,0.0,7.9,159.0,138.0,-1.0,Matthew Dellavedova,,CLE,True,False
+zizican01,17.3,0.381,0.429,0.0,0.286,5.5,8.4,6.7,0.0,0.0,0.0,0.0,20.8,83.0,141.0,-17.8,Ante Žižić,,CLE,True,False
+moonema01,1.2333333333333334,,,,,0.0,0.0,0.0,0.0,41.6,0.0,,0.0,0.0,44.0,40.8,Matt Mooney,,CLE,True,False
+wadede01,1.2333333333333334,0.5,0.5,0.5,0.0,77.8,0.0,46.9,0.0,0.0,0.0,0.0,74.2,122.0,143.0,-1.5,Dean Wade,,CLE,True,False
+garlada01,,,,,,,,,,,,,,,,,Darius Garland,Did Not Dress,CLE,True,False
+drumman01,,,,,,,,,,,,,,,,,Andre Drummond,Did Not Dress,CLE,True,False

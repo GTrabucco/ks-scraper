@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+dragigo01,30.85,0.643,0.643,0.286,0.0,0.0,5.6,3.1,29.3,1.7,0.0,12.5,24.1,115.0,88.0,5.3,Goran Dragić,,MIA,False,True
+whiteha01,29.866666666666667,0.304,0.333,0.0,0.222,11.2,28.7,21.1,4.7,1.7,15.8,0.0,15.4,83.0,67.0,2.4,Hassan Whiteside,,MIA,False,True
+boshch01,28.2,0.669,0.6,0.333,0.333,4.0,18.2,12.0,13.4,1.8,2.8,5.5,30.0,130.0,81.0,14.2,Chris Bosh,,MIA,False,True
+denglu01,26.566666666666666,0.9,0.9,0.2,0.0,4.2,25.8,16.4,11.4,0.0,0.0,16.7,10.5,145.0,83.0,4.5,Luol Deng,,MIA,False,True
+wadedw01,24.583333333333332,0.368,0.3,0.0,0.2,4.5,10.5,7.9,17.7,2.1,0.0,8.4,22.5,86.0,85.0,-4.3,Dwyane Wade,,MIA,False,True
+greenge01,28.333333333333332,0.603,0.583,0.333,0.083,7.9,6.1,6.8,11.8,1.8,0.0,7.4,22.0,118.0,87.0,4.2,Gerald Green,,MIA,False,False
+johnsty01,23.416666666666668,0.625,0.625,0.625,0.0,4.8,22.0,14.5,13.3,2.2,3.4,11.1,17.9,115.0,78.0,6.8,Tyler Johnson,,MIA,False,False
+winslju01,17.716666666666665,0.0,0.0,0.5,0.0,0.0,14.5,8.2,13.9,5.8,4.4,42.9,18.4,17.0,72.0,-10.5,Justise Winslow,,MIA,False,False
+udrihbe01,17.15,0.5,0.5,0.0,0.0,0.0,15.0,8.5,58.7,0.0,0.0,0.0,10.8,145.0,87.0,4.4,Beno Udrih,,MIA,False,False
+hasleud01,5.883333333333333,0.5,0.5,0.0,0.0,0.0,14.6,8.2,0.0,0.0,13.4,0.0,15.8,97.0,78.0,-0.1,Udonis Haslem,,MIA,False,False
+anderch01,3.716666666666667,0.347,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,21.2,0.0,36.0,81.0,78.0,-4.1,Chris Andersen,,MIA,False,False
+richajo01,3.716666666666667,0.0,0.0,0.0,0.0,0.0,23.1,13.0,33.1,0.0,0.0,66.7,37.5,18.0,83.0,-42.9,Josh Richardson,,MIA,False,False
+stoudam01,,,,,,,,,,,,,,,,,Amar'e Stoudemire,Did Not Play,MIA,False,False
+templga01,41.38333333333333,0.326,0.313,0.5,0.125,0.0,8.1,3.5,13.2,1.2,1.8,10.6,20.5,65.0,105.0,-5.0,Garrett Temple,,WAS,True,True
+walljo01,34.03333333333333,0.32,0.31,0.286,0.095,0.0,13.1,5.7,31.3,1.5,0.0,0.0,28.9,75.0,105.0,-1.7,John Wall,,WAS,True,True
+porteot01,31.45,0.429,0.429,0.429,0.0,2.7,17.7,9.2,17.3,1.6,0.0,12.5,11.4,88.0,104.0,-0.9,Otto Porter,,WAS,True,True
+gortama01,27.95,0.545,0.545,0.0,0.0,24.5,20.0,22.6,8.3,1.8,0.0,21.4,22.5,98.0,103.0,-0.5,Marcin Gortat,,WAS,True,True
+dudleja01,27.866666666666667,0.333,0.333,0.5,0.0,0.0,16.0,7.0,6.3,0.0,0.0,0.0,9.7,74.0,108.0,-7.5,Jared Dudley,,WAS,True,True
+sessira01,27.716666666666665,0.431,0.333,0.167,0.583,3.1,8.1,5.2,36.0,0.0,0.0,11.7,27.7,89.0,110.0,0.2,Ramon Sessions,,WAS,True,False
+oubreke01,25.75,0.5,0.5,0.333,0.0,3.3,30.3,15.1,7.3,2.0,0.0,25.0,14.0,77.0,100.0,-2.6,Kelly Oubre,,WAS,True,False
+eddieja01,12.283333333333333,0.25,0.25,0.833,0.0,0.0,18.2,7.9,0.0,0.0,0.0,0.0,22.0,53.0,107.0,-8.9,Jarell Eddie,,WAS,True,False
+humphkr01,11.566666666666666,0.436,0.333,0.167,0.333,0.0,19.3,8.4,0.0,0.0,6.6,0.0,26.8,92.0,101.0,0.6,Kris Humphries,,WAS,True,False
+blairde01,,,,,,,,,,,,,,,,,DeJuan Blair,Did Not Dress,WAS,True,False
+goodedr01,,,,,,,,,,,,,,,,,Drew Gooden,Did Not Dress,WAS,True,False
+nealga01,,,,,,,,,,,,,,,,,Gary Neal,Did Not Dress,WAS,True,False

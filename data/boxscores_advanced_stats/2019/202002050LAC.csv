@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+adebaba01,39.583333333333336,0.608,0.6,0.0,0.467,9.2,19.3,13.8,25.0,2.5,0.0,10.0,22.1,126.0,127.0,5.3,Bam Adebayo,,MIA,False,True
+nunnke01,35.083333333333336,0.382,0.382,0.412,0.0,0.0,9.3,4.2,24.8,1.4,3.9,10.5,23.6,83.0,129.0,-6.1,Kendrick Nunn,,MIA,False,True
+robindu01,34.9,0.463,0.409,0.909,0.182,2.6,12.5,7.1,0.0,1.4,0.0,0.0,14.8,98.0,131.0,-7.2,Duncan Robinson,,MIA,False,True
+butleji01,25.716666666666665,0.546,0.429,0.143,1.0,3.5,17.0,9.6,38.0,0.0,0.0,9.0,18.8,128.0,133.0,0.6,Jimmy Butler,,MIA,False,True
+olynyke01,22.283333333333335,0.509,0.5,0.667,0.333,4.1,29.4,15.5,6.0,0.0,0.0,12.7,15.4,96.0,131.0,-6.5,Kelly Olynyk,,MIA,False,True
+dragigo01,31.45,0.45,0.429,0.429,0.071,0.0,13.9,6.3,23.6,0.0,0.0,6.5,21.4,98.0,134.0,-7.4,Goran Dragić,,MIA,False,False
+jonesde02,31.35,0.97,0.958,0.417,0.167,8.7,20.9,14.2,18.6,3.1,4.4,7.2,19.3,176.0,122.0,17.6,Derrick Jones,,MIA,False,False
+vincega01,17.383333333333333,0.409,0.409,0.818,0.0,0.0,6.3,2.8,8.7,2.8,0.0,0.0,27.6,84.0,129.0,-5.8,Gabe Vincent,,MIA,False,False
+silvach01,1.1,,,,,0.0,99.2,45.0,0.0,0.0,0.0,,0.0,0.0,118.0,-2.7,Chris Silva,,MIA,False,False
+okpalkz01,1.1,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,137.0,-9.6,KZ Okpala,,MIA,False,False
+waitedi01,,,,,,,,,,,,,,,,,Dion Waiters,Did Not Play,MIA,False,False
+johnsja01,,,,,,,,,,,,,,,,,James Johnson,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+leonaka01,30.716666666666665,0.538,0.538,0.769,0.0,0.0,20.6,11.3,37.8,3.2,3.1,7.1,20.2,127.0,106.0,9.5,Kawhi Leonard,,LAC,True,True
+georgpa01,25.75,0.779,0.731,0.538,0.308,4.2,14.1,9.6,58.3,1.9,0.0,16.9,30.6,146.0,112.0,16.6,Paul George,,LAC,True,True
+harklma01,24.033333333333335,0.917,0.917,0.833,0.0,0.0,26.4,14.4,0.0,2.0,0.0,0.0,11.1,158.0,109.0,5.4,Maurice Harkless,,LAC,True,True
+beverpa01,22.416666666666668,0.417,0.417,0.833,0.0,4.9,16.2,11.0,10.5,0.0,4.2,25.0,15.8,83.0,113.0,-8.9,Patrick Beverley,,LAC,True,True
+zubaciv01,21.9,0.932,1.0,0.0,0.167,5.0,28.9,18.1,0.0,2.2,12.9,0.0,13.0,183.0,98.0,11.6,Ivica Zubac,,LAC,True,True
+shamela01,32.21666666666667,0.686,0.667,0.867,0.267,0.0,2.8,1.5,25.9,0.0,0.0,5.6,24.4,136.0,120.0,4.8,Landry Shamet,,LAC,True,False
+willilo02,28.05,0.54,0.389,0.667,1.0,7.8,6.5,7.1,17.2,0.0,0.0,13.4,23.6,118.0,120.0,-5.8,Lou Williams,,LAC,True,False
+harremo01,26.1,0.67,0.7,0.0,0.1,8.4,17.3,13.3,11.4,0.0,0.0,0.0,17.7,144.0,116.0,-0.7,Montrezl Harrell,,LAC,True,False
+greenja01,19.2,0.75,0.75,0.875,0.0,0.0,23.6,12.9,7.1,0.0,0.0,20.0,23.1,102.0,114.0,0.3,JaMychal Green,,LAC,True,False
+mcgruro01,6.816666666666666,0.0,0.0,0.333,0.0,16.0,0.0,7.3,0.0,0.0,0.0,0.0,19.5,34.0,122.0,-24.9,Rodney McGruder,,LAC,True,False
+robinje01,1.6666666666666665,,,,,0.0,0.0,0.0,64.0,29.1,0.0,,0.0,253.0,54.0,51.6,Jerome Robinson,,LAC,True,False
+motlejo01,1.1,,,,,0.0,82.3,45.0,0.0,0.0,0.0,,0.0,0.0,97.0,-3.0,Johnathan Motley,,LAC,True,False
+pattepa01,,,,,,,,,,,,,,,,,Patrick Patterson,Did Not Play,LAC,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+griffbl01,36.2,0.585,0.559,0.059,0.471,6.8,3.7,5.3,28.7,1.5,0.0,4.6,29.0,120.0,121.0,7.2,Blake Griffin,,LAC,False,True
+paulch01,33.15,0.388,0.278,0.444,0.333,0.0,16.1,7.7,63.1,1.6,0.0,32.6,22.5,89.0,118.0,-5.1,Chris Paul,,LAC,False,True
+jordade01,33.1,0.949,1.0,0.0,0.6,7.4,28.2,17.4,5.2,1.6,6.1,24.0,12.3,139.0,110.0,5.3,DeAndre Jordan,,LAC,False,True
+redicjj01,32.71666666666667,0.783,0.75,0.429,0.214,0.0,12.2,5.9,6.7,0.0,0.0,16.4,27.3,117.0,123.0,4.2,J.J. Redick,,LAC,False,True
+mbahalu01,21.1,0.436,0.333,0.667,0.333,5.8,6.3,6.1,0.0,0.0,0.0,0.0,7.9,105.0,124.0,-7.2,Luc Mbah a Moute,,LAC,False,True
+crawfja01,26.9,0.478,0.375,0.417,0.5,0.0,24.8,11.9,25.6,0.0,0.0,0.0,26.5,109.0,120.0,-0.8,Jamal Crawford,,LAC,False,False
+riverau01,16.733333333333334,0.333,0.333,0.0,0.0,0.0,8.0,3.8,0.0,3.1,0.0,40.0,14.6,36.0,117.0,-12.9,Austin Rivers,,LAC,False,False
+speigma01,14.366666666666667,0.19,0.143,0.286,0.286,8.6,9.3,8.9,0.0,0.0,4.7,11.3,30.1,44.0,119.0,-24.9,Marreese Speights,,LAC,False,False
+feltora01,13.816666666666666,1.0,1.0,0.0,0.0,0.0,9.7,4.6,12.4,0.0,0.0,0.0,7.1,204.0,123.0,1.6,Raymond Felton,,LAC,False,False
+johnswe01,11.916666666666666,1.5,1.5,1.0,0.0,0.0,33.6,16.1,0.0,0.0,5.7,0.0,4.1,300.0,113.0,10.0,Wesley Johnson,,LAC,False,False
+anderal01,,,,,,,,,,,,,,,,,Alan Anderson,Did Not Play,LAC,False,False
+piercpa01,,,,,,,,,,,,,,,,,Paul Pierce,Did Not Play,LAC,False,False
+bassbr01,,,,,,,,,,,,,,,,,Brandon Bass,Did Not Play,LAC,False,False
+caldwke01,35.18333333333333,0.673,0.636,0.545,0.182,0.0,3.5,1.8,34.0,1.5,0.0,14.4,18.4,137.0,108.0,10.5,Kentavious Caldwell-Pope,,DET,True,True
+smithis01,34.18333333333333,0.576,0.538,0.154,0.154,0.0,7.2,3.7,25.5,1.5,0.0,0.0,18.9,138.0,108.0,6.6,Ish Smith,,DET,True,True
+harrito02,29.066666666666666,0.682,0.682,0.273,0.0,0.0,12.7,6.6,14.0,0.0,0.0,0.0,17.6,145.0,110.0,5.7,Tobias Harris,,DET,True,True
+drumman01,26.45,0.673,0.727,0.0,0.182,20.2,27.9,24.2,5.6,6.0,0.0,14.4,24.4,122.0,95.0,7.0,Andre Drummond,,DET,True,True
+morrima03,22.15,0.654,0.654,0.154,0.0,0.0,16.7,8.7,0.0,0.0,0.0,13.3,31.5,106.0,109.0,-2.7,Marcus Morris,,DET,True,True
+leuerjo01,33.35,0.458,0.458,0.333,0.0,8.0,33.2,21.1,14.5,1.6,0.0,7.7,18.2,108.0,104.0,1.5,Jon Leuer,,DET,True,False
+baynear01,21.066666666666666,0.286,0.286,0.0,0.0,12.7,23.4,18.2,0.0,0.0,0.0,12.5,17.7,70.0,108.0,-14.7,Aron Baynes,,DET,True,False
+hillida01,19.183333333333334,0.699,0.667,0.167,0.167,7.0,12.8,10.0,6.8,2.7,0.0,23.7,20.5,111.0,104.0,0.9,Darrun Hilliard,,DET,True,False
+udrihbe01,13.816666666666666,0.333,0.333,0.167,0.0,0.0,17.8,9.3,0.0,0.0,0.0,0.0,20.2,73.0,110.0,-11.8,Beno Udrih,,DET,True,False
+gbinimi01,5.533333333333333,,,,,0.0,22.2,11.6,0.0,0.0,0.0,,0.0,0.0,109.0,-2.5,Michael Gbinije,,DET,True,False
+ellenhe01,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,DET,True,False
+johnsst04,,,,,,,,,,,,,,,,,Stanley Johnson,Player Suspended,DET,True,False
+marjabo01,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DET,True,False

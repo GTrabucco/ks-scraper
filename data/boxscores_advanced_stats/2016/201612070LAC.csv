@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,team_id,is_home,is_starter,note
+thompkl01,35.083333333333336,0.594,0.528,0.333,0.278,6.5,5.4,5.9,13.2,0.0,0.0,4.7,26.0,126.0,113.0,3.6,Klay Thompson,GSW,False,True,
+curryst01,33.28333333333333,0.522,0.438,0.5,0.313,0.0,11.3,6.2,27.1,10.6,0.0,14.2,27.4,104.0,87.0,9.5,Stephen Curry,GSW,False,True,
+duranke01,31.85,0.407,0.324,0.294,0.353,0.0,23.6,13.0,30.6,1.6,0.0,0.0,26.5,107.0,100.0,2.7,Kevin Durant,GSW,False,True,
+greendr01,31.516666666666666,0.935,0.95,0.5,0.4,10.9,6.0,8.2,20.4,3.2,0.0,7.8,17.4,171.0,106.0,16.9,Draymond Green,GSW,False,True,
+pachuza01,21.666666666666668,0.5,0.5,0.25,0.0,15.8,8.7,11.9,17.7,0.0,3.4,33.3,11.9,102.0,110.0,-2.5,Zaza Pachulia,GSW,False,True,
+iguodan01,25.35,0.625,0.625,0.25,0.0,4.5,18.6,12.2,11.6,0.0,5.7,0.0,13.6,136.0,104.0,6.4,Andre Iguodala,GSW,False,False,
+livinsh01,17.483333333333334,0.868,1.0,0.0,1.0,0.0,5.4,3.0,15.0,2.9,0.0,41.0,12.0,97.0,107.0,1.4,Shaun Livingston,GSW,False,False,
+clarkia01,12.916666666666666,0.47,0.429,0.286,0.143,0.0,21.9,12.0,12.0,0.0,0.0,0.0,24.7,105.0,105.0,-6.0,Ian Clark,GSW,False,False,
+westda01,11.2,0.532,0.0,0.0,2.0,0.0,42.0,23.0,30.6,0.0,0.0,0.0,7.2,158.0,94.0,3.8,David West,GSW,False,False,
+mccawpa01,7.733333333333333,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.1,0.0,116.0,-17.3,Patrick McCaw,GSW,False,False,
+looneke01,4.75,1.0,1.0,0.0,0.0,48.1,0.0,21.7,0.0,0.0,15.3,0.0,9.0,209.0,106.0,0.3,Kevon Looney,GSW,False,False,
+mcgeeja01,4.283333333333333,0.694,0.5,0.0,1.0,26.7,0.0,12.0,36.4,0.0,17.0,0.0,28.9,167.0,107.0,28.5,JaVale McGee,GSW,False,False,
+mcadoja01,2.9,0.0,0.0,0.0,2.0,0.0,64.9,35.6,0.0,0.0,0.0,34.7,42.7,0.0,82.0,-51.4,James Michael McAdoo,GSW,False,False,
+paulch01,32.166666666666664,0.536,0.536,0.429,0.0,2.9,17.8,9.6,29.2,1.6,0.0,12.5,20.7,112.0,118.0,3.3,Chris Paul,LAC,True,True,
+jordade01,31.75,0.571,0.714,0.0,0.571,14.8,25.2,19.5,0.0,0.0,5.2,0.0,11.5,128.0,116.0,3.3,DeAndre Jordan,LAC,True,True,
+griffbl01,30.9,0.276,0.25,0.05,0.2,12.2,18.5,15.0,11.0,1.6,0.0,24.3,38.7,56.0,118.0,-15.6,Blake Griffin,LAC,True,True,
+redicjj01,21.566666666666666,0.25,0.25,0.5,0.0,0.0,5.3,2.4,0.0,0.0,0.0,33.3,11.6,36.0,125.0,-13.7,J.J. Redick,LAC,True,True,
+mbahalu01,14.65,0.258,0.0,0.0,0.667,0.0,7.8,3.5,0.0,0.0,0.0,0.0,11.0,69.0,124.0,-8.1,Luc Mbah a Moute,LAC,True,True,
+crawfja01,35.416666666666664,0.56,0.5,0.353,0.235,5.3,0.0,2.9,20.4,1.4,0.0,0.0,22.0,137.0,124.0,10.4,Jamal Crawford,LAC,True,False,
+riverau01,28.5,0.595,0.5,0.4,0.4,0.0,8.0,3.6,11.5,0.0,0.0,0.0,17.1,142.0,124.0,5.2,Austin Rivers,LAC,True,False,
+speigma01,16.25,0.631,0.591,0.273,0.182,11.6,49.2,28.6,0.0,0.0,0.0,0.0,30.4,140.0,112.0,13.9,Marreese Speights,LAC,True,False,
+johnswe01,15.483333333333333,0.608,0.375,0.5,1.0,12.2,14.8,13.3,9.4,0.0,0.0,25.8,20.8,111.0,122.0,1.2,Wesley Johnson,LAC,True,False,
+anderal01,13.333333333333334,0.0,0.0,1.0,0.0,7.1,0.0,3.9,10.0,0.0,0.0,0.0,6.2,55.0,127.0,-5.8,Alan Anderson,LAC,True,False,
+piercpa01,,,,,,,,,,,,,,,,,Paul Pierce,LAC,True,False,Did Not Play
+feltora01,,,,,,,,,,,,,,,,,Raymond Felton,LAC,True,False,Not With Team
+bassbr01,,,,,,,,,,,,,,,,,Brandon Bass,LAC,True,False,Did Not Play

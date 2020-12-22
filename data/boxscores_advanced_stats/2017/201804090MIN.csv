@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mclembe01,41.583333333333336,0.567,0.533,0.2,0.133,2.6,16.1,9.3,4.5,0.0,0.0,0.0,16.5,120.0,122.0,-2.2,Ben McLemore,,MEM,False,True
+brookdi01,30.383333333333333,0.425,0.333,0.133,0.4,3.6,11.0,7.3,23.3,3.3,0.0,14.5,29.3,86.0,117.0,-4.8,Dillon Brooks,,MEM,False,True
+rabbiv01,29.0,0.788,0.75,0.0,0.25,7.5,23.1,15.2,6.6,0.0,2.5,25.3,17.7,117.0,118.0,-0.9,Ivan Rabb,,MEM,False,True
+simmoko01,28.083333333333332,0.357,0.357,0.286,0.0,3.9,0.0,2.0,5.4,0.0,0.0,30.0,15.4,58.0,129.0,-16.5,Kobi Simmons,,MEM,False,True
+davisde01,22.516666666666666,0.625,0.625,0.0,0.0,9.7,14.9,12.3,0.0,0.0,3.3,0.0,15.3,131.0,121.0,-3.1,Deyonta Davis,,MEM,False,True
+brookma01,31.816666666666666,0.394,0.313,0.25,0.25,0.0,3.5,1.7,26.0,3.1,0.0,22.0,30.9,73.0,120.0,-9.5,MarShon Brooks,,MEM,False,False
+henrymy01,25.116666666666667,0.375,0.375,0.625,0.0,4.3,4.4,4.4,12.3,6.0,2.9,0.0,13.7,94.0,112.0,3.2,Myke Henry,,MEM,False,False
+johnsom01,17.7,0.5,0.5,0.25,0.0,12.3,6.3,9.4,18.3,0.0,0.0,20.0,12.2,104.0,126.0,-3.6,Omari Johnson,,MEM,False,False
+chalmma01,13.8,0.565,0.25,0.25,1.75,0.0,32.4,16.0,44.1,14.5,10.7,22.0,28.4,107.0,78.0,24.6,Mario Chalmers,,MEM,False,False
+seldewa01,,,,,,,,,,,,,,,,,Wayne Selden,Not With Team,MEM,False,False
+martija01,,,,,,,,,,,,,,,,,Jarell Martin,Not With Team,MEM,False,False
+harrian01,,,,,,,,,,,,,,,,,Andrew Harrison,Not With Team,MEM,False,False
+greenja01,,,,,,,,,,,,,,,,,JaMychal Green,Not With Team,MEM,False,False
+wiggian01,35.516666666666666,0.281,0.25,0.25,0.083,9.4,9.2,9.3,3.6,4.2,2.0,7.4,15.7,82.0,95.0,-6.3,Andrew Wiggins,,MIN,True,True
+teaguje01,33.333333333333336,0.566,0.5,0.211,0.263,3.3,9.8,6.6,39.7,4.5,2.1,19.1,32.7,113.0,94.0,6.4,Jeff Teague,,MIN,True,True
+townska01,29.833333333333332,0.783,0.786,0.0,0.214,18.7,47.5,33.3,13.2,0.0,2.4,6.1,22.7,156.0,93.0,11.8,Karl-Anthony Towns,,MIN,True,True
+butleji01,22.966666666666665,0.584,0.375,0.125,1.375,9.7,0.0,4.8,17.5,6.5,0.0,7.2,25.1,138.0,94.0,10.2,Jimmy Butler,,MIN,True,True
+gibsota01,8.333333333333334,0.5,0.5,0.0,0.0,26.8,26.2,26.5,0.0,0.0,8.6,33.3,29.9,78.0,94.0,-8.1,Taj Gibson,,MIN,True,True
+jonesty01,25.033333333333335,0.571,0.571,0.857,0.0,0.0,8.7,4.4,21.2,2.0,0.0,12.5,13.3,126.0,102.0,-2.1,Tyus Jones,,MIN,True,False
+crawfja01,23.0,0.2,0.2,0.4,0.0,4.9,9.5,7.2,15.7,0.0,0.0,28.6,12.7,64.0,106.0,-11.9,Jamal Crawford,,MIN,True,False
+rosede01,21.816666666666666,0.597,0.55,0.2,0.2,0.0,5.0,2.5,21.3,0.0,0.0,15.5,24.5,117.0,107.0,-2.3,Derrick Rose,,MIN,True,False
+bjeline01,19.9,0.333,0.333,0.333,0.0,11.2,16.4,13.9,12.2,0.0,7.2,25.0,8.4,96.0,98.0,-2.5,Nemanja Bjelica,,MIN,True,False
+dienggo01,17.116666666666667,0.955,1.0,0.5,1.0,13.0,25.5,19.3,0.0,0.0,4.2,0.0,14.0,198.0,98.0,10.9,Gorgui Dieng,,MIN,True,False
+brookaa01,1.05,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,39.6,0.0,108.0,-53.8,Aaron Brooks,,MIN,True,False
+aldrico01,1.05,,,,,0.0,100.0,52.5,100.0,0.0,0.0,,0.0,217.0,78.0,52.0,Cole Aldrich,,MIN,True,False
+georgma01,1.05,1.5,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.6,300.0,108.0,92.6,Marcus Georges-Hunt,,MIN,True,False

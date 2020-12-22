@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+butleji01,38.1,0.564,0.438,0.25,0.5,5.5,12.9,8.9,19.7,2.7,0.0,0.0,24.0,124.0,100.0,10.0,Jimmy Butler,,MIA,False,True
+adebaba01,38.05,0.523,0.571,0.0,1.143,8.2,19.4,13.4,22.0,4.0,2.2,22.2,16.6,94.0,94.0,3.8,Bam Adebayo,,MIA,False,True
+robindu01,24.466666666666665,0.214,0.214,0.857,0.0,0.0,15.1,6.9,15.1,2.1,0.0,0.0,13.4,57.0,101.0,-6.2,Duncan Robinson,,MIA,False,True
+nunnke01,23.066666666666666,0.421,0.364,0.364,0.182,0.0,16.0,7.3,10.6,4.4,3.7,20.2,30.2,68.0,93.0,-0.6,Kendrick Nunn,,MIA,False,True
+leoname01,12.05,0.0,0.0,1.0,0.0,0.0,10.2,4.7,0.0,0.0,0.0,66.7,11.7,0.0,107.0,-20.1,Meyers Leonard,,MIA,False,True
+dragigo01,34.11666666666667,0.563,0.531,0.438,0.125,3.1,18.0,9.9,54.3,0.0,0.0,10.6,25.9,110.0,105.0,8.6,Goran Dragić,,MIA,False,False
+olynyke01,29.983333333333334,0.337,0.318,0.545,0.182,0.0,12.3,5.7,0.0,0.0,0.0,14.4,21.7,57.0,106.0,-12.5,Kelly Olynyk,,MIA,False,False
+herroty01,23.5,0.394,0.313,0.625,0.25,0.0,10.5,4.8,0.0,2.2,0.0,0.0,17.7,83.0,102.0,-2.2,Tyler Herro,,MIA,False,False
+johnsja01,14.566666666666666,0.0,0.0,0.667,0.0,14.3,16.9,15.5,11.8,0.0,0.0,0.0,9.6,50.0,105.0,-7.2,James Johnson,,MIA,False,False
+silvach01,2.1,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,109.0,-16.7,Chris Silva,,MIA,False,False
+jonesde02,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Dress,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+jamesle01,36.05,0.629,0.632,0.368,0.105,3.4,8.7,6.3,29.9,0.0,0.0,13.1,27.6,114.0,93.0,9.7,LeBron James,,LAL,True,True
+davisan02,34.75,0.693,0.647,0.0,0.235,7.1,18.0,13.0,39.0,2.9,9.2,9.6,25.9,136.0,77.0,22.3,Anthony Davis,,LAL,True,True
+bradlav01,24.9,0.5,0.5,0.444,0.0,4.9,16.8,11.3,17.9,0.0,0.0,18.2,19.2,93.0,90.0,-1.7,Avery Bradley,,LAL,True,True
+greenda02,23.3,0.269,0.214,0.714,0.143,5.3,9.0,7.3,10.9,4.4,0.0,21.2,17.6,62.0,82.0,-5.0,Danny Green,,LAL,True,True
+mcgeeja01,15.9,0.605,0.571,0.0,0.143,23.2,45.9,35.5,10.8,3.2,6.7,11.8,23.1,119.0,70.0,13.3,JaVale McGee,,LAL,True,True
+kuzmaky01,25.3,0.389,0.389,0.778,0.0,4.9,16.5,11.2,5.5,0.0,0.0,30.8,22.3,59.0,90.0,-10.3,Kyle Kuzma,,LAL,True,False
+carusal01,18.683333333333334,0.5,0.5,0.167,0.0,0.0,16.8,9.1,31.8,0.0,5.7,14.3,16.3,105.0,87.0,5.3,Alex Caruso,,LAL,True,False
+caldwke01,17.9,0.167,0.167,0.5,0.0,6.9,5.8,6.3,21.6,2.8,0.0,0.0,14.6,72.0,87.0,-0.8,Kentavious Caldwell-Pope,,LAL,True,False
+howardw01,15.35,0.5,0.5,0.0,0.0,0.0,40.8,22.1,8.5,0.0,0.0,33.3,8.5,75.0,82.0,-4.9,Dwight Howard,,LAL,True,False
+cookqu01,14.75,0.25,0.25,0.5,0.0,0.0,0.0,0.0,17.7,0.0,0.0,33.3,17.7,50.0,95.0,-13.3,Quinn Cook,,LAL,True,False
+danietr01,13.116666666666667,0.5,0.5,1.0,0.0,0.0,15.9,8.6,0.0,0.0,0.0,0.0,9.9,102.0,90.0,0.1,Troy Daniels,,LAL,True,False
+dudleja01,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Play,LAL,True,False
+hortota01,,,,,,,,,,,,,,,,,Talen Horton-Tucker,Did Not Play,LAL,True,False

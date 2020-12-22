@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bradlav01,35.583333333333336,0.78,0.789,0.579,0.105,3.7,30.7,18.5,22.3,1.4,0.0,4.8,27.8,141.0,102.0,17.5,Avery Bradley,,BOS,False,True
+thomais02,35.18333333333333,0.52,0.5,0.35,0.35,0.0,3.1,1.7,35.7,0.0,0.0,8.0,33.7,106.0,111.0,-0.7,Isaiah Thomas,,BOS,False,True
+crowdja01,33.53333333333333,0.5,0.5,0.778,0.0,0.0,29.3,16.1,16.5,4.5,9.1,25.0,16.9,84.0,88.0,5.0,Jae Crowder,,BOS,False,True
+horfoal01,31.183333333333334,0.643,0.65,0.1,0.2,0.0,14.0,7.7,15.5,0.0,6.6,8.4,18.0,120.0,104.0,3.9,Al Horford,,BOS,False,True
+johnsam01,20.983333333333334,0.25,0.25,0.25,0.0,6.4,20.8,14.3,6.2,0.0,0.0,20.0,11.3,64.0,107.0,-12.0,Amir Johnson,,BOS,False,True
+roziete01,21.266666666666666,0.563,0.5,0.25,0.25,0.0,15.4,8.5,13.1,0.0,0.0,31.1,14.3,88.0,109.0,-5.7,Terry Rozier,,BOS,False,False
+jerebjo01,18.516666666666666,1.5,1.5,1.0,0.0,0.0,11.8,6.5,7.1,0.0,0.0,66.7,7.7,77.0,109.0,-4.5,Jonas Jerebko,,BOS,False,False
+brownja02,12.6,0.543,0.5,0.0,0.167,10.6,0.0,4.8,0.0,0.0,0.0,0.0,24.2,113.0,111.0,-4.2,Jaylen Brown,,BOS,False,False
+zellety01,12.066666666666666,1.0,1.0,0.0,0.0,0.0,36.2,19.9,11.4,0.0,8.5,0.0,3.9,212.0,97.0,3.4,Tyler Zeller,,BOS,False,False
+greenge01,11.35,0.41,0.25,0.5,0.5,0.0,0.0,0.0,12.2,0.0,0.0,17.0,24.5,79.0,111.0,-11.7,Gerald Green,,BOS,False,False
+mickejo01,7.733333333333333,0.387,0.333,0.0,0.667,17.2,14.1,15.5,18.9,0.0,0.0,0.0,23.7,105.0,109.0,-2.0,Jordan Mickey,,BOS,False,False
+jacksde01,,,,,,,,,,,,,,,,,Demetrius Jackson,Did Not Play,BOS,False,False
+youngja01,,,,,,,,,,,,,,,,,James Young,Did Not Play,BOS,False,False
+walkeke02,35.96666666666667,0.778,0.75,0.5,0.375,0.0,7.4,3.3,21.5,4.2,0.0,17.7,29.8,119.0,108.0,10.4,Kemba Walker,,CHO,True,True
+batumni01,32.8,0.475,0.35,0.5,0.6,0.0,16.3,7.3,31.8,0.0,5.9,7.3,19.7,105.0,111.0,0.3,Nicolas Batum,,CHO,True,True
+willima02,30.166666666666668,0.414,0.4,0.9,0.2,0.0,13.3,6.0,5.8,0.0,3.2,0.0,17.1,84.0,114.0,-5.8,Marvin Williams,,CHO,True,True
+kiddgmi01,24.616666666666667,0.518,0.4,0.0,0.8,4.4,16.2,9.7,0.0,2.1,0.0,0.0,13.0,113.0,112.0,-3.7,Michael Kidd-Gilchrist,,CHO,True,True
+zelleco01,21.166666666666668,0.527,0.5,0.0,1.5,5.2,50.4,25.5,8.3,0.0,9.1,13.1,17.1,102.0,104.0,-1.5,Cody Zeller,,CHO,True,True
+kaminfr01,24.3,0.619,0.563,0.25,0.25,4.5,16.5,9.9,24.6,0.0,0.0,10.1,19.2,120.0,116.0,0.9,Frank Kaminsky,,CHO,True,False
+belinma01,23.383333333333333,0.342,0.167,0.5,0.5,0.0,5.7,2.6,6.9,2.2,0.0,0.0,14.8,79.0,112.0,-9.4,Marco Belinelli,,CHO,True,False
+hawessp01,20.366666666666667,0.333,0.333,0.0,0.0,16.1,13.1,14.7,37.8,2.5,4.7,10.0,23.2,91.0,107.0,1.5,Spencer Hawes,,CHO,True,False
+sessira01,18.066666666666666,0.717,0.625,0.25,0.5,0.0,22.1,10.0,29.9,2.8,0.0,0.0,12.8,155.0,109.0,4.2,Ramon Sessions,,CHO,True,False
+lambje01,9.166666666666666,0.317,0.286,0.571,0.286,0.0,43.6,19.6,0.0,5.5,0.0,0.0,40.6,63.0,101.0,-8.4,Jeremy Lamb,,CHO,True,False
+grahatr01,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Play,CHO,True,False
+roberbr01,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,CHO,True,False
+woodch01,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,CHO,True,False

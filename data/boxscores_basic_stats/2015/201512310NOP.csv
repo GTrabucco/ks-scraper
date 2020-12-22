@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jordade01,36.1,5.0,7.0,0.714,0.0,0.0,,1.0,2.0,0.5,8.0,12.0,20.0,2.0,1.0,3.0,1.0,4.0,11.0,9.0,DeAndre Jordan,,LAC,False,True
+paulch01,32.6,3.0,18.0,0.167,0.0,4.0,0.0,3.0,4.0,0.75,1.0,4.0,5.0,12.0,2.0,0.0,3.0,0.0,9.0,13.0,Chris Paul,,LAC,False,True
+redicjj01,28.8,9.0,15.0,0.6,4.0,7.0,0.571,4.0,4.0,1.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,2.0,26.0,12.0,J.J. Redick,,LAC,False,True
+mbahalu01,25.933333333333334,2.0,6.0,0.333,0.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,4.0,1.0,1.0,2.0,1.0,1.0,4.0,1.0,Luc Mbah a Moute,,LAC,False,True
+piercpa01,20.533333333333335,1.0,6.0,0.167,1.0,3.0,0.333,2.0,2.0,1.0,1.0,5.0,6.0,0.0,0.0,1.0,1.0,1.0,5.0,9.0,Paul Pierce,,LAC,False,True
+johnswe01,27.25,3.0,10.0,0.3,1.0,7.0,0.143,0.0,0.0,,0.0,3.0,3.0,2.0,1.0,0.0,0.0,2.0,7.0,3.0,Wesley Johnson,,LAC,False,False
+crawfja01,21.966666666666665,5.0,12.0,0.417,1.0,5.0,0.2,4.0,5.0,0.8,0.0,1.0,1.0,3.0,0.0,0.0,1.0,1.0,15.0,5.0,Jamal Crawford,,LAC,False,False
+riverau01,20.75,3.0,9.0,0.333,2.0,5.0,0.4,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,9.0,-9.0,Austin Rivers,,LAC,False,False
+prigipa01,15.4,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,0.0,1.0,2.0,1.0,0.0,2.0,1.0,5.0,-7.0,Pablo Prigioni,,LAC,False,False
+aldrico01,10.666666666666666,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,1.0,2.0,4.0,-6.0,Cole Aldrich,,LAC,False,False
+dawsobr01,,,,,,,,,,,,,,,,,,,,,Branden Dawson,Did Not Play,LAC,False,False
+smithjo03,,,,,,,,,,,,,,,,,,,,,Josh Smith,Did Not Play,LAC,False,False
+stephla01,,,,,,,,,,,,,,,,,,,,,Lance Stephenson,Did Not Play,LAC,False,False
+davisan02,38.21666666666667,7.0,17.0,0.412,0.0,2.0,0.0,0.0,2.0,0.0,2.0,13.0,15.0,1.0,0.0,2.0,1.0,3.0,14.0,-10.0,Anthony Davis,,NOP,True,True
+gordoer01,35.416666666666664,3.0,11.0,0.273,2.0,5.0,0.4,2.0,2.0,1.0,0.0,2.0,2.0,0.0,1.0,1.0,2.0,4.0,10.0,-8.0,Eric Gordon,,NOP,True,True
+evansty01,33.75,5.0,13.0,0.385,1.0,7.0,0.143,3.0,5.0,0.6,0.0,6.0,6.0,9.0,3.0,0.0,4.0,4.0,14.0,-6.0,Tyreke Evans,,NOP,True,True
+asikom01,20.533333333333335,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,1.0,7.0,8.0,0.0,0.0,0.0,1.0,1.0,4.0,7.0,Ömer Aşık,,NOP,True,True
+geeal01,13.666666666666666,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,-5.0,Alonzo Gee,,NOP,True,True
+coleno01,34.483333333333334,6.0,13.0,0.462,2.0,4.0,0.5,1.0,2.0,0.5,1.0,4.0,5.0,4.0,1.0,0.0,2.0,1.0,15.0,-6.0,Norris Cole,,NOP,True,False
+anderry01,29.233333333333334,7.0,11.0,0.636,1.0,3.0,0.333,2.0,2.0,1.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,1.0,17.0,4.0,Ryan Anderson,,NOP,True,False
+holidjr01,27.9,4.0,8.0,0.5,1.0,2.0,0.5,2.0,2.0,1.0,1.0,1.0,2.0,6.0,1.0,0.0,5.0,5.0,11.0,-1.0,Jrue Holiday,,NOP,True,False
+cunnida01,3.55,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,Dante Cunningham,,NOP,True,False
+ajincal01,3.25,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,-1.0,Alexis Ajinça,,NOP,True,False
+babbilu01,,,,,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,NOP,True,False
+douglto01,,,,,,,,,,,,,,,,,,,,,Toney Douglas,Did Not Play,NOP,True,False
+perkike01,,,,,,,,,,,,,,,,,,,,,Kendrick Perkins,Did Not Play,NOP,True,False

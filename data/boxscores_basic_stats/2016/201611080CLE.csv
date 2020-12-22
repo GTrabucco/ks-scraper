@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+millspa01,35.75,7.0,16.0,0.438,2.0,4.0,0.5,5.0,6.0,0.833,1.0,4.0,5.0,1.0,0.0,0.0,3.0,5.0,21.0,10.0,Paul Millsap,,ATL,False,True
+sefolth01,35.36666666666667,2.0,6.0,0.333,1.0,3.0,0.333,0.0,0.0,,2.0,3.0,5.0,1.0,1.0,0.0,1.0,3.0,5.0,-6.0,Thabo Sefolosha,,ATL,False,True
+bazemke01,32.6,8.0,13.0,0.615,4.0,6.0,0.667,5.0,7.0,0.714,1.0,5.0,6.0,3.0,0.0,0.0,1.0,2.0,25.0,-6.0,Kent Bazemore,,ATL,False,True
+schrode01,32.15,10.0,16.0,0.625,3.0,6.0,0.5,5.0,5.0,1.0,1.0,1.0,2.0,6.0,0.0,0.0,4.0,3.0,28.0,3.0,Dennis Schröder,,ATL,False,True
+howardw01,26.983333333333334,3.0,5.0,0.6,0.0,0.0,,1.0,4.0,0.25,2.0,15.0,17.0,2.0,0.0,3.0,3.0,4.0,7.0,3.0,Dwight Howard,,ATL,False,True
+hardati02,28.8,3.0,11.0,0.273,1.0,7.0,0.143,1.0,2.0,0.5,1.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,8.0,12.0,Tim Hardaway,,ATL,False,False
+muscami01,22.0,5.0,8.0,0.625,0.0,2.0,0.0,0.0,0.0,,3.0,0.0,3.0,2.0,0.0,1.0,2.0,0.0,10.0,-6.0,Mike Muscala,,ATL,False,False
+delanma01,13.9,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,4.0,0.0,0.0,3.0,2.0,4.0,4.0,Malcolm Delaney,,ATL,False,False
+princta02,8.616666666666667,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,2.0,7.0,Taurean Waller-Prince,,ATL,False,False
+humphkr01,3.8333333333333335,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,-1.0,Kris Humphries,,ATL,False,False
+bembrde01,,,,,,,,,,,,,,,,,,,,,DeAndre' Bembry,Did Not Play,ATL,False,False
+kellyry01,,,,,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,ATL,False,False
+korveky01,,,,,,,,,,,,,,,,,,,,,Kyle Korver,Not With Team,ATL,False,False
+irvinky01,39.46666666666667,11.0,27.0,0.407,1.0,7.0,0.143,6.0,7.0,0.857,0.0,1.0,1.0,4.0,0.0,1.0,0.0,3.0,29.0,-4.0,Kyrie Irving,,CLE,True,True
+loveke01,38.166666666666664,7.0,17.0,0.412,0.0,4.0,0.0,10.0,11.0,0.909,6.0,6.0,12.0,3.0,3.0,0.0,2.0,4.0,24.0,-8.0,Kevin Love,,CLE,True,True
+jamesle01,36.86666666666667,8.0,17.0,0.471,2.0,5.0,0.4,5.0,5.0,1.0,2.0,7.0,9.0,5.0,3.0,0.0,1.0,3.0,23.0,7.0,LeBron James,,CLE,True,True
+smithjr01,31.533333333333335,2.0,13.0,0.154,2.0,10.0,0.2,0.0,0.0,,1.0,1.0,2.0,3.0,2.0,0.0,1.0,1.0,6.0,-2.0,J.R. Smith,,CLE,True,True
+thomptr01,24.95,0.0,0.0,,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,3.0,0.0,-14.0,Tristan Thompson,,CLE,True,True
+fryech01,26.933333333333334,5.0,15.0,0.333,3.0,8.0,0.375,0.0,0.0,,2.0,5.0,7.0,1.0,0.0,0.0,0.0,0.0,13.0,10.0,Channing Frye,,CLE,True,False
+shumpim01,21.75,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,2.0,3.0,5.0,4.0,2.0,0.0,2.0,2.0,5.0,-3.0,Iman Shumpert,,CLE,True,False
+dunlemi02,13.483333333333333,1.0,4.0,0.25,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,3.0,-8.0,Mike Dunleavy,,CLE,True,False
+jefferi01,6.85,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,2.0,Richard Jefferson,,CLE,True,False
+anderch01,,,,,,,,,,,,,,,,,,,,,Chris Andersen,Did Not Play,CLE,True,False
+feldeka01,,,,,,,,,,,,,,,,,,,,,Kay Felder,Did Not Play,CLE,True,False
+jonesja02,,,,,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,True,False
+mcraejo01,,,,,,,,,,,,,,,,,,,,,Jordan McRae,Did Not Play,CLE,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+turneev01,33.483333333333334,3.0,11.0,0.273,0.0,2.0,0.0,3.0,4.0,0.75,2.0,10.0,12.0,3.0,0.0,0.0,1.0,2.0,9.0,8.0,Evan Turner,,BOS,False,True
+zellety01,30.366666666666667,5.0,8.0,0.625,0.0,0.0,,1.0,2.0,0.5,2.0,4.0,6.0,1.0,1.0,1.0,2.0,2.0,11.0,-5.0,Tyler Zeller,,BOS,False,True
+bradlav01,28.566666666666666,3.0,9.0,0.333,2.0,2.0,1.0,0.0,0.0,,1.0,3.0,4.0,0.0,1.0,0.0,0.0,4.0,8.0,-12.0,Avery Bradley,,BOS,False,True
+smartma01,25.516666666666666,4.0,9.0,0.444,1.0,5.0,0.2,1.0,2.0,0.5,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,10.0,-20.0,Marcus Smart,,BOS,False,True
+bassbr01,15.033333333333333,0.0,6.0,0.0,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,3.0,1.0,2.0,0.0,0.0,2.0,-13.0,Brandon Bass,,BOS,False,True
+thomais02,30.033333333333335,6.0,14.0,0.429,0.0,3.0,0.0,10.0,10.0,1.0,1.0,0.0,1.0,7.0,1.0,0.0,4.0,2.0,22.0,-3.0,Isaiah Thomas,,BOS,False,False
+crowdja01,29.683333333333334,4.0,10.0,0.4,0.0,2.0,0.0,2.0,2.0,1.0,3.0,2.0,5.0,3.0,1.0,0.0,1.0,3.0,10.0,-2.0,Jae Crowder,,BOS,False,False
+sullija01,22.233333333333334,6.0,12.0,0.5,2.0,4.0,0.5,0.0,0.0,,3.0,2.0,5.0,1.0,0.0,0.0,0.0,1.0,14.0,-8.0,Jared Sullinger,,BOS,False,False
+olynyke01,21.0,2.0,5.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,2.0,4.0,5.0,13.0,Kelly Olynyk,,BOS,False,False
+jerebjo01,4.066666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,Jonas Jerebko,,BOS,False,False
+datomlu01,,,,,,,,,,,,,,,,,,,,,Luigi Datome,Did Not Play,BOS,False,False
+pressph01,,,,,,,,,,,,,,,,,,,,,Phil Pressey,Did Not Play,BOS,False,False
+wallage01,,,,,,,,,,,,,,,,,,,,,Gerald Wallace,Did Not Play,BOS,False,False
+jamesle01,41.8,11.0,22.0,0.5,1.0,5.0,0.2,7.0,8.0,0.875,1.0,8.0,9.0,7.0,0.0,2.0,6.0,3.0,30.0,11.0,LeBron James,,CLE,True,True
+irvinky01,38.766666666666666,8.0,18.0,0.444,3.0,8.0,0.375,7.0,7.0,1.0,0.0,5.0,5.0,6.0,0.0,1.0,2.0,3.0,26.0,15.0,Kyrie Irving,,CLE,True,True
+smithjr01,34.03333333333333,3.0,12.0,0.25,1.0,8.0,0.125,0.0,0.0,,0.0,4.0,4.0,1.0,5.0,0.0,1.0,3.0,7.0,10.0,J.R. Smith,,CLE,True,True
+loveke01,29.566666666666666,3.0,8.0,0.375,1.0,5.0,0.2,6.0,7.0,0.857,1.0,5.0,6.0,2.0,0.0,2.0,4.0,5.0,13.0,2.0,Kevin Love,,CLE,True,True
+mozgoti01,28.516666666666666,7.0,11.0,0.636,0.0,0.0,,2.0,2.0,1.0,4.0,3.0,7.0,0.0,0.0,5.0,4.0,6.0,16.0,17.0,Timofey Mozgov,,CLE,True,True
+thomptr01,26.35,0.0,0.0,,0.0,0.0,,0.0,0.0,,5.0,6.0,11.0,2.0,1.0,0.0,1.0,0.0,0.0,-3.0,Tristan Thompson,,CLE,True,False
+shumpim01,25.533333333333335,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,1.0,4.0,5.0,0.0,1.0,0.0,0.0,1.0,2.0,-2.0,Iman Shumpert,,CLE,True,False
+dellama01,9.233333333333333,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,-7.0,Matthew Dellavedova,,CLE,True,False
+jonesja02,4.066666666666666,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,James Jones,,CLE,True,False
+perkike01,2.1333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,Kendrick Perkins,,CLE,True,False
+millemi01,,,,,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,CLE,True,False
+mariosh01,,,,,,,,,,,,,,,,,,,,,Shawn Marion,Did Not Play,CLE,True,False
+haywobr01,,,,,,,,,,,,,,,,,,,,,Brendan Haywood,Did Not Play,CLE,True,False

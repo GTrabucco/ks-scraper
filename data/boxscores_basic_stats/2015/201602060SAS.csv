@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+willilo02,37.2,3.0,9.0,0.333,2.0,7.0,0.286,6.0,6.0,1.0,1.0,2.0,3.0,4.0,0.0,0.0,1.0,3.0,14.0,-8.0,Lou Williams,,LAL,False,True
+clarkjo01,36.016666666666666,9.0,14.0,0.643,1.0,2.0,0.5,2.0,2.0,1.0,2.0,4.0,6.0,4.0,1.0,0.0,1.0,3.0,21.0,2.0,Jordan Clarkson,,LAL,False,True
+bryanko01,32.88333333333333,9.0,28.0,0.321,4.0,14.0,0.286,3.0,3.0,1.0,1.0,1.0,2.0,4.0,0.0,1.0,2.0,4.0,25.0,-2.0,Kobe Bryant,,LAL,False,True
+randlju01,30.933333333333334,5.0,12.0,0.417,0.0,0.0,,5.0,6.0,0.833,3.0,13.0,16.0,4.0,2.0,0.0,3.0,4.0,15.0,-4.0,Julius Randle,,LAL,False,True
+hibbero01,8.1,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-7.0,Roy Hibbert,,LAL,False,True
+bassbr01,25.683333333333334,1.0,5.0,0.2,0.0,0.0,,2.0,2.0,1.0,1.0,3.0,4.0,0.0,1.0,1.0,0.0,1.0,4.0,2.0,Brandon Bass,,LAL,False,False
+russeda01,22.783333333333335,3.0,7.0,0.429,2.0,4.0,0.5,4.0,4.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,3.0,12.0,-2.0,D'Angelo Russell,,LAL,False,False
+blackta01,17.016666666666666,2.0,4.0,0.5,0.0,0.0,,0.0,2.0,0.0,3.0,5.0,8.0,0.0,0.0,0.0,0.0,2.0,4.0,1.0,Tarik Black,,LAL,False,False
+youngni01,15.9,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,-3.0,Nick Young,,LAL,False,False
+sacrero01,13.483333333333333,0.0,2.0,0.0,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,Robert Sacre,,LAL,False,False
+brownan02,,,,,,,,,,,,,,,,,,,,,Anthony Brown,Did Not Play,LAL,False,False
+huertma01,,,,,,,,,,,,,,,,,,,,,Marcelo Huertas,Did Not Play,LAL,False,False
+kellyry01,,,,,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,LAL,False,False
+leonaka01,33.983333333333334,4.0,13.0,0.308,0.0,3.0,0.0,12.0,15.0,0.8,5.0,8.0,13.0,3.0,1.0,0.0,1.0,3.0,20.0,2.0,Kawhi Leonard,,SAS,True,True
+aldrila01,33.75,11.0,18.0,0.611,0.0,0.0,,4.0,5.0,0.8,3.0,6.0,9.0,2.0,0.0,0.0,1.0,2.0,26.0,2.0,LaMarcus Aldridge,,SAS,True,True
+westda01,29.583333333333332,3.0,6.0,0.5,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,5.0,0.0,3.0,0.0,4.0,6.0,12.0,David West,,SAS,True,True
+greenda02,29.05,4.0,8.0,0.5,3.0,6.0,0.5,0.0,0.0,,1.0,4.0,5.0,2.0,1.0,2.0,2.0,1.0,11.0,11.0,Danny Green,,SAS,True,True
+parketo01,25.8,7.0,13.0,0.538,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,4.0,1.0,0.0,3.0,2.0,14.0,10.0,Tony Parker,,SAS,True,True
+simmojo02,24.283333333333335,3.0,10.0,0.3,1.0,3.0,0.333,2.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,0.0,0.0,2.0,9.0,-6.0,Jonathon Simmons,,SAS,True,False
+diawbo01,23.383333333333333,1.0,3.0,0.333,1.0,1.0,1.0,1.0,2.0,0.5,0.0,1.0,1.0,3.0,0.0,1.0,0.0,1.0,4.0,1.0,Boris Diaw,,SAS,True,False
+millspa02,22.2,5.0,15.0,0.333,3.0,11.0,0.273,0.0,0.0,,0.0,3.0,3.0,4.0,0.0,0.0,1.0,2.0,13.0,-6.0,Patty Mills,,SAS,True,False
+anderky01,9.2,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,Kyle Anderson,,SAS,True,False
+marjabo01,8.766666666666667,1.0,1.0,1.0,0.0,0.0,,1.0,1.0,1.0,2.0,3.0,5.0,1.0,1.0,0.0,1.0,2.0,3.0,-7.0,Boban Marjanović,,SAS,True,False
+bonnema01,,,,,,,,,,,,,,,,,,,,,Matt Bonner,Did Not Dress,SAS,True,False
+butlera01,,,,,,,,,,,,,,,,,,,,,Rasual Butler,Did Not Play,SAS,True,False
+mccalra01,,,,,,,,,,,,,,,,,,,,,Ray McCallum,Did Not Play,SAS,True,False

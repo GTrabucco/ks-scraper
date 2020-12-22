@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bealbr01,40.266666666666666,0.479,0.438,0.75,0.25,0.0,9.4,4.8,32.0,2.5,7.8,18.4,25.2,90.0,109.0,1.4,Bradley Beal,,WAS,False,True
+porteot01,37.95,0.536,0.536,0.429,0.0,0.0,20.0,10.1,15.5,1.3,0.0,0.0,17.2,109.0,115.0,-1.2,Otto Porter,,WAS,False,True
+walljo01,34.38333333333333,0.733,0.733,0.467,0.0,3.8,14.7,9.3,50.3,4.4,0.0,37.5,32.6,92.0,109.0,1.0,John Wall,,WAS,False,True
+greenje02,29.416666666666668,0.333,0.333,0.333,0.0,0.0,21.5,10.9,5.7,0.0,3.5,25.0,12.7,54.0,115.0,-12.8,Jeff Green,,WAS,False,True
+mahinia01,20.2,0.735,0.667,0.0,1.333,6.4,31.3,19.0,0.0,0.0,0.0,0.0,11.0,156.0,116.0,-4.2,Ian Mahinmi,,WAS,False,True
+oubreke01,28.8,0.592,0.45,0.5,0.8,4.5,4.4,4.4,6.6,3.5,3.6,12.9,25.2,109.0,110.0,-1.3,Kelly Oubre,,WAS,False,False
+smithja02,24.45,0.717,0.625,0.25,0.5,10.6,20.7,15.7,28.0,0.0,8.5,17.0,11.2,146.0,111.0,4.6,Jason Smith,,WAS,False,False
+riverau01,18.933333333333334,0.41,0.25,0.25,0.5,0.0,13.3,6.8,8.6,2.7,0.0,29.1,17.0,66.0,113.0,-11.5,Austin Rivers,,WAS,False,False
+satorto01,5.6,0.75,0.75,0.5,0.0,0.0,45.1,22.9,0.0,0.0,0.0,0.0,16.7,124.0,115.0,4.0,Tomáš Satoranský,,WAS,False,False
+mcraejo01,,,,,,,,,,,,,,,,,Jordan McRae,Did Not Play,WAS,False,False
+browntr01,,,,,,,,,,,,,,,,,Troy Brown,Did Not Play,WAS,False,False
+bryanth01,,,,,,,,,,,,,,,,,Thomas Bryant,Did Not Play,WAS,False,False
+gasolma01,36.18333333333333,0.726,0.8,0.3,0.7,0.0,17.9,8.8,29.8,6.9,0.0,0.0,16.9,151.0,92.0,14.2,Marc Gasol,,MEM,True,True
+templga01,35.766666666666666,0.639,0.538,0.538,0.462,3.5,21.8,12.5,4.6,0.0,0.0,16.1,24.4,107.0,108.0,-3.3,Garrett Temple,,MEM,True,True
+conlemi01,35.2,0.451,0.389,0.444,0.389,0.0,11.1,5.5,34.3,1.4,3.5,8.7,30.7,98.0,104.0,-4.6,Mike Conley,,MEM,True,True
+anderky01,28.266666666666666,0.644,0.667,0.0,0.667,13.4,36.7,24.9,15.6,7.1,0.0,20.5,8.1,139.0,89.0,7.1,Kyle Anderson,,MEM,True,True
+jacksja02,10.05,0.667,0.667,0.0,0.0,0.0,38.7,19.1,18.1,0.0,0.0,40.0,23.3,75.0,105.0,-15.1,Jaren Jackson,,MEM,True,True
+macksh01,29.616666666666667,0.788,0.75,0.375,0.25,0.0,8.8,4.3,46.5,1.7,0.0,0.0,14.0,174.0,106.0,8.4,Shelvin Mack,,MEM,True,False
+brookdi01,25.183333333333334,0.595,0.5,0.4,0.4,5.0,5.2,5.1,11.8,6.0,4.9,14.5,12.8,117.0,93.0,1.8,Dillon Brooks,,MEM,True,False
+casspom01,14.516666666666667,0.581,0.583,0.167,0.333,0.0,26.8,13.2,0.0,3.5,0.0,0.0,22.2,108.0,99.0,-1.9,Omri Casspi,,MEM,True,False
+rabbiv01,11.816666666666666,0.926,1.0,0.0,1.0,10.7,11.0,10.8,0.0,4.3,10.4,41.0,29.0,95.0,92.0,-2.0,Ivan Rabb,,MEM,True,False
+seldewa01,8.066666666666666,0.375,0.375,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.3,34.8,45.0,112.0,-24.8,Wayne Selden,,MEM,True,False
+brookma01,5.333333333333333,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,17.5,0.0,111.0,-30.0,MarShon Brooks,,MEM,True,False
+carteje01,,,,,,,,,,,,,,,,,Jevon Carter,Did Not Play,MEM,True,False
+harrian01,,,,,,,,,,,,,,,,,Andrew Harrison,Did Not Play,MEM,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+adamsst01,36.88333333333333,0.468,0.5,0.0,0.4,15.7,19.3,17.4,3.4,1.2,2.0,7.8,13.0,110.0,105.0,-1.2,Steven Adams,,OKC,False,True
+georgpa01,36.75,0.515,0.458,0.583,0.208,2.3,19.4,10.5,11.8,0.0,2.0,10.3,29.8,101.0,108.0,1.4,Paul George,,OKC,False,True
+westbru01,36.56666666666667,0.56,0.56,0.4,0.08,4.5,26.7,15.2,31.4,3.6,0.0,13.4,30.6,108.0,98.0,9.5,Russell Westbrook,,OKC,False,True
+grantje01,25.616666666666667,0.405,0.333,0.0,0.222,0.0,3.5,1.7,0.0,0.0,2.9,9.2,15.9,78.0,113.0,-8.8,Jerami Grant,,OKC,False,True
+diallha01,22.383333333333333,1.142,1.143,0.286,0.286,0.0,4.0,1.9,7.2,3.9,0.0,0.0,13.2,232.0,106.0,18.6,Hamidou Diallo,,OKC,False,True
+schrode01,29.383333333333333,0.176,0.176,0.353,0.0,2.8,12.1,7.3,20.4,1.5,0.0,19.0,26.8,47.0,108.0,-17.5,Dennis Schröder,,OKC,False,False
+luwawti01,24.483333333333334,0.652,0.688,0.375,0.125,6.8,10.9,8.8,11.1,1.8,0.0,0.0,12.9,142.0,108.0,5.9,Timothé Luwawu-Cabarrot,,OKC,False,False
+pattepa01,15.15,0.0,0.0,1.0,0.0,0.0,5.9,2.8,14.1,0.0,0.0,0.0,12.4,24.0,114.0,-11.9,Patrick Patterson,,OKC,False,False
+burtode02,7.05,0.0,0.0,0.0,0.0,0.0,12.6,6.1,0.0,0.0,0.0,0.0,10.6,0.0,111.0,-17.2,Deonte Burton,,OKC,False,False
+feltora01,5.733333333333333,1.5,1.5,1.0,0.0,0.0,31.0,15.0,22.9,0.0,0.0,0.0,6.5,282.0,105.0,15.3,Raymond Felton,,OKC,False,False
+noelne01,,,,,,,,,,,,,,,,,Nerlens Noel,Did Not Dress,OKC,False,False
+abrinal01,,,,,,,,,,,,,,,,,Álex Abrines,Did Not Play,OKC,False,False
+naderab01,,,,,,,,,,,,,,,,,Abdel Nader,Did Not Play,OKC,False,False
+hieldbu01,35.2,0.662,0.639,0.556,0.111,0.0,9.4,4.9,8.3,0.0,0.0,0.0,20.7,137.0,108.0,6.2,Buddy Hield,,SAC,True,True
+foxde01,34.983333333333334,0.237,0.1,0.3,0.6,0.0,7.1,3.7,40.9,0.0,0.0,24.0,18.3,79.0,109.0,-10.6,De'Aaron Fox,,SAC,True,True
+caulewi01,31.1,0.302,0.286,0.0,0.143,11.4,26.6,19.3,19.9,0.0,0.0,11.8,20.9,84.0,103.0,-5.0,Willie Cauley-Stein,,SAC,True,True
+shumpim01,29.916666666666668,0.624,0.611,0.611,0.056,0.0,8.3,4.3,0.0,5.8,0.0,0.0,23.8,123.0,96.0,10.5,Iman Shumpert,,SAC,True,True
+bjeline01,22.85,1.0,1.0,0.5,0.0,7.8,21.7,15.0,6.1,1.9,0.0,25.0,13.5,137.0,100.0,6.1,Nemanja Bjelica,,SAC,True,True
+baglema01,25.833333333333332,0.55,0.545,0.091,0.545,20.6,22.4,21.6,11.0,0.0,8.3,12.8,23.3,115.0,98.0,3.6,Marvin Bagley,,SAC,True,False
+bogdabo01,24.933333333333334,0.615,0.615,0.692,0.0,3.6,13.3,8.6,17.3,0.0,0.0,23.5,26.3,97.0,107.0,0.4,Bogdan Bogdanović,,SAC,True,False
+gilesha01,13.55,0.286,0.286,0.0,0.0,6.6,24.4,15.8,9.3,3.2,0.0,0.0,19.9,79.0,95.0,-8.5,Harry Giles,,SAC,True,False
+masonfr01,13.016666666666667,0.5,0.5,0.0,0.0,0.0,19.1,9.9,9.8,0.0,0.0,20.0,14.8,86.0,105.0,-9.6,Frank Mason,,SAC,True,False
+jacksju01,8.616666666666667,1.5,1.5,1.0,0.0,0.0,9.6,5.0,14.1,5.1,8.3,0.0,4.5,279.0,91.0,18.7,Justin Jackson,,SAC,True,False
+willitr02,,,,,,,,,,,,,,,,,Troy Williams,Did Not Play,SAC,True,False
+ferreyo01,,,,,,,,,,,,,,,,,Yogi Ferrell,Did Not Play,SAC,True,False
+labissk01,,,,,,,,,,,,,,,,,Skal Labissière,Did Not Play,SAC,True,False

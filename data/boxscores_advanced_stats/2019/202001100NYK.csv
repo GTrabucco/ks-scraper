@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+ingrabr01,38.6,0.742,0.75,0.5,0.111,6.5,9.8,8.4,32.6,1.2,0.0,20.9,26.4,125.0,109.0,5.5,Brandon Ingram,,NOP,False,True
+balllo01,38.333333333333336,0.536,0.536,0.5,0.0,0.0,14.7,8.4,34.0,1.2,1.7,17.6,18.9,114.0,106.0,0.1,Lonzo Ball,,NOP,False,True
+hartjo01,36.71666666666667,0.65,0.65,0.7,0.0,0.0,25.6,14.7,9.5,0.0,0.0,9.1,12.8,119.0,106.0,-2.0,Josh Hart,,NOP,False,True
+redicjj01,23.066666666666666,0.551,0.5,0.4,0.2,0.0,8.2,4.7,10.5,0.0,0.0,0.0,20.1,118.0,112.0,-4.2,J.J. Redick,,NOP,False,True
+favorde01,11.266666666666667,0.5,0.5,0.0,0.0,11.2,41.8,28.7,0.0,8.1,5.8,60.0,18.9,49.0,80.0,-6.8,Derrick Favors,,NOP,False,True
+hayesja02,29.383333333333333,0.753,0.875,0.0,1.125,12.9,22.4,18.4,4.5,1.6,4.5,7.7,18.8,143.0,101.0,2.9,Jaxson Hayes,,NOP,False,False
+alexani01,23.85,0.563,0.563,0.875,0.0,0.0,3.9,2.3,19.2,0.0,0.0,11.1,16.1,114.0,113.0,-3.2,Nickeil Alexander-Walker,,NOP,False,False
+mooreet01,17.733333333333334,0.611,0.611,0.222,0.0,0.0,10.6,6.1,31.4,2.6,7.4,18.2,26.5,109.0,101.0,5.8,E'Twaun Moore,,NOP,False,False
+mellini01,13.7,0.875,0.875,0.5,0.0,0.0,0.0,0.0,9.3,6.7,0.0,20.0,15.6,126.0,101.0,7.7,Nicolò Melli,,NOP,False,False
+okafoja01,7.35,0.84,1.0,0.0,1.333,0.0,0.0,0.0,0.0,0.0,0.0,29.6,39.2,97.0,113.0,-12.8,Jahlil Okafor,,NOP,False,False
+jacksfr01,,,,,,,,,,,,,,,,,Frank Jackson,Did Not Play,NOP,False,False
+willike04,,,,,,,,,,,,,,,,,Kenrich Williams,Did Not Play,NOP,False,False
+holidjr01,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Play,NOP,False,False
+paytoel01,32.7,0.43,0.412,0.176,0.059,5.8,15.5,9.9,28.8,7.0,0.0,14.7,24.6,93.0,107.0,1.3,Elfrid Payton,,NYK,True,True
+barrerj01,32.53333333333333,0.432,0.367,0.267,0.533,2.9,31.1,14.9,7.6,2.8,0.0,13.9,26.1,85.0,115.0,-7.6,RJ Barrett,,NYK,True,True
+portibo01,29.216666666666665,0.547,0.545,0.182,0.182,3.2,17.3,9.2,18.2,0.0,0.0,7.8,17.4,115.0,122.0,-3.0,Bobby Portis,,NYK,True,True
+bullore01,27.25,0.631,0.636,0.545,0.182,0.0,9.3,4.0,9.9,5.0,0.0,0.0,17.2,133.0,112.0,5.5,Reggie Bullock,,NYK,True,True
+gibsota01,25.683333333333334,0.973,1.0,0.0,0.5,14.7,19.7,16.8,0.0,0.0,3.9,9.3,16.5,175.0,120.0,7.8,Taj Gibson,,NYK,True,True
+robinmi01,22.316666666666666,0.857,0.857,0.0,0.0,12.7,5.7,9.7,6.5,2.0,0.0,12.5,14.1,151.0,119.0,1.1,Mitchell Robinson,,NYK,True,False
+dotsoda01,17.766666666666666,0.438,0.438,0.25,0.0,0.0,28.4,12.1,21.4,0.0,0.0,0.0,17.7,107.0,122.0,-2.5,Damyean Dotson,,NYK,True,False
+knoxke01,16.216666666666665,0.313,0.313,0.5,0.0,5.8,7.8,6.7,7.4,0.0,0.0,11.1,21.9,71.0,123.0,-14.6,Kevin Knox,,NYK,True,False
+ntilila01,15.3,0.421,0.286,0.143,0.429,6.2,16.5,10.6,31.6,3.0,0.0,26.5,29.2,83.0,117.0,-5.9,Frank Ntilikina,,NYK,True,False
+ellinwa01,12.533333333333333,0.0,0.0,0.5,0.0,7.5,20.2,12.9,8.3,3.6,0.0,0.0,12.6,33.0,115.0,-11.5,Wayne Ellington,,NYK,True,False
+trieral01,5.916666666666667,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.3,0.0,125.0,-22.9,Allonzo Trier,,NYK,True,False
+allenka01,2.5666666666666664,0.5,0.5,0.5,0.0,0.0,0.0,0.0,68.5,0.0,0.0,0.0,30.7,122.0,125.0,5.2,Kadeem Allen,,NYK,True,False

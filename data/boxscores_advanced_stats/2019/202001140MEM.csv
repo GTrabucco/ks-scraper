@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hardeja01,39.13333333333333,0.49,0.419,0.514,0.297,8.4,9.4,8.9,35.0,0.0,2.3,2.3,47.1,112.0,125.0,6.1,James Harden,,HOU,False,True
+tuckepj01,38.35,0.0,0.0,0.0,0.0,2.8,19.3,10.6,10.1,1.3,0.0,75.0,4.5,51.0,123.0,-7.0,P.J. Tucker,,HOU,False,True
+mclembe01,38.266666666666666,0.583,0.583,0.833,0.0,0.0,9.6,4.5,0.0,2.5,0.0,14.3,15.7,97.0,121.0,-2.1,Ben McLemore,,HOU,False,True
+capelca01,33.13333333333333,0.913,0.857,0.0,0.571,9.9,48.3,27.9,10.2,0.0,0.0,31.3,16.6,132.0,121.0,1.1,Clint Capela,,HOU,False,True
+riverau01,26.533333333333335,0.571,0.5,0.429,0.571,0.0,9.3,4.4,28.6,0.0,0.0,18.6,17.4,112.0,127.0,-3.3,Austin Rivers,,HOU,False,True
+gordoer01,31.683333333333334,0.592,0.579,0.632,0.053,3.4,11.7,7.3,6.5,1.5,2.8,4.9,27.8,116.0,121.0,3.6,Eric Gordon,,HOU,False,False
+houseda01,26.466666666666665,0.515,0.333,0.333,0.667,4.1,9.3,6.6,0.0,0.0,0.0,34.0,9.6,79.0,127.0,-10.2,Danuel House,,HOU,False,False
+harteis01,3.9833333333333334,1.136,,,,0.0,0.0,0.0,32.6,0.0,0.0,0.0,9.5,247.0,129.0,17.0,Isaiah Hartenstein,,HOU,False,False
+chandty01,2.45,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,129.0,-6.3,Tyson Chandler,,HOU,False,False
+clemoch01,,,,,,,,,,,,,,,,,Chris Clemons,Did Not Play,HOU,False,False
+sefolth01,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,False,False
+frazimi01,,,,,,,,,,,,,,,,,Michael Frazier,Did Not Play,HOU,False,False
+moranja01,36.88333333333333,1.055,1.045,0.364,0.273,0.0,14.8,7.8,31.6,1.3,3.2,14.0,17.5,181.0,113.0,14.1,Ja Morant,,MEM,True,True
+brookdi01,31.133333333333333,0.671,0.647,0.588,0.118,4.0,10.5,7.4,13.7,1.6,7.5,0.0,25.9,138.0,111.0,10.8,Dillon Brooks,,MEM,True,True
+jacksja02,30.216666666666665,0.456,0.438,0.438,0.063,0.0,7.2,3.8,4.4,4.8,7.7,5.7,26.0,88.0,104.0,-5.1,Jaren Jackson,,MEM,True,True
+valanjo01,27.916666666666668,0.603,0.571,0.143,0.286,8.8,15.6,12.4,10.7,0.0,4.2,6.0,27.1,122.0,115.0,-0.7,Jonas Valančiūnas,,MEM,True,True
+anderky01,17.433333333333334,0.0,0.0,1.0,0.0,7.1,18.8,13.3,0.0,0.0,6.7,0.0,7.8,33.0,113.0,-13.0,Kyle Anderson,,MEM,True,True
+meltode01,26.066666666666666,0.558,0.5,0.444,0.444,4.7,20.9,13.3,19.1,0.0,4.5,0.0,18.6,132.0,113.0,2.0,De'Anthony Melton,,MEM,True,False
+clarkbr01,23.933333333333334,0.788,0.75,0.125,0.25,5.1,27.3,16.9,11.8,2.0,0.0,25.3,22.4,118.0,109.0,0.7,Brandon Clarke,,MEM,True,False
+allengr01,21.366666666666667,0.475,0.4,0.6,0.6,0.0,10.2,5.4,21.6,0.0,0.0,0.0,13.3,123.0,119.0,-4.2,Grayson Allen,,MEM,True,False
+hillso01,13.933333333333334,0.3,0.3,0.6,0.0,8.8,39.1,24.9,32.4,0.0,8.4,0.0,16.2,109.0,106.0,4.5,Solomon Hill,,MEM,True,False
+jonesty01,11.116666666666667,0.333,0.333,0.0,0.0,0.0,0.0,0.0,10.4,0.0,0.0,0.0,12.2,85.0,121.0,-12.1,Tyus Jones,,MEM,True,False
+gudurma01,,,,,,,,,,,,,,,,,Marko Guduric,Did Not Play,MEM,True,False
+crowdja01,,,,,,,,,,,,,,,,,Jae Crowder,Did Not Dress,MEM,True,False
+watanyu01,,,,,,,,,,,,,,,,,Yuta Watanabe,Did Not Play,MEM,True,False

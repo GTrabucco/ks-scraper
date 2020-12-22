@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+davisan02,35.666666666666664,3.0,13.0,0.231,1.0,4.0,0.25,3.0,5.0,0.6,1.0,6.0,7.0,1.0,2.0,3.0,5.0,5.0,10.0,-23.0,Anthony Davis,,NOP,False,True
+mooreet01,27.366666666666667,2.0,6.0,0.333,0.0,3.0,0.0,1.0,2.0,0.5,0.0,3.0,3.0,1.0,0.0,1.0,2.0,2.0,5.0,-19.0,E'Twaun Moore,,NOP,False,True
+fraziti01,14.666666666666666,1.0,5.0,0.2,0.0,2.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,2.0,4.0,-14.0,Tim Frazier,,NOP,False,True
+hillso01,10.55,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,0.0,2.0,0.0,-7.0,Solomon Hill,,NOP,False,True
+cunnida01,5.25,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-4.0,Dante Cunningham,,NOP,False,True
+stephla01,44.88333333333333,9.0,15.0,0.6,1.0,3.0,0.333,2.0,2.0,1.0,0.0,3.0,3.0,6.0,1.0,1.0,4.0,4.0,21.0,3.0,Lance Stephenson,,NOP,False,False
+asikom01,35.483333333333334,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,2.0,9.0,11.0,2.0,0.0,0.0,2.0,2.0,0.0,7.0,Ömer Aşık,,NOP,False,False
+gallola01,32.05,6.0,13.0,0.462,4.0,7.0,0.571,2.0,3.0,0.667,0.0,2.0,2.0,2.0,2.0,1.0,0.0,4.0,18.0,17.0,Langston Galloway,,NOP,False,False
+hieldbu01,30.766666666666666,6.0,15.0,0.4,4.0,9.0,0.444,2.0,2.0,1.0,0.0,4.0,4.0,1.0,2.0,1.0,2.0,4.0,18.0,6.0,Buddy Hield,,NOP,False,False
+joneste01,28.316666666666666,3.0,8.0,0.375,1.0,3.0,0.333,0.0,0.0,,2.0,8.0,10.0,2.0,0.0,2.0,4.0,1.0,7.0,4.0,Terrence Jones,,NOP,False,False
+ajincal01,,,,,,,,,,,,,,,,,,,,,Alexis Ajinça,Did Not Play,NOP,False,False
+diallch01,,,,,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,NOP,False,False
+holidjr01,,,,,,,,,,,,,,,,,,,,,Jrue Holiday,Not With Team,NOP,False,False
+gasolma01,38.45,3.0,18.0,0.167,1.0,5.0,0.2,1.0,2.0,0.5,1.0,10.0,11.0,6.0,2.0,3.0,3.0,0.0,8.0,12.0,Marc Gasol,,MEM,True,True
+conlemi01,38.266666666666666,6.0,14.0,0.429,2.0,5.0,0.4,6.0,6.0,1.0,0.0,1.0,1.0,3.0,1.0,0.0,4.0,1.0,20.0,10.0,Mike Conley,,MEM,True,True
+ennisja01,37.61666666666667,5.0,8.0,0.625,2.0,4.0,0.5,4.0,4.0,1.0,2.0,8.0,10.0,0.0,2.0,0.0,2.0,1.0,16.0,25.0,James Ennis,,MEM,True,True
+greenja01,30.7,9.0,12.0,0.75,3.0,5.0,0.6,0.0,0.0,,2.0,4.0,6.0,2.0,1.0,0.0,1.0,4.0,21.0,10.0,JaMychal Green,,MEM,True,True
+allento01,27.666666666666668,1.0,8.0,0.125,0.0,1.0,0.0,2.0,5.0,0.4,2.0,1.0,3.0,1.0,2.0,0.0,2.0,5.0,4.0,-1.0,Tony Allen,,MEM,True,True
+cartevi01,31.85,0.0,5.0,0.0,0.0,4.0,0.0,0.0,0.0,,1.0,2.0,3.0,2.0,2.0,1.0,2.0,4.0,0.0,-1.0,Vince Carter,,MEM,True,False
+baldwwa01,23.6,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,5.0,0.0,0.0,0.0,2.0,4.0,-15.0,Wade Baldwin,,MEM,True,False
+randoza01,19.583333333333332,5.0,18.0,0.278,0.0,2.0,0.0,0.0,1.0,0.0,4.0,7.0,11.0,0.0,0.0,0.0,2.0,3.0,10.0,-12.0,Zach Randolph,,MEM,True,False
+martija01,17.266666666666666,2.0,6.0,0.333,0.0,1.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,1.0,2.0,1.0,1.0,2.0,6.0,2.0,Jarell Martin,,MEM,True,False
+danietr01,,,,,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,MEM,True,False
+davisde01,,,,,,,,,,,,,,,,,,,,,Deyonta Davis,Did Not Play,MEM,True,False
+harrian01,,,,,,,,,,,,,,,,,,,,,Andrew Harrison,Did Not Play,MEM,True,False
+willitr02,,,,,,,,,,,,,,,,,,,,,Troy Williams,Did Not Play,MEM,True,False

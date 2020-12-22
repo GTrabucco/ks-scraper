@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gilgesh01,34.13333333333333,0.331,0.214,0.143,0.429,0.0,20.9,11.7,8.1,1.4,6.0,15.3,27.1,63.0,102.0,-13.3,Shai Gilgeous-Alexander,,OKC,False,True
+paulch01,31.716666666666665,0.619,0.556,0.111,0.278,0.0,12.9,7.2,63.4,3.0,0.0,12.9,34.4,122.0,105.0,6.7,Chris Paul,,OKC,False,True
+dortlu01,30.133333333333333,0.85,0.8,0.8,0.4,0.0,6.8,3.8,4.7,3.2,0.0,0.0,9.2,167.0,105.0,4.4,Luguentz Dort,,OKC,False,True
+bazleda01,30.0,0.966,0.917,0.333,0.667,0.0,20.4,11.4,5.2,1.6,3.4,0.0,12.2,196.0,104.0,8.6,Darius Bazley,,OKC,False,True
+adamsst01,23.116666666666667,0.0,0.0,0.0,0.0,0.0,4.4,2.5,10.6,0.0,17.7,33.3,6.1,37.0,99.0,-6.7,Steven Adams,,OKC,False,True
+schrode01,31.4,0.601,0.526,0.316,0.316,4.1,9.8,7.3,11.4,1.5,0.0,8.5,35.4,112.0,108.0,1.1,Dennis Schröder,,OKC,False,False
+muscami01,24.883333333333333,0.799,0.75,1.0,0.333,0.0,24.6,13.8,11.6,1.9,0.0,0.0,13.0,159.0,104.0,6.7,Mike Muscala,,OKC,False,False
+diallha01,22.216666666666665,0.833,0.833,0.0,0.0,11.7,36.8,25.7,0.0,0.0,4.6,14.3,14.8,144.0,103.0,3.2,Hamidou Diallo,,OKC,False,False
+burtode02,12.383333333333333,0.625,0.625,0.5,0.0,0.0,24.7,13.8,0.0,0.0,8.2,20.0,19.0,89.0,103.0,-2.5,Deonte Burton,,OKC,False,False
+naderab01,,,,,,,,,,,,,,,,,Abdel Nader,Not With Team,OKC,False,False
+herveke01,,,,,,,,,,,,,,,,,Kevin Hervey,Did Not Play,OKC,False,False
+covinro01,35.9,0.53,0.5,0.667,0.111,0.0,18.1,8.0,7.7,2.7,2.4,17.5,13.8,87.0,111.0,-5.0,Robert Covington,,MIN,True,True
+townska01,35.416666666666664,0.698,0.652,0.391,0.348,5.8,22.0,12.9,36.3,2.7,4.8,10.2,36.1,126.0,108.0,19.5,Karl-Anthony Towns,,MIN,True,True
+wiggian01,33.75,0.557,0.556,0.611,0.222,0.0,11.5,5.1,5.0,1.4,0.0,13.2,29.2,88.0,117.0,-5.5,Andrew Wiggins,,MIN,True,True
+napiesh01,32.0,0.833,0.833,0.5,0.0,6.4,32.4,17.9,57.4,3.0,0.0,33.3,12.2,139.0,112.0,7.1,Shabazz Napier,,MIN,True,True
+culveja01,28.45,0.363,0.417,0.667,0.333,0.0,18.2,8.0,13.8,0.0,3.0,12.7,12.0,75.0,116.0,-7.6,Jarrett Culver,,MIN,True,True
+mclaujo01,19.983333333333334,0.333,0.333,0.0,0.0,0.0,6.5,2.9,19.2,2.4,0.0,0.0,6.5,103.0,115.0,-6.5,Jordan McLaughlin,,MIN,True,False
+bateske01,19.483333333333334,0.583,0.556,0.333,0.111,0.0,13.3,5.9,17.8,0.0,0.0,0.0,21.0,117.0,120.0,0.5,Keita Bates-Diop,,MIN,True,False
+okogijo01,18.383333333333333,0.23,0.2,0.3,0.2,11.1,7.1,9.3,7.5,0.0,0.0,0.0,25.6,64.0,121.0,-16.9,Josh Okogie,,MIN,True,False
+reidna01,6.75,0.5,0.5,0.0,0.0,15.1,19.2,16.9,43.2,7.1,0.0,0.0,12.8,141.0,103.0,12.9,Naz Reid,,MIN,True,False
+dienggo01,5.816666666666666,0.0,0.0,1.0,0.0,0.0,44.6,19.6,0.0,0.0,0.0,0.0,22.3,0.0,118.0,-26.0,Gorgui Dieng,,MIN,True,False
+crabbal01,4.05,0.0,0.0,1.0,0.0,0.0,32.0,14.1,0.0,0.0,0.0,50.0,21.4,0.0,119.0,-28.2,Allen Crabbe,,MIN,True,False
+vonleno01,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,MIN,True,False
+belljo01,,,,,,,,,,,,,,,,,Jordan Bell,Did Not Play,MIN,True,False

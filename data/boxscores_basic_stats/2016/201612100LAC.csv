@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hieldbu01,35.8,6.0,13.0,0.462,2.0,5.0,0.4,1.0,1.0,1.0,0.0,3.0,3.0,5.0,0.0,0.0,2.0,0.0,15.0,-29.0,Buddy Hield,,NOP,False,True
+fraziti01,35.45,6.0,13.0,0.462,1.0,2.0,0.5,7.0,8.0,0.875,0.0,1.0,1.0,11.0,0.0,0.0,3.0,5.0,20.0,-24.0,Tim Frazier,,NOP,False,True
+hillso01,30.283333333333335,5.0,8.0,0.625,2.0,2.0,1.0,1.0,1.0,1.0,0.0,3.0,3.0,4.0,0.0,0.0,0.0,2.0,13.0,-11.0,Solomon Hill,,NOP,False,True
+joneste01,25.716666666666665,7.0,9.0,0.778,2.0,3.0,0.667,2.0,4.0,0.5,1.0,4.0,5.0,0.0,0.0,0.0,3.0,4.0,18.0,-13.0,Terrence Jones,,NOP,False,True
+ajincal01,18.533333333333335,3.0,7.0,0.429,0.0,1.0,0.0,0.0,0.0,,2.0,4.0,6.0,0.0,0.0,0.0,3.0,0.0,6.0,-16.0,Alexis Ajinça,,NOP,False,True
+diallch01,30.666666666666668,8.0,15.0,0.533,0.0,0.0,,3.0,6.0,0.5,3.0,7.0,10.0,1.0,2.0,0.0,1.0,3.0,19.0,-17.0,Cheick Diallo,,NOP,False,False
+gallola01,29.8,4.0,13.0,0.308,1.0,5.0,0.2,3.0,5.0,0.6,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,12.0,-12.0,Langston Galloway,,NOP,False,False
+asikom01,17.516666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,0.0,2.0,2.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,-17.0,Ömer Aşık,,NOP,False,False
+willire02,16.25,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,-1.0,Reggie Williams,,NOP,False,False
+mooreet01,,,,,,,,,,,,,,,,,,,,,E'Twaun Moore,Did Not Play,NOP,False,False
+holidjr01,,,,,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Play,NOP,False,False
+davisan02,,,,,,,,,,,,,,,,,,,,,Anthony Davis,Did Not Dress,NOP,False,False
+cunnida01,,,,,,,,,,,,,,,,,,,,,Dante Cunningham,Did Not Play,NOP,False,False
+redicjj01,34.35,6.0,14.0,0.429,2.0,7.0,0.286,2.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,16.0,22.0,J.J. Redick,,LAC,True,True
+paulch01,29.833333333333332,8.0,16.0,0.5,3.0,6.0,0.5,1.0,2.0,0.5,0.0,5.0,5.0,20.0,3.0,0.0,0.0,3.0,20.0,21.0,Chris Paul,,LAC,True,True
+riverau01,28.483333333333334,6.0,9.0,0.667,4.0,6.0,0.667,2.0,2.0,1.0,1.0,1.0,2.0,4.0,1.0,0.0,1.0,1.0,18.0,10.0,Austin Rivers,,LAC,True,True
+jordade01,23.116666666666667,9.0,11.0,0.818,0.0,0.0,,1.0,1.0,1.0,5.0,4.0,9.0,0.0,1.0,0.0,2.0,4.0,19.0,16.0,DeAndre Jordan,,LAC,True,True
+mbahalu01,18.483333333333334,1.0,5.0,0.2,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,4.0,4.0,Luc Mbah a Moute,,LAC,True,True
+crawfja01,26.083333333333332,10.0,13.0,0.769,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,22.0,18.0,Jamal Crawford,,LAC,True,False
+speigma01,24.683333333333334,7.0,12.0,0.583,3.0,6.0,0.5,0.0,0.0,,2.0,10.0,12.0,4.0,0.0,0.0,1.0,4.0,17.0,12.0,Marreese Speights,,LAC,True,False
+johnswe01,21.633333333333333,4.0,6.0,0.667,2.0,4.0,0.5,0.0,0.0,,0.0,6.0,6.0,0.0,1.0,0.0,0.0,4.0,10.0,13.0,Wesley Johnson,,LAC,True,False
+anderal01,18.616666666666667,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,7.0,10.0,Alan Anderson,,LAC,True,False
+bassbr01,11.2,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,2.0,0.0,1.0,1.0,3.0,0.0,11.0,Brandon Bass,,LAC,True,False
+piercpa01,3.5166666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,Paul Pierce,,LAC,True,False
+griffbl01,,,,,,,,,,,,,,,,,,,,,Blake Griffin,Did Not Dress,LAC,True,False
+feltora01,,,,,,,,,,,,,,,,,,,,,Raymond Felton,Not With Team,LAC,True,False

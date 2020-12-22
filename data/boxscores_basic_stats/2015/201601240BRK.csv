@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,40.96666666666667,11.0,22.0,0.5,2.0,10.0,0.2,8.0,10.0,0.8,0.0,10.0,10.0,7.0,2.0,1.0,5.0,3.0,32.0,-9.0,Kevin Durant,,OKC,False,True
+westbru01,39.68333333333333,12.0,27.0,0.444,1.0,4.0,0.25,2.0,5.0,0.4,2.0,9.0,11.0,7.0,1.0,0.0,3.0,1.0,27.0,-15.0,Russell Westbrook,,OKC,False,True
+ibakase01,31.233333333333334,5.0,10.0,0.5,0.0,2.0,0.0,0.0,0.0,,4.0,5.0,9.0,1.0,1.0,1.0,2.0,1.0,10.0,-7.0,Serge Ibaka,,OKC,False,True
+roberan03,15.433333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,-7.0,Andre Roberson,,OKC,False,True
+collini01,11.516666666666667,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,0.5,3.0,1.0,4.0,1.0,0.0,1.0,0.0,4.0,3.0,-6.0,Nick Collison,,OKC,False,True
+waitedi01,32.75,3.0,10.0,0.3,2.0,5.0,0.4,1.0,2.0,0.5,0.0,0.0,0.0,1.0,2.0,0.0,1.0,2.0,9.0,-1.0,Dion Waiters,,OKC,False,False
+kanteen01,30.45,4.0,12.0,0.333,0.0,0.0,,0.0,0.0,,3.0,6.0,9.0,0.0,0.0,0.0,2.0,4.0,8.0,0.0,Enes Kanter,,OKC,False,False
+singlky01,20.5,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,2.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,7.0,-10.0,Kyle Singler,,OKC,False,False
+payneca01,12.716666666666667,4.0,5.0,0.8,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,10.0,3.0,Cameron Payne,,OKC,False,False
+morroan01,4.75,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Anthony Morrow,,OKC,False,False
+adamsst01,,,,,,,,,,,,,,,,,,,,,Steven Adams,Did Not Dress,OKC,False,False
+augusdj01,,,,,,,,,,,,,,,,,,,,,D.J. Augustin,Did Not Play,OKC,False,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,OKC,False,False
+youngth01,39.016666666666666,7.0,17.0,0.412,0.0,0.0,,0.0,0.0,,7.0,7.0,14.0,3.0,1.0,1.0,1.0,0.0,14.0,6.0,Thaddeus Young,,BRK,True,True
+johnsjo02,35.266666666666666,5.0,14.0,0.357,1.0,3.0,0.333,2.0,2.0,1.0,0.0,0.0,0.0,6.0,2.0,0.0,2.0,4.0,13.0,6.0,Joe Johnson,,BRK,True,True
+lopezbr01,32.45,11.0,19.0,0.579,0.0,0.0,,9.0,10.0,0.9,5.0,5.0,10.0,2.0,0.0,3.0,1.0,4.0,31.0,18.0,Brook Lopez,,BRK,True,True
+sloando01,27.466666666666665,2.0,6.0,0.333,2.0,2.0,1.0,5.0,10.0,0.5,1.0,5.0,6.0,2.0,2.0,0.0,1.0,2.0,11.0,7.0,Donald Sloan,,BRK,True,True
+ellinwa01,27.316666666666666,4.0,11.0,0.364,1.0,5.0,0.2,0.0,0.0,,1.0,5.0,6.0,4.0,1.0,0.0,0.0,2.0,9.0,13.0,Wayne Ellington,,BRK,True,True
+bogdabo02,28.75,7.0,12.0,0.583,4.0,6.0,0.667,0.0,0.0,,2.0,1.0,3.0,3.0,0.0,0.0,2.0,1.0,18.0,1.0,Bojan Bogdanović,,BRK,True,False
+larkish01,20.9,4.0,7.0,0.571,0.0,1.0,0.0,1.0,1.0,1.0,0.0,3.0,3.0,4.0,4.0,2.0,0.0,0.0,9.0,3.0,Shane Larkin,,BRK,True,False
+reedwi02,15.2,2.0,4.0,0.5,0.0,0.0,,1.0,2.0,0.5,2.0,4.0,6.0,0.0,0.0,1.0,1.0,2.0,5.0,-8.0,Willie Reed,,BRK,True,False
+bargnan01,7.95,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,Andrea Bargnani,,BRK,True,False
+karasse01,5.683333333333334,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,Sergey Karasev,,BRK,True,False
+brownma02,,,,,,,,,,,,,,,,,,,,,Markel Brown,Did Not Play,BRK,True,False
+robinth01,,,,,,,,,,,,,,,,,,,,,Thomas Robinson,Did Not Play,BRK,True,False

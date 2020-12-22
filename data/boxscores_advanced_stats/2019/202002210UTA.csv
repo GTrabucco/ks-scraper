@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+derozde01,35.516666666666666,0.503,0.471,0.0,0.118,0.0,14.4,7.1,32.4,0.0,2.8,14.4,26.0,98.0,108.0,-2.8,DeMar DeRozan,,SAS,False,True
+aldrila01,34.7,0.409,0.382,0.176,0.176,8.6,14.7,11.6,17.5,1.4,2.8,0.0,23.4,101.0,105.0,-2.5,LaMarcus Aldridge,,SAS,False,True
+murrade01,34.43333333333333,0.681,0.656,0.063,0.125,2.9,17.8,10.3,21.4,5.5,0.0,5.6,23.0,133.0,98.0,11.0,Dejounte Murray,,SAS,False,True
+lylestr01,29.15,0.583,0.583,0.333,0.0,0.0,21.0,10.4,4.7,1.6,0.0,14.3,10.6,98.0,106.0,-4.0,Trey Lyles,,SAS,False,True
+forbebr01,25.433333333333334,0.825,0.857,0.857,0.286,0.0,20.1,9.9,5.8,3.7,0.0,0.0,13.7,155.0,101.0,8.8,Bryn Forbes,,SAS,False,True
+millspa02,20.3,0.533,0.364,0.545,0.636,0.0,5.0,2.5,0.0,0.0,0.0,6.6,32.9,103.0,112.0,-9.4,Patty Mills,,SAS,False,False
+whitede01,19.583333333333332,0.735,0.583,0.333,1.333,5.1,10.4,7.7,15.0,4.8,5.0,0.0,21.5,160.0,96.0,14.9,Derrick White,,SAS,False,False
+gayru01,15.1,0.333,0.333,0.0,0.0,6.6,20.3,13.4,9.4,0.0,0.0,0.0,17.6,85.0,110.0,-8.8,Rudy Gay,,SAS,False,False
+poeltja01,13.283333333333333,0.0,0.0,0.0,0.0,7.5,46.1,26.6,18.1,7.1,29.5,0.0,6.7,76.0,66.0,14.5,Jakob Poeltl,,SAS,False,False
+walkelo01,12.483333333333333,0.515,0.333,0.0,0.667,0.0,16.4,8.1,0.0,0.0,0.0,0.0,13.8,109.0,110.0,-7.6,Lonnie Walker,,SAS,False,False
+metuch01,,,,,,,,,,,,,,,,,Chimezie Metu,Did Not Play,SAS,False,False
+johnske04,,,,,,,,,,,,,,,,,Keldon Johnson,Did Not Play,SAS,False,False
+belinma01,,,,,,,,,,,,,,,,,Marco Belinelli,Did Not Play,SAS,False,False
+goberru01,37.983333333333334,0.812,0.875,0.0,0.875,2.7,34.2,18.6,9.7,0.0,1.8,31.1,18.4,105.0,111.0,-0.3,Rudy Gobert,,UTA,True,True
+bogdabo02,32.55,0.466,0.308,0.308,0.538,6.3,12.3,9.3,4.8,1.5,0.0,15.7,25.5,88.0,114.0,-5.2,Bojan Bogdanović,,UTA,True,True
+mitchdo01,32.06666666666667,0.429,0.429,0.429,0.0,0.0,3.1,1.6,21.8,0.0,0.0,6.7,20.3,87.0,119.0,-6.0,Donovan Mitchell,,UTA,True,True
+inglejo01,30.0,0.368,0.35,0.4,0.2,0.0,10.0,5.1,37.1,0.0,0.0,15.5,18.7,84.0,117.0,-7.7,Joe Ingles,,UTA,True,True
+onealro01,25.05,0.507,0.438,0.625,0.25,4.1,27.9,16.1,19.7,1.9,5.4,0.0,15.4,117.0,103.0,7.8,Royce O'Neale,,UTA,True,True
+clarkjo01,34.55,0.563,0.5,0.583,0.25,0.0,5.8,2.9,14.9,1.4,2.0,18.4,20.5,94.0,113.0,-1.6,Jordan Clarkson,,UTA,True,False
+mudiaem01,17.733333333333334,0.738,0.65,0.3,0.5,5.8,22.6,14.2,43.3,2.7,3.8,7.6,32.4,140.0,104.0,19.8,Emmanuel Mudiay,,UTA,True,False
+niangge01,15.45,0.9,0.9,0.8,0.0,0.0,32.4,16.4,24.2,0.0,0.0,16.7,16.9,133.0,113.0,11.4,Georges Niang,,UTA,True,False
+bradlto01,10.016666666666667,0.0,0.0,0.0,0.0,10.2,10.0,10.1,0.0,0.0,6.7,33.3,13.0,26.0,110.0,-17.7,Tony Bradley,,UTA,True,False
+wrighju02,1.5333333333333332,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,119.0,-7.4,Justin Wright-Foreman,,UTA,True,False
+tuckera01,1.5333333333333332,,,,,0.0,65.2,33.0,0.0,0.0,0.0,,0.0,0.0,107.0,-1.7,Rayjon Tucker,,UTA,True,False
+morgaju01,1.5333333333333332,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,119.0,-6.3,Juwan Morgan,,UTA,True,False
+davised01,,,,,,,,,,,,,,,,,Ed Davis,Did Not Play,UTA,True,False

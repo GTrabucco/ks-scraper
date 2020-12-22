@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+boshch01,34.53333333333333,5.0,11.0,0.455,2.0,5.0,0.4,8.0,9.0,0.889,1.0,5.0,6.0,5.0,1.0,1.0,2.0,2.0,20.0,2.0,Chris Bosh,,MIA,False,True
+denglu01,32.7,5.0,11.0,0.455,2.0,4.0,0.5,4.0,4.0,1.0,2.0,5.0,7.0,0.0,1.0,1.0,1.0,5.0,16.0,1.0,Luol Deng,,MIA,False,True
+wadedw01,32.233333333333334,7.0,13.0,0.538,0.0,0.0,,10.0,13.0,0.769,1.0,3.0,4.0,7.0,3.0,3.0,4.0,2.0,24.0,1.0,Dwyane Wade,,MIA,False,True
+dragigo01,31.616666666666667,5.0,8.0,0.625,1.0,2.0,0.5,1.0,2.0,0.5,0.0,1.0,1.0,8.0,1.0,0.0,4.0,4.0,12.0,0.0,Goran Dragić,,MIA,False,True
+stoudam01,23.55,6.0,9.0,0.667,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,0.0,0.0,2.0,0.0,3.0,12.0,-2.0,Amar'e Stoudemire,,MIA,False,True
+winslju01,32.61666666666667,2.0,5.0,0.4,0.0,1.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,2.0,0.0,0.0,1.0,3.0,6.0,5.0,Justise Winslow,,MIA,False,False
+greenge01,20.233333333333334,4.0,10.0,0.4,1.0,4.0,0.25,1.0,2.0,0.5,1.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,10.0,1.0,Gerald Green,,MIA,False,False
+udrihbe01,16.383333333333333,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,2.0,2.0,0.0,3.0,0.0,5.0,4.0,Beno Udrih,,MIA,False,False
+mcrobjo01,16.133333333333333,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,8.0,Josh McRoberts,,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+richajo01,,,,,,,,,,,,,,,,,,,,,Josh Richardson,Did Not Play,MIA,False,False
+stokeja01,,,,,,,,,,,,,,,,,,,,,Jarnell Stokes,Did Not Play,MIA,False,False
+antetgi01,46.21666666666667,11.0,17.0,0.647,0.0,2.0,0.0,6.0,7.0,0.857,0.0,4.0,4.0,6.0,3.0,2.0,6.0,4.0,28.0,6.0,Giannis Antetokounmpo,,MIL,True,True
+parkeja01,39.483333333333334,7.0,13.0,0.538,0.0,0.0,,3.0,3.0,1.0,3.0,2.0,5.0,1.0,1.0,1.0,4.0,2.0,17.0,-8.0,Jabari Parker,,MIL,True,True
+middlkh01,38.983333333333334,2.0,13.0,0.154,0.0,3.0,0.0,5.0,5.0,1.0,2.0,5.0,7.0,0.0,2.0,0.0,4.0,2.0,9.0,8.0,Khris Middleton,,MIL,True,True
+monrogr01,34.11666666666667,7.0,14.0,0.5,0.0,0.0,,10.0,11.0,0.909,3.0,2.0,5.0,1.0,0.0,1.0,0.0,2.0,24.0,1.0,Greg Monroe,,MIL,True,True
+cartemi01,26.283333333333335,4.0,9.0,0.444,0.0,1.0,0.0,1.0,2.0,0.5,1.0,7.0,8.0,6.0,2.0,0.0,2.0,5.0,9.0,-2.0,Michael Carter-Williams,,MIL,True,True
+bayleje01,23.966666666666665,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,1.0,1.0,3.0,1.0,0.0,0.0,2.0,0.0,-13.0,Jerryd Bayless,,MIL,True,False
+plumlmi01,13.883333333333333,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,4.0,3.0,7.0,0.0,1.0,1.0,0.0,0.0,8.0,-5.0,Miles Plumlee,,MIL,True,False
+vaughra01,11.35,3.0,4.0,0.75,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,8.0,-7.0,Rashad Vaughn,,MIL,True,False
+ennisty01,5.716666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,Tyler Ennis,,MIL,True,False
+copelch01,,,,,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,MIL,True,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Did Not Dress,MIL,True,False
+mayooj01,,,,,,,,,,,,,,,,,,,,,O.J. Mayo,Did Not Dress,MIL,True,False
+obryajo01,,,,,,,,,,,,,,,,,,,,,Johnny O'Bryant,Did Not Play,MIL,True,False

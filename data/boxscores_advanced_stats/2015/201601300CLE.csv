@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,team_id,is_home,is_starter,note
+leonaka01,35.233333333333334,0.648,0.567,0.467,0.533,3.3,20.0,10.9,8.9,0.0,0.0,9.7,29.0,123.0,134.0,4.4,Kawhi Leonard,SAS,False,True,
+aldrila01,26.033333333333335,0.631,0.636,0.0,0.182,4.5,5.4,4.9,0.0,0.0,0.0,0.0,22.8,128.0,137.0,-1.3,LaMarcus Aldridge,SAS,False,True,
+parketo01,24.283333333333335,0.553,0.5,0.0,0.4,0.0,23.3,10.5,39.4,0.0,0.0,20.3,30.3,103.0,134.0,-1.5,Tony Parker,SAS,False,True,
+westda01,23.783333333333335,0.667,0.667,0.0,0.0,4.9,11.9,8.1,6.3,0.0,0.0,0.0,12.6,142.0,136.0,-0.4,David West,SAS,False,True,
+greenda02,23.35,0.625,0.625,0.75,0.0,10.0,6.0,8.2,5.7,0.0,0.0,0.0,8.5,147.0,137.0,0.9,Danny Green,SAS,False,True,
+millspa02,20.9,0.333,0.333,0.5,0.0,0.0,0.0,0.0,13.0,0.0,0.0,14.3,16.7,71.0,139.0,-13.3,Patty Mills,SAS,False,False,
+simmojo02,18.333333333333332,0.8,0.8,0.0,0.0,0.0,15.4,7.0,17.7,0.0,4.4,0.0,13.6,165.0,132.0,6.9,Jonathon Simmons,SAS,False,False,
+anderky01,18.25,0.563,0.5,0.125,0.25,6.4,15.5,10.5,26.8,3.0,4.5,0.0,24.3,131.0,125.0,13.5,Kyle Anderson,SAS,False,False,
+ginobma01,17.85,0.3,0.3,0.4,0.0,0.0,15.8,7.2,7.8,3.1,0.0,0.0,27.9,69.0,128.0,-10.1,Manu Ginóbili,SAS,False,False,
+diawbo01,16.35,0.643,0.6,0.0,0.2,7.2,25.9,15.7,9.4,0.0,0.0,0.0,16.6,142.0,133.0,4.0,Boris Diaw,SAS,False,False,
+marjabo01,10.0,0.543,0.0,0.0,4.0,11.7,28.2,19.2,12.0,0.0,0.0,0.0,13.8,143.0,132.0,1.4,Boban Marjanović,SAS,False,False,
+butlera01,2.8166666666666664,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,139.0,-5.6,Rasual Butler,SAS,False,False,
+bonnema01,2.8166666666666664,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,139.0,-6.3,Matt Bonner,SAS,False,False,
+irvinky01,36.483333333333334,0.56,0.529,0.118,0.235,3.9,0.0,1.8,23.8,3.0,0.0,5.1,25.9,127.0,118.0,3.7,Kyrie Irving,CLE,True,True,
+thomptr01,34.7,0.868,0.75,0.0,1.0,8.1,16.9,12.9,3.4,0.0,2.2,14.8,9.3,162.0,119.0,3.6,Tristan Thompson,CLE,True,True,
+jamesle01,34.15,0.664,0.588,0.118,0.647,4.1,13.7,9.4,31.8,3.2,4.5,8.4,33.4,140.0,110.0,16.7,LeBron James,CLE,True,True,
+loveke01,31.35,0.756,0.731,0.462,0.154,13.5,29.9,22.5,14.0,0.0,2.4,6.7,22.7,155.0,116.0,13.3,Kevin Love,CLE,True,True,
+smithjr01,25.75,0.556,0.556,0.444,0.0,5.5,9.1,7.5,5.0,0.0,0.0,10.0,18.6,113.0,123.0,-4.3,J.R. Smith,CLE,True,True,
+shumpim01,27.683333333333334,0.333,0.333,0.667,0.0,0.0,21.1,11.6,8.0,0.0,0.0,0.0,5.2,106.0,120.0,-3.1,Iman Shumpert,CLE,True,False,
+dellama01,24.433333333333334,0.75,0.75,0.5,0.0,5.8,19.2,13.1,17.7,0.0,0.0,16.7,23.5,132.0,121.0,4.7,Matthew Dellavedova,CLE,True,False,
+jefferi01,12.65,0.75,0.75,0.5,0.0,0.0,27.8,15.2,9.2,0.0,0.0,0.0,7.6,167.0,119.0,2.2,Richard Jefferson,CLE,True,False,
+mozgoti01,10.6,0.5,0.5,0.0,0.0,13.3,22.1,18.1,0.0,0.0,0.0,14.3,31.6,95.0,120.0,-17.1,Timofey Mozgov,CLE,True,False,
+cunnija01,2.2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.8,0.0,125.0,-28.6,Jared Cunningham,CLE,True,False,
+jonesja02,,,,,,,,,,,,,,,,,James Jones,CLE,True,False,Did Not Play
+varejan01,,,,,,,,,,,,,,,,,Anderson Varejão,CLE,True,False,Did Not Play
+willima01,,,,,,,,,,,,,,,,,Mo Williams,CLE,True,False,Did Not Play

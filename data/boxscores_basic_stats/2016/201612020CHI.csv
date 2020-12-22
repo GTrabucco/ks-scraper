@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jamesle01,44.666666666666664,13.0,22.0,0.591,1.0,3.0,0.333,0.0,0.0,,0.0,5.0,5.0,13.0,0.0,0.0,8.0,2.0,27.0,-2.0,LeBron James,,CLE,False,True
+loveke01,41.8,5.0,14.0,0.357,3.0,7.0,0.429,2.0,3.0,0.667,0.0,9.0,9.0,3.0,1.0,1.0,3.0,3.0,15.0,-9.0,Kevin Love,,CLE,False,True
+irvinky01,38.03333333333333,9.0,21.0,0.429,0.0,3.0,0.0,2.0,3.0,0.667,4.0,2.0,6.0,8.0,1.0,0.0,2.0,1.0,20.0,-5.0,Kyrie Irving,,CLE,False,True
+smithjr01,32.86666666666667,3.0,8.0,0.375,3.0,8.0,0.375,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,1.0,3.0,9.0,-11.0,J.R. Smith,,CLE,False,True
+thomptr01,26.9,5.0,5.0,1.0,0.0,0.0,,1.0,4.0,0.25,2.0,4.0,6.0,1.0,0.0,0.0,2.0,2.0,11.0,-11.0,Tristan Thompson,,CLE,False,True
+fryech01,21.1,5.0,6.0,0.833,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,0.0,2.0,11.0,5.0,Channing Frye,,CLE,False,False
+shumpim01,19.366666666666667,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,3.0,1.0,0.0,2.0,2.0,9.0,3.0,Iman Shumpert,,CLE,False,False
+jefferi01,15.266666666666667,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Richard Jefferson,,CLE,False,False
+anderch01,,,,,,,,,,,,,,,,,,,,,Chris Andersen,Did Not Play,CLE,False,False
+feldeka01,,,,,,,,,,,,,,,,,,,,,Kay Felder,Did Not Play,CLE,False,False
+jonesja02,,,,,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,False,False
+liggide01,,,,,,,,,,,,,,,,,,,,,DeAndre Liggins,Did Not Play,CLE,False,False
+mcraejo01,,,,,,,,,,,,,,,,,,,,,Jordan McRae,Did Not Play,CLE,False,False
+butleji01,41.88333333333333,8.0,20.0,0.4,0.0,3.0,0.0,10.0,12.0,0.833,3.0,5.0,8.0,6.0,3.0,2.0,1.0,1.0,26.0,9.0,Jimmy Butler,,CHI,True,True
+gibsota01,39.983333333333334,10.0,13.0,0.769,0.0,0.0,,3.0,3.0,1.0,2.0,9.0,11.0,5.0,1.0,0.0,1.0,3.0,23.0,6.0,Taj Gibson,,CHI,True,True
+wadedw01,36.583333333333336,11.0,23.0,0.478,1.0,4.0,0.25,1.0,2.0,0.5,3.0,2.0,5.0,4.0,2.0,0.0,4.0,2.0,24.0,0.0,Dwyane Wade,,CHI,True,True
+rondora01,36.166666666666664,7.0,12.0,0.583,1.0,1.0,1.0,0.0,0.0,,2.0,8.0,10.0,12.0,3.0,1.0,3.0,4.0,15.0,8.0,Rajon Rondo,,CHI,True,True
+lopezro01,26.216666666666665,5.0,10.0,0.5,0.0,0.0,,0.0,0.0,,4.0,1.0,5.0,0.0,0.0,0.0,1.0,2.0,10.0,9.0,Robin Lopez,,CHI,True,True
+canaais01,27.8,4.0,8.0,0.5,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,-1.0,Isaiah Canaan,,CHI,True,False
+mirotni01,21.616666666666667,1.0,9.0,0.111,0.0,5.0,0.0,0.0,0.0,,2.0,7.0,9.0,2.0,2.0,1.0,2.0,1.0,2.0,-2.0,Nikola Mirotić,,CHI,True,False
+grantje02,6.05,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,-2.0,Jerian Grant,,CHI,True,False
+valende01,3.716666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,Denzel Valentine,,CHI,True,False
+feliccr01,,,,,,,,,,,,,,,,,,,,,Cristiano Felício,Did Not Play,CHI,True,False
+hunterj01,,,,,,,,,,,,,,,,,,,,,R.J. Hunter,Did Not Play,CHI,True,False
+portibo01,,,,,,,,,,,,,,,,,,,,,Bobby Portis,Did Not Play,CHI,True,False
+zipsepa01,,,,,,,,,,,,,,,,,,,,,Paul Zipser,Did Not Play,CHI,True,False

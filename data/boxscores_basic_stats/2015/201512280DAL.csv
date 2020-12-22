@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+middlkh01,35.56666666666667,6.0,13.0,0.462,0.0,3.0,0.0,3.0,3.0,1.0,0.0,6.0,6.0,1.0,0.0,0.0,5.0,5.0,15.0,-18.0,Khris Middleton,,MIL,False,True
+monrogr01,32.86666666666667,3.0,10.0,0.3,0.0,0.0,,2.0,2.0,1.0,3.0,8.0,11.0,2.0,0.0,2.0,1.0,2.0,8.0,-18.0,Greg Monroe,,MIL,False,True
+antetgi01,28.133333333333333,4.0,10.0,0.4,0.0,1.0,0.0,3.0,4.0,0.75,1.0,8.0,9.0,1.0,1.0,1.0,2.0,5.0,11.0,-22.0,Giannis Antetokounmpo,,MIL,False,True
+cartemi01,21.216666666666665,4.0,8.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,5.0,5.0,0.0,0.0,0.0,2.0,1.0,8.0,-18.0,Michael Carter-Williams,,MIL,False,True
+parkeja01,18.35,2.0,7.0,0.286,0.0,0.0,,2.0,2.0,1.0,2.0,2.0,4.0,0.0,0.0,0.0,1.0,1.0,6.0,-13.0,Jabari Parker,,MIL,False,True
+mayooj01,31.366666666666667,5.0,8.0,0.625,3.0,5.0,0.6,0.0,0.0,,0.0,4.0,4.0,0.0,1.0,0.0,1.0,2.0,13.0,3.0,O.J. Mayo,,MIL,False,False
+bayleje01,26.783333333333335,8.0,12.0,0.667,1.0,4.0,0.25,2.0,2.0,1.0,0.0,2.0,2.0,7.0,1.0,0.0,5.0,4.0,19.0,8.0,Jerryd Bayless,,MIL,False,False
+obryajo01,15.95,3.0,6.0,0.5,0.0,0.0,,1.0,2.0,0.5,2.0,1.0,3.0,1.0,0.0,0.0,0.0,2.0,7.0,12.0,Johnny O'Bryant,,MIL,False,False
+plumlmi01,15.133333333333333,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,1.0,1.0,2.0,0.0,0.0,6.0,8.0,Miles Plumlee,,MIL,False,False
+vaughra01,14.633333333333333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,Rashad Vaughn,,MIL,False,False
+copelch01,,,,,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,MIL,False,False
+ennisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,MIL,False,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Did Not Play,MIL,False,False
+parsoch01,36.85,6.0,12.0,0.5,1.0,2.0,0.5,0.0,2.0,0.0,0.0,4.0,4.0,4.0,2.0,1.0,2.0,4.0,13.0,6.0,Chandler Parsons,,DAL,True,True
+pachuza01,35.766666666666666,6.0,12.0,0.5,0.0,0.0,,5.0,8.0,0.625,2.0,6.0,8.0,2.0,2.0,0.0,0.0,2.0,17.0,17.0,Zaza Pachulia,,DAL,True,True
+matthwe02,32.416666666666664,6.0,10.0,0.6,5.0,7.0,0.714,5.0,6.0,0.833,0.0,4.0,4.0,2.0,0.0,0.0,1.0,2.0,22.0,22.0,Wesley Matthews,,DAL,True,True
+nowitdi01,28.566666666666666,3.0,15.0,0.2,1.0,7.0,0.143,0.0,0.0,,0.0,4.0,4.0,4.0,1.0,1.0,1.0,0.0,7.0,6.0,Dirk Nowitzki,,DAL,True,True
+bareajo01,24.783333333333335,3.0,8.0,0.375,1.0,4.0,0.25,1.0,2.0,0.5,0.0,1.0,1.0,5.0,0.0,0.0,0.0,2.0,8.0,0.0,J.J. Barea,,DAL,True,True
+feltora01,28.633333333333333,5.0,6.0,0.833,1.0,1.0,1.0,3.0,4.0,0.75,0.0,2.0,2.0,4.0,1.0,0.0,0.0,2.0,14.0,2.0,Raymond Felton,,DAL,True,False
+harride01,21.683333333333334,1.0,5.0,0.2,0.0,0.0,,1.0,2.0,0.5,0.0,2.0,2.0,3.0,2.0,0.0,0.0,1.0,3.0,6.0,Devin Harris,,DAL,True,False
+poweldw01,15.5,3.0,7.0,0.429,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,8.0,-3.0,Dwight Powell,,DAL,True,False
+mcgeeja01,8.9,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,-6.0,JaVale McGee,,DAL,True,False
+villach01,6.9,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,Charlie Villanueva,,DAL,True,False
+anderju01,,,,,,,,,,,,,,,,,,,,,Justin Anderson,Did Not Play,DAL,True,False
+evansje01,,,,,,,,,,,,,,,,,,,,,Jeremy Evans,Did Not Play,DAL,True,False
+jenkijo01,,,,,,,,,,,,,,,,,,,,,John Jenkins,Did Not Play,DAL,True,False

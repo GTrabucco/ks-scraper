@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+leeco01,40.916666666666664,0.512,0.375,0.188,0.5,0.0,8.0,4.0,7.1,1.2,0.0,4.9,22.4,111.0,114.0,-6.5,Courtney Lee,,NYK,False,True
+porzikr01,30.116666666666667,0.543,0.5,0.0,0.167,7.4,18.1,12.8,5.2,0.0,3.0,7.2,20.6,113.0,111.0,-4.8,Kristaps Porziņģis,,NYK,False,True
+thomala01,27.283333333333335,0.576,0.5,0.385,0.308,4.1,12.0,8.1,5.6,3.7,0.0,6.3,25.8,118.0,107.0,2.0,Lance Thomas,,NYK,False,True
+rosede01,27.233333333333334,0.479,0.222,0.0,0.889,0.0,20.0,10.1,29.0,0.0,0.0,13.8,23.8,107.0,113.0,-3.7,Derrick Rose,,NYK,False,True
+bakerro01,17.4,0.0,0.0,0.5,0.0,0.0,0.0,0.0,20.7,0.0,0.0,33.3,7.7,49.0,119.0,-10.5,Ron Baker,,NYK,False,True
+randlch01,25.916666666666668,0.421,0.286,0.143,0.429,4.3,16.8,10.6,25.5,0.0,0.0,0.0,14.4,121.0,114.0,-2.9,Chasson Randle,,NYK,False,False
+holidju01,24.75,0.833,0.833,0.5,0.0,0.0,17.6,8.9,18.0,4.1,0.0,0.0,10.8,171.0,105.0,9.3,Justin Holiday,,NYK,False,False
+hernawi01,17.816666666666666,0.7,0.7,0.0,0.0,25.1,24.5,24.8,38.2,0.0,0.0,16.7,30.1,128.0,111.0,6.0,Willy Hernangómez,,NYK,False,False
+kuzmimi01,16.233333333333334,0.735,0.7,0.2,0.2,0.0,6.7,3.4,9.5,3.1,0.0,0.0,15.0,153.0,110.0,4.6,Mindaugas Kuzminskas,,NYK,False,False
+oquinky01,12.333333333333334,0.799,0.833,0.0,0.333,36.2,35.4,35.8,18.9,0.0,0.0,12.7,28.6,147.0,108.0,10.7,Kyle O'Quinn,,NYK,False,False
+plumlma02,,,,,,,,,,,,,,,,,Marshall Plumlee,Did Not Play,NYK,False,False
+vujacsa01,,,,,,,,,,,,,,,,,Sasha Vujačić,Did Not Play,NYK,False,False
+biyombi01,41.733333333333334,0.525,0.5,0.0,1.333,13.1,24.1,18.5,0.0,0.0,1.6,9.5,11.1,117.0,119.0,-6.0,Bismack Biyombo,,ORL,True,True
+rosste01,35.083333333333336,0.25,0.25,0.6,0.0,0.0,12.7,6.3,3.7,1.5,1.9,23.1,16.4,45.0,120.0,-14.8,Terrence Ross,,ORL,True,True
+paytoel01,34.666666666666664,0.576,0.538,0.077,0.154,9.4,25.8,17.5,45.7,1.5,0.0,12.6,20.3,129.0,117.0,4.2,Elfrid Payton,,ORL,True,True
+fournev01,33.56666666666667,0.666,0.647,0.529,0.235,0.0,6.7,3.3,15.8,0.0,0.0,9.6,27.3,123.0,126.0,2.6,Evan Fournier,,ORL,True,True
+gordoaa01,29.9,0.551,0.567,0.4,0.067,3.6,14.9,9.2,23.6,0.0,2.2,6.1,24.3,115.0,122.0,0.5,Aaron Gordon,,ORL,True,True
+greenje02,20.183333333333334,0.638,0.55,0.4,0.4,0.0,5.5,2.7,0.0,0.0,3.3,14.5,30.1,109.0,124.0,-3.8,Jeff Green,,ORL,True,False
+hezonma01,15.383333333333333,0.546,0.5,0.167,0.5,0.0,21.8,10.8,0.0,3.3,4.3,12.0,23.9,97.0,110.0,0.1,Mario Hezonja,,ORL,True,False
+augusdj01,13.333333333333334,0.41,0.375,0.75,0.5,8.2,0.0,4.1,29.7,0.0,0.0,17.0,19.5,99.0,128.0,-8.8,D.J. Augustin,,ORL,True,False
+watsocj01,11.966666666666667,0.833,0.833,0.333,0.0,9.1,0.0,4.6,12.5,4.3,0.0,0.0,11.1,175.0,119.0,9.1,C.J. Watson,,ORL,True,False
+rudezda01,4.183333333333334,0.0,0.0,1.0,0.0,0.0,0.0,0.0,28.7,0.0,0.0,0.0,10.6,56.0,128.0,-10.2,Damjan Rudež,,ORL,True,False
+vucevni01,,,,,,,,,,,,,,,,,Nikola Vučević,Did Not Dress,ORL,True,False
+wilcocj01,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,ORL,True,False
+zimmest01,,,,,,,,,,,,,,,,,Stephen Zimmerman,Did Not Play,ORL,True,False

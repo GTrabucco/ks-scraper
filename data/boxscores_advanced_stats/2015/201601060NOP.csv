@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+feltora01,36.53333333333333,0.644,0.536,0.429,0.5,0.0,4.7,2.6,27.1,1.4,0.0,0.0,21.0,145.0,104.0,8.4,Raymond Felton,,DAL,False,True
+parsoch01,31.2,0.606,0.563,0.313,0.188,3.3,19.2,11.9,39.9,0.0,0.0,10.4,27.9,120.0,100.0,7.1,Chandler Parsons,,DAL,False,True
+bareajo01,28.983333333333334,0.463,0.455,0.545,0.182,3.5,8.9,6.4,5.5,0.0,0.0,25.2,24.7,73.0,105.0,-11.4,J.J. Barea,,DAL,False,True
+villach01,21.45,0.1,0.1,0.5,0.0,4.8,20.0,13.0,0.0,0.0,0.0,0.0,21.0,31.0,99.0,-20.2,Charlie Villanueva,,DAL,False,True
+mcgeeja01,19.4,0.5,0.5,0.0,0.0,21.1,8.8,14.4,0.0,0.0,16.0,11.1,20.9,106.0,95.0,1.9,JaVale McGee,,DAL,False,True
+poweldw01,29.833333333333332,0.558,0.444,0.0,0.667,10.3,20.1,15.6,10.5,3.4,5.2,7.9,19.1,121.0,88.0,6.3,Dwight Powell,,DAL,False,False
+harride01,25.983333333333334,0.563,0.563,0.375,0.25,0.0,19.8,10.8,25.0,4.0,0.0,10.1,17.1,113.0,91.0,4.6,Devin Harris,,DAL,False,False
+evansje01,25.316666666666666,0.581,0.5,0.167,0.333,4.0,13.5,9.2,6.1,2.0,0.0,12.7,14.0,112.0,98.0,-0.2,Jeremy Evans,,DAL,False,False
+anderju01,17.333333333333332,0.625,0.625,0.5,0.0,0.0,19.8,10.8,17.6,3.0,0.0,0.0,10.4,137.0,93.0,8.7,Justin Anderson,,DAL,False,False
+jenkijo01,3.966666666666667,0.0,0.0,0.0,0.0,0.0,21.6,11.7,0.0,0.0,0.0,0.0,11.3,0.0,99.0,-15.0,John Jenkins,,DAL,False,False
+matthwe02,,,,,,,,,,,,,,,,,Wesley Matthews,Did Not Dress,DAL,False,False
+mejrisa01,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,False,False
+pachuza01,,,,,,,,,,,,,,,,,Zaza Pachulia,Did Not Dress,DAL,False,False
+davisan02,42.4,0.478,0.44,0.12,0.2,10.1,14.5,12.1,36.8,2.4,5.8,9.9,30.9,103.0,103.0,8.8,Anthony Davis,,NOP,True,True
+evansty01,35.11666666666667,0.542,0.5,0.308,0.308,0.0,26.2,11.9,26.5,2.9,0.0,11.9,20.7,106.0,102.0,2.5,Tyreke Evans,,NOP,True,True
+gordoer01,23.25,0.778,0.778,0.778,0.0,3.7,0.0,2.0,26.2,0.0,0.0,10.0,18.6,139.0,117.0,10.0,Eric Gordon,,NOP,True,True
+asikom01,18.916666666666668,0.5,0.5,0.0,0.0,27.2,5.4,17.2,0.0,0.0,8.6,25.0,18.3,97.0,109.0,-3.4,Ömer Aşık,,NOP,True,True
+geeal01,17.683333333333334,0.0,0.0,0.75,0.0,4.8,28.9,15.8,8.0,0.0,0.0,0.0,9.8,29.0,108.0,-11.9,Alonzo Gee,,NOP,True,True
+holidjr01,29.333333333333332,0.423,0.423,0.231,0.0,2.9,17.4,9.5,38.0,1.8,0.0,13.3,22.2,91.0,107.0,-3.7,Jrue Holiday,,NOP,True,False
+anderry01,28.533333333333335,0.332,0.167,0.5,0.583,0.0,10.7,4.9,0.0,1.8,0.0,0.0,22.9,78.0,110.0,-8.2,Ryan Anderson,,NOP,True,False
+coleno01,27.583333333333332,0.291,0.167,0.167,0.333,3.1,11.1,6.8,0.0,0.0,0.0,0.0,10.8,75.0,113.0,-12.6,Norris Cole,,NOP,True,False
+cunnida01,14.15,0.41,0.375,0.75,0.5,0.0,28.9,13.2,0.0,3.6,0.0,0.0,14.9,89.0,100.0,-1.4,Dante Cunningham,,NOP,True,False
+ajincal01,3.033333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,117.0,-15.5,Alexis Ajinça,,NOP,True,False
+babbilu01,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,NOP,True,False
+douglto01,,,,,,,,,,,,,,,,,Toney Douglas,Did Not Play,NOP,True,False
+perkike01,,,,,,,,,,,,,,,,,Kendrick Perkins,Did Not Play,NOP,True,False

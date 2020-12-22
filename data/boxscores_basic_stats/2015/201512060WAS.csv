@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+matthwe02,41.11666666666667,12.0,23.0,0.522,10.0,17.0,0.588,2.0,2.0,1.0,0.0,6.0,6.0,5.0,1.0,1.0,1.0,2.0,36.0,21.0,Wesley Matthews,,DAL,False,True
+willide01,38.9,2.0,12.0,0.167,1.0,4.0,0.25,6.0,6.0,1.0,0.0,7.0,7.0,9.0,1.0,0.0,1.0,2.0,11.0,11.0,Deron Williams,,DAL,False,True
+feltora01,38.45,5.0,13.0,0.385,1.0,4.0,0.25,0.0,0.0,,0.0,10.0,10.0,6.0,2.0,0.0,5.0,3.0,11.0,8.0,Raymond Felton,,DAL,False,True
+nowitdi01,28.183333333333334,5.0,8.0,0.625,1.0,1.0,1.0,8.0,10.0,0.8,1.0,5.0,6.0,4.0,0.0,1.0,1.0,0.0,19.0,9.0,Dirk Nowitzki,,DAL,False,True
+pachuza01,24.483333333333334,3.0,6.0,0.5,0.0,0.0,,4.0,5.0,0.8,2.0,5.0,7.0,1.0,1.0,0.0,4.0,1.0,10.0,3.0,Zaza Pachulia,,DAL,False,True
+evansje01,20.45,3.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,,3.0,4.0,7.0,0.0,0.0,1.0,0.0,0.0,7.0,5.0,Jeremy Evans,,DAL,False,False
+jenkijo01,19.983333333333334,2.0,3.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,5.0,15.0,John Jenkins,,DAL,False,False
+villach01,14.366666666666667,3.0,4.0,0.75,1.0,2.0,0.5,3.0,3.0,1.0,0.0,4.0,4.0,0.0,0.0,1.0,2.0,3.0,10.0,-6.0,Charlie Villanueva,,DAL,False,False
+harride01,8.95,3.0,4.0,0.75,0.0,0.0,,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,7.0,0.0,Devin Harris,,DAL,False,False
+anderju01,5.1,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,-6.0,Justin Anderson,,DAL,False,False
+mcgeeja01,,,,,,,,,,,,,,,,,,,,,JaVale McGee,Did Not Play,DAL,False,False
+parsoch01,,,,,,,,,,,,,,,,,,,,,Chandler Parsons,Did Not Play,DAL,False,False
+poweldw01,,,,,,,,,,,,,,,,,,,,,Dwight Powell,Did Not Play,DAL,False,False
+bealbr01,40.666666666666664,7.0,19.0,0.368,4.0,6.0,0.667,3.0,6.0,0.5,1.0,4.0,5.0,3.0,0.0,0.0,2.0,3.0,21.0,-14.0,Bradley Beal,,WAS,True,True
+walljo01,40.13333333333333,12.0,22.0,0.545,0.0,3.0,0.0,4.0,4.0,1.0,0.0,4.0,4.0,10.0,5.0,0.0,2.0,2.0,28.0,-5.0,John Wall,,WAS,True,True
+porteot01,36.18333333333333,7.0,17.0,0.412,1.0,6.0,0.167,0.0,0.0,,3.0,8.0,11.0,2.0,1.0,0.0,1.0,2.0,15.0,-5.0,Otto Porter,,WAS,True,True
+dudleja01,33.81666666666667,2.0,7.0,0.286,1.0,3.0,0.333,1.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,1.0,3.0,6.0,-3.0,Jared Dudley,,WAS,True,True
+holliry01,4.566666666666666,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ryan Hollins,,WAS,True,True
+nealga01,34.083333333333336,8.0,14.0,0.571,2.0,7.0,0.286,0.0,1.0,0.0,1.0,2.0,3.0,3.0,0.0,0.0,0.0,1.0,18.0,-1.0,Gary Neal,,WAS,True,False
+sessira01,24.116666666666667,3.0,4.0,0.75,0.0,1.0,0.0,3.0,6.0,0.5,0.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,9.0,-6.0,Ramon Sessions,,WAS,True,False
+templga01,12.9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,-16.0,Garrett Temple,,WAS,True,False
+blairde01,12.233333333333333,3.0,3.0,1.0,0.0,0.0,,1.0,3.0,0.333,0.0,2.0,2.0,0.0,0.0,0.0,0.0,4.0,7.0,-9.0,DeJuan Blair,,WAS,True,False
+oubreke01,1.3,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,Kelly Oubre,,WAS,True,False
+goodedr01,,,,,,,,,,,,,,,,,,,,,Drew Gooden,Did Not Play,WAS,True,False
+humphkr01,,,,,,,,,,,,,,,,,,,,,Kris Humphries,Did Not Dress,WAS,True,False
+hilarne01,,,,,,,,,,,,,,,,,,,,,Nenê Hilário,Did Not Dress,WAS,True,False

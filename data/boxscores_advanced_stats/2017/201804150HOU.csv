@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+townska01,40.03333333333333,0.372,0.333,0.222,0.444,12.0,21.8,17.1,7.6,0.0,2.6,15.7,14.5,88.0,111.0,-3.8,Karl-Anthony Towns,,MIN,False,True
+butleji01,36.166666666666664,0.528,0.455,0.455,0.273,3.3,12.1,7.9,13.4,2.9,0.0,0.0,15.5,126.0,108.0,4.2,Jimmy Butler,,MIN,False,True
+wiggian01,32.11666666666667,0.537,0.5,0.2,0.267,7.5,13.6,10.7,6.1,0.0,0.0,10.7,26.6,105.0,114.0,-1.5,Andrew Wiggins,,MIN,False,True
+gibsota01,31.783333333333335,0.699,0.667,0.0,0.167,7.6,13.7,10.8,5.2,0.0,0.0,23.7,12.1,113.0,114.0,0.5,Taj Gibson,,MIN,False,True
+teaguje01,28.516666666666666,0.621,0.5,0.444,0.778,4.2,30.6,18.0,47.6,1.8,3.7,29.3,27.3,107.0,104.0,6.7,Jeff Teague,,MIN,False,True
+crawfja01,26.116666666666667,0.588,0.5,0.636,0.364,0.0,8.4,4.4,13.3,0.0,0.0,0.0,22.3,133.0,116.0,6.8,Jamal Crawford,,MIN,False,False
+rosede01,23.933333333333334,0.554,0.536,0.143,0.071,0.0,9.1,4.8,38.3,0.0,0.0,12.2,31.3,107.0,115.0,0.7,Derrick Rose,,MIN,False,False
+dienggo01,7.966666666666667,0.735,0.667,0.0,1.333,15.1,27.4,21.5,0.0,0.0,0.0,0.0,27.2,159.0,111.0,12.1,Gorgui Dieng,,MIN,False,False
+jonesty01,7.483333333333333,,,,,0.0,0.0,0.0,18.3,0.0,0.0,,0.0,223.0,117.0,-1.8,Tyus Jones,,MIN,False,False
+bjeline01,5.883333333333333,0.0,0.0,0.0,0.0,0.0,37.1,19.4,0.0,0.0,0.0,0.0,15.5,0.0,110.0,-14.8,Nemanja Bjelica,,MIN,False,False
+georgma01,,,,,,,,,,,,,,,,,Marcus Georges-Hunt,Did Not Play,MIN,False,False
+brookaa01,,,,,,,,,,,,,,,,,Aaron Brooks,Did Not Play,MIN,False,False
+aldrico01,,,,,,,,,,,,,,,,,Cole Aldrich,Did Not Play,MIN,False,False
+hardeja01,40.916666666666664,0.734,0.712,0.462,0.346,5.3,5.9,5.6,43.8,2.5,0.0,9.1,37.1,143.0,113.0,23.5,James Harden,,HOU,True,True
+capelca01,34.45,0.716,0.667,0.0,0.267,15.8,24.4,19.9,5.6,1.5,7.3,0.0,22.4,156.0,104.0,13.2,Clint Capela,,HOU,True,True
+paulch01,33.93333333333333,0.444,0.393,0.429,0.286,0.0,10.6,5.1,17.7,3.0,0.0,27.6,29.6,74.0,110.0,-8.7,Chris Paul,,HOU,True,True
+arizatr01,32.7,0.193,0.167,0.667,0.667,3.3,14.7,8.7,0.0,3.2,0.0,11.4,12.3,45.0,108.0,-7.9,Trevor Ariza,,HOU,True,True
+tuckepj01,30.766666666666666,0.3,0.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,16.7,9.0,52.0,116.0,-6.8,P.J. Tucker,,HOU,True,True
+gordoer01,29.75,0.35,0.35,0.7,0.0,0.0,4.0,1.9,9.4,1.7,2.8,0.0,15.5,83.0,113.0,-2.0,Eric Gordon,,HOU,True,False
+greenge01,19.733333333333334,0.4,0.4,0.6,0.0,0.0,42.6,20.3,0.0,0.0,0.0,0.0,11.7,83.0,106.0,-7.1,Gerald Green,,HOU,True,False
+hilarne01,11.05,0.868,1.0,0.0,1.0,0.0,32.6,15.5,0.0,0.0,7.6,0.0,12.0,173.0,104.0,2.9,Nenê Hilário,,HOU,True,False
+johnsjo02,6.7,,,,,0.0,35.8,17.1,0.0,0.0,12.6,,0.0,0.0,101.0,5.4,Joe Johnson,,HOU,True,False
+qizh01,,,,,,,,,,,,,,,,,Zhou Qi,Did Not Play,HOU,True,False
+onuakch01,,,,,,,,,,,,,,,,,Chinanu Onuaku,Did Not Play,HOU,True,False
+blackta01,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,HOU,True,False

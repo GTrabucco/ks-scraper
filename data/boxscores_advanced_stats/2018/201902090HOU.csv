@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,41.266666666666666,0.752,0.682,0.636,0.818,5.3,21.8,13.9,13.4,1.1,0.0,6.3,30.6,152.0,109.0,16.7,Paul George,,OKC,False,True
+westbru01,38.4,0.453,0.405,0.238,0.238,0.0,31.3,16.3,45.8,2.4,3.0,30.1,34.2,83.0,102.0,-2.6,Russell Westbrook,,OKC,False,True
+adamsst01,38.06666666666667,0.5,0.5,0.0,0.0,8.6,15.8,12.3,0.0,2.4,6.2,25.0,8.3,91.0,104.0,-0.4,Steven Adams,,OKC,False,True
+grantje01,35.28333333333333,0.405,0.389,0.333,0.222,6.2,17.0,11.8,3.8,2.6,6.6,23.3,14.5,76.0,103.0,-1.8,Jerami Grant,,OKC,False,True
+fergute01,34.71666666666667,0.833,0.833,0.556,0.0,0.0,11.5,6.0,13.1,0.0,0.0,0.0,10.3,175.0,114.0,5.8,Terrance Ferguson,,OKC,False,True
+schrode01,22.333333333333332,0.559,0.5,0.231,0.385,0.0,0.0,0.0,0.0,0.0,0.0,6.2,28.7,111.0,116.0,-3.1,Dennis Schröder,,OKC,False,False
+noelne01,9.916666666666666,0.333,0.333,0.0,0.0,22.0,20.2,21.0,0.0,0.0,0.0,0.0,12.0,106.0,112.0,-6.4,Nerlens Noel,,OKC,False,False
+burtode02,9.55,0.0,0.0,1.0,0.0,22.8,10.5,16.4,12.6,0.0,0.0,0.0,4.1,123.0,113.0,-4.4,Deonte Burton,,OKC,False,False
+pattepa01,6.516666666666667,0.5,0.5,0.667,0.0,0.0,0.0,0.0,22.6,0.0,0.0,0.0,18.2,123.0,117.0,5.1,Patrick Patterson,,OKC,False,False
+naderab01,3.95,0.0,0.0,0.5,0.0,27.6,25.3,26.4,0.0,0.0,0.0,33.3,30.1,24.0,110.0,-37.6,Abdel Nader,,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+diallha01,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,False,False
+hardeja01,37.2,0.607,0.5,0.571,0.536,0.0,5.9,2.8,5.7,1.2,0.0,12.6,46.0,107.0,118.0,3.6,James Harden,,HOU,True,True
+tuckepj01,35.833333333333336,0.0,0.0,0.333,0.0,8.4,12.2,10.2,7.2,1.3,4.9,0.0,3.6,91.0,113.0,-2.9,P.J. Tucker,,HOU,True,True
+paulch01,34.916666666666664,0.597,0.5,0.417,0.583,2.9,28.1,14.9,41.1,2.6,0.0,11.7,21.1,129.0,108.0,4.7,Chris Paul,,HOU,True,True
+gordoer01,32.13333333333333,0.464,0.464,0.714,0.0,0.0,0.0,0.0,10.1,1.4,8.1,6.7,20.1,91.0,115.0,-1.0,Eric Gordon,,HOU,True,True
+farieke01,30.716666666666665,0.644,0.727,0.0,0.455,9.8,32.0,20.4,12.8,1.5,0.0,18.5,22.8,111.0,110.0,0.3,Kenneth Faried,,HOU,True,True
+shumpim01,24.15,0.3,0.3,1.0,0.0,0.0,18.1,8.6,0.0,1.9,3.6,16.7,10.7,50.0,111.0,-7.9,Iman Shumpert,,HOU,True,False
+hilarne01,17.233333333333334,0.5,0.5,0.0,0.0,0.0,19.0,9.1,8.1,8.0,5.1,0.0,5.0,118.0,96.0,5.2,Nenê Hilário,,HOU,True,False
+riverau01,15.65,0.727,0.75,0.833,0.333,0.0,7.0,3.3,11.0,0.0,0.0,0.0,19.0,143.0,121.0,6.2,Austin Rivers,,HOU,True,False
+greenge01,12.166666666666666,0.643,0.7,0.6,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.3,119.0,123.0,-1.0,Gerald Green,,HOU,True,False
+edwarvi01,,,,,,,,,,,,,,,,,Vince Edwards,Did Not Play,HOU,True,False
+capelca01,,,,,,,,,,,,,,,,,Clint Capela,Did Not Dress,HOU,True,False

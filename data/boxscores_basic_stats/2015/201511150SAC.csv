@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lowryky01,38.916666666666664,8.0,19.0,0.421,6.0,12.0,0.5,0.0,0.0,,0.0,2.0,2.0,7.0,4.0,1.0,5.0,3.0,22.0,-5.0,Kyle Lowry,,TOR,False,True
+carrode01,36.8,6.0,13.0,0.462,4.0,9.0,0.444,1.0,2.0,0.5,0.0,4.0,4.0,0.0,1.0,0.0,1.0,2.0,17.0,-14.0,DeMarre Carroll,,TOR,False,True
+derozde01,36.53333333333333,9.0,22.0,0.409,0.0,3.0,0.0,6.0,8.0,0.75,0.0,4.0,4.0,5.0,5.0,0.0,4.0,0.0,24.0,-12.0,DeMar DeRozan,,TOR,False,True
+valanjo01,20.333333333333332,2.0,9.0,0.222,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,0.0,0.0,0.0,0.0,2.0,4.0,-5.0,Jonas Valančiūnas,,TOR,False,True
+scolalu01,20.033333333333335,1.0,5.0,0.2,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,4.0,0.0,1.0,0.0,0.0,4.0,3.0,-4.0,Luis Scola,,TOR,False,True
+biyombi01,26.766666666666666,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,1.0,5.0,6.0,1.0,0.0,0.0,1.0,4.0,4.0,-2.0,Bismack Biyombo,,TOR,False,False
+josepco01,25.516666666666666,8.0,10.0,0.8,1.0,1.0,1.0,0.0,0.0,,0.0,4.0,4.0,4.0,0.0,0.0,1.0,3.0,17.0,-2.0,Cory Joseph,,TOR,False,False
+pattepa01,19.083333333333332,3.0,5.0,0.6,3.0,4.0,0.75,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,0.0,0.0,1.0,9.0,9.0,Patrick Patterson,,TOR,False,False
+johnsja01,11.866666666666667,0.0,2.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,3.0,3.0,1.0,2.0,0.0,1.0,1.0,1.0,8.0,James Johnson,,TOR,False,False
+powelno01,4.15,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,-3.0,Norman Powell,,TOR,False,False
+bennean01,,,,,,,,,,,,,,,,,,,,,Anthony Bennett,Did Not Play,TOR,False,False
+rosste01,,,,,,,,,,,,,,,,,,,,,Terrence Ross,Did Not Play,TOR,False,False
+wrighde01,,,,,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,False,False
+rondora01,43.266666666666666,3.0,10.0,0.3,1.0,4.0,0.25,0.0,0.0,,2.0,5.0,7.0,14.0,2.0,0.0,7.0,3.0,7.0,6.0,Rajon Rondo,,SAC,True,True
+couside01,41.05,12.0,22.0,0.545,3.0,6.0,0.5,9.0,12.0,0.75,1.0,9.0,10.0,3.0,1.0,3.0,3.0,3.0,36.0,15.0,DeMarcus Cousins,,SAC,True,True
+gayru01,37.2,10.0,16.0,0.625,1.0,3.0,0.333,6.0,7.0,0.857,1.0,5.0,6.0,3.0,1.0,0.0,4.0,0.0,27.0,16.0,Rudy Gay,,SAC,True,True
+mclembe01,25.366666666666667,3.0,6.0,0.5,2.0,4.0,0.5,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,0.0,1.0,8.0,10.0,Ben McLemore,,SAC,True,True
+caulewi01,8.35,0.0,0.0,,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,1.0,1.0,1.0,0.0,3.0,Willie Cauley-Stein,,SAC,True,True
+belinma01,26.3,2.0,8.0,0.25,1.0,3.0,0.333,2.0,2.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,3.0,7.0,8.0,Marco Belinelli,,SAC,True,False
+casspom01,25.65,6.0,9.0,0.667,1.0,4.0,0.25,1.0,1.0,1.0,2.0,3.0,5.0,0.0,2.0,1.0,2.0,1.0,14.0,-10.0,Omri Casspi,,SAC,True,False
+acyqu01,14.633333333333333,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,3.0,2.0,-5.0,Quincy Acy,,SAC,True,False
+koufoko01,13.45,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,-13.0,Kosta Koufos,,SAC,True,False
+curryse01,4.733333333333333,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,Seth Curry,,SAC,True,False
+anderja01,,,,,,,,,,,,,,,,,,,,,James Anderson,Did Not Play,SAC,True,False
+moreler01,,,,,,,,,,,,,,,,,,,,,Eric Moreland,Did Not Play,SAC,True,False

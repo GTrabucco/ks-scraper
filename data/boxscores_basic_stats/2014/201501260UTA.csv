@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bradlav01,28.866666666666667,4.0,12.0,0.333,2.0,4.0,0.5,2.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,2.0,12.0,4.0,Avery Bradley,,BOS,False,True
+sullija01,27.4,4.0,10.0,0.4,1.0,3.0,0.333,3.0,3.0,1.0,2.0,7.0,9.0,1.0,1.0,0.0,4.0,1.0,12.0,12.0,Jared Sullinger,,BOS,False,True
+bassbr01,25.3,3.0,6.0,0.5,0.0,0.0,,2.0,2.0,1.0,1.0,6.0,7.0,1.0,1.0,1.0,0.0,5.0,8.0,-21.0,Brandon Bass,,BOS,False,True
+turneev01,21.316666666666666,2.0,7.0,0.286,0.0,0.0,,5.0,6.0,0.833,0.0,3.0,3.0,4.0,1.0,0.0,2.0,1.0,9.0,2.0,Evan Turner,,BOS,False,True
+crowdja01,15.95,2.0,4.0,0.5,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,5.0,-5.0,Jae Crowder,,BOS,False,True
+princta01,30.033333333333335,7.0,10.0,0.7,2.0,3.0,0.667,3.0,4.0,0.75,0.0,2.0,2.0,5.0,0.0,0.0,0.0,1.0,19.0,16.0,Tayshaun Prince,,BOS,False,False
+zellety01,29.166666666666668,6.0,8.0,0.75,0.0,0.0,,2.0,2.0,1.0,1.0,6.0,7.0,1.0,0.0,2.0,1.0,4.0,14.0,15.0,Tyler Zeller,,BOS,False,False
+smartma01,28.916666666666668,4.0,9.0,0.444,1.0,4.0,0.25,0.0,0.0,,1.0,2.0,3.0,5.0,1.0,0.0,1.0,0.0,9.0,7.0,Marcus Smart,,BOS,False,False
+thornma01,19.45,3.0,8.0,0.375,1.0,4.0,0.25,2.0,2.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,0.0,9.0,5.0,Marcus Thornton,,BOS,False,False
+wallage01,13.6,0.0,0.0,,0.0,0.0,,2.0,2.0,1.0,0.0,3.0,3.0,0.0,2.0,0.0,2.0,0.0,2.0,10.0,Gerald Wallace,,BOS,False,False
+pressph01,,,,,,,,,,,,,,,,,,,,,Phil Pressey,Did Not Play,BOS,False,False
+youngja01,,,,,,,,,,,,,,,,,,,,,James Young,Did Not Play,BOS,False,False
+haywago01,35.5,7.0,17.0,0.412,4.0,5.0,0.8,8.0,12.0,0.667,2.0,4.0,6.0,3.0,3.0,2.0,1.0,2.0,26.0,13.0,Gordon Hayward,,UTA,True,True
+favorde01,34.18333333333333,5.0,13.0,0.385,0.0,1.0,0.0,3.0,7.0,0.429,1.0,7.0,8.0,4.0,1.0,4.0,3.0,3.0,13.0,3.0,Derrick Favors,,UTA,True,True
+inglejo01,31.233333333333334,1.0,6.0,0.167,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,5.0,4.0,0.0,2.0,6.0,2.0,10.0,Joe Ingles,,UTA,True,True
+kanteen01,31.033333333333335,10.0,16.0,0.625,0.0,1.0,0.0,0.0,0.0,,3.0,3.0,6.0,0.0,0.0,0.0,4.0,6.0,20.0,3.0,Enes Kanter,,UTA,True,True
+exumda01,25.283333333333335,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,2.0,3.0,0.0,-24.0,Dante Exum,,UTA,True,True
+burketr01,32.13333333333333,7.0,20.0,0.35,4.0,12.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,-7.0,Trey Burke,,UTA,True,False
+goberru01,26.1,4.0,4.0,1.0,0.0,0.0,,0.0,0.0,,4.0,6.0,10.0,2.0,0.0,3.0,0.0,0.0,8.0,-12.0,Rudy Gobert,,UTA,True,False
+millsel01,20.1,1.0,4.0,0.25,1.0,1.0,1.0,0.0,0.0,,0.0,4.0,4.0,2.0,1.0,1.0,2.0,2.0,3.0,-22.0,Elijah Millsap,,UTA,True,False
+booketr01,4.433333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-9.0,Trevor Booker,,UTA,True,False
+clarkia01,,,,,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,UTA,True,False
+evansje01,,,,,,,,,,,,,,,,,,,,,Jeremy Evans,Did Not Play,UTA,True,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,UTA,True,False
+williel01,,,,,,,,,,,,,,,,,,,,,Elliot Williams,Did Not Play,UTA,True,False

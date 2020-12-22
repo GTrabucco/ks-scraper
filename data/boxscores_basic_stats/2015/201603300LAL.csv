@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+denglu01,41.13333333333333,9.0,15.0,0.6,2.0,4.0,0.5,2.0,4.0,0.5,5.0,6.0,11.0,2.0,1.0,3.0,0.0,1.0,22.0,-2.0,Luol Deng,,MIA,False,True
+wadedw01,38.583333333333336,12.0,21.0,0.571,0.0,0.0,,2.0,2.0,1.0,2.0,8.0,10.0,5.0,0.0,2.0,4.0,2.0,26.0,13.0,Dwyane Wade,,MIA,False,True
+dragigo01,37.93333333333333,5.0,14.0,0.357,1.0,5.0,0.2,0.0,0.0,,0.0,3.0,3.0,9.0,2.0,0.0,4.0,4.0,11.0,-1.0,Goran Dragić,,MIA,False,True
+johnsjo02,36.416666666666664,4.0,9.0,0.444,0.0,4.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,5.0,1.0,0.0,3.0,2.0,10.0,9.0,Joe Johnson,,MIA,False,True
+stoudam01,14.216666666666667,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,1.0,0.0,3.0,4.0,7.0,Amar'e Stoudemire,,MIA,False,True
+whiteha01,38.75,7.0,9.0,0.778,0.0,0.0,,6.0,12.0,0.5,5.0,12.0,17.0,0.0,0.0,7.0,3.0,5.0,20.0,-9.0,Hassan Whiteside,,MIA,False,False
+richajo01,29.35,0.0,8.0,0.0,0.0,4.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,3.0,1.0,0.0,1.0,2.0,1.0,-14.0,Josh Richardson,,MIA,False,False
+winslju01,28.616666666666667,2.0,5.0,0.4,0.0,0.0,,2.0,4.0,0.5,0.0,4.0,4.0,2.0,1.0,0.0,2.0,4.0,6.0,-13.0,Justise Winslow,,MIA,False,False
+greenge01,,,,,,,,,,,,,,,,,,,,,Gerald Green,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+johnsty01,,,,,,,,,,,,,,,,,,,,,Tyler Johnson,Did Not Dress,MIA,False,False
+mcrobjo01,,,,,,,,,,,,,,,,,,,,,Josh McRoberts,Did Not Play,MIA,False,False
+randlju01,38.93333333333333,4.0,11.0,0.364,0.0,0.0,,5.0,6.0,0.833,2.0,12.0,14.0,3.0,1.0,0.0,1.0,5.0,13.0,-11.0,Julius Randle,,LAL,True,True
+clarkjo01,36.05,9.0,19.0,0.474,2.0,6.0,0.333,6.0,8.0,0.75,2.0,4.0,6.0,1.0,1.0,0.0,0.0,0.0,26.0,-5.0,Jordan Clarkson,,LAL,True,True
+russeda01,35.25,6.0,19.0,0.316,2.0,5.0,0.4,2.0,3.0,0.667,2.0,2.0,4.0,1.0,2.0,0.0,3.0,4.0,16.0,-7.0,D'Angelo Russell,,LAL,True,True
+hibbero01,32.81666666666667,5.0,10.0,0.5,0.0,0.0,,2.0,2.0,1.0,6.0,3.0,9.0,1.0,2.0,3.0,2.0,3.0,12.0,-2.0,Roy Hibbert,,LAL,True,True
+bryanko01,8.733333333333333,1.0,7.0,0.143,0.0,2.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,-13.0,Kobe Bryant,,LAL,True,True
+nancela02,30.966666666666665,2.0,7.0,0.286,0.0,0.0,,0.0,0.0,,3.0,2.0,5.0,2.0,1.0,2.0,0.0,3.0,4.0,18.0,Larry Nance,,LAL,True,False
+bassbr01,26.083333333333332,3.0,7.0,0.429,0.0,0.0,,2.0,3.0,0.667,3.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,8.0,6.0,Brandon Bass,,LAL,True,False
+kellyry01,21.483333333333334,2.0,6.0,0.333,0.0,0.0,,0.0,0.0,,0.0,5.0,5.0,2.0,0.0,0.0,0.0,2.0,4.0,8.0,Ryan Kelly,,LAL,True,False
+huertma01,17.75,3.0,9.0,0.333,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,4.0,1.0,0.0,1.0,2.0,6.0,9.0,Marcelo Huertas,,LAL,True,False
+willilo02,16.95,2.0,7.0,0.286,2.0,7.0,0.286,5.0,7.0,0.714,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,11.0,7.0,Lou Williams,,LAL,True,False
+blackta01,,,,,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,LAL,True,False
+sacrero01,,,,,,,,,,,,,,,,,,,,,Robert Sacre,Did Not Play,LAL,True,False
+youngni01,,,,,,,,,,,,,,,,,,,,,Nick Young,Did Not Play,LAL,True,False

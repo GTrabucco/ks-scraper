@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+butleji01,39.983333333333334,14.0,23.0,0.609,0.0,1.0,0.0,12.0,14.0,0.857,4.0,3.0,7.0,6.0,1.0,0.0,1.0,1.0,40.0,14.0,Jimmy Butler,,CHI,False,True
+mirotni01,37.36666666666667,4.0,9.0,0.444,3.0,8.0,0.375,4.0,8.0,0.5,2.0,13.0,15.0,2.0,0.0,0.0,1.0,2.0,15.0,15.0,Nikola Mirotić,,CHI,False,True
+rondora01,36.06666666666667,2.0,9.0,0.222,0.0,1.0,0.0,0.0,0.0,,1.0,8.0,9.0,12.0,1.0,0.0,3.0,2.0,4.0,15.0,Rajon Rondo,,CHI,False,True
+gibsota01,32.266666666666666,7.0,12.0,0.583,0.0,0.0,,1.0,3.0,0.333,3.0,4.0,7.0,3.0,1.0,1.0,6.0,5.0,15.0,10.0,Taj Gibson,,CHI,False,True
+lopezro01,27.733333333333334,6.0,11.0,0.545,0.0,0.0,,0.0,0.0,,4.0,7.0,11.0,2.0,0.0,2.0,0.0,0.0,12.0,12.0,Robin Lopez,,CHI,False,True
+canaais01,30.666666666666668,6.0,10.0,0.6,3.0,6.0,0.5,2.0,2.0,1.0,0.0,2.0,2.0,0.0,2.0,0.0,3.0,0.0,17.0,10.0,Isaiah Canaan,,CHI,False,False
+valende01,17.75,3.0,7.0,0.429,2.0,5.0,0.4,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,1.0,3.0,8.0,1.0,Denzel Valentine,,CHI,False,False
+portibo01,10.733333333333333,3.0,5.0,0.6,0.0,1.0,0.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,6.0,-13.0,Bobby Portis,,CHI,False,False
+grantje02,5.2,0.0,0.0,,0.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,-16.0,Jerian Grant,,CHI,False,False
+feliccr01,2.2333333333333334,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,-8.0,Cristiano Felício,,CHI,False,False
+zipsepa01,,,,,,,,,,,,,,,,,,,,,Paul Zipser,Did Not Dress,CHI,False,False
+wadedw01,,,,,,,,,,,,,,,,,,,,,Dwyane Wade,Did Not Dress,CHI,False,False
+hunterj01,,,,,,,,,,,,,,,,,,,,,R.J. Hunter,Did Not Play,CHI,False,False
+youngni01,30.25,5.0,13.0,0.385,3.0,8.0,0.375,2.0,2.0,1.0,1.0,5.0,6.0,2.0,0.0,0.0,1.0,2.0,15.0,-6.0,Nick Young,,LAL,True,True
+randlju01,25.05,6.0,11.0,0.545,0.0,1.0,0.0,2.0,4.0,0.5,0.0,3.0,3.0,2.0,0.0,1.0,2.0,3.0,14.0,-7.0,Julius Randle,,LAL,True,True
+denglu01,22.916666666666668,2.0,5.0,0.4,2.0,4.0,0.5,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,0.0,3.0,6.0,-9.0,Luol Deng,,LAL,True,True
+russeda01,22.65,3.0,11.0,0.273,2.0,9.0,0.222,0.0,0.0,,0.0,3.0,3.0,7.0,2.0,0.0,2.0,3.0,8.0,4.0,D'Angelo Russell,,LAL,True,True
+mozgoti01,21.066666666666666,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,4.0,0.0,1.0,1.0,8.0,-14.0,Timofey Mozgov,,LAL,True,True
+willilo02,30.066666666666666,8.0,14.0,0.571,5.0,6.0,0.833,4.0,6.0,0.667,1.0,0.0,1.0,3.0,2.0,0.0,2.0,2.0,25.0,-3.0,Lou Williams,,LAL,True,False
+nancela02,25.716666666666665,8.0,11.0,0.727,0.0,0.0,,2.0,2.0,1.0,2.0,4.0,6.0,3.0,1.0,1.0,0.0,0.0,18.0,4.0,Larry Nance,,LAL,True,False
+clarkjo01,25.35,1.0,12.0,0.083,1.0,3.0,0.333,2.0,3.0,0.667,1.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,5.0,-12.0,Jordan Clarkson,,LAL,True,False
+ingrabr01,20.45,3.0,6.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,3.0,4.0,3.0,0.0,0.0,1.0,2.0,7.0,3.0,Brandon Ingram,,LAL,True,False
+blackta01,16.483333333333334,1.0,3.0,0.333,0.0,0.0,,2.0,2.0,1.0,3.0,3.0,6.0,1.0,1.0,1.0,1.0,3.0,4.0,0.0,Tarik Black,,LAL,True,False
+robinth01,,,,,,,,,,,,,,,,,,,,,Thomas Robinson,Did Not Play,LAL,True,False
+huertma01,,,,,,,,,,,,,,,,,,,,,Marcelo Huertas,Did Not Play,LAL,True,False
+caldejo01,,,,,,,,,,,,,,,,,,,,,José Calderón,Did Not Play,LAL,True,False

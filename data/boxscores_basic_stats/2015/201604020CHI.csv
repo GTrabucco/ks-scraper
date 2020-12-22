@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+caldwke01,40.15,4.0,10.0,0.4,2.0,4.0,0.5,3.0,5.0,0.6,0.0,6.0,6.0,0.0,0.0,0.0,1.0,1.0,13.0,4.0,Kentavious Caldwell-Pope,,DET,False,True
+morrima03,39.45,5.0,11.0,0.455,2.0,4.0,0.5,4.0,5.0,0.8,1.0,3.0,4.0,2.0,1.0,1.0,0.0,5.0,16.0,-3.0,Marcus Morris,,DET,False,True
+harrito02,38.46666666666667,9.0,17.0,0.529,1.0,3.0,0.333,2.0,2.0,1.0,1.0,6.0,7.0,4.0,2.0,1.0,1.0,3.0,21.0,-2.0,Tobias Harris,,DET,False,True
+jacksre01,34.983333333333334,6.0,17.0,0.353,2.0,3.0,0.667,8.0,10.0,0.8,2.0,2.0,4.0,4.0,1.0,0.0,6.0,3.0,22.0,-4.0,Reggie Jackson,,DET,False,True
+drumman01,27.666666666666668,5.0,10.0,0.5,0.0,0.0,,1.0,10.0,0.1,3.0,8.0,11.0,4.0,2.0,0.0,1.0,1.0,11.0,-2.0,Andre Drummond,,DET,False,True
+baynear01,20.333333333333332,0.0,0.0,,0.0,0.0,,2.0,2.0,1.0,0.0,6.0,6.0,0.0,0.0,0.0,1.0,1.0,2.0,6.0,Aron Baynes,,DET,False,False
+johnsst04,16.4,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,0.0,0.0,2.0,0.0,7.0,Stanley Johnson,,DET,False,False
+blakest01,13.016666666666667,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,3.0,1.0,0.0,0.0,0.0,3.0,8.0,Steve Blake,,DET,False,False
+tollian01,9.533333333333333,2.0,4.0,0.5,2.0,3.0,0.667,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,Anthony Tolliver,,DET,False,False
+anthojo01,,,,,,,,,,,,,,,,,,,,,Joel Anthony,Did Not Play,DET,False,False
+bullore01,,,,,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Play,DET,False,False
+dinwisp01,,,,,,,,,,,,,,,,,,,,,Spencer Dinwiddie,Did Not Play,DET,False,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,False,False
+butleji01,39.13333333333333,10.0,25.0,0.4,1.0,7.0,0.143,7.0,8.0,0.875,5.0,12.0,17.0,12.0,3.0,2.0,3.0,4.0,28.0,2.0,Jimmy Butler,,CHI,True,True
+gasolpa01,33.7,7.0,19.0,0.368,2.0,3.0,0.667,0.0,0.0,,2.0,12.0,14.0,3.0,0.0,4.0,0.0,3.0,16.0,3.0,Pau Gasol,,CHI,True,True
+mooreet01,32.06666666666667,3.0,10.0,0.3,2.0,5.0,0.4,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,2.0,1.0,2.0,8.0,1.0,E'Twaun Moore,,CHI,True,True
+dunlemi02,27.866666666666667,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,1.0,3.0,2.0,14.0,Mike Dunleavy,,CHI,True,True
+portibo01,13.383333333333333,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,0.0,1.0,1.0,6.0,4.0,Bobby Portis,,CHI,True,True
+holidju01,24.75,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,2.0,4.0,3.0,-13.0,Justin Holiday,,CHI,True,False
+mirotni01,23.583333333333332,2.0,7.0,0.286,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,6.0,-8.0,Nikola Mirotić,,CHI,True,False
+brookaa01,15.816666666666666,5.0,9.0,0.556,1.0,3.0,0.333,3.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,3.0,2.0,14.0,-12.0,Aaron Brooks,,CHI,True,False
+mcderdo01,15.516666666666667,1.0,5.0,0.2,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,-4.0,Doug McDermott,,CHI,True,False
+feliccr01,14.183333333333334,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,3.0,4.0,1.0,0.0,1.0,0.0,2.0,3.0,-7.0,Cristiano Felício,,CHI,True,False
+bairsca01,,,,,,,,,,,,,,,,,,,,,Cameron Bairstow,Did Not Play,CHI,True,False
+gibsota01,,,,,,,,,,,,,,,,,,,,,Taj Gibson,Did Not Dress,CHI,True,False
+snellto01,,,,,,,,,,,,,,,,,,,,,Tony Snell,Did Not Play,CHI,True,False

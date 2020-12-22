@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+clarkjo01,34.083333333333336,10.0,15.0,0.667,5.0,8.0,0.625,1.0,2.0,0.5,1.0,2.0,3.0,0.0,1.0,0.0,2.0,3.0,26.0,-5.0,Jordan Clarkson,,LAL,False,True
+russeda01,32.0,9.0,16.0,0.563,3.0,6.0,0.5,11.0,13.0,0.846,0.0,2.0,2.0,2.0,1.0,0.0,2.0,4.0,32.0,-3.0,D'Angelo Russell,,LAL,False,True
+randlju01,31.1,2.0,7.0,0.286,0.0,0.0,,3.0,4.0,0.75,2.0,2.0,4.0,6.0,1.0,0.0,1.0,3.0,7.0,-10.0,Julius Randle,,LAL,False,True
+bryanko01,22.216666666666665,4.0,15.0,0.267,3.0,9.0,0.333,3.0,3.0,1.0,0.0,3.0,3.0,4.0,1.0,0.0,2.0,0.0,14.0,-16.0,Kobe Bryant,,LAL,False,True
+hibbero01,17.216666666666665,1.0,5.0,0.2,0.0,0.0,,2.0,2.0,1.0,1.0,5.0,6.0,0.0,1.0,1.0,2.0,2.0,4.0,-8.0,Roy Hibbert,,LAL,False,True
+huertma01,27.3,3.0,8.0,0.375,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,4.0,0.0,0.0,3.0,4.0,7.0,-5.0,Marcelo Huertas,,LAL,False,False
+nancela02,23.583333333333332,3.0,6.0,0.5,0.0,0.0,,2.0,2.0,1.0,2.0,2.0,4.0,0.0,2.0,2.0,0.0,0.0,8.0,7.0,Larry Nance,,LAL,False,False
+kellyry01,21.716666666666665,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,Ryan Kelly,,LAL,False,False
+blackta01,16.033333333333335,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,1.0,1.0,4.0,2.0,2.0,Tarik Black,,LAL,False,False
+sacrero01,14.75,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,0.0,3.0,0.0,-2.0,Robert Sacre,,LAL,False,False
+bassbr01,,,,,,,,,,,,,,,,,,,,,Brandon Bass,Did Not Play,LAL,False,False
+willilo02,,,,,,,,,,,,,,,,,,,,,Lou Williams,Did Not Play,LAL,False,False
+artesro01,,,,,,,,,,,,,,,,,,,,,Metta World Peace,Did Not Play,LAL,False,False
+ajincal01,37.18333333333333,12.0,17.0,0.706,0.0,0.0,,4.0,4.0,1.0,5.0,10.0,15.0,2.0,1.0,2.0,2.0,3.0,28.0,3.0,Alexis Ajinça,,NOP,True,True
+cunnida01,34.25,7.0,11.0,0.636,3.0,4.0,0.75,2.0,2.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,2.0,2.0,19.0,14.0,Dante Cunningham,,NOP,True,True
+douglto01,33.35,7.0,15.0,0.467,1.0,4.0,0.25,5.0,6.0,0.833,1.0,5.0,6.0,4.0,1.0,0.0,1.0,4.0,20.0,6.0,Toney Douglas,,NOP,True,True
+ennisja01,26.75,2.0,6.0,0.333,0.0,3.0,0.0,2.0,2.0,1.0,0.0,3.0,3.0,2.0,1.0,0.0,2.0,1.0,6.0,9.0,James Ennis,,NOP,True,True
+asikom01,17.916666666666668,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,2.0,5.0,7.0,1.0,0.0,0.0,1.0,2.0,1.0,7.0,Ömer Aşık,,NOP,True,True
+fraziti01,26.383333333333333,3.0,7.0,0.429,1.0,2.0,0.5,0.0,2.0,0.0,0.0,3.0,3.0,12.0,1.0,0.0,3.0,3.0,7.0,2.0,Tim Frazier,,NOP,True,False
+hamiljo02,24.1,5.0,11.0,0.455,2.0,6.0,0.333,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,12.0,7.0,Jordan Hamilton,,NOP,True,False
+babbilu01,23.983333333333334,5.0,8.0,0.625,3.0,3.0,1.0,2.0,2.0,1.0,0.0,3.0,3.0,4.0,1.0,0.0,1.0,2.0,15.0,-9.0,Luke Babbitt,,NOP,True,False
+perkike01,16.083333333333332,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,2.0,0.0,3.0,2.0,1.0,Kendrick Perkins,,NOP,True,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Dress,NOP,True,False
+coleno01,,,,,,,,,,,,,,,,,,,,,Norris Cole,Did Not Dress,NOP,True,False
+geeal01,,,,,,,,,,,,,,,,,,,,,Alonzo Gee,Did Not Dress,NOP,True,False
+holidjr01,,,,,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Dress,NOP,True,False

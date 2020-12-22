@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+oladivi01,36.266666666666666,0.567,0.567,0.533,0.133,0.0,18.0,9.5,11.6,1.4,4.0,11.2,23.3,98.0,118.0,-0.1,Victor Oladipo,,OKC,False,True
+roberan03,35.166666666666664,0.635,0.643,0.571,0.286,3.4,12.4,8.1,5.1,1.4,4.1,0.0,10.6,131.0,119.0,0.2,Andre Roberson,,OKC,False,True
+westbru01,35.06666666666667,0.588,0.417,0.278,1.056,3.4,31.1,17.9,55.0,2.8,0.0,10.2,39.5,120.0,114.0,11.6,Russell Westbrook,,OKC,False,True
+adamsst01,28.383333333333333,0.628,0.571,0.0,0.571,0.0,15.4,8.1,0.0,0.0,5.1,0.0,14.6,125.0,121.0,-2.6,Steven Adams,,OKC,False,True
+sabondo01,14.55,0.667,0.667,0.0,0.0,0.0,0.0,0.0,39.0,3.4,0.0,25.0,13.0,115.0,122.0,1.7,Domantas Sabonis,,OKC,False,True
+grantje01,31.75,0.444,0.4,0.4,0.8,0.0,10.3,5.4,5.2,1.6,2.3,0.0,10.0,96.0,121.0,-5.0,Jerami Grant,,OKC,False,False
+kanteen01,21.033333333333335,0.465,0.333,0.111,0.444,11.4,25.9,19.0,9.1,2.4,0.0,0.0,24.1,109.0,117.0,-2.5,Enes Kanter,,OKC,False,False
+morroan01,18.916666666666668,0.429,0.313,0.25,0.375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.2,89.0,130.0,-10.7,Anthony Morrow,,OKC,False,False
+chrisse01,8.1,,,,,0.0,0.0,0.0,18.5,0.0,0.0,,0.0,222.0,129.0,-13.0,Semaj Christon,,OKC,False,False
+lauvejo01,5.533333333333333,0.75,0.75,0.5,0.0,21.7,0.0,10.3,0.0,0.0,0.0,50.0,34.1,74.0,130.0,-11.1,Joffrey Lauvergne,,OKC,False,False
+abrinal01,3.85,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.3,36.8,0.0,130.0,-42.2,Álex Abrines,,OKC,False,False
+singlky01,1.3833333333333333,,,,,0.0,78.9,41.3,0.0,0.0,0.0,,0.0,0.0,107.0,-2.8,Kyle Singler,,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+couside01,34.56666666666667,0.587,0.554,0.179,0.214,6.3,38.2,21.5,11.3,0.0,0.0,6.1,40.3,117.0,105.0,9.0,DeMarcus Cousins,,SAC,True,True
+gayru01,33.6,0.535,0.5,0.4,0.133,6.5,25.0,15.3,16.1,0.0,0.0,11.2,22.7,111.0,107.0,1.6,Rudy Gay,,SAC,True,True
+collida01,31.366666666666667,0.763,0.708,0.417,0.333,0.0,0.0,0.0,27.6,0.0,0.0,22.5,24.2,125.0,111.0,5.8,Darren Collison,,SAC,True,True
+afflaar01,30.35,0.508,0.429,0.143,0.286,0.0,4.0,1.9,16.1,0.0,0.0,0.0,11.1,127.0,110.0,-0.3,Arron Afflalo,,SAC,True,True
+barnema02,29.45,0.0,0.0,1.0,0.0,3.7,12.2,7.8,18.5,0.0,3.2,25.0,5.8,76.0,106.0,-2.3,Matt Barnes,,SAC,True,True
+templga01,26.65,0.5,0.5,0.625,0.0,4.1,9.0,6.4,4.7,3.7,0.0,0.0,12.8,115.0,100.0,0.9,Garrett Temple,,SAC,True,False
+lawsoty01,20.533333333333335,0.82,0.75,0.0,0.5,5.3,17.5,11.1,25.3,2.4,0.0,29.1,14.3,133.0,102.0,3.4,Ty Lawson,,SAC,True,False
+mclembe01,16.9,0.45,0.45,0.3,0.0,0.0,14.2,6.8,0.0,0.0,0.0,0.0,25.3,93.0,108.0,-8.3,Ben McLemore,,SAC,True,False
+koufoko01,16.583333333333332,0.605,0.571,0.0,0.143,26.3,43.4,34.5,0.0,3.0,0.0,0.0,19.1,143.0,97.0,3.6,Kosta Koufos,,SAC,True,False
+tollian01,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,SAC,True,False
+labissk01,,,,,,,,,,,,,,,,,Skal Labissière,Did Not Play,SAC,True,False
+caulewi01,,,,,,,,,,,,,,,,,Willie Cauley-Stein,Did Not Play,SAC,True,False
+casspom01,,,,,,,,,,,,,,,,,Omri Casspi,Did Not Play,SAC,True,False

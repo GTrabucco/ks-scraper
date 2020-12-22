@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+ellismo01,36.43333333333333,0.46,0.45,0.2,0.2,0.0,12.3,6.1,24.2,2.8,0.0,8.4,14.8,108.0,106.0,-1.8,Monta Ellis,,IND,False,True
+georgpa01,33.78333333333333,0.447,0.467,0.467,0.267,3.3,29.7,16.5,23.0,0.0,2.3,29.5,32.0,72.0,107.0,-9.5,Paul George,,IND,False,True
+hillge01,33.733333333333334,0.625,0.625,0.5,0.0,3.3,6.6,5.0,13.2,0.0,0.0,11.1,12.1,122.0,113.0,-1.7,George Hill,,IND,False,True
+turnemy01,31.066666666666666,0.53,0.45,0.1,0.3,3.6,10.8,7.2,4.9,1.7,5.0,20.9,21.0,91.0,104.0,-4.7,Myles Turner,,IND,False,True
+mahinia01,24.366666666666667,0.601,0.571,0.0,0.429,4.6,32.1,18.3,19.6,2.1,9.5,0.0,15.5,140.0,95.0,8.1,Ian Mahinmi,,IND,False,True
+hilljo01,23.2,0.69,0.667,0.0,0.333,4.8,28.9,16.8,9.6,0.0,0.0,0.0,27.0,143.0,109.0,4.2,Jordan Hill,,IND,False,False
+stuckro01,18.75,0.856,0.857,0.571,0.571,0.0,6.0,3.0,20.3,0.0,0.0,10.2,23.7,149.0,113.0,8.9,Rodney Stuckey,,IND,False,False
+allenla01,17.116666666666667,0.581,0.5,0.0,0.333,26.1,13.0,19.6,19.0,0.0,0.0,0.0,18.3,149.0,112.0,3.4,Lavoy Allen,,IND,False,False
+budinch01,14.233333333333333,0.307,0.25,0.25,0.5,15.7,0.0,7.8,29.2,3.6,0.0,17.0,18.8,94.0,106.0,-1.9,Chase Budinger,,IND,False,False
+hillso01,7.3,0.532,0.0,1.0,2.0,15.3,45.9,30.6,34.6,14.1,0.0,0.0,11.7,163.0,77.0,27.5,Solomon Hill,,IND,False,False
+milescj01,,,,,,,,,,,,,,,,,C.J. Miles,Not With Team,IND,False,False
+robingl02,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,False,False
+youngjo01,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,False,False
+antetgi01,41.45,0.564,0.438,0.0,0.5,2.7,13.5,8.1,13.4,1.2,1.9,9.3,24.4,111.0,112.0,2.1,Giannis Antetokounmpo,,MIL,True,True
+middlkh01,38.43333333333333,0.501,0.421,0.263,0.474,2.9,11.6,7.3,19.8,2.7,0.0,11.6,31.8,97.0,111.0,1.7,Khris Middleton,,MIL,True,True
+parkeja01,36.86666666666667,0.567,0.533,0.0,0.133,6.1,6.1,6.1,0.0,2.8,0.0,20.1,25.4,93.0,112.0,-3.7,Jabari Parker,,MIL,True,True
+mayooj01,33.916666666666664,0.375,0.375,1.0,0.0,0.0,16.5,8.2,8.7,1.5,0.0,33.3,8.3,61.0,111.0,-7.0,O.J. Mayo,,MIL,True,True
+plumlmi01,19.15,1.0,1.0,0.0,0.0,5.8,29.1,17.5,0.0,2.7,0.0,0.0,7.4,202.0,105.0,5.8,Miles Plumlee,,MIL,True,True
+bayleje01,31.766666666666666,0.491,0.333,0.556,0.556,0.0,10.5,5.3,25.6,0.0,0.0,0.0,16.6,116.0,117.0,-1.5,Jerryd Bayless,,MIL,True,False
+monrogr01,28.85,0.639,0.556,0.0,0.889,3.9,23.2,13.5,0.0,1.8,0.0,7.4,22.0,123.0,109.0,2.9,Greg Monroe,,MIL,True,False
+vaughra01,9.566666666666666,0.0,0.0,0.0,0.0,0.0,11.7,5.8,0.0,0.0,0.0,0.0,4.9,0.0,116.0,-11.8,Rashad Vaughn,,MIL,True,False
+cartemi01,,,,,,,,,,,,,,,,,Michael Carter-Williams,Did Not Dress,MIL,True,False
+ennisty01,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,MIL,True,False
+hensojo01,,,,,,,,,,,,,,,,,John Henson,Did Not Dress,MIL,True,False
+inglida01,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,True,False
+obryajo01,,,,,,,,,,,,,,,,,Johnny O'Bryant,Did Not Play,MIL,True,False

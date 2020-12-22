@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+boshch01,35.13333333333333,0.73,0.75,0.375,0.063,5.8,23.6,12.6,14.4,1.5,0.0,5.7,22.4,144.0,113.0,12.7,Chris Bosh,,MIA,False,True
+denglu01,32.7,0.388,0.333,0.167,0.167,6.2,5.1,5.8,14.2,0.0,2.9,13.4,10.3,98.0,116.0,-2.8,Luol Deng,,MIA,False,True
+wadedw01,32.6,0.208,0.176,0.0,0.294,9.4,10.2,9.7,19.9,1.7,0.0,17.2,32.1,55.0,114.0,-13.4,Dwyane Wade,,MIA,False,True
+whiteha01,30.783333333333335,0.47,0.5,0.0,0.75,16.6,32.3,22.6,0.0,1.8,12.2,8.6,17.0,103.0,100.0,1.5,Hassan Whiteside,,MIA,False,True
+dragigo01,27.933333333333334,0.673,0.636,0.273,0.182,0.0,5.9,2.3,0.0,1.9,3.4,25.2,25.6,100.0,110.0,-0.6,Goran Dragić,,MIA,False,True
+greenge01,34.18333333333333,0.5,0.5,0.462,0.0,6.0,19.4,11.1,5.5,3.2,2.8,13.3,19.8,98.0,107.0,0.1,Gerald Green,,MIA,False,False
+winslju01,20.35,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,4.6,33.3,13.3,0.0,115.0,-16.7,Justise Winslow,,MIA,False,False
+udrihbe01,19.983333333333334,0.417,0.417,0.333,0.0,0.0,33.1,12.6,32.9,2.7,0.0,25.0,18.0,86.0,109.0,-0.8,Beno Udrih,,MIA,False,False
+stoudam01,6.333333333333333,0.532,0.0,0.0,2.0,16.1,26.1,19.9,0.0,0.0,0.0,0.0,13.4,142.0,116.0,-0.6,Amar'e Stoudemire,,MIA,False,False
+anderch01,,,,,,,,,,,,,,,,,Chris Andersen,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+johnsty01,,,,,,,,,,,,,,,,,Tyler Johnson,Did Not Play,MIA,False,False
+haywago01,37.21666666666667,0.644,0.682,0.273,0.455,4.4,8.2,6.8,6.2,0.0,0.0,23.3,46.7,95.0,102.0,-5.7,Gordon Hayward,,UTA,True,True
+netora01,33.15,0.597,0.55,0.3,0.2,0.0,6.2,3.8,22.8,4.9,0.0,15.5,19.6,116.0,92.0,3.9,Raul Neto,,UTA,True,True
+lylestr01,32.483333333333334,0.3,0.3,0.4,0.0,0.0,31.4,19.4,0.0,5.0,0.0,16.7,9.3,51.0,81.0,-1.7,Trey Lyles,,UTA,True,True
+johnsch04,31.033333333333335,0.778,0.778,0.333,0.0,0.0,13.2,8.1,15.6,3.5,4.9,18.2,17.9,128.0,88.0,9.4,Chris Johnson,,UTA,True,True
+goberru01,28.483333333333334,0.945,1.0,0.0,1.333,17.4,7.2,11.1,19.9,1.9,10.7,17.4,10.2,176.0,92.0,14.8,Rudy Gobert,,UTA,True,True
+inglejo01,23.983333333333334,0.429,0.429,0.571,0.0,0.0,17.0,10.5,5.7,2.3,0.0,0.0,14.8,95.0,93.0,-2.0,Joe Ingles,,UTA,True,False
+witheje01,19.516666666666666,0.8,0.8,0.0,0.0,8.5,10.5,9.7,8.4,0.0,3.9,16.7,15.5,136.0,99.0,3.9,Jeff Withey,,UTA,True,False
+burketr01,18.616666666666667,0.619,0.563,0.25,0.25,0.0,5.5,3.4,27.0,0.0,0.0,10.1,26.8,124.0,103.0,1.4,Trey Burke,,UTA,True,False
+booketr01,15.516666666666667,0.0,0.0,0.0,0.0,0.0,26.3,16.3,7.9,0.0,0.0,0.0,6.5,35.0,94.0,-6.9,Trevor Booker,,UTA,True,False
+favorde01,,,,,,,,,,,,,,,,,Derrick Favors,Did Not Dress,UTA,True,False
+hoodro01,,,,,,,,,,,,,,,,,Rodney Hood,Did Not Dress,UTA,True,False
+pleisti01,,,,,,,,,,,,,,,,,Tibor Pleiß,Did Not Play,UTA,True,False

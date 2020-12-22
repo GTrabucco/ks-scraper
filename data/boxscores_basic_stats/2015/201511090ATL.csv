@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+wiggian01,37.65,15.0,22.0,0.682,1.0,2.0,0.5,2.0,4.0,0.5,2.0,3.0,5.0,4.0,1.0,1.0,5.0,1.0,33.0,10.0,Andrew Wiggins,,MIN,False,True
+townska01,31.816666666666666,5.0,7.0,0.714,0.0,1.0,0.0,7.0,8.0,0.875,3.0,9.0,12.0,1.0,0.0,3.0,2.0,3.0,17.0,11.0,Karl-Anthony Towns,,MIN,False,True
+rubiori01,27.483333333333334,4.0,10.0,0.4,0.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,8.0,3.0,0.0,2.0,3.0,10.0,4.0,Ricky Rubio,,MIN,False,True
+princta01,24.083333333333332,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,4.0,3.0,Tayshaun Prince,,MIN,False,True
+garneke01,18.1,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,8.0,8.0,1.0,0.0,1.0,1.0,3.0,4.0,11.0,Kevin Garnett,,MIN,False,True
+bjeline01,29.9,3.0,5.0,0.6,3.0,5.0,0.6,2.0,2.0,1.0,0.0,5.0,5.0,4.0,0.0,0.0,2.0,2.0,11.0,-1.0,Nemanja Bjelica,,MIN,False,False
+martike02,23.85,4.0,11.0,0.364,2.0,5.0,0.4,3.0,4.0,0.75,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,13.0,5.0,Kevin Martin,,MIN,False,False
+dienggo01,16.183333333333334,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,1.0,2.0,0.0,2.0,2.0,6.0,-1.0,Gorgui Dieng,,MIN,False,False
+lavinza01,15.883333333333333,5.0,7.0,0.714,1.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,3.0,6.0,3.0,0.0,1.0,2.0,13.0,9.0,Zach LaVine,,MIN,False,False
+muhamsh01,10.35,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,6.0,0.0,Shabazz Muhammad,,MIN,False,False
+millean02,4.7,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,-1.0,Andre Miller,,MIN,False,False
+paynead01,,,,,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,False,False
+rudezda01,,,,,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,MIN,False,False
+millspa01,35.2,9.0,15.0,0.6,3.0,5.0,0.6,1.0,2.0,0.5,2.0,3.0,5.0,6.0,2.0,2.0,3.0,1.0,22.0,1.0,Paul Millsap,,ATL,True,True
+teaguje01,34.86666666666667,10.0,17.0,0.588,1.0,4.0,0.25,3.0,3.0,1.0,0.0,2.0,2.0,9.0,1.0,3.0,6.0,3.0,24.0,-2.0,Jeff Teague,,ATL,True,True
+horfoal01,33.05,5.0,15.0,0.333,2.0,5.0,0.4,2.0,2.0,1.0,2.0,4.0,6.0,3.0,1.0,0.0,1.0,3.0,14.0,-9.0,Al Horford,,ATL,True,True
+korveky01,32.38333333333333,2.0,5.0,0.4,1.0,1.0,1.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,5.0,1.0,Kyle Korver,,ATL,True,True
+bazemke01,31.05,4.0,11.0,0.364,1.0,5.0,0.2,0.0,0.0,,0.0,6.0,6.0,3.0,5.0,1.0,5.0,6.0,9.0,-9.0,Kent Bazemore,,ATL,True,True
+schrode01,23.35,5.0,10.0,0.5,2.0,5.0,0.4,0.0,0.0,,0.0,1.0,1.0,4.0,1.0,0.0,0.0,1.0,12.0,-3.0,Dennis Schröder,,ATL,True,False
+sefolth01,16.733333333333334,4.0,5.0,0.8,2.0,3.0,0.667,0.0,0.0,,0.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,10.0,-6.0,Thabo Sefolosha,,ATL,True,False
+splitti01,16.416666666666668,2.0,3.0,0.667,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,1.0,0.0,4.0,10.0,Tiago Splitter,,ATL,True,False
+scottmi01,11.333333333333334,3.0,4.0,0.75,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,-22.0,Mike Scott,,ATL,True,False
+holidju01,5.633333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,0.0,-11.0,Justin Holiday,,ATL,True,False
+macksh01,,,,,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,ATL,True,False
+muscami01,,,,,,,,,,,,,,,,,,,,,Mike Muscala,Did Not Play,ATL,True,False
+pattela01,,,,,,,,,,,,,,,,,,,,,Lamar Patterson,Did Not Play,ATL,True,False

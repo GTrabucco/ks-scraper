@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+hamiljo02,34.0,6.0,11.0,0.545,0.0,3.0,0.0,1.0,3.0,0.333,2.0,9.0,11.0,3.0,0.0,0.0,2.0,2.0,13.0,9.0,Jordan Hamilton,,NOP,False,True
+babbilu01,33.2,8.0,15.0,0.533,3.0,5.0,0.6,2.0,3.0,0.667,0.0,1.0,1.0,4.0,0.0,1.0,0.0,5.0,21.0,4.0,Luke Babbitt,,NOP,False,True
+cunnida01,31.866666666666667,6.0,11.0,0.545,1.0,3.0,0.333,1.0,3.0,0.333,2.0,2.0,4.0,3.0,1.0,0.0,3.0,3.0,14.0,13.0,Dante Cunningham,,NOP,False,True
+douglto01,26.8,1.0,6.0,0.167,0.0,2.0,0.0,0.0,0.0,,0.0,4.0,4.0,4.0,1.0,0.0,2.0,0.0,2.0,1.0,Toney Douglas,,NOP,False,True
+asikom01,4.016666666666667,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,-5.0,Ömer Aşık,,NOP,False,True
+fraziti01,37.35,7.0,11.0,0.636,2.0,3.0,0.667,3.0,4.0,0.75,0.0,2.0,2.0,13.0,3.0,0.0,0.0,3.0,19.0,30.0,Tim Frazier,,NOP,False,False
+ajincal01,29.05,7.0,9.0,0.778,0.0,0.0,,2.0,2.0,1.0,1.0,5.0,6.0,1.0,1.0,4.0,2.0,1.0,16.0,17.0,Alexis Ajinça,,NOP,False,False
+ennisja01,28.783333333333335,4.0,10.0,0.4,2.0,6.0,0.333,4.0,6.0,0.667,0.0,3.0,3.0,2.0,4.0,1.0,0.0,3.0,14.0,19.0,James Ennis,,NOP,False,False
+perkike01,14.933333333333334,3.0,3.0,1.0,0.0,0.0,,1.0,2.0,0.5,0.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,7.0,7.0,Kendrick Perkins,,NOP,False,False
+anderry01,,,,,,,,,,,,,,,,,,,,,Ryan Anderson,Did Not Play,NOP,False,False
+coleno01,,,,,,,,,,,,,,,,,,,,,Norris Cole,Did Not Play,NOP,False,False
+geeal01,,,,,,,,,,,,,,,,,,,,,Alonzo Gee,Did Not Play,NOP,False,False
+holidjr01,,,,,,,,,,,,,,,,,,,,,Jrue Holiday,Did Not Play,NOP,False,False
+larkish01,33.21666666666667,3.0,12.0,0.25,0.0,2.0,0.0,0.0,0.0,,2.0,2.0,4.0,9.0,2.0,0.0,2.0,1.0,6.0,-2.0,Shane Larkin,,BRK,True,True
+simshe01,30.066666666666666,5.0,11.0,0.455,0.0,0.0,,2.0,2.0,1.0,2.0,5.0,7.0,1.0,1.0,0.0,2.0,2.0,12.0,2.0,Henry Sims,,BRK,True,True
+robinth01,26.95,4.0,8.0,0.5,0.0,0.0,,3.0,9.0,0.333,7.0,8.0,15.0,0.0,0.0,0.0,2.0,3.0,11.0,1.0,Thomas Robinson,,BRK,True,True
+ellinwa01,26.85,4.0,10.0,0.4,2.0,7.0,0.286,0.0,0.0,,0.0,1.0,1.0,3.0,1.0,1.0,2.0,0.0,10.0,6.0,Wayne Ellington,,BRK,True,True
+holliro01,19.0,2.0,6.0,0.333,1.0,2.0,0.5,3.0,4.0,0.75,1.0,1.0,2.0,0.0,1.0,2.0,1.0,1.0,8.0,12.0,Rondae Hollis-Jefferson,,BRK,True,True
+kilpase01,26.15,6.0,10.0,0.6,3.0,4.0,0.75,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,4.0,3.0,15.0,-27.0,Sean Kilpatrick,,BRK,True,False
+mcculch01,21.05,2.0,9.0,0.222,0.0,3.0,0.0,2.0,2.0,1.0,3.0,2.0,5.0,0.0,0.0,0.0,1.0,2.0,6.0,-20.0,Chris McCullough,,BRK,True,False
+karasse01,19.966666666666665,1.0,5.0,0.2,0.0,1.0,0.0,0.0,0.0,,1.0,4.0,5.0,6.0,0.0,0.0,2.0,2.0,2.0,-26.0,Sergey Karasev,,BRK,True,False
+brownma02,18.833333333333332,4.0,7.0,0.571,2.0,4.0,0.5,2.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,4.0,6.0,12.0,-20.0,Markel Brown,,BRK,True,False
+reedwi02,17.916666666666668,2.0,7.0,0.286,0.0,0.0,,1.0,2.0,0.5,4.0,3.0,7.0,0.0,0.0,0.0,0.0,3.0,5.0,-21.0,Willie Reed,,BRK,True,False
+bogdabo02,,,,,,,,,,,,,,,,,,,,,Bojan Bogdanović,Did Not Play,BRK,True,False
+lopezbr01,,,,,,,,,,,,,,,,,,,,,Brook Lopez,Did Not Play,BRK,True,False
+sloando01,,,,,,,,,,,,,,,,,,,,,Donald Sloan,Not With Team,BRK,True,False

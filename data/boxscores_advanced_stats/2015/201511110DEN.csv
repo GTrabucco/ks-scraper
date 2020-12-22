@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+middlkh01,42.43333333333333,0.5,0.5,0.385,0.0,0.0,2.9,1.6,6.2,5.2,0.0,13.3,17.1,94.0,115.0,-3.6,Khris Middleton,,MIL,False,True
+obryajo01,34.03333333333333,0.661,0.571,0.0,0.429,18.8,18.1,18.4,11.6,0.0,2.6,0.0,11.9,163.0,119.0,1.1,Johnny O'Bryant,,MIL,False,True
+monrogr01,32.6,0.692,0.692,0.0,0.0,9.8,30.2,21.3,10.2,1.7,0.0,13.3,22.3,125.0,113.0,1.4,Greg Monroe,,MIL,False,True
+antetgi01,29.133333333333333,0.5,0.5,0.25,0.0,5.5,25.3,16.7,25.7,0.0,6.0,20.0,25.0,99.0,114.0,-4.4,Giannis Antetokounmpo,,MIL,False,True
+ennisty01,15.166666666666666,0.875,0.875,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.3,19.2,95.0,127.0,-7.5,Tyler Ennis,,MIL,False,True
+vasqugr01,32.833333333333336,0.536,0.536,0.571,0.0,0.0,7.5,4.2,39.6,1.7,0.0,12.5,23.6,119.0,121.0,1.4,Greivis Vásquez,,MIL,False,False
+bayleje01,28.416666666666668,0.87,0.85,0.3,0.6,5.6,4.3,4.9,22.4,3.9,0.0,19.2,26.7,143.0,117.0,10.9,Jerryd Bayless,,MIL,False,False
+hensojo01,15.4,0.4,0.4,0.0,0.0,0.0,16.0,9.0,8.7,0.0,5.7,16.7,18.9,77.0,118.0,-10.9,John Henson,,MIL,False,False
+vaughra01,9.983333333333333,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,9.7,0.0,127.0,-17.4,Rashad Vaughn,,MIL,False,False
+copelch01,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,MIL,False,False
+inglida01,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,False,False
+parkeja01,,,,,,,,,,,,,,,,,Jabari Parker,Not With Team,MIL,False,False
+plumlmi01,,,,,,,,,,,,,,,,,Miles Plumlee,Did Not Play,MIL,False,False
+gallida01,37.56666666666667,0.623,0.529,0.471,0.412,9.8,17.0,13.0,4.3,1.5,0.0,13.0,28.5,122.0,120.0,-0.1,Danilo Gallinari,,DEN,True,True
+mudiaem01,35.3,0.41,0.344,0.375,0.5,3.5,9.1,5.9,46.5,1.6,0.0,4.9,26.9,116.0,121.0,-2.2,Emmanuel Mudiay,,DEN,True,True
+farieke01,33.4,0.816,0.889,0.0,0.667,18.4,19.2,18.7,5.2,3.3,7.6,14.7,18.9,140.0,110.0,7.8,Kenneth Faried,,DEN,True,True
+hicksjj01,28.833333333333332,0.676,0.625,0.0,0.25,0.0,11.1,4.8,5.4,1.9,2.9,10.1,15.9,128.0,118.0,-2.6,J.J. Hickson,,DEN,True,True
+harriga01,28.133333333333333,0.571,0.571,0.571,0.0,0.0,5.7,2.5,25.2,3.9,0.0,22.2,14.8,110.0,117.0,0.3,Gary Harris,,DEN,True,True
+arthuda01,17.7,0.333,0.333,0.333,0.0,0.0,9.0,3.9,22.4,0.0,9.5,0.0,7.9,118.0,117.0,-1.1,Darrell Arthur,,DEN,True,False
+foyera01,17.1,0.4,0.4,0.4,0.0,7.2,18.7,12.2,0.0,3.2,0.0,16.7,16.3,79.0,116.0,-14.8,Randy Foye,,DEN,True,False
+bartowi01,17.1,0.6,0.6,0.2,0.0,0.0,18.7,8.1,9.2,0.0,0.0,16.7,16.3,104.0,123.0,-10.0,Will Barton,,DEN,True,False
+jokicni01,14.433333333333334,0.538,0.571,0.0,0.143,25.6,22.2,24.1,51.8,7.6,0.0,21.2,30.3,111.0,105.0,11.4,Nikola Jokić,,DEN,True,False
+papanko01,10.433333333333334,0.75,0.75,1.0,0.0,11.8,30.7,20.0,0.0,0.0,0.0,33.3,13.3,100.0,121.0,-6.7,Kostas Papanikolaou,,DEN,True,False
+lauvejo01,,,,,,,,,,,,,,,,,Joffrey Lauvergne,Did Not Dress,DEN,True,False
+millemi01,,,,,,,,,,,,,,,,,Mike Miller,Did Not Play,DEN,True,False
+nelsoja01,,,,,,,,,,,,,,,,,Jameer Nelson,Did Not Dress,DEN,True,False

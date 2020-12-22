@@ -199,7 +199,7 @@ NCAABB_URL = "https://killersports.com/ncaabb/query"
 
 CHROME_DRIVER_PATH = '../../driver/chromedriver'
 
-SCENARIO = 'tS(assists-14>=turnovers,N=4)=4'
+SCENARIO = 'p:HL and 2<=rest and 2<=n:rest and p:FGP<46.25 and p:TO<=20'
 
 def get_scenario(date):
 	return SCENARIO + f' and date={date}'
@@ -222,7 +222,7 @@ def initialize():
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'scenario':
-		date_time_str = '2020-02-01'
+		date_time_str = '2015-01-01'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date, True)
 	elif p == 'comp':

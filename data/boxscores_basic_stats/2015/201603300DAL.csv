@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+willide02,34.5,5.0,8.0,0.625,0.0,0.0,,5.0,6.0,0.833,3.0,5.0,8.0,2.0,0.0,0.0,4.0,1.0,15.0,12.0,Derrick Williams,,NYK,False,True
+anthoca01,33.666666666666664,11.0,22.0,0.5,2.0,6.0,0.333,7.0,7.0,1.0,1.0,6.0,7.0,2.0,3.0,0.0,5.0,2.0,31.0,9.0,Carmelo Anthony,,NYK,False,True
+lopezro01,30.9,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,3.0,6.0,9.0,2.0,0.0,0.0,2.0,2.0,8.0,10.0,Robin Lopez,,NYK,False,True
+vujacsa01,24.066666666666666,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,,0.0,5.0,5.0,2.0,1.0,0.0,1.0,2.0,7.0,7.0,Sasha Vujačić,,NYK,False,True
+caldejo01,9.7,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,2.0,1.0,2.0,10.0,José Calderón,,NYK,False,True
+afflaar01,31.25,1.0,7.0,0.143,0.0,3.0,0.0,1.0,2.0,0.5,1.0,2.0,3.0,0.0,1.0,0.0,3.0,3.0,3.0,-16.0,Arron Afflalo,,NYK,False,False
+grantje02,23.1,2.0,6.0,0.333,0.0,3.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,3.0,3.0,0.0,0.0,2.0,6.0,-7.0,Jerian Grant,,NYK,False,False
+gallola01,22.283333333333335,1.0,8.0,0.125,0.0,3.0,0.0,1.0,1.0,1.0,0.0,2.0,2.0,3.0,2.0,0.0,2.0,3.0,3.0,-15.0,Langston Galloway,,NYK,False,False
+oquinky01,16.933333333333334,4.0,8.0,0.5,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,0.0,1.0,2.0,8.0,-11.0,Kyle O'Quinn,,NYK,False,False
+serapke01,13.6,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0,6.0,-9.0,Kevin Séraphin,,NYK,False,False
+amundlo01,,,,,,,,,,,,,,,,,,,,,Lou Amundson,Did Not Play,NYK,False,False
+porzikr01,,,,,,,,,,,,,,,,,,,,,Kristaps Porziņģis,Did Not Dress,NYK,False,False
+matthwe02,37.35,4.0,9.0,0.444,1.0,4.0,0.25,7.0,9.0,0.778,0.0,2.0,2.0,4.0,3.0,0.0,2.0,4.0,16.0,-9.0,Wesley Matthews,,DAL,True,True
+feltora01,34.78333333333333,4.0,10.0,0.4,1.0,4.0,0.25,2.0,4.0,0.5,0.0,3.0,3.0,2.0,0.0,0.0,3.0,1.0,11.0,-7.0,Raymond Felton,,DAL,True,True
+nowitdi01,32.733333333333334,5.0,23.0,0.217,1.0,8.0,0.125,0.0,0.0,,0.0,4.0,4.0,2.0,1.0,0.0,1.0,3.0,11.0,-2.0,Dirk Nowitzki,,DAL,True,True
+anderju01,28.833333333333332,3.0,4.0,0.75,1.0,1.0,1.0,0.0,0.0,,1.0,8.0,9.0,0.0,2.0,1.0,0.0,3.0,7.0,2.0,Justin Anderson,,DAL,True,True
+poweldw01,17.783333333333335,1.0,6.0,0.167,0.0,0.0,,0.0,0.0,,3.0,1.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,-12.0,Dwight Powell,,DAL,True,True
+bareajo01,30.033333333333335,10.0,18.0,0.556,4.0,7.0,0.571,2.0,2.0,1.0,1.0,4.0,5.0,7.0,0.0,0.0,2.0,0.0,26.0,17.0,J.J. Barea,,DAL,True,False
+harride01,25.15,3.0,7.0,0.429,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,6.0,12.0,Devin Harris,,DAL,True,False
+pachuza01,19.416666666666668,2.0,3.0,0.667,0.0,0.0,,2.0,2.0,1.0,6.0,3.0,9.0,0.0,1.0,0.0,1.0,0.0,6.0,6.0,Zaza Pachulia,,DAL,True,False
+leeda02,13.933333333333334,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,3.0,3.0,6.0,1.0,0.0,0.0,3.0,3.0,6.0,3.0,David Lee,,DAL,True,False
+mcgeeja01,,,,,,,,,,,,,,,,,,,,,JaVale McGee,Did Not Play,DAL,True,False
+mejrisa01,,,,,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,True,False
+villach01,,,,,,,,,,,,,,,,,,,,,Charlie Villanueva,Did Not Play,DAL,True,False
+willide01,,,,,,,,,,,,,,,,,,,,,Deron Williams,Did Not Dress,DAL,True,False

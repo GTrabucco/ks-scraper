@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+paulch01,37.61666666666667,10.0,21.0,0.476,2.0,7.0,0.286,4.0,4.0,1.0,1.0,2.0,3.0,9.0,3.0,0.0,2.0,4.0,26.0,0.0,Chris Paul,,LAC,False,True
+griffbl01,34.06666666666667,5.0,16.0,0.313,0.0,1.0,0.0,2.0,2.0,1.0,0.0,7.0,7.0,4.0,2.0,0.0,3.0,1.0,12.0,-5.0,Blake Griffin,,LAC,False,True
+jordade01,32.28333333333333,4.0,7.0,0.571,0.0,0.0,,3.0,10.0,0.3,7.0,9.0,16.0,0.0,1.0,2.0,0.0,1.0,11.0,2.0,DeAndre Jordan,,LAC,False,True
+redicjj01,24.55,2.0,10.0,0.2,1.0,4.0,0.25,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,5.0,0.0,J.J. Redick,,LAC,False,True
+mbahalu01,15.166666666666666,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,4.0,-8.0,Luc Mbah a Moute,,LAC,False,True
+crawfja01,29.866666666666667,9.0,18.0,0.5,0.0,3.0,0.0,1.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,19.0,-11.0,Jamal Crawford,,LAC,False,False
+greenje02,22.516666666666666,1.0,5.0,0.2,0.0,1.0,0.0,1.0,2.0,0.5,0.0,2.0,2.0,0.0,2.0,0.0,1.0,1.0,3.0,3.0,Jeff Green,,LAC,False,False
+riverau01,13.55,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,2.0,3.0,4.0,-10.0,Austin Rivers,,LAC,False,False
+johnswe01,12.866666666666667,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,4.0,Wesley Johnson,,LAC,False,False
+aldrico01,12.533333333333333,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,6.0,7.0,0.0,2.0,0.0,0.0,2.0,3.0,-8.0,Cole Aldrich,,LAC,False,False
+piercpa01,4.983333333333333,0.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,-7.0,Paul Pierce,,LAC,False,False
+pendeje02,,,,,,,,,,,,,,,,,,,,,Jeff Ayres,Did Not Play,LAC,False,False
+prigipa01,,,,,,,,,,,,,,,,,,,,,Pablo Prigioni,Did Not Play,LAC,False,False
+mccolcj01,41.833333333333336,11.0,22.0,0.5,2.0,5.0,0.4,3.0,4.0,0.75,2.0,3.0,5.0,2.0,1.0,1.0,2.0,4.0,27.0,13.0,CJ McCollum,,POR,True,True
+lillada01,37.05,10.0,20.0,0.5,3.0,8.0,0.375,9.0,9.0,1.0,2.0,3.0,5.0,2.0,0.0,0.0,5.0,3.0,32.0,4.0,Damian Lillard,,POR,True,True
+aminual01,35.1,4.0,12.0,0.333,1.0,5.0,0.2,0.0,0.0,,2.0,5.0,7.0,0.0,1.0,1.0,0.0,3.0,9.0,2.0,Al-Farouq Aminu,,POR,True,True
+plumlma01,33.13333333333333,2.0,5.0,0.4,0.0,0.0,,2.0,4.0,0.5,3.0,18.0,21.0,9.0,1.0,0.0,2.0,4.0,6.0,7.0,Mason Plumlee,,POR,True,True
+harklma01,31.416666666666668,5.0,9.0,0.556,0.0,3.0,0.0,0.0,2.0,0.0,5.0,2.0,7.0,1.0,0.0,1.0,5.0,4.0,10.0,14.0,Maurice Harkless,,POR,True,True
+crabbal01,19.216666666666665,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,-2.0,Allen Crabbe,,POR,True,False
+davised01,17.583333333333332,2.0,3.0,0.667,0.0,0.0,,2.0,4.0,0.5,2.0,3.0,5.0,0.0,1.0,0.0,0.0,4.0,6.0,-2.0,Ed Davis,,POR,True,False
+hendege02,15.733333333333333,1.0,7.0,0.143,0.0,1.0,0.0,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,-1.0,Gerald Henderson,,POR,True,False
+kamanch01,8.9,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,4.0,5.0,Chris Kaman,,POR,True,False
+connapa01,,,,,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,POR,True,False
+montelu01,,,,,,,,,,,,,,,,,,,,,Luis Montero,Did Not Play,POR,True,False
+roberbr01,,,,,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,POR,True,False
+vonleno01,,,,,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,POR,True,False

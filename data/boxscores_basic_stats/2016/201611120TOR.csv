@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+rosede01,38.13333333333333,10.0,20.0,0.5,0.0,3.0,0.0,1.0,2.0,0.5,2.0,2.0,4.0,4.0,0.0,0.0,4.0,0.0,21.0,0.0,Derrick Rose,,NYK,False,True
+anthoca01,37.68333333333333,10.0,21.0,0.476,3.0,7.0,0.429,8.0,9.0,0.889,0.0,6.0,6.0,4.0,0.0,0.0,1.0,5.0,31.0,-4.0,Carmelo Anthony,,NYK,False,True
+leeco01,33.766666666666666,4.0,7.0,0.571,2.0,3.0,0.667,0.0,0.0,,0.0,5.0,5.0,1.0,0.0,1.0,3.0,4.0,10.0,0.0,Courtney Lee,,NYK,False,True
+noahjo01,32.63333333333333,2.0,9.0,0.222,0.0,0.0,,0.0,2.0,0.0,8.0,10.0,18.0,1.0,2.0,0.0,1.0,2.0,4.0,-5.0,Joakim Noah,,NYK,False,True
+porzikr01,29.816666666666666,9.0,16.0,0.563,2.0,8.0,0.25,1.0,1.0,1.0,1.0,3.0,4.0,2.0,0.0,0.0,2.0,5.0,21.0,-12.0,Kristaps Porziņģis,,NYK,False,True
+jennibr01,15.6,2.0,6.0,0.333,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,5.0,1.0,0.0,0.0,2.0,6.0,-15.0,Brandon Jennings,,NYK,False,False
+holidju01,14.383333333333333,1.0,4.0,0.25,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,-14.0,Justin Holiday,,NYK,False,False
+oquinky01,14.333333333333334,5.0,7.0,0.714,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,1.0,0.0,1.0,2.0,2.0,10.0,8.0,Kyle O'Quinn,,NYK,False,False
+kuzmimi01,10.85,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,2.0,2.0,4.0,0.0,0.0,0.0,0.0,1.0,2.0,-4.0,Mindaugas Kuzminskas,,NYK,False,False
+thomala01,8.733333333333333,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,Lance Thomas,,NYK,False,False
+hernawi01,4.083333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,-5.0,Willy Hernangómez,,NYK,False,False
+ndourma01,,,,,,,,,,,,,,,,,,,,,Maurice Ndour,Did Not Play,NYK,False,False
+vujacsa01,,,,,,,,,,,,,,,,,,,,,Sasha Vujačić,Did Not Play,NYK,False,False
+lowryky01,40.8,7.0,15.0,0.467,0.0,5.0,0.0,2.0,2.0,1.0,3.0,3.0,6.0,6.0,0.0,0.0,2.0,3.0,16.0,18.0,Kyle Lowry,,TOR,True,True
+derozde01,36.21666666666667,11.0,23.0,0.478,1.0,1.0,1.0,10.0,13.0,0.769,2.0,5.0,7.0,4.0,2.0,0.0,2.0,1.0,33.0,7.0,DeMar DeRozan,,TOR,True,True
+powelno01,29.066666666666666,4.0,10.0,0.4,3.0,6.0,0.5,8.0,8.0,1.0,0.0,5.0,5.0,2.0,1.0,0.0,0.0,3.0,19.0,15.0,Norman Powell,,TOR,True,True
+valanjo01,22.383333333333333,4.0,8.0,0.5,0.0,0.0,,5.0,6.0,0.833,2.0,6.0,8.0,0.0,1.0,1.0,3.0,2.0,13.0,3.0,Jonas Valančiūnas,,TOR,True,True
+siakapa01,20.25,4.0,5.0,0.8,0.0,0.0,,1.0,1.0,1.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,2.0,9.0,-6.0,Pascal Siakam,,TOR,True,True
+pattepa01,27.75,3.0,8.0,0.375,2.0,7.0,0.286,2.0,2.0,1.0,0.0,5.0,5.0,2.0,1.0,0.0,0.0,3.0,10.0,17.0,Patrick Patterson,,TOR,True,False
+noguelu01,25.616666666666667,3.0,3.0,1.0,0.0,0.0,,0.0,0.0,,4.0,6.0,10.0,1.0,3.0,5.0,0.0,2.0,6.0,8.0,Lucas Nogueira,,TOR,True,False
+josepco01,20.2,0.0,3.0,0.0,0.0,1.0,0.0,1.0,2.0,0.5,0.0,1.0,1.0,3.0,0.0,0.0,3.0,3.0,1.0,-7.0,Cory Joseph,,TOR,True,False
+rosste01,17.716666666666665,3.0,8.0,0.375,1.0,2.0,0.5,4.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,11.0,0.0,Terrence Ross,,TOR,True,False
+cabocbr01,,,,,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,TOR,True,False
+carrode01,,,,,,,,,,,,,,,,,,,,,DeMarre Carroll,Did Not Play,TOR,True,False
+poeltja01,,,,,,,,,,,,,,,,,,,,,Jakob Poeltl,Did Not Play,TOR,True,False
+vanvlfr01,,,,,,,,,,,,,,,,,,,,,Fred VanVleet,Did Not Play,TOR,True,False

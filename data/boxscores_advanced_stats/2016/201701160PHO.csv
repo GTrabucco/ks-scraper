@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+goberru01,36.45,0.634,0.667,0.0,0.417,16.8,38.1,26.3,4.3,1.5,8.9,12.3,19.8,124.0,101.0,7.1,Rudy Gobert,,UTA,False,True
+inglejo01,33.7,0.917,0.917,0.667,0.0,0.0,7.5,3.4,20.2,3.1,0.0,14.3,9.3,162.0,110.0,8.4,Joe Ingles,,UTA,False,True
+hillge01,33.35,0.45,0.417,0.444,0.111,6.1,22.7,13.5,14.0,0.0,2.4,13.7,29.3,93.0,112.0,-3.8,George Hill,,UTA,False,True
+haywago01,32.4,0.501,0.346,0.231,0.692,0.0,15.6,7.0,21.1,0.0,0.0,5.6,24.7,117.0,116.0,0.8,Gordon Hayward,,UTA,False,True
+favorde01,24.466666666666665,0.446,0.455,0.0,0.273,12.5,5.2,9.2,6.3,2.2,3.3,7.5,24.3,100.0,109.0,-2.3,Derrick Favors,,UTA,False,True
+johnsjo02,24.366666666666667,0.759,0.722,0.444,0.222,4.2,15.6,9.3,6.3,0.0,0.0,0.0,18.1,162.0,116.0,9.9,Joe Johnson,,UTA,False,False
+diawbo01,21.95,0.6,0.6,0.2,0.0,9.3,5.8,7.7,47.1,0.0,0.0,0.0,20.3,147.0,117.0,9.9,Boris Diaw,,UTA,False,False
+netora01,10.716666666666667,0.4,0.4,0.2,0.0,0.0,11.8,5.3,0.0,0.0,0.0,0.0,20.8,87.0,116.0,-14.9,Raul Neto,,UTA,False,False
+burksal01,9.066666666666666,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.9,0.0,118.0,-33.9,Alec Burks,,UTA,False,False
+exumda01,7.6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.9,0.0,118.0,-16.0,Dante Exum,,UTA,False,False
+lylestr01,5.933333333333334,0.568,,,,0.0,63.9,28.6,0.0,0.0,0.0,0.0,6.6,122.0,109.0,-7.7,Trey Lyles,,UTA,False,False
+witheje01,,,,,,,,,,,,,,,,,Jeff Withey,Did Not Play,UTA,False,False
+macksh01,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,UTA,False,False
+bookede01,46.03333333333333,0.526,0.477,0.227,0.182,0.0,0.0,0.0,3.5,0.0,0.0,11.2,28.6,96.0,125.0,-7.3,Devin Booker,,PHO,True,True
+bledser01,36.983333333333334,0.672,0.6,0.3,0.35,6.8,19.3,13.7,45.4,1.4,0.0,8.0,33.4,139.0,115.0,16.3,Eric Bledsoe,,PHO,True,True
+warretj01,30.933333333333334,0.856,0.786,0.143,0.571,0.0,3.3,1.8,4.8,1.7,0.0,0.0,13.9,177.0,120.0,6.2,T.J. Warren,,PHO,True,True
+chrisma01,22.1,0.265,0.222,0.333,0.111,5.7,9.2,7.7,0.0,0.0,0.0,0.0,21.0,65.0,121.0,-17.2,Marquese Chriss,,PHO,True,True
+lenal01,20.833333333333332,0.676,0.75,0.0,0.25,0.0,24.5,13.6,0.0,0.0,7.0,18.4,12.9,104.0,111.0,-0.4,Alex Len,,PHO,True,True
+tuckepj01,27.166666666666668,0.667,0.667,0.167,0.0,9.3,41.4,27.0,0.0,3.9,0.0,0.0,10.9,145.0,101.0,5.5,P.J. Tucker,,PHO,True,False
+bendedr01,24.733333333333334,0.625,0.625,0.75,0.0,5.1,12.4,9.1,0.0,0.0,5.9,20.0,10.0,107.0,116.0,-0.3,Dragan Bender,,PHO,True,False
+barbole01,15.816666666666666,0.667,0.667,0.333,0.0,0.0,19.4,10.7,17.9,0.0,4.6,40.0,15.6,90.0,115.0,0.1,Leandro Barbosa,,PHO,True,False
+ulisty01,11.166666666666666,0.0,0.0,0.5,0.0,0.0,9.1,5.1,0.0,0.0,0.0,0.0,17.6,0.0,122.0,-22.5,Tyler Ulis,,PHO,True,False
+willial03,4.233333333333333,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.3,101.0,123.0,-14.3,Alan Williams,,PHO,True,False
+knighbr03,,,,,,,,,,,,,,,,,Brandon Knight,Did Not Dress,PHO,True,False
+dudleja01,,,,,,,,,,,,,,,,,Jared Dudley,Did Not Dress,PHO,True,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Dress,PHO,True,False

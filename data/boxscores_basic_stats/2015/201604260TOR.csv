@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+georgpa01,41.083333333333336,11.0,19.0,0.579,5.0,11.0,0.455,12.0,12.0,1.0,1.0,7.0,8.0,8.0,2.0,1.0,3.0,4.0,39.0,15.0,Paul George,,IND,False,True
+turnemy01,35.166666666666664,7.0,10.0,0.7,0.0,0.0,,0.0,0.0,,2.0,6.0,8.0,1.0,0.0,3.0,3.0,4.0,14.0,9.0,Myles Turner,,IND,False,True
+hillge01,34.06666666666667,5.0,9.0,0.556,4.0,7.0,0.571,1.0,1.0,1.0,0.0,2.0,2.0,3.0,1.0,1.0,0.0,3.0,15.0,6.0,George Hill,,IND,False,True
+ellismo01,32.93333333333333,3.0,10.0,0.3,0.0,2.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,3.0,2.0,0.0,2.0,3.0,8.0,5.0,Monta Ellis,,IND,False,True
+mahinia01,18.9,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,2.0,4.0,6.0,0.0,0.0,0.0,2.0,4.0,4.0,-9.0,Ian Mahinmi,,IND,False,True
+hillso01,30.383333333333333,3.0,4.0,0.75,3.0,3.0,1.0,2.0,2.0,1.0,1.0,5.0,6.0,0.0,0.0,0.0,0.0,4.0,11.0,-8.0,Solomon Hill,,IND,False,False
+stuckro01,21.516666666666666,1.0,10.0,0.1,0.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,2.0,5.0,0.0,0.0,3.0,1.0,2.0,1.0,Rodney Stuckey,,IND,False,False
+milescj01,17.483333333333334,2.0,8.0,0.25,1.0,5.0,0.2,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,0.0,0.0,1.0,5.0,-19.0,C.J. Miles,,IND,False,False
+lawsoty01,7.483333333333333,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,-18.0,Ty Lawson,,IND,False,False
+allenla01,0.9833333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,Lavoy Allen,,IND,False,False
+hilljo01,,,,,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,IND,False,False
+robingl02,,,,,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,False,False
+youngjo01,,,,,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,False,False
+derozde01,39.63333333333333,10.0,22.0,0.455,2.0,4.0,0.5,12.0,13.0,0.923,1.0,2.0,3.0,2.0,1.0,0.0,1.0,3.0,34.0,5.0,DeMar DeRozan,,TOR,True,True
+lowryky01,36.983333333333334,3.0,11.0,0.273,1.0,5.0,0.2,7.0,8.0,0.875,1.0,3.0,4.0,5.0,1.0,0.0,0.0,4.0,14.0,7.0,Kyle Lowry,,TOR,True,True
+pattepa01,25.916666666666668,3.0,10.0,0.3,1.0,4.0,0.25,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,7.0,-20.0,Patrick Patterson,,TOR,True,True
+carrode01,25.816666666666666,1.0,3.0,0.333,0.0,1.0,0.0,3.0,4.0,0.75,1.0,2.0,3.0,0.0,2.0,0.0,0.0,4.0,5.0,-11.0,DeMarre Carroll,,TOR,True,True
+valanjo01,22.566666666666666,5.0,8.0,0.625,0.0,0.0,,1.0,3.0,0.333,3.0,2.0,5.0,2.0,1.0,2.0,4.0,0.0,11.0,-6.0,Jonas Valančiūnas,,TOR,True,True
+powelno01,28.15,4.0,11.0,0.364,0.0,4.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,0.0,2.0,0.0,0.0,1.0,10.0,16.0,Norman Powell,,TOR,True,False
+biyombi01,23.516666666666666,3.0,5.0,0.6,0.0,0.0,,4.0,4.0,1.0,4.0,12.0,16.0,1.0,0.0,0.0,1.0,1.0,10.0,10.0,Bismack Biyombo,,TOR,True,False
+josepco01,23.016666666666666,3.0,6.0,0.5,1.0,2.0,0.5,1.0,1.0,1.0,2.0,1.0,3.0,1.0,2.0,1.0,0.0,1.0,8.0,12.0,Cory Joseph,,TOR,True,False
+rosste01,14.4,1.0,6.0,0.167,1.0,6.0,0.167,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,Terrence Ross,,TOR,True,False
+johnsja01,,,,,,,,,,,,,,,,,,,,,James Johnson,Did Not Play,TOR,True,False
+scolalu01,,,,,,,,,,,,,,,,,,,,,Luis Scola,Did Not Play,TOR,True,False
+thompja02,,,,,,,,,,,,,,,,,,,,,Jason Thompson,Did Not Play,TOR,True,False
+wrighde01,,,,,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,True,False

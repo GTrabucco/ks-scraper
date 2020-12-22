@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+fournev01,42.75,0.718,0.7,0.45,0.1,0.0,10.2,5.6,15.7,2.2,0.0,8.7,22.7,132.0,92.0,10.7,Evan Fournier,,ORL,False,True
+oladivi01,35.93333333333333,0.644,0.563,0.375,0.375,0.0,17.0,9.3,10.9,0.0,2.5,17.7,13.3,114.0,93.0,0.9,Victor Oladipo,,ORL,False,True
+vucevni01,33.7,0.503,0.476,0.0,0.095,12.4,23.3,18.3,15.4,1.4,2.6,8.4,30.0,105.0,88.0,4.4,Nikola Vučević,,ORL,False,True
+paytoel01,29.466666666666665,0.333,0.333,0.167,0.0,7.1,5.9,6.5,45.9,1.6,0.0,29.4,24.4,78.0,95.0,-4.4,Elfrid Payton,,ORL,False,True
+harrito02,29.383333333333333,0.409,0.409,0.273,0.0,14.2,26.7,21.0,4.6,1.6,0.0,8.3,17.3,95.0,88.0,-1.6,Tobias Harris,,ORL,False,True
+watsocj01,20.45,1.078,1.0,0.0,3.0,0.0,8.5,4.6,11.8,0.0,0.0,30.1,6.9,159.0,98.0,2.1,C.J. Watson,,ORL,False,False
+smithja02,16.266666666666666,0.338,0.25,0.0,0.25,0.0,16.1,8.8,0.0,0.0,0.0,10.1,25.7,66.0,95.0,-13.0,Jason Smith,,ORL,False,False
+hezonma01,14.516666666666667,0.75,0.75,0.5,0.0,0.0,12.0,6.5,8.5,0.0,0.0,60.0,14.6,57.0,97.0,-6.2,Mario Hezonja,,ORL,False,False
+dedmode01,12.183333333333334,0.6,0.6,0.0,0.0,0.0,28.7,15.6,0.0,0.0,7.3,0.0,17.4,117.0,86.0,4.5,Dewayne Dedmon,,ORL,False,False
+gordoaa01,4.466666666666667,0.5,0.5,0.0,0.0,0.0,39.1,21.3,0.0,0.0,0.0,33.3,28.5,60.0,85.0,-17.1,Aaron Gordon,,ORL,False,False
+napiesh01,0.8833333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,101.0,-6.2,Shabazz Napier,,ORL,False,False
+fryech01,,,,,,,,,,,,,,,,,Channing Frye,Did Not Play,ORL,False,False
+nichoan01,,,,,,,,,,,,,,,,,Andrew Nicholson,Did Not Play,ORL,False,False
+gordoer01,37.81666666666667,0.528,0.526,0.632,0.105,2.3,2.8,2.5,23.2,0.0,0.0,16.8,26.4,89.0,112.0,-4.1,Eric Gordon,,NOP,True,True
+davisan02,36.266666666666666,0.427,0.25,0.167,0.833,2.4,23.0,11.8,4.7,1.3,9.2,10.9,21.2,85.0,95.0,-3.1,Anthony Davis,,NOP,True,True
+babbilu01,28.166666666666668,0.5,0.5,0.75,0.0,0.0,29.6,13.5,6.3,1.7,0.0,0.0,11.9,100.0,101.0,-1.6,Luke Babbitt,,NOP,True,True
+holidjr01,23.4,0.448,0.385,0.231,0.462,0.0,8.9,4.1,34.5,4.0,2.8,16.1,33.2,83.0,99.0,2.5,Jrue Holiday,,NOP,True,True
+ajincal01,20.483333333333334,0.4,0.4,0.0,0.0,4.3,15.3,9.3,8.6,0.0,6.5,16.7,12.2,78.0,103.0,-6.5,Alexis Ajinça,,NOP,True,True
+anderry01,26.6,0.418,0.367,0.467,0.267,3.3,11.8,7.1,0.0,5.3,2.5,0.0,26.3,88.0,95.0,2.0,Ryan Anderson,,NOP,True,False
+cunnida01,21.183333333333334,0.425,0.4,0.4,0.4,4.1,24.6,13.5,8.2,2.2,0.0,0.0,11.6,99.0,101.0,-2.8,Dante Cunningham,,NOP,True,False
+douglto01,19.533333333333335,0.699,0.667,0.333,0.167,8.9,21.4,14.6,44.3,4.8,0.0,23.7,18.0,120.0,96.0,4.2,Toney Douglas,,NOP,True,False
+smithis01,16.6,0.5,0.5,0.333,0.0,5.3,12.6,8.6,69.5,2.8,0.0,25.0,10.1,126.0,103.0,5.1,Ish Smith,,NOP,True,False
+geeal01,9.95,0.25,0.25,0.25,0.0,17.5,0.0,9.6,0.0,4.7,0.0,20.0,21.0,60.0,102.0,-9.5,Alonzo Gee,,NOP,True,False
+asikom01,,,,,,,,,,,,,,,,,Ömer Aşık,Did Not Play,NOP,True,False

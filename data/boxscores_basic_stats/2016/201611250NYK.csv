@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+batumni01,45.3,7.0,17.0,0.412,1.0,7.0,0.143,3.0,6.0,0.5,0.0,9.0,9.0,9.0,0.0,1.0,2.0,0.0,18.0,3.0,Nicolas Batum,,CHO,False,True
+walkeke02,32.233333333333334,7.0,16.0,0.438,0.0,5.0,0.0,3.0,5.0,0.6,1.0,4.0,5.0,3.0,4.0,0.0,3.0,3.0,17.0,-2.0,Kemba Walker,,CHO,False,True
+kiddgmi01,29.283333333333335,4.0,6.0,0.667,0.0,0.0,,1.0,2.0,0.5,0.0,2.0,2.0,1.0,0.0,1.0,2.0,2.0,9.0,-13.0,Michael Kidd-Gilchrist,,CHO,False,True
+zelleco01,23.483333333333334,7.0,10.0,0.7,0.0,0.0,,1.0,4.0,0.25,2.0,4.0,6.0,2.0,0.0,0.0,1.0,3.0,15.0,-2.0,Cody Zeller,,CHO,False,True
+willima02,16.716666666666665,3.0,5.0,0.6,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,8.0,2.0,Marvin Williams,,CHO,False,True
+kaminfr01,39.916666666666664,3.0,14.0,0.214,1.0,7.0,0.143,6.0,6.0,1.0,2.0,7.0,9.0,4.0,0.0,0.0,3.0,1.0,13.0,-4.0,Frank Kaminsky,,CHO,False,False
+belinma01,32.55,7.0,11.0,0.636,5.0,6.0,0.833,0.0,0.0,,1.0,1.0,2.0,3.0,1.0,0.0,1.0,1.0,19.0,2.0,Marco Belinelli,,CHO,False,False
+sessira01,24.916666666666668,4.0,9.0,0.444,0.0,2.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,1.0,0.0,0.0,2.0,8.0,2.0,Ramon Sessions,,CHO,False,False
+hibbero01,20.55,1.0,5.0,0.2,0.0,0.0,,2.0,2.0,1.0,3.0,5.0,8.0,0.0,0.0,1.0,1.0,1.0,4.0,2.0,Roy Hibbert,,CHO,False,False
+hawessp01,0.05,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Spencer Hawes,,CHO,False,False
+grahatr01,,,,,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Play,CHO,False,False
+lambje01,,,,,,,,,,,,,,,,,,,,,Jeremy Lamb,Did Not Play,CHO,False,False
+roberbr01,,,,,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,CHO,False,False
+anthoca01,41.15,14.0,25.0,0.56,3.0,6.0,0.5,4.0,4.0,1.0,1.0,12.0,13.0,5.0,2.0,1.0,2.0,2.0,35.0,7.0,Carmelo Anthony,,NYK,True,True
+rosede01,38.11666666666667,6.0,13.0,0.462,0.0,1.0,0.0,4.0,5.0,0.8,2.0,1.0,3.0,5.0,1.0,1.0,3.0,1.0,16.0,7.0,Derrick Rose,,NYK,True,True
+leeco01,37.666666666666664,4.0,10.0,0.4,2.0,4.0,0.5,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,0.0,1.0,2.0,12.0,13.0,Courtney Lee,,NYK,True,True
+porzikr01,33.666666666666664,6.0,16.0,0.375,4.0,8.0,0.5,0.0,0.0,,2.0,6.0,8.0,2.0,1.0,3.0,3.0,4.0,16.0,-12.0,Kristaps Porziņģis,,NYK,True,True
+noahjo01,17.983333333333334,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,4.0,5.0,9.0,1.0,1.0,0.0,0.0,3.0,6.0,-9.0,Joakim Noah,,NYK,True,True
+kuzmimi01,24.45,0.0,6.0,0.0,0.0,4.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,2.0,1.0,0.0,0.0,2.0,2.0,13.0,Mindaugas Kuzminskas,,NYK,True,False
+hernawi01,19.733333333333334,3.0,5.0,0.6,0.0,0.0,,0.0,0.0,,2.0,7.0,9.0,2.0,0.0,1.0,4.0,3.0,6.0,16.0,Willy Hernangómez,,NYK,True,False
+oquinky01,17.016666666666666,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,3.0,0.0,2.0,0.0,2.0,8.0,-10.0,Kyle O'Quinn,,NYK,True,False
+holidju01,15.866666666666667,4.0,6.0,0.667,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,9.0,-11.0,Justin Holiday,,NYK,True,False
+jennibr01,15.7,1.0,4.0,0.25,1.0,3.0,0.333,0.0,0.0,,0.0,3.0,3.0,3.0,0.0,0.0,2.0,1.0,3.0,-8.0,Brandon Jennings,,NYK,True,False
+vujacsa01,3.65,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,Sasha Vujačić,,NYK,True,False
+bakerro01,,,,,,,,,,,,,,,,,,,,,Ron Baker,Did Not Play,NYK,True,False
+ndourma01,,,,,,,,,,,,,,,,,,,,,Maurice Ndour,Did Not Play,NYK,True,False

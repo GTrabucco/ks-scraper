@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+grahade01,34.166666666666664,0.435,0.286,0.286,0.714,5.5,4.3,5.0,37.0,0.0,0.0,24.6,30.9,85.0,127.0,-10.9,Devonte' Graham,,CHO,False,True
+roziete01,32.35,0.598,0.567,0.4,0.133,2.9,36.0,15.9,29.0,0.0,0.0,15.9,25.2,106.0,122.0,1.6,Terry Rozier,,CHO,False,True
+bridgmi02,30.65,0.654,0.583,0.5,0.333,3.1,4.7,3.7,10.0,1.6,0.0,0.0,9.7,143.0,123.0,-2.3,Miles Bridges,,CHO,False,True
+washipj01,23.466666666666665,0.5,0.5,0.25,0.0,8.0,12.4,9.7,0.0,4.2,0.0,0.0,14.7,108.0,116.0,-3.1,P.J. Washington,,CHO,False,True
+zelleco01,16.766666666666666,0.592,0.625,0.25,0.125,0.0,17.4,6.8,13.2,2.9,0.0,0.0,21.8,113.0,118.0,3.3,Cody Zeller,,CHO,False,True
+biyombi01,21.95,0.628,0.571,0.0,0.571,8.6,19.9,13.0,8.0,0.0,0.0,10.2,19.2,121.0,124.0,-3.1,Bismack Biyombo,,CHO,False,False
+monkma01,20.433333333333334,0.488,0.417,0.583,0.25,0.0,14.2,5.6,17.7,2.4,0.0,0.0,28.2,106.0,120.0,0.5,Malik Monk,,CHO,False,False
+batumni01,18.55,0.3,0.3,1.0,0.0,0.0,15.7,6.2,31.0,7.9,0.0,28.6,16.3,66.0,107.0,-0.8,Nicolas Batum,,CHO,False,False
+willima02,16.066666666666666,0.75,0.75,1.0,0.0,5.9,9.1,7.1,9.0,0.0,0.0,0.0,5.4,161.0,126.0,-2.1,Marvin Williams,,CHO,False,False
+bacondw01,15.883333333333333,0.073,0.0,0.167,0.333,0.0,18.3,7.2,8.4,6.2,0.0,0.0,18.7,25.0,110.0,-11.8,Dwayne Bacon,,CHO,False,False
+martico01,6.166666666666667,0.82,1.0,0.0,0.5,15.3,0.0,9.3,0.0,7.9,0.0,29.1,24.1,97.0,109.0,6.0,Cody Martin,,CHO,False,False
+hernawi01,3.55,0.75,0.75,0.5,0.0,0.0,41.0,16.1,0.0,0.0,0.0,0.0,24.4,128.0,121.0,13.8,Willy Hernangómez,,CHO,False,False
+kiddgmi01,,,,,,,,,,,,,,,,,Michael Kidd-Gilchrist,Did Not Play,CHO,False,False
+adebaba01,34.11666666666667,0.648,0.571,0.0,0.357,4.3,33.1,21.8,24.5,0.0,2.6,15.6,25.2,123.0,100.0,3.4,Bam Adebayo,,MIA,True,True
+nunnke01,31.2,0.95,0.95,0.6,0.0,0.0,6.0,3.7,21.1,1.6,0.0,9.1,15.8,164.0,106.0,9.9,Kendrick Nunn,,MIA,True,True
+butleji01,31.083333333333332,0.702,0.545,0.182,0.818,9.4,3.0,5.5,35.2,1.6,2.9,16.7,25.8,139.0,105.0,7.6,Jimmy Butler,,MIA,True,True
+robindu01,22.383333333333333,0.5,0.5,1.0,0.0,0.0,4.2,2.6,12.0,6.6,0.0,0.0,12.0,117.0,95.0,0.9,Duncan Robinson,,MIA,True,True
+leoname01,17.316666666666666,0.45,0.5,0.5,0.25,8.4,16.3,13.2,0.0,0.0,5.1,18.4,14.1,80.0,103.0,-8.3,Meyers Leonard,,MIA,True,True
+olynyke01,31.983333333333334,0.889,0.875,0.625,0.125,13.6,38.3,28.6,4.6,3.1,0.0,32.2,17.4,114.0,94.0,7.0,Kelly Olynyk,,MIA,True,False
+herroty01,29.716666666666665,0.61,0.538,0.538,0.308,0.0,6.3,3.8,5.3,0.0,0.0,0.0,22.2,129.0,109.0,-2.8,Tyler Herro,,MIA,True,False
+dragigo01,28.383333333333333,0.307,0.25,0.375,0.5,0.0,9.9,6.0,41.6,3.5,0.0,33.9,23.3,77.0,101.0,-7.5,Goran Dragić,,MIA,True,False
+silvach01,13.816666666666666,0.735,0.667,0.0,1.333,10.5,27.2,20.7,0.0,0.0,0.0,17.4,18.6,128.0,103.0,-7.6,Chris Silva,,MIA,True,False
+jonesde02,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Dress,MIA,True,False
+johnsja01,,,,,,,,,,,,,,,,,James Johnson,Did Not Play,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Not With Team,MIA,True,False

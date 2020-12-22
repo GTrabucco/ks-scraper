@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+barrerj01,33.95,0.523,0.529,0.294,0.412,2.9,16.4,9.2,14.8,1.4,0.0,19.9,29.3,92.0,123.0,-7.1,RJ Barrett,,NYK,False,True
+smithde03,29.433333333333334,0.528,0.458,0.167,0.417,3.3,22.8,12.4,25.6,11.0,0.0,17.4,23.1,107.0,101.0,8.5,Dennis Smith,,NYK,False,True
+harklma01,28.35,0.583,0.583,0.5,0.0,0.0,3.9,1.8,4.8,1.6,8.9,0.0,8.4,132.0,117.0,-2.9,Maurice Harkless,,NYK,False,True
+randlju01,27.7,0.485,0.357,0.143,0.571,17.7,28.2,22.6,16.6,1.7,0.0,18.6,30.8,102.0,121.0,-5.1,Julius Randle,,NYK,False,True
+gibsota01,12.183333333333334,0.6,0.6,0.0,0.0,24.1,18.3,21.4,0.0,0.0,0.0,0.0,16.3,143.0,125.0,-2.7,Taj Gibson,,NYK,False,True
+robinmi01,25.783333333333335,0.74,0.8,0.0,0.8,19.0,13.0,16.2,11.4,3.6,24.5,12.9,11.9,148.0,102.0,7.7,Mitchell Robinson,,NYK,False,False
+portibo01,24.566666666666666,0.51,0.4,0.3,0.4,0.0,36.4,17.0,12.1,0.0,0.0,7.8,20.6,112.0,124.0,-5.5,Bobby Portis,,NYK,False,False
+bullore01,21.65,0.3,0.3,0.6,0.0,0.0,5.2,2.4,17.6,0.0,5.8,0.0,9.1,100.0,123.0,-6.7,Reggie Bullock,,NYK,False,False
+dotsoda01,17.683333333333334,0.643,0.643,0.857,0.0,0.0,25.3,11.8,8.5,0.0,0.0,12.5,17.9,120.0,125.0,-2.7,Damyean Dotson,,NYK,False,False
+knoxke01,12.333333333333334,0.25,0.25,0.5,0.0,0.0,9.1,4.2,0.0,0.0,0.0,14.3,22.5,50.0,126.0,-20.9,Kevin Knox,,NYK,False,False
+trieral01,6.366666666666666,0.922,1.0,0.5,0.5,15.4,0.0,8.2,0.0,0.0,0.0,17.0,36.6,130.0,128.0,21.1,Allonzo Trier,,NYK,False,False
+ellinwa01,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,NYK,False,False
+hardeja01,33.86666666666667,0.639,0.64,0.44,0.36,6.6,11.6,9.2,55.1,2.7,0.0,17.2,44.0,117.0,109.0,8.1,James Harden,,HOU,True,True
+covinro01,30.066666666666666,0.55,0.55,0.8,0.0,0.0,22.8,12.1,4.4,1.5,10.3,9.1,15.6,99.0,101.0,1.8,Robert Covington,,HOU,True,True
+gordoer01,28.0,0.498,0.346,0.538,0.538,0.0,0.0,0.0,9.5,3.3,0.0,15.7,29.0,91.0,112.0,-9.0,Eric Gordon,,HOU,True,True
+houseda01,25.833333333333332,0.61,0.5,0.333,0.833,4.3,15.2,10.1,19.9,1.8,3.0,0.0,13.5,146.0,108.0,4.4,Danuel House,,HOU,True,True
+tuckepj01,24.85,0.333,0.333,0.667,0.0,4.5,15.8,10.5,4.7,1.9,3.1,0.0,5.1,102.0,107.0,-2.5,P.J. Tucker,,HOU,True,True
+mclembe01,29.216666666666665,0.715,0.727,0.818,0.182,0.0,10.1,5.4,0.0,0.0,0.0,14.4,20.2,112.0,115.0,-3.8,Ben McLemore,,HOU,True,False
+riverau01,24.216666666666665,0.751,0.75,0.375,0.375,0.0,4.0,2.2,6.0,0.0,0.0,9.7,18.2,133.0,117.0,-3.6,Austin Rivers,,HOU,True,False
+greenje02,16.1,1.16,1.167,0.333,0.667,0.0,12.2,6.5,8.8,5.7,4.8,0.0,10.3,238.0,99.0,15.9,Jeff Green,,HOU,True,False
+carrode01,14.4,0.554,0.7,0.6,0.6,0.0,27.2,14.5,0.0,3.2,0.0,0.0,18.7,102.0,101.0,-1.3,DeMarre Carroll,,HOU,True,False
+sefolth01,10.383333333333333,0.0,0.0,1.0,0.0,0.0,28.3,15.1,10.8,4.4,0.0,0.0,4.1,59.0,98.0,-1.8,Thabo Sefolosha,,HOU,True,False
+cabocbr01,3.066666666666667,0.0,0.0,1.0,0.0,36.4,31.9,34.0,0.0,0.0,0.0,0.0,13.9,74.0,107.0,-16.3,Bruno Caboclo,,HOU,True,False
+westbru01,,,,,,,,,,,,,,,,,Russell Westbrook,Did Not Dress,HOU,True,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,True,False

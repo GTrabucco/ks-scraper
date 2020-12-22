@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+gordoaa01,33.0,0.597,0.6,0.333,0.267,7.1,21.4,13.6,15.9,1.5,0.0,5.6,23.5,126.0,123.0,3.0,Aaron Gordon,,ORL,False,True
+vucevni01,32.86666666666667,0.676,0.625,0.25,0.25,10.7,30.1,19.5,11.3,1.5,0.0,14.5,27.5,125.0,123.0,4.9,Nikola Vučević,,ORL,False,True
+fournev01,32.13333333333333,0.322,0.3,0.8,0.2,3.6,22.0,12.0,12.4,0.0,0.0,0.0,14.8,93.0,127.0,-6.7,Evan Fournier,,ORL,False,True
+ennisja01,27.383333333333333,0.636,0.611,0.444,0.111,4.3,15.5,9.3,11.6,0.0,3.4,17.5,18.2,114.0,123.0,-0.3,James Ennis,,ORL,False,True
+augusdj01,24.4,0.25,0.25,0.5,0.0,0.0,0.0,0.0,26.6,0.0,0.0,42.9,12.5,66.0,128.0,-12.1,D.J. Augustin,,ORL,False,True
+rosste01,25.433333333333334,0.716,0.55,0.8,0.9,0.0,16.7,7.5,0.0,2.0,0.0,17.7,29.1,123.0,122.0,2.5,Terrence Ross,,ORL,False,False
+fultzma01,23.433333333333334,0.556,0.556,0.222,0.0,5.0,12.0,8.2,19.9,0.0,0.0,18.2,20.5,106.0,127.0,-3.5,Markelle Fultz,,ORL,False,False
+iwundwe01,17.883333333333333,1.0,1.0,0.0,0.0,0.0,15.8,7.2,8.0,0.0,5.3,33.3,7.3,126.0,121.0,-0.6,Wesley Iwundu,,ORL,False,False
+birchkh01,15.133333333333333,0.717,0.75,0.0,0.5,23.2,37.3,29.6,0.0,0.0,0.0,29.1,19.8,111.0,126.0,-3.5,Khem Birch,,ORL,False,False
+cartemi01,8.333333333333334,0.436,0.333,0.333,0.333,0.0,16.9,7.7,34.7,0.0,0.0,22.5,23.2,93.0,127.0,-4.5,Michael Carter-Williams,,ORL,False,False
+clarkga01,,,,,,,,,,,,,,,,,Gary Clark,Did Not Play,ORL,False,False
+frazime01,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,False,False
+bambamo01,,,,,,,,,,,,,,,,,Mohamed Bamba,Did Not Play,ORL,False,False
+warretj01,38.31666666666667,0.873,0.882,0.294,0.176,0.0,6.1,3.3,12.6,3.9,2.6,0.0,23.1,166.0,110.0,13.9,T.J. Warren,,IND,True,True
+turnemy01,34.95,0.823,0.818,0.455,0.364,4.0,16.7,11.0,7.5,1.4,2.9,19.0,21.8,126.0,113.0,2.9,Myles Turner,,IND,True,True
+holidaa01,34.03333333333333,0.551,0.5,0.4,0.2,0.0,13.8,7.5,14.0,0.0,0.0,8.4,16.9,109.0,119.0,-5.5,Aaron Holiday,,IND,True,True
+brogdma01,32.56666666666667,0.41,0.333,0.417,0.5,0.0,14.4,7.9,29.4,0.0,0.0,0.0,21.7,107.0,118.0,-6.4,Malcolm Brogdon,,IND,True,True
+oladivi01,27.216666666666665,0.666,0.563,0.5,0.5,0.0,21.5,11.8,9.1,3.7,0.0,9.3,19.1,124.0,108.0,-0.7,Victor Oladipo,,IND,True,True
+holidju01,22.616666666666667,0.357,0.357,0.714,0.0,0.0,20.7,11.3,0.0,2.2,4.4,0.0,15.0,67.0,109.0,-7.3,Justin Holiday,,IND,True,False
+mccontj01,18.983333333333334,0.857,0.857,0.0,0.0,7.4,18.5,13.5,41.0,2.6,0.0,0.0,17.8,183.0,111.0,13.4,T.J. McConnell,,IND,True,False
+sampsja02,13.05,0.8,0.8,0.0,0.0,0.0,0.0,0.0,47.0,3.8,0.0,16.7,22.2,144.0,114.0,10.8,JaKarr Sampson,,IND,True,False
+mcderdo01,12.5,0.25,0.25,0.5,0.0,0.0,28.1,15.4,9.1,4.0,0.0,20.0,19.3,50.0,106.0,-11.3,Doug McDermott,,IND,True,False
+sumneed01,5.766666666666667,0.5,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.1,89.0,123.0,-8.1,Edmond Sumner,,IND,True,False
+johnsal02,,,,,,,,,,,,,,,,,Alize Johnson,Did Not Play,IND,True,False
+bitadgo01,,,,,,,,,,,,,,,,,Goga Bitadze,Did Not Play,IND,True,False
+leaftj01,,,,,,,,,,,,,,,,,T.J. Leaf,Did Not Play,IND,True,False

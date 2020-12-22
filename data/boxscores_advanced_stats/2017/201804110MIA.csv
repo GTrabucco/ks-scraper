@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+derozde01,38.483333333333334,0.453,0.353,0.118,0.529,3.0,12.1,8.0,12.2,0.0,1.7,12.5,28.9,90.0,117.0,-6.0,DeMar DeRozan,,TOR,False,True
+lowryky01,37.65,0.643,0.625,0.5,0.2,3.1,22.2,13.7,45.4,0.0,0.0,4.4,28.0,135.0,113.0,14.8,Kyle Lowry,,TOR,False,True
+ibakase01,25.45,0.25,0.25,0.0,0.0,0.0,3.7,2.0,5.2,0.0,5.2,20.0,9.1,51.0,118.0,-9.8,Serge Ibaka,,TOR,False,True
+valanjo01,23.866666666666667,0.607,0.556,0.222,0.222,0.0,27.3,15.1,14.4,0.0,8.3,16.8,23.1,104.0,105.0,5.5,Jonas Valančiūnas,,TOR,False,True
+anunoog01,19.133333333333333,0.833,0.833,0.667,0.0,6.0,14.6,10.8,7.6,2.7,0.0,0.0,7.3,172.0,111.0,5.7,OG Anunoby,,TOR,False,True
+poeltja01,29.133333333333333,0.766,0.8,0.0,0.1,23.7,19.1,21.2,0.0,5.3,4.5,16.1,19.8,133.0,100.0,10.2,Jakob Poeltl,,TOR,False,False
+milescj01,24.683333333333334,0.318,0.318,0.636,0.0,0.0,7.5,4.2,6.0,0.0,2.7,0.0,20.7,71.0,118.0,-9.3,C.J. Miles,,TOR,False,False
+wrighde01,23.066666666666666,0.507,0.438,0.5,0.25,0.0,8.1,4.5,6.5,0.0,0.0,10.1,19.9,97.0,120.0,-7.4,Delon Wright,,TOR,False,False
+siakapa01,22.85,0.5,0.5,0.25,0.0,0.0,8.1,4.5,18.6,2.3,2.9,20.0,10.2,99.0,113.0,-0.5,Pascal Siakam,,TOR,False,False
+vanvlfr01,18.7,0.478,0.417,0.333,0.5,0.0,5.0,2.8,23.4,0.0,0.0,21.5,23.1,88.0,122.0,-6.3,Fred VanVleet,,TOR,False,False
+powelno01,1.9833333333333334,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,124.0,-6.6,Norman Powell,,TOR,False,False
+noguelu01,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,False,False
+richajo01,34.833333333333336,0.253,0.182,0.091,0.182,5.3,13.2,8.9,17.7,3.0,0.0,0.0,14.6,91.0,106.0,-3.5,Josh Richardson,,MIA,True,True
+johnsty01,28.933333333333334,0.427,0.375,0.333,0.167,3.2,23.9,12.4,9.5,0.0,3.0,7.2,20.5,99.0,108.0,-3.4,Tyler Johnson,,MIA,True,True
+johnsja01,25.5,0.431,0.364,0.182,0.364,7.3,18.1,12.1,22.1,2.0,3.4,13.6,24.8,99.0,104.0,0.2,James Johnson,,MIA,True,True
+whiteha01,22.383333333333333,0.313,0.313,0.0,0.0,29.1,25.7,27.6,13.9,0.0,7.6,0.0,30.6,98.0,104.0,-3.8,Hassan Whiteside,,MIA,True,True
+mcgruro01,18.033333333333335,0.75,0.75,1.0,0.0,10.3,0.0,5.7,6.8,0.0,0.0,0.0,4.7,180.0,115.0,-1.9,Rodney McGruder,,MIA,True,True
+winslju01,37.13333333333333,0.376,0.417,0.083,0.5,0.0,24.8,11.1,14.7,1.4,0.0,12.0,19.2,80.0,107.0,-6.3,Justise Winslow,,MIA,True,False
+ellinwa01,35.31666666666667,1.0,1.0,0.75,0.0,2.6,6.5,4.4,0.0,1.5,2.4,0.0,19.4,195.0,109.0,21.9,Wayne Ellington,,MIA,True,False
+olynyke01,28.0,0.506,0.45,0.3,0.2,6.6,24.7,14.7,24.6,1.9,3.1,21.6,21.2,102.0,103.0,1.9,Kelly Olynyk,,MIA,True,False
+adebaba01,18.283333333333335,1.025,1.0,0.0,0.5,10.2,12.6,11.3,8.4,0.0,4.7,0.0,11.4,213.0,109.0,11.7,Bam Adebayo,,MIA,True,False
+wadedw01,16.583333333333332,0.427,0.417,0.083,0.167,0.0,0.0,0.0,21.3,6.3,0.0,7.2,35.8,92.0,102.0,1.6,Dwyane Wade,,MIA,True,False
+jonesde02,,,,,,,,,,,,,,,,,Derrick Jones,Did Not Play,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,True,False
+babbilu01,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,MIA,True,False

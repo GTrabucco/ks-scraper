@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+lillada01,38.8,0.595,0.537,0.407,0.556,4.3,23.6,12.5,27.0,1.2,0.0,10.6,39.4,115.0,103.0,11.9,Damian Lillard,,POR,False,True
+mccolcj01,36.233333333333334,0.408,0.354,0.208,0.167,2.3,6.3,4.0,18.7,0.0,0.0,0.0,28.9,95.0,109.0,-3.3,CJ McCollum,,POR,False,True
+aminual01,34.516666666666666,0.278,0.278,0.556,0.0,4.9,13.2,8.4,0.0,0.0,0.0,0.0,10.6,73.0,108.0,-8.4,Al-Farouq Aminu,,POR,False,True
+harklma01,30.216666666666665,0.765,0.7,0.2,0.4,0.0,0.0,0.0,13.9,1.6,2.6,14.5,9.2,139.0,104.0,3.5,Maurice Harkless,,POR,False,True
+nurkiju01,29.0,0.415,0.438,0.0,0.125,14.5,31.5,21.7,12.1,1.6,5.4,5.6,25.0,96.0,96.0,-0.1,Jusuf Nurkić,,POR,False,True
+napiesh01,20.933333333333334,0.0,0.0,0.7,0.0,0.0,16.4,6.9,5.9,6.7,3.8,0.0,19.4,6.0,88.0,-11.5,Shabazz Napier,,POR,False,False
+davised01,18.816666666666666,1.0,1.0,0.0,0.0,0.0,30.4,12.9,0.0,0.0,4.2,0.0,2.2,200.0,101.0,-3.0,Ed Davis,,POR,False,False
+turneev01,13.633333333333333,0.906,1.0,0.0,4.0,6.2,25.1,14.2,0.0,0.0,11.5,0.0,8.2,194.0,95.0,9.1,Evan Turner,,POR,False,False
+connapa01,9.15,0.667,0.667,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.3,133.0,110.0,-0.9,Pat Connaughton,,POR,False,False
+colliza01,8.7,0.694,0.667,0.0,1.0,9.7,39.4,22.3,0.0,0.0,0.0,0.0,20.2,149.0,103.0,6.5,Zach Collins,,POR,False,False
+swanica01,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,POR,False,False
+leoname01,,,,,,,,,,,,,,,,,Meyers Leonard,Did Not Play,POR,False,False
+laymaja01,,,,,,,,,,,,,,,,,Jake Layman,Did Not Play,POR,False,False
+bookede01,39.333333333333336,0.512,0.482,0.357,0.107,5.8,15.0,11.1,14.3,0.0,3.5,12.0,37.2,94.0,105.0,-0.2,Devin Booker,,PHO,True,True
+warretj01,37.36666666666667,0.495,0.471,0.0,0.294,6.1,2.3,3.9,4.5,1.3,5.6,0.0,22.6,106.0,106.0,0.3,T.J. Warren,,PHO,True,True
+paytoel01,32.65,0.481,0.4,0.1,0.8,0.0,15.5,8.9,48.8,1.4,0.0,22.8,23.6,99.0,105.0,-2.3,Elfrid Payton,,PHO,True,True
+lenal01,29.466666666666665,0.698,0.714,0.0,0.286,0.0,37.2,21.4,5.3,0.0,4.7,11.3,13.2,120.0,97.0,0.6,Alex Len,,PHO,True,True
+bendedr01,24.816666666666666,0.625,0.625,0.75,0.0,0.0,17.0,9.8,5.5,0.0,2.8,33.3,10.6,80.0,105.0,-4.8,Dragan Bender,,PHO,True,True
+danietr01,23.45,0.786,0.786,0.857,0.0,0.0,7.2,4.1,0.0,0.0,0.0,12.5,15.0,120.0,111.0,0.0,Troy Daniels,,PHO,True,False
+jacksjo02,18.65,0.46,0.4,0.2,0.2,0.0,13.5,7.8,7.6,2.5,3.7,0.0,12.8,101.0,101.0,-0.1,Josh Jackson,,PHO,True,False
+chrisma01,18.216666666666665,0.417,0.417,0.5,0.0,12.5,23.1,18.6,23.4,5.2,0.0,0.0,14.5,115.0,95.0,7.7,Marquese Chriss,,PHO,True,False
+harrish01,8.933333333333334,0.347,0.0,0.5,1.0,0.0,28.3,16.3,13.8,0.0,7.8,25.8,19.1,67.0,97.0,-9.0,Shaquille Harrison,,PHO,True,False
+dudleja01,7.116666666666666,1.5,1.5,1.0,0.0,0.0,0.0,0.0,20.9,0.0,0.0,0.0,6.2,278.0,113.0,6.0,Jared Dudley,,PHO,True,False
+ulisty01,,,,,,,,,,,,,,,,,Tyler Ulis,Did Not Play,PHO,True,False
+reedda01,,,,,,,,,,,,,,,,,Davon Reed,Did Not Play,PHO,True,False

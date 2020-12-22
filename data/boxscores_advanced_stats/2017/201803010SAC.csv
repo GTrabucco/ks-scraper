@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+russeda01,38.25,0.5,0.5,0.8,0.0,0.0,6.0,2.9,46.1,1.3,1.7,25.0,22.3,101.0,113.0,0.8,D'Angelo Russell,,BRK,False,True
+dinwisp01,36.2,0.368,0.3,0.6,0.2,0.0,19.1,9.2,20.6,2.8,0.0,8.4,14.0,99.0,109.0,-5.9,Spencer Dinwiddie,,BRK,False,True
+crabbal01,35.416666666666664,0.526,0.526,0.684,0.0,3.1,6.5,4.7,10.1,2.9,0.0,0.0,22.8,120.0,112.0,3.7,Allen Crabbe,,BRK,False,True
+allenja01,34.35,0.697,0.667,0.0,0.444,22.0,20.1,21.1,0.0,0.0,5.6,35.8,20.8,96.0,109.0,-5.8,Jarrett Allen,,BRK,False,True
+carrode01,33.85,0.826,0.792,0.5,0.25,6.4,27.2,16.5,22.8,1.5,0.0,13.1,19.3,151.0,110.0,10.3,DeMarre Carroll,,BRK,False,True
+harrijo01,24.816666666666666,0.611,0.611,0.556,0.0,8.7,9.3,9.0,20.4,0.0,0.0,10.0,17.2,129.0,117.0,3.3,Joe Harris,,BRK,False,False
+holliro01,21.183333333333334,0.451,0.333,0.0,0.667,5.1,21.8,13.2,0.0,2.4,0.0,27.9,21.6,73.0,110.0,-11.0,Rondae Hollis-Jefferson,,BRK,False,False
+cunnida01,21.0,0.554,0.4,0.2,0.6,5.2,27.4,15.9,0.0,4.8,0.0,13.7,14.8,110.0,103.0,-2.2,Dante Cunningham,,BRK,False,False
+leverca01,19.933333333333334,0.262,0.273,0.273,0.091,10.9,0.0,5.6,16.6,2.5,0.0,14.9,28.7,66.0,114.0,-14.9,Caris LeVert,,BRK,False,False
+stausni01,,,,,,,,,,,,,,,,,Nik Stauskas,Did Not Play,BRK,False,False
+okafoja01,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,BRK,False,False
+mozgoti01,,,,,,,,,,,,,,,,,Timofey Mozgov,Did Not Play,BRK,False,False
+acyqu01,,,,,,,,,,,,,,,,,Quincy Acy,Did Not Play,BRK,False,False
+bogdabo01,37.766666666666666,0.628,0.588,0.294,0.176,0.0,17.2,8.9,11.3,2.7,0.0,0.0,21.9,136.0,107.0,3.7,Bogdan Bogdanović,,SAC,True,True
+foxde01,36.28333333333333,0.618,0.618,0.118,0.0,0.0,6.0,3.1,4.1,2.8,8.8,22.7,27.4,92.0,108.0,-2.1,De'Aaron Fox,,SAC,True,True
+caulewi01,34.55,0.539,0.5,0.0,0.286,6.7,15.7,11.3,27.3,0.0,3.1,6.0,21.9,124.0,112.0,2.8,Willie Cauley-Stein,,SAC,True,True
+labissk01,30.433333333333334,0.506,0.5,0.0,0.2,11.4,3.6,7.3,8.4,3.3,3.5,15.5,19.1,102.0,110.0,-4.1,Skal Labissière,,SAC,True,True
+jacksju01,23.933333333333334,1.0,1.0,0.0,0.0,0.0,18.1,9.3,0.0,0.0,0.0,50.0,11.3,81.0,113.0,-9.6,Justin Jackson,,SAC,True,True
+hieldbu01,34.21666666666667,0.559,0.5,0.154,0.231,0.0,12.6,6.5,15.2,4.4,0.0,6.5,20.2,118.0,105.0,1.4,Buddy Hield,,SAC,True,False
+templga01,28.666666666666668,0.9,0.9,0.4,0.0,0.0,15.1,7.8,0.0,5.3,0.0,0.0,7.9,178.0,102.0,4.3,Garrett Temple,,SAC,True,False
+koufoko01,20.166666666666668,0.5,0.5,0.0,0.0,22.9,37.5,30.4,37.4,2.5,5.3,33.3,20.2,106.0,95.0,6.3,Kosta Koufos,,SAC,True,False
+masonfr01,18.983333333333334,0.292,0.292,0.25,0.0,12.1,0.0,5.9,0.0,5.3,0.0,0.0,28.6,75.0,108.0,-10.6,Frank Mason,,SAC,True,False
+randoza01,,,,,,,,,,,,,,,,,Zach Randolph,Did Not Play,SAC,True,False
+cartevi01,,,,,,,,,,,,,,,,,Vince Carter,Did Not Play,SAC,True,False
+cabocbr01,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,SAC,True,False

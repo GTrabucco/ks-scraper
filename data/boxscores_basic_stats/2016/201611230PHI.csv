@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+gasolma01,45.43333333333333,10.0,20.0,0.5,2.0,5.0,0.4,5.0,6.0,0.833,3.0,1.0,4.0,4.0,3.0,3.0,5.0,4.0,27.0,15.0,Marc Gasol,,MEM,False,True
+conlemi01,45.1,7.0,20.0,0.35,3.0,7.0,0.429,8.0,10.0,0.8,0.0,9.0,9.0,9.0,2.0,0.0,4.0,2.0,25.0,11.0,Mike Conley,,MEM,False,True
+greenja01,33.85,4.0,6.0,0.667,1.0,1.0,1.0,1.0,2.0,0.5,3.0,8.0,11.0,1.0,0.0,1.0,1.0,3.0,10.0,0.0,JaMychal Green,,MEM,False,True
+danietr01,23.45,2.0,7.0,0.286,2.0,5.0,0.4,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,0.0,0.0,6.0,-6.0,Troy Daniels,,MEM,False,True
+allento01,22.783333333333335,4.0,10.0,0.4,0.0,0.0,,1.0,1.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,1.0,4.0,9.0,0.0,Tony Allen,,MEM,False,True
+harrian01,41.766666666666666,2.0,6.0,0.333,1.0,4.0,0.25,2.0,2.0,1.0,0.0,4.0,4.0,6.0,4.0,1.0,2.0,5.0,7.0,7.0,Andrew Harrison,,MEM,False,False
+cartevi01,38.5,3.0,11.0,0.273,1.0,6.0,0.167,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,3.0,7.0,7.0,Vince Carter,,MEM,False,False
+randoza01,27.133333333333333,5.0,14.0,0.357,0.0,1.0,0.0,1.0,2.0,0.5,1.0,5.0,6.0,1.0,1.0,2.0,0.0,5.0,11.0,1.0,Zach Randolph,,MEM,False,False
+martija01,11.95,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,1.0,2.0,3.0,0.0,2.0,1.0,1.0,2.0,2.0,-10.0,Jarell Martin,,MEM,False,False
+davisde01,0.03333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Deyonta Davis,,MEM,False,False
+ennisja01,,,,,,,,,,,,,,,,,,,,,James Ennis,Not With Team,MEM,False,False
+willitr02,,,,,,,,,,,,,,,,,,,,,Troy Williams,Did Not Play,MEM,False,False
+covinro01,45.96666666666667,6.0,10.0,0.6,4.0,7.0,0.571,3.0,5.0,0.6,1.0,9.0,10.0,2.0,3.0,3.0,6.0,5.0,19.0,0.0,Robert Covington,,PHI,True,True
+ilyaser01,40.416666666666664,8.0,15.0,0.533,2.0,5.0,0.4,4.0,5.0,0.8,2.0,10.0,12.0,0.0,0.0,0.0,1.0,6.0,22.0,-3.0,Ersan İlyasova,,PHI,True,True
+embiijo01,27.166666666666668,4.0,10.0,0.4,1.0,4.0,0.25,3.0,4.0,0.75,1.0,10.0,11.0,3.0,1.0,3.0,7.0,5.0,12.0,6.0,Joel Embiid,,PHI,True,True
+thompho01,27.0,3.0,10.0,0.3,0.0,3.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,2.0,1.0,0.0,3.0,6.0,2.0,Hollis Thompson,,PHI,True,True
+rodrise01,20.566666666666666,3.0,9.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,5.0,0.0,0.0,1.0,0.0,7.0,4.0,Sergio Rodríguez,,PHI,True,True
+stausni01,42.55,3.0,12.0,0.25,2.0,7.0,0.286,2.0,2.0,1.0,0.0,5.0,5.0,4.0,1.0,0.0,2.0,2.0,10.0,-14.0,Nik Stauskas,,PHI,True,False
+bayleje01,30.35,6.0,15.0,0.4,1.0,2.0,0.5,5.0,6.0,0.833,1.0,5.0,6.0,6.0,0.0,0.0,5.0,3.0,18.0,7.0,Jerryd Bayless,,PHI,True,False
+okafoja01,26.166666666666668,1.0,6.0,0.167,0.0,0.0,,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,3.0,3.0,4.0,2.0,-13.0,Jahlil Okafor,,PHI,True,False
+saricda01,22.25,1.0,6.0,0.167,1.0,5.0,0.2,0.0,0.0,,2.0,3.0,5.0,2.0,0.0,0.0,1.0,3.0,3.0,-2.0,Dario Šarić,,PHI,True,False
+mccontj01,7.583333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,-12.0,T.J. McConnell,,PHI,True,False
+hendege02,,,,,,,,,,,,,,,,,,,,,Gerald Henderson,Not With Team,PHI,True,False
+holmeri01,,,,,,,,,,,,,,,,,,,,,Richaun Holmes,Not With Team,PHI,True,False
+luwawti01,,,,,,,,,,,,,,,,,,,,,Timothé Luwawu-Cabarrot,Did Not Play,PHI,True,False

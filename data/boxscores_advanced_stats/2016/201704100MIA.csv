@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+willide01,46.03333333333333,0.654,0.66,0.36,0.16,0.0,16.4,8.7,37.2,1.0,1.9,27.2,35.4,102.0,112.0,1.3,Deron Williams,,CLE,False,True
+smithjr01,39.733333333333334,0.278,0.278,0.556,0.0,3.0,8.2,5.7,6.5,2.4,0.0,18.2,12.3,63.0,112.0,-6.8,J.R. Smith,,CLE,False,True
+shumpim01,39.43333333333333,0.557,0.556,0.111,0.222,3.1,5.5,4.3,3.6,1.2,2.2,9.2,12.2,109.0,113.0,-1.8,Iman Shumpert,,CLE,False,True
+loveke01,36.13333333333333,0.581,0.472,0.333,0.444,3.3,26.9,15.8,0.0,1.3,0.0,4.4,27.6,117.0,110.0,-2.2,Kevin Love,,CLE,False,True
+fryech01,33.0,0.831,0.75,0.5,0.6,3.7,19.7,12.1,0.0,1.4,0.0,13.7,19.6,144.0,111.0,4.5,Channing Frye,,CLE,False,True
+korveky01,30.466666666666665,0.699,0.667,0.667,0.167,0.0,28.4,15.0,5.2,0.0,2.8,7.2,20.2,129.0,111.0,5.1,Kyle Korver,,CLE,False,False
+jefferi01,20.616666666666667,0.0,0.0,1.0,0.0,5.8,15.7,11.1,11.7,0.0,4.1,50.0,4.3,77.0,112.0,-2.7,Richard Jefferson,,CLE,False,False
+willide02,10.266666666666667,,,,,0.0,10.5,5.6,0.0,0.0,0.0,,0.0,0.0,116.0,-6.1,Derrick Williams,,CLE,False,False
+feldeka01,6.966666666666667,0.667,0.667,0.0,0.0,0.0,15.5,8.2,100.0,6.8,0.0,25.0,25.4,131.0,101.0,20.0,Kay Felder,,CLE,False,False
+sandela01,2.35,0.5,0.5,0.0,0.0,100.0,0.0,48.5,0.0,0.0,0.0,50.0,75.4,73.0,115.0,-53.9,Larry Sanders,,CLE,False,False
+irvinky01,,,,,,,,,,,,,,,,,Kyrie Irving,Did Not Play,CLE,False,False
+jamesle01,,,,,,,,,,,,,,,,,LeBron James,Did Not Play,CLE,False,False
+jonesja02,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,False,False
+richajo01,46.333333333333336,0.658,0.643,0.429,0.071,4.7,10.4,7.4,16.4,5.1,0.0,12.2,15.3,125.0,102.0,6.8,Josh Richardson,,MIA,True,True
+dragigo01,39.833333333333336,0.415,0.333,0.0,0.467,0.0,15.1,7.2,17.8,1.2,2.5,0.0,19.6,100.0,109.0,-4.0,Goran Dragić,,MIA,True,True
+johnsja01,36.016666666666666,0.459,0.441,0.412,0.059,0.0,6.7,3.2,39.3,0.0,0.0,14.7,24.5,96.0,115.0,-4.3,James Johnson,,MIA,True,True
+whiteha01,35.7,0.596,0.571,0.0,0.857,12.1,47.2,28.7,4.6,1.3,2.7,9.4,25.7,117.0,104.0,1.5,Hassan Whiteside,,MIA,True,True
+mcgruro01,28.1,0.405,0.444,0.444,0.222,3.8,12.9,8.1,9.8,1.7,0.0,16.8,18.2,77.0,110.0,-6.3,Rodney McGruder,,MIA,True,True
+johnsty01,33.93333333333333,0.773,0.708,0.5,0.667,0.0,17.7,8.4,18.9,0.0,0.0,16.2,23.5,131.0,113.0,3.5,Tyler Johnson,,MIA,True,False
+ellinwa01,23.316666666666666,0.75,0.75,0.875,0.0,0.0,10.3,4.9,6.5,2.0,0.0,11.1,16.6,122.0,110.0,5.0,Wayne Ellington,,MIA,True,False
+whiteok01,13.266666666666667,0.2,0.2,0.6,0.0,0.0,9.1,4.3,10.0,0.0,7.4,0.0,16.2,54.0,109.0,-12.5,Okaro White,,MIA,True,False
+reedwi02,8.483333333333333,1.078,1.0,0.0,3.0,25.5,14.2,20.2,0.0,0.0,0.0,0.0,11.8,229.0,114.0,7.3,Willie Reed,,MIA,True,False
+babbilu01,,,,,,,,,,,,,,,,,Luke Babbitt,Did Not Play,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,True,False
+mcrobjo01,,,,,,,,,,,,,,,,,Josh McRoberts,Did Not Play,MIA,True,False
+waitedi01,,,,,,,,,,,,,,,,,Dion Waiters,Did Not Dress,MIA,True,False

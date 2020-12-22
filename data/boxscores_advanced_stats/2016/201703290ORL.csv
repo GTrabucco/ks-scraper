@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+oladivi01,43.68333333333333,0.364,0.324,0.353,0.118,0.0,10.6,5.5,3.3,1.1,1.8,5.3,18.3,76.0,100.0,-8.8,Victor Oladipo,,OKC,False,True
+westbru01,41.81666666666667,0.636,0.6,0.375,0.275,7.2,22.2,15.0,85.1,3.4,0.0,13.5,52.4,120.0,93.0,24.8,Russell Westbrook,,OKC,False,True
+roberan03,35.083333333333336,0.429,0.429,0.286,0.0,8.6,15.9,12.4,11.8,1.4,4.5,0.0,8.4,119.0,95.0,0.2,Andre Roberson,,OKC,False,True
+adamsst01,29.05,0.486,0.6,0.0,1.0,10.3,19.2,14.9,0.0,0.0,5.4,12.2,11.9,99.0,97.0,-3.7,Steven Adams,,OKC,False,True
+gibsota01,23.816666666666666,0.2,0.2,0.0,0.0,0.0,15.6,8.1,0.0,4.0,0.0,0.0,8.9,45.0,94.0,-6.5,Taj Gibson,,OKC,False,True
+abrinal01,21.733333333333334,0.375,0.375,0.75,0.0,4.6,0.0,2.2,6.4,4.4,0.0,0.0,15.6,91.0,97.0,-1.8,Álex Abrines,,OKC,False,False
+kanteen01,20.283333333333335,0.623,0.545,0.0,0.545,0.0,45.8,23.8,0.0,0.0,0.0,12.8,32.6,110.0,93.0,2.8,Enes Kanter,,OKC,False,False
+grantje01,19.25,0.0,0.0,0.667,0.667,5.2,9.7,7.5,12.8,0.0,8.2,0.0,8.5,43.0,98.0,-5.6,Jerami Grant,,OKC,False,False
+chrisse01,12.0,0.5,0.5,0.5,0.0,0.0,7.7,4.0,0.0,4.0,0.0,0.0,7.0,103.0,96.0,-3.9,Semaj Christon,,OKC,False,False
+sabondo01,10.633333333333333,0.515,0.5,0.333,0.667,0.0,17.5,9.1,0.0,0.0,0.0,0.0,15.4,108.0,102.0,-3.7,Domantas Sabonis,,OKC,False,False
+coleno01,4.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0.0,0.0,10.0,0.0,81.0,-6.1,Norris Cole,,OKC,False,False
+mcderdo01,3.4166666666666665,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,107.0,-8.6,Doug McDermott,,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+rosste01,45.483333333333334,0.676,0.676,0.647,0.0,0.0,2.2,1.1,8.2,1.1,1.7,15.0,19.0,108.0,109.0,1.9,Terrence Ross,,ORL,True,True
+fournev01,40.86666666666667,0.515,0.477,0.364,0.136,2.3,12.2,7.1,23.7,1.2,0.0,17.7,29.9,90.0,107.0,-2.2,Evan Fournier,,ORL,True,True
+gordoaa01,40.516666666666666,0.547,0.5,0.455,0.182,2.3,12.3,7.1,4.0,4.7,1.9,0.0,12.6,116.0,98.0,3.2,Aaron Gordon,,ORL,True,True
+paytoel01,37.88333333333333,0.354,0.333,0.0,0.667,4.9,7.9,6.4,33.5,0.0,2.0,16.2,21.1,82.0,109.0,-7.0,Elfrid Payton,,ORL,True,True
+vucevni01,32.733333333333334,0.314,0.214,0.0,0.571,5.7,42.8,23.6,4.7,1.5,4.7,0.0,23.1,77.0,95.0,-4.7,Nikola Vučević,,ORL,True,True
+biyombi01,20.266666666666666,0.761,0.714,0.0,0.286,18.4,34.5,26.2,20.2,0.0,7.6,0.0,16.8,166.0,97.0,12.6,Bismack Biyombo,,ORL,True,False
+hezonma01,18.283333333333335,0.4,0.4,0.4,0.0,5.1,21.9,13.2,17.5,0.0,4.2,0.0,11.8,103.0,104.0,1.1,Mario Hezonja,,ORL,True,False
+augusdj01,15.05,0.592,0.4,0.4,0.8,0.0,13.3,6.4,22.0,3.2,0.0,30.7,28.0,89.0,103.0,-3.7,D.J. Augustin,,ORL,True,False
+meeksjo01,13.916666666666666,0.0,0.0,0.5,0.0,0.0,7.2,3.5,9.8,3.4,0.0,0.0,12.4,14.0,103.0,-15.5,Jodie Meeks,,ORL,True,False
+rudezda01,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,ORL,True,False
+watsocj01,,,,,,,,,,,,,,,,,C.J. Watson,Did Not Play,ORL,True,False
+wilcocj01,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,ORL,True,False
+zimmest01,,,,,,,,,,,,,,,,,Stephen Zimmerman,Did Not Play,ORL,True,False

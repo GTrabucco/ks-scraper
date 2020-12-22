@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jennibr01,38.8,5.0,10.0,0.5,0.0,4.0,0.0,3.0,4.0,0.75,0.0,5.0,5.0,7.0,0.0,0.0,4.0,1.0,13.0,7.0,Brandon Jennings,,NYK,False,True
+anthoca01,35.88333333333333,9.0,22.0,0.409,3.0,10.0,0.3,12.0,14.0,0.857,0.0,7.0,7.0,4.0,1.0,1.0,2.0,3.0,33.0,4.0,Carmelo Anthony,,NYK,False,True
+porzikr01,35.18333333333333,6.0,19.0,0.316,1.0,5.0,0.2,4.0,4.0,1.0,2.0,9.0,11.0,2.0,0.0,0.0,2.0,3.0,17.0,11.0,Kristaps Porziņģis,,NYK,False,True
+leeco01,33.0,3.0,7.0,0.429,2.0,3.0,0.667,0.0,1.0,0.0,1.0,3.0,4.0,1.0,0.0,0.0,0.0,2.0,8.0,7.0,Courtney Lee,,NYK,False,True
+noahjo01,28.016666666666666,1.0,3.0,0.333,0.0,0.0,,2.0,2.0,1.0,1.0,8.0,9.0,1.0,1.0,2.0,2.0,4.0,4.0,9.0,Joakim Noah,,NYK,False,True
+oquinky01,19.916666666666668,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,5.0,6.0,11.0,5.0,0.0,2.0,1.0,4.0,8.0,-6.0,Kyle O'Quinn,,NYK,False,False
+thomala01,18.2,2.0,5.0,0.4,2.0,3.0,0.667,0.0,0.0,,1.0,1.0,2.0,0.0,1.0,0.0,1.0,2.0,6.0,-6.0,Lance Thomas,,NYK,False,False
+holidju01,15.0,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,2.0,3.0,1.0,0.0,0.0,0.0,1.0,7.0,-4.0,Justin Holiday,,NYK,False,False
+vujacsa01,9.2,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,3.0,4.0,2.0,-4.0,Sasha Vujačić,,NYK,False,False
+kuzmimi01,6.8,2.0,4.0,0.5,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,5.0,-3.0,Mindaugas Kuzminskas,,NYK,False,False
+plumlma02,,,,,,,,,,,,,,,,,,,,,Marshall Plumlee,Did Not Play,NYK,False,False
+hernawi01,,,,,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,NYK,False,False
+bakerro01,,,,,,,,,,,,,,,,,,,,,Ron Baker,Did Not Play,NYK,False,False
+couside01,36.4,9.0,25.0,0.36,0.0,6.0,0.0,10.0,12.0,0.833,3.0,9.0,12.0,6.0,3.0,1.0,3.0,2.0,28.0,-2.0,DeMarcus Cousins,,SAC,True,True
+gayru01,34.68333333333333,4.0,15.0,0.267,0.0,5.0,0.0,5.0,6.0,0.833,0.0,5.0,5.0,1.0,1.0,0.0,0.0,5.0,13.0,-8.0,Rudy Gay,,SAC,True,True
+collida01,30.2,5.0,11.0,0.455,1.0,2.0,0.5,3.0,3.0,1.0,0.0,3.0,3.0,3.0,2.0,0.0,0.0,1.0,14.0,-6.0,Darren Collison,,SAC,True,True
+mclembe01,21.766666666666666,4.0,7.0,0.571,2.0,2.0,1.0,0.0,0.0,,1.0,3.0,4.0,2.0,1.0,0.0,0.0,1.0,10.0,-3.0,Ben McLemore,,SAC,True,True
+koufoko01,13.866666666666667,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,1.0,3.0,4.0,-3.0,Kosta Koufos,,SAC,True,True
+tollian01,26.616666666666667,4.0,9.0,0.444,2.0,6.0,0.333,0.0,0.0,,1.0,4.0,5.0,2.0,0.0,0.0,1.0,3.0,10.0,-3.0,Anthony Tolliver,,SAC,True,False
+templga01,26.233333333333334,2.0,6.0,0.333,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,5.0,0.0,Garrett Temple,,SAC,True,False
+casspom01,20.233333333333334,4.0,5.0,0.8,1.0,1.0,1.0,3.0,3.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,2.0,12.0,6.0,Omri Casspi,,SAC,True,False
+lawsoty01,17.8,1.0,5.0,0.2,0.0,2.0,0.0,2.0,3.0,0.667,0.0,3.0,3.0,6.0,0.0,0.0,1.0,1.0,4.0,3.0,Ty Lawson,,SAC,True,False
+caulewi01,12.2,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,Willie Cauley-Stein,,SAC,True,False
+barnema02,,,,,,,,,,,,,,,,,,,,,Matt Barnes,Did Not Dress,SAC,True,False
+afflaar01,,,,,,,,,,,,,,,,,,,,,Arron Afflalo,Did Not Play,SAC,True,False

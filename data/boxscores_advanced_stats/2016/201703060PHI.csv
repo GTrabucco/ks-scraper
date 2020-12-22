@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+antetgi01,34.88333333333333,0.656,0.577,0.154,0.923,3.7,20.9,13.3,21.9,3.0,7.0,0.0,24.2,149.0,98.0,13.9,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,31.6,0.597,0.6,0.5,0.2,4.1,13.2,9.2,36.4,0.0,2.6,26.9,21.8,109.0,110.0,-0.5,Khris Middleton,,MIL,False,True
+snellto01,31.116666666666667,0.955,0.955,0.636,0.0,4.2,20.1,13.0,10.8,3.3,0.0,15.4,19.3,146.0,102.0,12.4,Tony Snell,,MIL,False,True
+brogdma01,20.816666666666666,0.929,0.929,0.143,0.0,6.2,20.1,13.9,8.5,2.5,3.9,22.2,20.0,130.0,102.0,9.0,Malcolm Brogdon,,MIL,False,True
+makerth01,14.75,0.444,0.357,0.571,0.286,8.8,14.1,11.8,0.0,0.0,5.5,0.0,24.7,104.0,106.0,-11.7,Thon Maker,,MIL,False,True
+dellama01,27.183333333333334,0.727,0.667,0.333,0.333,4.8,7.7,6.4,34.6,0.0,0.0,22.5,15.1,139.0,114.0,2.0,Matthew Dellavedova,,MIL,False,False
+terryja01,27.133333333333333,0.286,0.286,0.571,0.0,4.8,3.8,4.3,14.2,3.8,3.0,0.0,11.9,94.0,105.0,-2.9,Jason Terry,,MIL,False,False
+monrogr01,22.466666666666665,0.551,0.5,0.0,0.2,11.5,0.0,5.1,0.0,0.0,0.0,15.5,26.5,100.0,115.0,-15.0,Greg Monroe,,MIL,False,False
+teletmi01,20.883333333333333,0.375,0.375,0.75,0.0,0.0,25.0,13.8,0.0,0.0,0.0,0.0,17.7,79.0,107.0,-9.9,Mirza Teletović,,MIL,False,False
+hawessp01,5.666666666666667,0.25,0.25,0.5,0.0,0.0,0.0,0.0,52.1,0.0,0.0,0.0,32.6,84.0,116.0,-11.4,Spencer Hawes,,MIL,False,False
+vaughra01,3.5,,,,,0.0,29.8,16.5,0.0,0.0,0.0,,0.0,0.0,106.0,-5.5,Rashad Vaughn,,MIL,False,False
+hensojo01,,,,,,,,,,,,,,,,,John Henson,Did Not Play,MIL,False,False
+joneste01,,,,,,,,,,,,,,,,,Terrence Jones,Did Not Play,MIL,False,False
+saricda01,33.3,0.418,0.367,0.333,0.267,6.3,23.4,13.9,27.2,3.1,0.0,15.2,26.0,92.0,116.0,-0.3,Dario Šarić,,PHI,True,True
+covinro01,32.95,0.582,0.542,0.583,0.167,0.0,11.8,5.3,0.0,1.6,5.8,13.4,19.8,100.0,118.0,-1.9,Robert Covington,,PHI,True,True
+mccontj01,24.333333333333332,0.25,0.25,0.0,0.0,4.3,5.3,4.8,42.6,2.1,0.0,20.0,9.0,106.0,123.0,-4.5,T.J. McConnell,,PHI,True,True
+holmeri01,21.983333333333334,0.405,0.333,0.111,0.222,23.7,23.6,23.7,0.0,0.0,0.0,9.2,21.7,99.0,123.0,-12.3,Richaun Holmes,,PHI,True,True
+hendege02,17.283333333333335,0.625,0.625,0.25,0.0,6.0,15.0,10.0,0.0,0.0,0.0,20.0,12.7,99.0,125.0,-6.9,Gerald Henderson,,PHI,True,True
+stausni01,26.666666666666668,0.5,0.5,0.333,0.0,0.0,0.0,0.0,10.7,0.0,0.0,0.0,9.9,115.0,129.0,-6.9,Nik Stauskas,,PHI,True,False
+rodrise01,23.666666666666668,0.357,0.357,0.571,0.0,0.0,16.4,7.3,46.4,0.0,0.0,0.0,13.0,119.0,125.0,-4.1,Sergio Rodríguez,,PHI,True,False
+anderju01,22.566666666666666,0.563,0.563,0.375,0.125,13.9,17.2,15.4,32.1,0.0,0.0,5.6,34.8,117.0,125.0,5.3,Justin Anderson,,PHI,True,False
+luwawti01,17.916666666666668,0.508,0.429,0.286,0.286,0.0,7.2,3.2,8.7,2.9,0.0,20.2,24.2,86.0,120.0,-8.3,Timothé Luwawu-Cabarrot,,PHI,True,False
+longsh01,15.383333333333333,0.587,0.688,0.125,0.875,13.6,42.2,26.3,13.3,0.0,6.2,8.3,34.5,107.0,115.0,8.5,Shawn Long,,PHI,True,False
+harpeju01,3.95,1.5,1.5,1.0,0.0,0.0,0.0,0.0,45.3,0.0,0.0,0.0,11.1,274.0,129.0,31.2,Justin Harper,,PHI,True,False
+okafoja01,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Dress,PHI,True,False
+splitti01,,,,,,,,,,,,,,,,,Tiago Splitter,Did Not Dress,PHI,True,False

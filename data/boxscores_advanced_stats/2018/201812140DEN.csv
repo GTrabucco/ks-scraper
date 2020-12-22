@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,39.833333333333336,0.601,0.563,0.25,0.25,6.6,6.7,6.6,10.7,1.3,0.0,10.1,30.9,122.0,120.0,8.1,Paul George,,OKC,False,True
+adamsst01,37.13333333333333,0.574,0.6,0.0,0.3,25.9,10.8,19.9,12.0,1.4,5.3,4.2,26.4,130.0,116.0,10.0,Steven Adams,,OKC,False,True
+westbru01,36.25,0.409,0.367,0.2,0.133,2.4,47.8,20.4,34.9,5.6,2.7,20.1,22.7,90.0,97.0,5.7,Russell Westbrook,,OKC,False,True
+grantje01,34.93333333333333,0.509,0.409,0.364,0.364,5.0,0.0,3.0,0.0,2.9,0.0,7.3,16.3,113.0,118.0,-1.5,Jerami Grant,,OKC,False,True
+fergute01,23.55,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,2.2,0.0,0.0,3.3,0.0,120.0,-9.6,Terrance Ferguson,,OKC,False,True
+schrode01,28.166666666666668,0.342,0.269,0.154,0.538,0.0,4.7,1.9,10.7,0.0,0.0,11.1,26.6,76.0,123.0,-10.9,Dennis Schröder,,OKC,False,False
+abrinal01,18.9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,4.4,0.0,125.0,-11.3,Álex Abrines,,OKC,False,False
+noelne01,10.866666666666667,0.0,0.0,0.0,0.0,0.0,61.3,24.3,0.0,0.0,9.0,0.0,3.8,0.0,102.0,-5.0,Nerlens Noel,,OKC,False,False
+pattepa01,5.516666666666667,0.5,0.5,0.667,0.0,31.6,0.0,19.1,0.0,0.0,0.0,0.0,22.5,133.0,125.0,7.7,Patrick Patterson,,OKC,False,False
+diallha01,3.75,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,34.7,31.8,0.0,124.0,-42.7,Hamidou Diallo,,OKC,False,False
+naderab01,0.55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,125.0,-6.8,Abdel Nader,,OKC,False,False
+luwawti01,0.55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,125.0,-5.9,Timothé Luwawu-Cabarrot,,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+jokicni01,35.75,0.644,0.563,0.25,0.375,11.2,29.3,22.1,38.7,4.3,0.0,24.4,30.2,118.0,90.0,11.7,Nikola Jokić,,DEN,True,True
+craigto01,35.333333333333336,1.071,1.071,0.571,0.0,7.5,7.4,7.5,12.0,0.0,1.9,12.5,9.9,180.0,110.0,10.5,Torrey Craig,,DEN,True,True
+hernaju01,33.3,0.743,0.667,0.667,0.444,0.0,10.5,6.3,12.4,1.5,0.0,0.0,14.2,167.0,106.0,7.2,Juan Hernangómez,,DEN,True,True
+murraja01,33.0,0.582,0.533,0.267,0.2,8.1,18.5,14.4,4.8,0.0,0.0,23.5,28.3,95.0,105.0,-8.3,Jamal Murray,,DEN,True,True
+plumlma01,19.633333333333333,0.429,0.429,0.0,0.0,13.6,8.9,10.7,21.2,2.6,10.3,22.2,20.1,95.0,97.0,-0.9,Mason Plumlee,,DEN,True,True
+lylestr01,30.266666666666666,0.414,0.4,0.4,0.2,8.8,11.5,10.5,13.3,0.0,4.5,21.6,20.1,86.0,106.0,-5.9,Trey Lyles,,DEN,True,False
+morrimo01,26.466666666666665,0.636,0.636,0.455,0.0,0.0,9.9,6.0,35.0,3.8,0.0,0.0,18.2,151.0,102.0,11.6,Monte Morris,,DEN,True,False
+beaslma01,15.65,0.0,0.0,0.8,0.0,8.5,5.6,6.7,7.3,3.2,0.0,28.6,19.6,22.0,105.0,-19.6,Malik Beasley,,DEN,True,False
+youngni01,8.9,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.8,184.0,113.0,8.7,Nick Young,,DEN,True,False
+welshth01,0.6,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,115.0,-6.4,Thomas Welsh,,DEN,True,False
+akoonde01,0.55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,79.6,0.0,115.0,-94.7,DeVaughn Akoon-Purcell,,DEN,True,False
+lydonty01,0.55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,115.0,-5.0,Tyler Lydon,,DEN,True,False

@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hardeja01,42.36666666666667,0.645,0.467,0.267,1.133,2.4,21.1,11.2,28.1,2.3,0.0,18.2,26.8,124.0,119.0,5.0,James Harden,,HOU,False,True
+arizatr01,35.916666666666664,0.111,0.111,0.444,0.0,0.0,12.4,5.9,7.9,0.0,2.2,18.2,12.6,34.0,125.0,-15.6,Trevor Ariza,,HOU,False,True
+howardw01,31.2,0.571,0.571,0.0,0.0,12.8,21.5,16.9,10.7,1.6,9.9,30.0,13.2,99.0,114.0,-1.5,Dwight Howard,,HOU,False,True
+beverpa01,28.216666666666665,0.417,0.417,0.417,0.0,0.0,0.0,0.0,18.1,1.8,5.5,7.7,19.0,96.0,121.0,-3.8,Patrick Beverley,,HOU,False,True
+capelca01,22.283333333333335,0.463,0.455,0.0,0.182,22.4,0.0,11.8,8.9,8.9,0.0,14.4,25.7,100.0,111.0,-0.6,Clint Capela,,HOU,False,True
+thornma01,21.733333333333334,0.61,0.538,0.615,0.308,9.2,20.5,14.6,9.2,4.6,0.0,11.9,31.8,121.0,115.0,10.0,Marcus Thornton,,HOU,False,False
+lawsoty01,18.7,0.688,0.688,0.375,0.0,10.7,6.0,8.5,31.1,2.7,0.0,11.1,19.9,141.0,124.0,12.4,Ty Lawson,,HOU,False,False
+breweco01,15.883333333333333,0.615,0.5,0.167,0.5,6.3,14.1,10.0,0.0,0.0,0.0,0.0,19.0,142.0,127.0,0.8,Corey Brewer,,HOU,False,False
+joneste01,15.1,0.255,0.2,0.4,0.4,6.6,14.8,10.5,0.0,0.0,0.0,0.0,16.1,72.0,127.0,-12.4,Terrence Jones,,HOU,False,False
+harremo01,7.833333333333333,1.0,1.0,0.0,0.0,0.0,28.5,13.5,0.0,0.0,0.0,0.0,10.5,200.0,118.0,-1.3,Montrezl Harrell,,HOU,False,False
+mcdankj01,0.7833333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,112.0,-31.5,K.J. McDaniels,,HOU,False,False
+terryja01,,,,,,,,,,,,,,,,,Jason Terry,Did Not Play,HOU,False,False
+caldwke01,43.78333333333333,0.25,0.25,0.375,0.0,5.1,4.6,4.8,7.7,2.3,0.0,20.0,9.8,73.0,114.0,-7.6,Kentavious Caldwell-Pope,,DET,True,True
+jacksre01,36.63333333333333,0.72,0.694,0.222,0.444,0.0,13.6,7.2,34.3,2.7,0.0,8.5,27.4,147.0,108.0,13.1,Reggie Jackson,,DET,True,True
+morrima03,33.95,0.487,0.455,0.455,0.273,3.3,8.8,6.2,22.4,0.0,0.0,19.6,19.3,102.0,117.0,-4.0,Marcus Morris,,DET,True,True
+drumman01,27.233333333333334,0.524,0.667,0.0,1.2,16.4,33.0,25.2,12.9,5.5,8.7,4.2,37.5,109.0,88.0,9.4,Andre Drummond,,DET,True,True
+ilyaser01,24.5,0.547,0.5,0.364,0.182,4.6,8.2,6.5,0.0,0.0,3.2,0.0,20.7,125.0,115.0,-1.3,Ersan İlyasova,,DET,True,True
+johnsst04,29.7,0.745,0.727,0.455,0.364,7.5,26.9,17.8,4.6,1.7,5.3,7.3,19.8,148.0,101.0,10.4,Stanley Johnson,,DET,True,False
+baynear01,20.533333333333335,0.619,0.625,0.0,0.25,16.3,4.9,10.3,14.0,0.0,3.8,10.1,20.6,131.0,116.0,1.3,Aron Baynes,,DET,True,False
+blakest01,12.15,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,50.0,7.0,0.0,118.0,-12.2,Steve Blake,,DET,True,False
+tollian01,11.5,0.5,0.5,0.5,0.0,9.7,17.4,13.8,0.0,0.0,0.0,0.0,7.4,128.0,112.0,-5.3,Anthony Tolliver,,DET,True,False
+bullore01,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Play,DET,True,False
+anthojo01,,,,,,,,,,,,,,,,,Joel Anthony,Did Not Play,DET,True,False
+dinwisp01,,,,,,,,,,,,,,,,,Spencer Dinwiddie,Did Not Play,DET,True,False
+hillida01,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,True,False

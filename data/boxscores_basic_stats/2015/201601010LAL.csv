@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+grantje01,30.966666666666665,2.0,6.0,0.333,0.0,2.0,0.0,5.0,6.0,0.833,1.0,6.0,7.0,3.0,0.0,1.0,1.0,2.0,9.0,-2.0,Jerami Grant,,PHI,False,True
+canaais01,30.966666666666665,2.0,11.0,0.182,1.0,8.0,0.125,2.0,2.0,1.0,0.0,4.0,4.0,1.0,0.0,0.0,3.0,1.0,7.0,-21.0,Isaiah Canaan,,PHI,False,True
+noelne01,27.633333333333333,6.0,11.0,0.545,0.0,0.0,,3.0,5.0,0.6,5.0,7.0,12.0,3.0,3.0,3.0,1.0,2.0,15.0,-1.0,Nerlens Noel,,PHI,False,True
+smithis01,25.45,3.0,19.0,0.158,0.0,2.0,0.0,3.0,4.0,0.75,1.0,3.0,4.0,3.0,0.0,0.0,3.0,5.0,9.0,-2.0,Ish Smith,,PHI,False,True
+sampsja02,19.666666666666668,2.0,6.0,0.333,0.0,1.0,0.0,0.0,0.0,,3.0,2.0,5.0,0.0,0.0,2.0,0.0,3.0,4.0,-2.0,JaKarr Sampson,,PHI,False,True
+stausni01,28.95,2.0,9.0,0.222,0.0,5.0,0.0,0.0,0.0,,2.0,2.0,4.0,2.0,1.0,0.0,3.0,2.0,4.0,-3.0,Nik Stauskas,,PHI,False,False
+okafoja01,23.25,6.0,10.0,0.6,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,0.0,0.0,1.0,1.0,1.0,12.0,-11.0,Jahlil Okafor,,PHI,False,False
+mccontj01,22.55,5.0,6.0,0.833,1.0,2.0,0.5,1.0,2.0,0.5,0.0,4.0,4.0,7.0,0.0,1.0,4.0,1.0,12.0,-7.0,T.J. McConnell,,PHI,False,False
+covinro01,22.483333333333334,3.0,6.0,0.5,2.0,4.0,0.5,2.0,2.0,1.0,0.0,6.0,6.0,1.0,2.0,1.0,0.0,3.0,10.0,-1.0,Robert Covington,,PHI,False,False
+holmeri01,8.083333333333334,0.0,0.0,,0.0,0.0,,2.0,4.0,0.5,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,5.0,Richaun Holmes,,PHI,False,False
+landrca01,,,,,,,,,,,,,,,,,,,,,Carl Landry,Did Not Play,PHI,False,False
+marshke01,,,,,,,,,,,,,,,,,,,,,Kendall Marshall,Did Not Play,PHI,False,False
+thompho01,,,,,,,,,,,,,,,,,,,,,Hollis Thompson,Did Not Dress,PHI,False,False
+willilo02,36.88333333333333,6.0,15.0,0.4,2.0,7.0,0.286,10.0,12.0,0.833,0.0,4.0,4.0,5.0,0.0,1.0,4.0,1.0,24.0,7.0,Lou Williams,,LAL,True,True
+clarkjo01,33.35,6.0,17.0,0.353,0.0,1.0,0.0,7.0,9.0,0.778,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,19.0,0.0,Jordan Clarkson,,LAL,True,True
+nancela02,24.45,4.0,7.0,0.571,0.0,0.0,,0.0,0.0,,6.0,8.0,14.0,0.0,0.0,0.0,0.0,3.0,8.0,0.0,Larry Nance,,LAL,True,True
+hibbero01,22.85,1.0,6.0,0.167,0.0,0.0,,1.0,2.0,0.5,1.0,4.0,5.0,1.0,0.0,2.0,0.0,4.0,3.0,4.0,Roy Hibbert,,LAL,True,True
+brownan02,21.816666666666666,2.0,3.0,0.667,1.0,1.0,1.0,0.0,0.0,,0.0,5.0,5.0,0.0,1.0,0.0,0.0,0.0,5.0,8.0,Anthony Brown,,LAL,True,True
+youngni01,26.4,3.0,11.0,0.273,2.0,7.0,0.286,0.0,0.0,,1.0,2.0,3.0,1.0,4.0,0.0,1.0,0.0,8.0,1.0,Nick Young,,LAL,True,False
+russeda01,25.766666666666666,3.0,14.0,0.214,0.0,0.0,,0.0,0.0,,1.0,3.0,4.0,5.0,2.0,1.0,4.0,2.0,6.0,11.0,D'Angelo Russell,,LAL,True,False
+bassbr01,24.933333333333334,2.0,4.0,0.5,0.0,0.0,,1.0,2.0,0.5,1.0,3.0,4.0,2.0,2.0,2.0,0.0,2.0,5.0,5.0,Brandon Bass,,LAL,True,False
+randlju01,23.55,6.0,10.0,0.6,0.0,0.0,,3.0,4.0,0.75,2.0,7.0,9.0,0.0,2.0,0.0,1.0,2.0,15.0,9.0,Julius Randle,,LAL,True,False
+huertma01,,,,,,,,,,,,,,,,,,,,,Marcelo Huertas,Did Not Play,LAL,True,False
+kellyry01,,,,,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,LAL,True,False
+artesro01,,,,,,,,,,,,,,,,,,,,,Metta World Peace,Did Not Play,LAL,True,False
+sacrero01,,,,,,,,,,,,,,,,,,,,,Robert Sacre,Did Not Play,LAL,True,False

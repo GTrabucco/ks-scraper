@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jamesle01,43.583333333333336,9.0,22.0,0.409,0.0,5.0,0.0,6.0,10.0,0.6,2.0,10.0,12.0,6.0,2.0,1.0,1.0,2.0,24.0,-1.0,LeBron James,,CLE,False,True
+smithjr01,42.1,7.0,14.0,0.5,4.0,7.0,0.571,1.0,2.0,0.5,0.0,3.0,3.0,0.0,2.0,0.0,2.0,2.0,19.0,7.0,J.R. Smith,,CLE,False,True
+loveke01,41.8,7.0,15.0,0.467,2.0,5.0,0.4,3.0,4.0,0.75,0.0,8.0,8.0,2.0,2.0,2.0,2.0,4.0,19.0,1.0,Kevin Love,,CLE,False,True
+irvinky01,40.983333333333334,10.0,20.0,0.5,1.0,4.0,0.25,4.0,4.0,1.0,0.0,3.0,3.0,7.0,0.0,0.0,3.0,2.0,25.0,-3.0,Kyrie Irving,,CLE,False,True
+thomptr01,40.916666666666664,7.0,7.0,1.0,0.0,0.0,,0.0,1.0,0.0,7.0,5.0,12.0,0.0,0.0,0.0,3.0,3.0,14.0,5.0,Tristan Thompson,,CLE,False,True
+shumpim01,22.083333333333332,1.0,2.0,0.5,0.0,0.0,,2.0,2.0,1.0,1.0,3.0,4.0,2.0,0.0,0.0,1.0,0.0,4.0,2.0,Iman Shumpert,,CLE,False,False
+dellama01,12.116666666666667,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.0,2.0,0.0,4.0,2.0,0.0,10.0,Matthew Dellavedova,,CLE,False,False
+mozgoti01,12.0,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,3.0,6.0,-2.0,Timofey Mozgov,,CLE,False,False
+jefferi01,9.416666666666666,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,6.0,Richard Jefferson,,CLE,False,False
+cunnija01,,,,,,,,,,,,,,,,,,,,,Jared Cunningham,Did Not Play,CLE,False,False
+jonesja02,,,,,,,,,,,,,,,,,,,,,James Jones,Did Not Play,CLE,False,False
+varejan01,,,,,,,,,,,,,,,,,,,,,Anderson Varejão,Did Not Play,CLE,False,False
+willima01,,,,,,,,,,,,,,,,,,,,,Mo Williams,Did Not Play,CLE,False,False
+ellismo01,41.016666666666666,5.0,18.0,0.278,1.0,8.0,0.125,3.0,4.0,0.75,0.0,2.0,2.0,5.0,2.0,0.0,6.0,4.0,14.0,-7.0,Monta Ellis,,IND,True,True
+georgpa01,39.86666666666667,3.0,15.0,0.2,1.0,5.0,0.2,4.0,4.0,1.0,1.0,4.0,5.0,8.0,2.0,0.0,5.0,4.0,11.0,-8.0,Paul George,,IND,True,True
+hillge01,38.95,9.0,16.0,0.563,4.0,8.0,0.5,1.0,1.0,1.0,1.0,4.0,5.0,4.0,2.0,0.0,0.0,2.0,23.0,-8.0,George Hill,,IND,True,True
+turnemy01,36.5,7.0,16.0,0.438,0.0,0.0,,0.0,0.0,,6.0,4.0,10.0,0.0,1.0,4.0,0.0,5.0,14.0,-3.0,Myles Turner,,IND,True,True
+hilljo01,36.05,8.0,13.0,0.615,0.0,0.0,,1.0,1.0,1.0,3.0,3.0,6.0,4.0,1.0,1.0,2.0,1.0,17.0,-4.0,Jordan Hill,,IND,True,True
+allenla01,26.65,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,4.0,3.0,7.0,0.0,0.0,2.0,1.0,2.0,8.0,2.0,Lavoy Allen,,IND,True,False
+hillso01,19.933333333333334,3.0,7.0,0.429,1.0,2.0,0.5,3.0,4.0,0.75,2.0,4.0,6.0,1.0,1.0,0.0,1.0,3.0,10.0,1.0,Solomon Hill,,IND,True,False
+milescj01,11.483333333333333,1.0,5.0,0.2,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,3.0,2.0,C.J. Miles,,IND,True,False
+youngjo01,7.75,2.0,3.0,0.667,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,-1.0,Joe Young,,IND,True,False
+robingl02,6.8,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,Glenn Robinson,,IND,True,False
+budinch01,,,,,,,,,,,,,,,,,,,,,Chase Budinger,Did Not Play,IND,True,False
+chrisra01,,,,,,,,,,,,,,,,,,,,,Rakeem Christmas,Did Not Play,IND,True,False
+mahinia01,,,,,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Dress,IND,True,False

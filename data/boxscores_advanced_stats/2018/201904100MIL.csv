@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+grantje01,43.266666666666666,0.67,0.65,0.4,0.1,4.4,6.1,5.2,3.1,0.0,0.0,0.0,19.8,131.0,113.0,-0.8,Jerami Grant,,OKC,False,True
+schrode01,39.85,0.703,0.667,0.714,0.19,0.0,11.0,5.7,10.1,4.4,0.0,8.1,25.6,122.0,102.0,5.9,Dennis Schröder,,OKC,False,True
+westbru01,36.46666666666667,0.689,0.75,0.3,0.2,0.0,26.3,13.7,57.7,1.2,2.4,26.9,16.8,135.0,103.0,5.9,Russell Westbrook,,OKC,False,True
+fergute01,33.15,0.55,0.55,0.9,0.0,0.0,15.8,8.2,17.2,0.0,0.0,23.1,16.1,94.0,110.0,-7.0,Terrance Ferguson,,OKC,False,True
+adamsst01,12.35,0.296,0.2,0.0,0.8,15.2,0.0,7.3,0.0,0.0,7.2,0.0,22.5,84.0,110.0,-15.4,Steven Adams,,OKC,False,True
+morrima02,25.716666666666665,0.667,0.667,0.444,0.0,11.0,23.8,17.6,14.5,0.0,0.0,0.0,14.4,149.0,108.0,1.5,Markieff Morris,,OKC,False,False
+feltora01,24.2,0.75,0.75,1.0,0.0,0.0,14.4,7.5,34.7,0.0,0.0,11.1,15.3,145.0,111.0,5.0,Raymond Felton,,OKC,False,False
+naderab01,14.3,0.442,0.458,0.5,0.083,13.2,36.6,25.3,21.5,3.1,0.0,13.9,41.5,86.0,98.0,-7.2,Abdel Nader,,OKC,False,False
+noelne01,9.566666666666666,0.333,0.333,0.0,0.0,0.0,18.2,9.5,23.3,4.6,9.3,0.0,12.9,102.0,93.0,5.0,Nerlens Noel,,OKC,False,False
+evansja01,0.5666666666666667,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.6,0.0,115.0,-81.4,Jawun Evans,,OKC,False,False
+burtode02,0.5666666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,115.0,-8.6,Deonte Burton,,OKC,False,False
+diallha01,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,False,False
+pattepa01,,,,,,,,,,,,,,,,,Patrick Patterson,Did Not Play,OKC,False,False
+fraziti01,48.0,0.556,0.522,0.261,0.304,1.8,9.8,5.7,39.4,0.0,2.2,10.3,23.6,118.0,121.0,1.9,Tim Frazier,,MIL,True,True
+wilsodj01,46.81666666666667,0.45,0.45,0.35,0.0,7.5,26.1,16.4,11.8,0.9,0.0,4.8,17.5,103.0,117.0,-2.7,D.J. Wilson,,MIL,True,True
+colsobo01,44.833333333333336,0.577,0.531,0.563,0.313,3.9,16.8,10.1,0.0,3.0,0.0,9.9,17.5,107.0,114.0,-1.2,Bonzie Colson,,MIL,True,True
+ilyaser01,23.716666666666665,0.316,0.2,0.6,0.6,0.0,31.7,15.3,0.0,0.0,0.0,24.0,13.7,50.0,117.0,-15.6,Ersan İlyasova,,MIL,True,True
+middlkh01,16.966666666666665,0.75,0.75,0.5,0.0,0.0,5.5,2.7,80.7,2.6,0.0,6.7,34.4,140.0,117.0,21.3,Khris Middleton,,MIL,True,True
+brownst02,22.65,0.4,0.286,0.571,0.571,0.0,12.5,6.0,16.4,0.0,0.0,25.5,20.2,73.0,121.0,-14.7,Sterling Brown,,MIL,True,False
+hillge01,18.85,0.34,0.3,1.0,0.4,4.6,10.0,7.2,6.3,2.3,0.0,0.0,12.1,89.0,117.0,-5.8,George Hill,,MIL,True,False
+connapa01,18.166666666666668,0.6,0.6,0.5,0.0,14.4,10.4,12.5,8.9,2.4,0.0,16.7,25.7,106.0,116.0,0.2,Pat Connaughton,,MIL,True,False
+antetgi01,,,,,,,,,,,,,,,,,Giannis Antetokounmpo,Did Not Dress,MIL,True,False
+lopezbr01,,,,,,,,,,,,,,,,,Brook Lopez,Did Not Dress,MIL,True,False
+bledser01,,,,,,,,,,,,,,,,,Eric Bledsoe,Did Not Play,MIL,True,False
+snellto01,,,,,,,,,,,,,,,,,Tony Snell,Did Not Play,MIL,True,False

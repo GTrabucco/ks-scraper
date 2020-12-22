@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+parkeja01,38.13333333333333,0.635,0.643,0.286,0.286,11.4,12.6,12.0,12.6,2.9,0.0,11.3,23.4,123.0,131.0,1.5,Jabari Parker,,MIL,False,True
+brogdma01,32.766666666666666,0.619,0.563,0.25,0.25,4.4,14.6,9.3,17.2,1.7,0.0,18.4,16.7,118.0,133.0,-2.2,Malcolm Brogdon,,MIL,False,True
+antetgi01,32.0,0.793,0.786,0.0,0.286,9.1,20.0,14.3,31.9,1.7,2.9,16.0,29.5,139.0,130.0,11.2,Giannis Antetokounmpo,,MIL,False,True
+snellto01,29.016666666666666,0.336,0.357,0.714,0.143,0.0,0.0,0.0,4.5,0.0,0.0,0.0,12.9,78.0,140.0,-12.0,Tony Snell,,MIL,False,True
+hensojo01,20.266666666666666,0.41,0.5,0.0,0.5,7.2,15.8,11.3,13.4,0.0,4.6,38.1,19.5,67.0,133.0,-12.5,John Henson,,MIL,False,True
+terryja01,22.783333333333335,1.5,1.5,1.0,0.0,0.0,7.0,3.3,16.7,0.0,0.0,0.0,2.2,253.0,139.0,2.2,Jason Terry,,MIL,False,False
+beaslmi01,20.2,0.551,0.5,0.1,0.2,0.0,39.6,18.9,25.4,0.0,0.0,8.4,29.6,113.0,133.0,-2.5,Michael Beasley,,MIL,False,False
+teletmi01,19.0,0.82,0.75,1.0,0.5,0.0,25.3,12.0,7.2,0.0,4.9,29.1,18.2,114.0,132.0,1.4,Mirza Teletović,,MIL,False,False
+monrogr01,14.3,0.4,0.4,0.0,0.0,0.0,11.2,5.3,0.0,0.0,0.0,0.0,35.2,82.0,138.0,-14.9,Greg Monroe,,MIL,False,False
+makerth01,5.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.8,0.0,139.0,-20.4,Thon Maker,,MIL,False,False
+plumlmi01,2.9333333333333336,,,,,0.0,0.0,0.0,0.0,0.0,31.5,100.0,17.1,0.0,115.0,-15.6,Miles Plumlee,,MIL,False,False
+novakst01,2.9,1.5,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.3,300.0,140.0,31.5,Steve Novak,,MIL,False,False
+dellama01,,,,,,,,,,,,,,,,,Matthew Dellavedova,Did Not Dress,MIL,False,False
+lavinza01,39.21666666666667,0.706,0.706,0.529,0.0,0.0,7.4,3.9,15.3,0.0,0.0,10.5,23.9,128.0,121.0,0.8,Zach LaVine,,MIN,True,True
+wiggian01,39.083333333333336,0.653,0.556,0.167,0.722,4.1,14.9,9.7,24.0,1.4,0.0,4.0,31.2,144.0,117.0,4.6,Andrew Wiggins,,MIN,True,True
+townska01,38.28333333333333,0.615,0.583,0.167,0.5,20.9,41.8,31.8,11.0,0.0,4.5,21.5,24.0,116.0,111.0,-3.5,Karl-Anthony Towns,,MIN,True,True
+rubiori01,35.266666666666666,0.625,0.625,0.75,0.0,4.5,0.0,2.2,30.4,6.3,0.0,33.3,8.4,136.0,108.0,3.9,Ricky Rubio,,MIN,True,True
+dienggo01,34.0,0.5,0.5,0.0,0.0,4.7,12.8,9.0,10.9,1.6,7.6,0.0,8.7,133.0,110.0,2.7,Gorgui Dieng,,MIN,True,True
+bjeline01,19.066666666666666,0.833,0.833,0.5,0.0,0.0,22.9,12.0,7.6,2.9,0.0,0.0,15.5,164.0,112.0,6.7,Nemanja Bjelica,,MIN,True,False
+muhamsh01,17.7,0.793,0.769,0.385,0.154,0.0,8.2,4.3,0.0,0.0,0.0,12.6,44.3,125.0,121.0,6.6,Shabazz Muhammad,,MIN,True,False
+dunnkr01,12.733333333333333,0.0,0.0,0.0,0.0,0.0,11.4,6.0,35.1,0.0,0.0,0.0,3.9,145.0,120.0,-2.3,Kris Dunn,,MIN,True,False
+aldrico01,4.65,,,,,0.0,31.3,16.4,0.0,11.9,0.0,,0.0,0.0,92.0,8.2,Cole Aldrich,,MIN,True,False
+hilljo01,,,,,,,,,,,,,,,,,Jordan Hill,Did Not Play,MIN,True,False
+jonesty01,,,,,,,,,,,,,,,,,Tyus Jones,Did Not Play,MIN,True,False
+paynead01,,,,,,,,,,,,,,,,,Adreian Payne,Did Not Play,MIN,True,False
+rushbr01,,,,,,,,,,,,,,,,,Brandon Rush,Did Not Play,MIN,True,False

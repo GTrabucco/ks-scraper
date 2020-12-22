@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+jordade01,42.7,0.459,0.5,0.0,0.7,17.4,32.9,24.6,4.3,0.0,5.7,13.3,15.5,99.0,85.0,-0.7,DeAndre Jordan,,LAC,False,True
+johnswe01,41.8,0.269,0.269,0.538,0.0,4.4,18.1,10.8,8.1,2.4,2.0,7.1,14.7,66.0,87.0,-3.9,Wesley Johnson,,LAC,False,True
+paulch01,39.65,0.424,0.278,0.167,0.556,2.3,13.6,7.6,33.0,5.1,0.0,11.8,28.1,92.0,84.0,4.0,Chris Paul,,LAC,False,True
+redicjj01,38.88333333333333,0.546,0.472,0.444,0.389,0.0,5.6,2.6,10.7,0.0,0.0,12.5,27.2,100.0,98.0,-0.7,J.J. Redick,,LAC,False,True
+mbahalu01,23.05,0.333,0.333,0.0,0.0,4.0,9.4,6.5,7.0,6.6,0.0,0.0,5.7,95.0,82.0,3.7,Luc Mbah a Moute,,LAC,False,True
+crawfja01,39.1,0.496,0.452,0.143,0.238,0.0,8.3,3.8,17.8,2.6,0.0,4.1,27.2,103.0,91.0,4.7,Jamal Crawford,,LAC,False,False
+stephla01,16.183333333333334,0.2,0.2,0.0,0.0,0.0,20.1,9.3,10.3,0.0,0.0,28.6,19.0,36.0,93.0,-15.3,Lance Stephenson,,LAC,False,False
+prigipa01,13.35,0.0,0.0,0.5,0.0,0.0,16.2,7.5,45.4,0.0,0.0,0.0,6.6,72.0,94.0,-6.4,Pablo Prigioni,,LAC,False,False
+aldrico01,10.3,0.85,0.8,0.0,0.4,18.1,10.5,14.6,0.0,4.9,0.0,0.0,25.1,176.0,86.0,23.0,Cole Aldrich,,LAC,False,False
+pendeje02,,,,,,,,,,,,,,,,,Jeff Ayres,Did Not Play,LAC,False,False
+dawsobr01,,,,,,,,,,,,,,,,,Branden Dawson,Did Not Play,LAC,False,False
+piercpa01,,,,,,,,,,,,,,,,,Paul Pierce,Did Not Dress,LAC,False,False
+wilcocj01,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,LAC,False,False
+noelne01,34.28333333333333,0.694,0.5,0.0,1.0,3.2,21.7,13.1,20.0,5.9,2.1,34.2,11.4,106.0,81.0,8.6,Nerlens Noel,,PHI,True,True
+covinro01,34.03333333333333,0.491,0.333,0.667,0.556,3.2,16.4,10.3,5.3,0.0,0.0,21.1,18.5,86.0,98.0,-5.6,Robert Covington,,PHI,True,True
+smithis01,33.416666666666664,0.327,0.313,0.125,0.042,3.2,22.3,13.5,34.6,3.0,0.0,7.6,35.2,74.0,89.0,-1.2,Ish Smith,,PHI,True,True
+okafoja01,29.833333333333332,0.389,0.389,0.0,0.0,10.9,18.7,15.1,8.2,1.7,7.3,14.3,31.3,74.0,88.0,-0.8,Jahlil Okafor,,PHI,True,True
+stausni01,20.6,0.625,0.625,0.75,0.0,0.0,4.5,2.4,0.0,0.0,0.0,0.0,8.6,123.0,102.0,-4.0,Nik Stauskas,,PHI,True,True
+thompho01,34.9,0.81,0.778,0.667,0.222,0.0,2.7,1.4,5.8,0.0,0.0,23.3,16.4,115.0,103.0,4.3,Hollis Thompson,,PHI,True,False
+grantje01,33.36666666666667,0.843,0.857,0.143,1.0,13.0,19.5,16.5,13.0,0.0,2.2,9.0,14.8,160.0,95.0,10.3,Jerami Grant,,PHI,True,False
+canaais01,24.833333333333332,0.073,0.0,0.833,0.333,0.0,15.0,8.1,12.6,0.0,0.0,22.5,15.9,24.0,98.0,-17.2,Isaiah Canaan,,PHI,True,False
+mccontj01,19.733333333333334,0.222,0.222,0.111,0.0,5.5,9.4,7.6,37.5,0.0,0.0,25.0,27.0,53.0,100.0,-13.6,T.J. McConnell,,PHI,True,False
+holmeri01,,,,,,,,,,,,,,,,,Richaun Holmes,Did Not Play,PHI,True,False
+landrca01,,,,,,,,,,,,,,,,,Carl Landry,Did Not Play,PHI,True,False
+marshke01,,,,,,,,,,,,,,,,,Kendall Marshall,Did Not Play,PHI,True,False
+sampsja02,,,,,,,,,,,,,,,,,JaKarr Sampson,Did Not Play,PHI,True,False

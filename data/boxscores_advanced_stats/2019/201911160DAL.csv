@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+siakapa01,41.21666666666667,0.296,0.292,0.417,0.125,0.0,7.4,3.6,27.2,1.2,2.4,16.5,32.2,64.0,112.0,-9.6,Pascal Siakam,,TOR,False,True
+vanvlfr01,38.583333333333336,0.607,0.556,0.611,0.222,0.0,13.2,6.4,32.2,1.2,0.0,13.2,25.8,115.0,112.0,4.9,Fred VanVleet,,TOR,False,True
+powelno01,32.43333333333333,0.797,0.8,0.533,0.2,0.0,18.9,9.2,6.2,1.5,0.0,10.9,24.7,129.0,109.0,11.1,Norman Powell,,TOR,False,True
+anunoog01,31.85,0.667,0.667,0.667,0.0,0.0,16.0,7.8,0.0,0.0,0.0,0.0,8.3,124.0,113.0,-1.1,OG Anunoby,,TOR,False,True
+gasolma01,26.483333333333334,0.361,0.214,0.286,0.429,7.2,27.0,16.8,10.3,1.8,0.0,10.7,15.4,89.0,106.0,-2.8,Marc Gasol,,TOR,False,True
+holliro01,25.283333333333335,0.667,0.667,0.0,0.0,11.4,4.0,7.8,0.0,3.8,0.0,25.0,13.9,107.0,109.0,-0.9,Rondae Hollis-Jefferson,,TOR,False,False
+thomama02,16.55,1.0,1.0,0.4,0.0,0.0,18.5,9.0,0.0,0.0,0.0,0.0,13.2,183.0,113.0,10.0,Matt Thomas,,TOR,False,False
+daviste02,15.566666666666666,0.167,0.167,0.5,0.0,0.0,26.2,12.7,36.4,3.1,0.0,0.0,16.9,70.0,103.0,0.6,Terence Davis,,TOR,False,False
+bouchch01,12.033333333333333,0.521,0.5,0.5,1.0,16.0,8.5,12.3,0.0,0.0,8.1,25.8,14.1,100.0,112.0,-3.2,Chris Boucher,,TOR,False,False
+millema01,,,,,,,,,,,,,,,,,Malcolm Miller,Did Not Play,TOR,False,False
+hernade01,,,,,,,,,,,,,,,,,Dewan Hernandez,Did Not Play,TOR,False,False
+johnsst04,,,,,,,,,,,,,,,,,Stanley Johnson,Did Not Play,TOR,False,False
+klebima01,38.333333333333336,0.5,0.5,0.8,0.0,0.0,15.0,7.7,7.8,0.0,2.6,0.0,10.9,110.0,105.0,-0.1,Maxi Kleber,,DAL,True,True
+porzikr01,35.71666666666667,0.442,0.375,0.35,0.3,17.2,24.2,20.8,9.7,0.0,2.8,4.2,27.7,106.0,103.0,-0.6,Kristaps Porziņģis,,DAL,True,True
+doncilu01,35.61666666666667,0.581,0.393,0.357,1.357,8.6,32.3,20.8,31.2,2.7,0.0,23.8,34.6,105.0,97.0,6.7,Luka Dončić,,DAL,True,True
+curryse01,32.68333333333333,0.952,0.929,0.714,0.286,3.1,14.7,9.1,24.8,1.5,3.1,20.2,12.7,152.0,101.0,11.0,Seth Curry,,DAL,True,True
+finnedo01,31.6,0.421,0.409,0.455,0.182,3.2,9.1,6.3,9.8,0.0,3.2,7.8,17.1,91.0,106.0,-3.5,Dorian Finney-Smith,,DAL,True,True
+wrighde01,19.116666666666667,0.845,0.813,0.375,0.25,5.3,15.1,10.4,11.4,7.5,0.0,10.1,21.7,148.0,89.0,20.8,Delon Wright,,DAL,True,False
+hardati02,19.1,0.182,0.182,0.364,0.0,0.0,5.0,2.6,23.6,0.0,0.0,0.0,24.1,57.0,109.0,-13.9,Tim Hardaway,,DAL,True,False
+poweldw01,14.383333333333333,1.064,1.0,0.0,2.0,0.0,13.3,6.9,9.9,0.0,0.0,0.0,5.5,227.0,107.0,0.6,Dwight Powell,,DAL,True,False
+brunsja01,8.583333333333334,1.0,1.0,0.0,0.0,0.0,11.2,5.8,21.7,5.6,0.0,0.0,9.8,204.0,94.0,12.4,Jalen Brunson,,DAL,True,False
+jacksju01,4.866666666666667,0.25,0.25,0.5,0.0,0.0,19.7,10.2,0.0,0.0,0.0,0.0,34.4,55.0,105.0,-22.1,Justin Jackson,,DAL,True,False
+marjabo01,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,DAL,True,False
+leeco01,,,,,,,,,,,,,,,,,Courtney Lee,Did Not Play,DAL,True,False
+bareajo01,,,,,,,,,,,,,,,,,J.J. Barea,Did Not Play,DAL,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+thomala01,33.483333333333334,0.5,0.5,0.8,0.0,6.1,12.6,8.8,6.5,1.4,2.6,16.7,7.5,108.0,121.0,-2.9,Lance Thomas,,NYK,False,True
+ntilila01,33.45,0.25,0.25,0.25,0.0,0.0,12.7,5.3,9.4,0.0,0.0,20.0,6.2,69.0,126.0,-10.2,Frank Ntilikina,,NYK,False,True
+hardati02,32.03333333333333,0.623,0.6,0.55,0.1,0.0,30.9,12.9,9.4,1.5,0.0,4.6,28.5,122.0,121.0,5.1,Tim Hardaway,,NYK,False,True
+mudiaem01,28.45,0.556,0.536,0.214,0.5,0.0,9.9,4.2,19.2,1.7,0.0,14.9,29.4,102.0,123.0,-2.0,Emmanuel Mudiay,,NYK,False,True
+kanteen01,21.75,0.727,0.727,0.0,0.0,23.5,19.5,21.8,7.5,2.2,4.0,21.4,26.8,120.0,117.0,2.9,Enes Kanter,,NYK,False,True
+willitr02,25.65,0.587,0.536,0.214,0.214,8.0,16.5,11.6,0.0,1.9,0.0,0.0,24.9,127.0,122.0,3.8,Troy Williams,,NYK,False,False
+beaslmi01,22.883333333333333,0.25,0.25,0.25,0.0,4.5,12.3,7.8,14.7,0.0,0.0,11.1,16.4,70.0,126.0,-11.9,Michael Beasley,,NYK,False,False
+oquinky01,17.233333333333334,0.788,0.75,0.125,0.25,0.0,16.4,6.9,55.2,2.8,15.2,0.0,21.5,172.0,107.0,31.2,Kyle O'Quinn,,NYK,False,False
+burketr01,14.266666666666667,0.333,0.333,0.0,0.0,0.0,19.8,8.3,25.1,0.0,0.0,0.0,17.5,92.0,126.0,-7.3,Trey Burke,,NYK,False,False
+dotsoda01,7.5,0.333,0.333,0.667,0.0,0.0,18.8,7.9,0.0,0.0,0.0,25.0,22.2,50.0,124.0,-24.7,Damyean Dotson,,NYK,False,False
+kornelu01,3.3,0.2,0.2,0.2,0.0,30.9,0.0,18.0,0.0,0.0,0.0,0.0,63.2,58.0,127.0,-40.5,Luke Kornet,,NYK,False,False
+jackja01,,,,,,,,,,,,,,,,,Jarrett Jack,Did Not Play,NYK,False,False
+hicksis01,,,,,,,,,,,,,,,,,Isaiah Hicks,Did Not Play,NYK,False,False
+antetgi01,35.233333333333334,0.611,0.467,0.0,1.2,8.0,23.2,16.8,21.6,2.7,3.9,4.2,31.3,134.0,106.0,6.8,Giannis Antetokounmpo,,MIL,True,True
+hensojo01,31.216666666666665,0.694,0.714,0.0,1.0,0.0,13.1,7.6,9.2,1.6,8.8,22.9,19.3,106.0,107.0,-0.1,John Henson,,MIL,True,True
+middlkh01,31.15,0.805,0.75,0.25,0.375,0.0,13.1,7.6,6.4,0.0,0.0,5.1,29.1,148.0,118.0,3.5,Khris Middleton,,MIL,True,True
+bledser01,28.016666666666666,0.509,0.583,0.5,0.333,0.0,10.9,6.3,38.2,6.9,0.0,42.1,19.5,83.0,104.0,-1.1,Eric Bledsoe,,MIL,True,True
+snellto01,27.383333333333333,0.0,0.0,0.667,0.0,0.0,3.7,2.2,21.4,0.0,0.0,25.0,6.7,68.0,120.0,-9.0,Tony Snell,,MIL,True,True
+parkeja01,23.433333333333334,0.75,0.75,0.375,0.0,6.0,13.1,10.1,33.3,0.0,0.0,11.1,17.7,143.0,118.0,6.9,Jabari Parker,,MIL,True,False
+brownst02,21.8,0.935,0.9,1.0,0.4,0.0,32.8,19.0,6.4,0.0,0.0,14.5,14.5,146.0,113.0,4.8,Sterling Brown,,MIL,True,False
+terryja01,17.2,0.0,0.0,1.0,0.0,0.0,11.9,6.9,6.8,0.0,0.0,0.0,2.7,59.0,118.0,-8.9,Jason Terry,,MIL,True,False
+zellety01,16.783333333333335,0.607,0.556,0.0,0.222,25.2,18.3,21.2,10.7,0.0,0.0,0.0,27.1,137.0,116.0,-3.5,Tyler Zeller,,MIL,True,False
+muhamsh01,6.1,0.773,0.667,0.0,0.667,0.0,16.7,9.7,0.0,7.9,0.0,20.5,36.9,116.0,101.0,5.6,Shabazz Muhammad,,MIL,True,False
+munfoxa02,1.6833333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-18.1,Xavier Munford,,MIL,True,False
+wilsodj01,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,True,False
+makerth01,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,MIL,True,False

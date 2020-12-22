@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+grantje01,42.2,0.529,0.529,0.235,0.0,2.8,12.4,8.3,2.9,3.4,0.0,5.6,18.7,102.0,113.0,-1.9,Jerami Grant,,OKC,False,True
+georgpa01,39.11666666666667,0.662,0.625,0.208,0.375,6.0,8.9,7.7,15.4,3.6,0.0,0.0,31.4,140.0,114.0,10.8,Paul George,,OKC,False,True
+westbru01,38.35,0.666,0.625,0.167,1.0,3.1,29.6,18.3,43.5,0.0,2.1,22.4,25.5,125.0,111.0,6.2,Russell Westbrook,,OKC,False,True
+noelne01,34.18333333333333,0.6,0.6,0.0,0.0,3.4,15.3,10.2,3.5,1.4,11.5,9.1,14.1,113.0,110.0,0.3,Nerlens Noel,,OKC,False,True
+diallha01,17.416666666666668,0.643,0.6,0.0,0.2,6.7,0.0,2.9,0.0,0.0,4.5,0.0,13.7,136.0,124.0,-1.6,Hamidou Diallo,,OKC,False,True
+schrode01,28.033333333333335,0.823,0.818,0.182,0.364,0.0,9.3,5.4,19.4,0.0,2.8,0.0,20.0,168.0,121.0,10.0,Dennis Schröder,,OKC,False,False
+pattepa01,18.433333333333334,0.0,0.0,0.75,0.0,0.0,9.5,5.4,5.3,0.0,0.0,0.0,9.5,17.0,122.0,-13.2,Patrick Patterson,,OKC,False,False
+naderab01,16.5,0.417,0.417,0.5,0.0,0.0,10.6,6.1,0.0,0.0,0.0,0.0,15.9,83.0,122.0,-9.6,Abdel Nader,,OKC,False,False
+abrinal01,5.766666666666667,0.75,0.75,1.0,0.0,0.0,15.1,8.7,0.0,0.0,0.0,0.0,15.2,140.0,119.0,0.2,Álex Abrines,,OKC,False,False
+feltora01,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,False,False
+adamsst01,,,,,,,,,,,,,,,,,Steven Adams,Did Not Dress,OKC,False,False
+luwawti01,,,,,,,,,,,,,,,,,Timothé Luwawu-Cabarrot,Did Not Play,OKC,False,False
+gordoaa01,36.9,0.402,0.368,0.474,0.105,14.2,9.5,12.2,25.2,0.0,1.9,4.8,22.3,113.0,126.0,0.3,Aaron Gordon,,ORL,True,True
+vucevni01,33.983333333333334,0.647,0.625,0.1,0.1,5.1,31.0,16.2,26.1,1.4,4.0,12.6,27.7,124.0,119.0,11.0,Nikola Vučević,,ORL,True,True
+augusdj01,32.05,0.486,0.4,0.5,0.3,5.4,0.0,3.1,19.0,0.0,0.0,8.1,15.1,122.0,129.0,-5.0,D.J. Augustin,,ORL,True,True
+fournev01,30.633333333333333,0.571,0.571,0.429,0.143,5.7,7.6,6.5,4.7,1.5,0.0,16.8,23.0,101.0,125.0,-4.3,Evan Fournier,,ORL,True,True
+isaacjo01,27.4,0.619,0.563,0.375,0.25,3.2,29.9,14.6,4.7,3.5,2.5,0.0,12.8,142.0,116.0,4.8,Jonathan Isaac,,ORL,True,True
+rosste01,31.7,0.5,0.5,0.625,0.0,2.8,18.5,9.5,4.3,0.0,2.2,5.9,21.1,106.0,125.0,-1.5,Terrence Ross,,ORL,True,False
+simmojo02,17.366666666666667,0.322,0.25,0.667,0.667,5.0,20.2,11.5,26.8,0.0,0.0,11.4,19.9,92.0,127.0,-7.7,Jonathon Simmons,,ORL,True,False
+grantje02,15.95,0.563,0.5,0.0,0.25,0.0,22.0,9.4,15.8,0.0,0.0,31.1,15.9,90.0,127.0,-10.5,Jerian Grant,,ORL,True,False
+bambamo01,14.016666666666667,0.765,0.7,0.4,0.4,18.7,25.1,21.4,0.0,0.0,0.0,0.0,16.5,172.0,126.0,4.7,Mohamed Bamba,,ORL,True,False
+briscis01,,,,,,,,,,,,,,,,,Isaiah Briscoe,Did Not Play,ORL,True,False
+birchkh01,,,,,,,,,,,,,,,,,Khem Birch,Did Not Play,ORL,True,False
+martija01,,,,,,,,,,,,,,,,,Jarell Martin,Did Not Play,ORL,True,False
+iwundwe01,,,,,,,,,,,,,,,,,Wesley Iwundu,Did Not Play,ORL,True,False

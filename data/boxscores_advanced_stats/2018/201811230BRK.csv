@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+covinro01,37.78333333333333,0.438,0.438,0.5,0.0,2.8,16.7,9.1,6.3,6.6,0.0,0.0,9.5,105.0,100.0,0.8,Robert Covington,,MIN,False,True
+wiggian01,35.016666666666666,0.321,0.321,0.286,0.0,3.0,3.6,3.3,7.1,1.4,0.0,0.0,18.0,79.0,116.0,-9.8,Andrew Wiggins,,MIN,False,True
+teaguje01,30.4,0.705,0.563,0.5,0.75,0.0,8.3,3.8,37.7,1.6,0.0,15.8,18.7,139.0,114.0,5.1,Jeff Teague,,MIN,False,True
+townska01,27.65,0.556,0.528,0.222,0.111,15.1,22.8,18.6,6.1,1.8,5.1,9.6,34.0,109.0,107.0,-0.9,Karl-Anthony Towns,,MIN,False,True
+gibsota01,25.916666666666668,0.962,0.929,0.143,0.429,8.1,43.9,24.3,5.6,5.8,5.4,0.0,14.5,198.0,91.0,15.4,Taj Gibson,,MIN,False,True
+rosede01,29.45,0.717,0.706,0.118,0.059,0.0,8.6,3.9,18.8,0.0,0.0,10.3,29.8,125.0,118.0,4.3,Derrick Rose,,MIN,False,False
+dienggo01,20.166666666666668,0.379,0.318,0.182,0.182,5.2,12.5,8.5,12.9,5.0,14.0,7.8,28.8,85.0,99.0,0.5,Gorgui Dieng,,MIN,False,False
+jonesty01,17.6,0.595,0.7,0.4,0.4,0.0,7.2,3.2,30.5,5.7,0.0,0.0,15.1,134.0,105.0,8.2,Tyus Jones,,MIN,False,False
+saricda01,16.016666666666666,0.338,0.25,0.5,0.25,0.0,15.8,7.1,7.3,0.0,0.0,0.0,12.5,83.0,116.0,-9.5,Dario Šarić,,MIN,False,False
+okogijo01,,,,,,,,,,,,,,,,,Josh Okogie,Did Not Play,MIN,False,False
+denglu01,,,,,,,,,,,,,,,,,Luol Deng,Did Not Play,MIN,False,False
+nunnaja01,,,,,,,,,,,,,,,,,James Nunnally,Did Not Play,MIN,False,False
+tollian01,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,MIN,False,False
+harrijo01,33.93333333333333,0.61,0.538,0.769,0.308,7.4,12.3,10.1,21.8,0.0,0.0,11.9,21.9,121.0,120.0,2.7,Joe Harris,,BRK,True,True
+crabbal01,30.266666666666666,0.55,0.55,0.9,0.0,0.0,17.2,9.4,5.9,0.0,2.4,9.1,16.1,98.0,117.0,-0.2,Allen Crabbe,,BRK,True,True
+allenja01,26.033333333333335,0.676,0.625,0.25,0.25,4.9,12.0,8.8,7.8,0.0,0.0,10.1,16.8,125.0,120.0,-3.6,Jarrett Allen,,BRK,True,True
+russeda01,25.816666666666666,0.23,0.2,0.6,0.2,0.0,12.1,6.6,31.7,0.0,0.0,26.9,25.5,55.0,120.0,-18.5,D'Angelo Russell,,BRK,True,True
+dudleja01,15.133333333333333,0.581,0.667,0.333,0.333,0.0,6.9,3.8,11.9,0.0,0.0,22.5,13.0,88.0,121.0,-5.5,Jared Dudley,,BRK,True,True
+dinwisp01,29.816666666666666,0.571,0.5,0.571,0.286,4.2,7.0,5.7,55.2,0.0,0.0,11.3,26.4,123.0,121.0,4.5,Spencer Dinwiddie,,BRK,True,False
+carrode01,23.566666666666666,0.558,0.444,0.556,0.667,5.4,26.6,17.0,15.1,0.0,0.0,14.7,25.6,107.0,117.0,-0.6,DeMarre Carroll,,BRK,True,False
+holliro01,19.516666666666666,0.521,0.333,0.0,1.0,6.5,26.7,17.6,17.5,2.6,3.7,10.4,21.9,114.0,108.0,4.5,Rondae Hollis-Jefferson,,BRK,True,False
+napiesh01,17.366666666666667,1.103,1.1,0.8,0.2,7.3,30.0,19.7,12.6,2.9,4.1,35.5,21.5,110.0,106.0,15.7,Shabazz Napier,,BRK,True,False
+davised01,12.7,0.0,0.0,0.0,0.0,19.9,16.4,18.0,11.5,0.0,0.0,50.0,7.0,74.0,119.0,-10.8,Ed Davis,,BRK,True,False
+farieke01,5.85,,,,,0.0,17.8,9.8,0.0,0.0,12.2,,0.0,0.0,107.0,-2.4,Kenneth Faried,,BRK,True,False
+grahatr01,,,,,,,,,,,,,,,,,Treveon Graham,Did Not Dress,BRK,True,False

@@ -1,0 +1,25 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+smithis01,38.1,8.0,12.0,0.667,2.0,4.0,0.5,3.0,6.0,0.5,0.0,4.0,4.0,5.0,1.0,0.0,3.0,0.0,21.0,-15.0,Ish Smith,,PHI,False,True
+grantje01,37.43333333333333,3.0,8.0,0.375,0.0,1.0,0.0,0.0,0.0,,2.0,6.0,8.0,2.0,0.0,2.0,1.0,4.0,6.0,-9.0,Jerami Grant,,PHI,False,True
+thompho01,37.18333333333333,5.0,13.0,0.385,4.0,9.0,0.444,2.0,2.0,1.0,1.0,3.0,4.0,0.0,0.0,0.0,2.0,1.0,16.0,10.0,Hollis Thompson,,PHI,False,True
+covinro01,34.483333333333334,3.0,10.0,0.3,1.0,4.0,0.25,2.0,3.0,0.667,2.0,7.0,9.0,4.0,1.0,2.0,2.0,6.0,9.0,-23.0,Robert Covington,,PHI,False,True
+landrca01,26.183333333333334,8.0,16.0,0.5,0.0,0.0,,2.0,6.0,0.333,5.0,2.0,7.0,0.0,1.0,0.0,0.0,3.0,18.0,-21.0,Carl Landry,,PHI,False,True
+canaais01,32.916666666666664,6.0,15.0,0.4,4.0,12.0,0.333,1.0,1.0,1.0,1.0,2.0,3.0,4.0,0.0,0.0,0.0,5.0,17.0,7.0,Isaiah Canaan,,PHI,False,False
+holmeri01,15.216666666666667,2.0,6.0,0.333,0.0,1.0,0.0,3.0,4.0,0.75,1.0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,7.0,7.0,Richaun Holmes,,PHI,False,False
+mccontj01,12.466666666666667,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,3.0,1.0,0.0,1.0,1.0,4.0,15.0,T.J. McConnell,,PHI,False,False
+brandel01,6.016666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,4.0,Elton Brand,,PHI,False,False
+marshke01,,,,,,,,,,,,,,,,,,,,,Kendall Marshall,Not With Team,PHI,False,False
+noelne01,,,,,,,,,,,,,,,,,,,,,Nerlens Noel,Not With Team,PHI,False,False
+okafoja01,,,,,,,,,,,,,,,,,,,,,Jahlil Okafor,Not With Team,PHI,False,False
+woodch01,,,,,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,PHI,False,False
+dragigo01,37.95,9.0,15.0,0.6,3.0,4.0,0.75,2.0,2.0,1.0,1.0,7.0,8.0,5.0,0.0,0.0,3.0,4.0,23.0,-3.0,Goran Dragić,,MIA,True,True
+denglu01,35.71666666666667,5.0,11.0,0.455,1.0,4.0,0.25,1.0,2.0,0.5,3.0,11.0,14.0,4.0,2.0,1.0,0.0,0.0,12.0,0.0,Luol Deng,,MIA,True,True
+wadedw01,31.15,5.0,15.0,0.333,0.0,0.0,,13.0,14.0,0.929,0.0,3.0,3.0,3.0,2.0,0.0,1.0,2.0,23.0,22.0,Dwyane Wade,,MIA,True,True
+johnsjo02,31.033333333333335,6.0,11.0,0.545,2.0,2.0,1.0,0.0,0.0,,2.0,3.0,5.0,1.0,1.0,0.0,2.0,3.0,14.0,17.0,Joe Johnson,,MIA,True,True
+stoudam01,16.766666666666666,1.0,6.0,0.167,0.0,0.0,,0.0,0.0,,1.0,5.0,6.0,0.0,0.0,2.0,1.0,2.0,2.0,11.0,Amar'e Stoudemire,,MIA,True,True
+whiteha01,30.666666666666668,4.0,11.0,0.364,0.0,0.0,,6.0,10.0,0.6,5.0,8.0,13.0,1.0,0.0,7.0,2.0,3.0,14.0,-1.0,Hassan Whiteside,,MIA,True,False
+winslju01,29.766666666666666,2.0,4.0,0.5,1.0,2.0,0.5,1.0,2.0,0.5,1.0,1.0,2.0,1.0,2.0,0.0,2.0,2.0,6.0,-9.0,Justise Winslow,,MIA,True,False
+richajo01,23.083333333333332,3.0,5.0,0.6,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,7.0,-5.0,Josh Richardson,,MIA,True,False
+greenge01,3.8666666666666667,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,-7.0,Gerald Green,,MIA,True,False
+hasleud01,,,,,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,True,False
+mcrobjo01,,,,,,,,,,,,,,,,,,,,,Josh McRoberts,Did Not Play,MIA,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+antetgi01,38.766666666666666,0.356,0.2,0.2,0.6,5.6,12.1,8.7,16.8,1.4,0.0,19.2,19.2,80.0,118.0,-8.5,Giannis Antetokounmpo,,MIL,False,True
+parkeja01,31.916666666666668,0.581,0.5,0.167,0.5,3.4,22.0,12.4,0.0,1.6,3.1,17.0,26.3,98.0,113.0,-2.6,Jabari Parker,,MIL,False,True
+dellama01,25.966666666666665,0.417,0.417,0.5,0.0,0.0,4.5,2.2,39.2,2.0,0.0,40.0,18.3,73.0,119.0,-7.5,Matthew Dellavedova,,MIL,False,True
+makerth01,24.05,0.615,0.688,0.5,0.5,13.6,9.7,11.7,8.3,2.2,12.2,0.0,19.3,130.0,109.0,10.0,Thon Maker,,MIL,False,True
+snellto01,21.883333333333333,1.0,1.0,1.0,0.0,0.0,37.4,18.1,0.0,0.0,0.0,25.0,8.7,123.0,114.0,0.7,Tony Snell,,MIL,False,True
+brogdma01,30.883333333333333,0.625,0.625,0.25,0.0,3.5,7.6,5.5,24.1,5.1,0.0,27.3,16.9,100.0,111.0,3.7,Malcolm Brogdon,,MIL,False,False
+monrogr01,23.95,0.505,0.5,0.0,0.167,4.6,14.7,9.4,10.0,4.4,0.0,0.0,25.6,107.0,110.0,2.0,Greg Monroe,,MIL,False,False
+terryja01,17.266666666666666,0.333,0.333,0.667,0.0,0.0,6.8,3.3,28.5,3.0,5.7,0.0,8.3,107.0,113.0,3.8,Jason Terry,,MIL,False,False
+beaslmi01,17.116666666666667,0.415,0.357,0.571,0.857,6.4,13.7,9.9,0.0,0.0,11.4,17.2,32.3,74.0,114.0,-7.1,Michael Beasley,,MIL,False,False
+teletmi01,8.2,0.676,0.75,0.25,0.25,0.0,28.6,13.8,0.0,0.0,0.0,18.4,31.5,91.0,116.0,-4.9,Mirza Teletović,,MIL,False,False
+plumlmi01,,,,,,,,,,,,,,,,,Miles Plumlee,Did Not Play,MIL,False,False
+novakst01,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,MIL,False,False
+hensojo01,,,,,,,,,,,,,,,,,John Henson,Did Not Play,MIL,False,False
+hillge01,34.2,0.389,0.389,0.333,0.0,0.0,6.4,3.3,17.7,1.5,0.0,10.0,13.4,93.0,102.0,-3.6,George Hill,,UTA,True,True
+goberru01,34.11666666666667,0.747,0.692,0.0,0.769,17.2,28.8,23.2,6.0,1.5,2.8,10.3,26.0,144.0,93.0,9.3,Rudy Gobert,,UTA,True,True
+haywago01,32.083333333333336,0.776,0.731,0.462,0.769,3.6,13.6,8.8,31.1,4.9,0.0,10.3,27.7,149.0,92.0,21.3,Gordon Hayward,,UTA,True,True
+diawbo01,19.666666666666668,0.167,0.167,0.5,0.0,6.0,5.5,5.7,7.3,2.7,0.0,25.0,18.6,44.0,98.0,-15.0,Boris Diaw,,UTA,True,True
+hoodro01,7.983333333333333,0.5,0.5,0.667,0.0,14.7,0.0,7.1,0.0,0.0,0.0,25.0,22.9,85.0,106.0,-7.6,Rodney Hood,,UTA,True,True
+johnsjo02,27.166666666666668,0.678,0.667,0.333,0.333,4.3,20.1,12.5,32.5,0.0,0.0,8.8,19.1,141.0,102.0,11.3,Joe Johnson,,UTA,True,False
+burksal01,24.683333333333334,0.381,0.357,0.571,0.286,0.0,17.7,9.2,0.0,4.3,0.0,20.2,18.3,63.0,93.0,-4.4,Alec Burks,,UTA,True,False
+inglejo01,23.183333333333334,0.375,0.375,1.0,0.0,0.0,14.1,7.3,30.5,6.8,0.0,50.0,15.8,66.0,87.0,-1.1,Joe Ingles,,UTA,True,False
+lylestr01,15.216666666666667,0.583,0.583,0.333,0.0,0.0,21.5,11.1,11.9,0.0,0.0,0.0,18.0,125.0,99.0,0.1,Trey Lyles,,UTA,True,False
+witheje01,13.883333333333333,0.51,0.4,0.0,0.4,16.9,15.7,16.3,0.0,0.0,6.9,0.0,19.4,126.0,97.0,0.5,Jeff Withey,,UTA,True,False
+exumda01,7.816666666666666,0.5,0.5,0.667,0.0,0.0,27.9,14.4,0.0,0.0,0.0,0.0,17.6,104.0,98.0,-2.2,Dante Exum,,UTA,True,False
+netora01,,,,,,,,,,,,,,,,,Raul Neto,Did Not Play,UTA,True,False
+macksh01,,,,,,,,,,,,,,,,,Shelvin Mack,Did Not Play,UTA,True,False

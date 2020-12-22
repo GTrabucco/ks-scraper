@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+simmobe01,26.5,0.528,0.545,0.0,0.273,0.0,36.8,19.4,64.0,1.7,5.8,14.0,22.4,110.0,75.0,12.7,Ben Simmons,,PHI,False,True
+covinro01,26.233333333333334,0.455,0.455,0.818,0.0,0.0,0.0,0.0,15.8,1.7,3.0,15.4,20.6,79.0,93.0,-3.3,Robert Covington,,PHI,False,True
+saricda01,25.5,0.3,0.3,0.7,0.0,3.6,9.6,6.7,14.8,3.6,0.0,33.3,24.4,50.0,87.0,-11.0,Dario Šarić,,PHI,False,True
+redicjj01,25.4,0.62,0.607,0.214,0.214,0.0,6.4,3.4,21.1,0.0,0.0,16.4,29.9,98.0,96.0,0.4,J.J. Redick,,PHI,False,True
+johnsam01,17.2,,,,,10.5,42.6,27.4,19.9,2.6,4.5,100.0,2.4,123.0,70.0,3.7,Amir Johnson,,PHI,False,True
+ilyaser01,29.716666666666665,0.591,0.563,0.5,0.25,12.2,32.9,23.1,11.1,1.5,2.6,10.1,27.6,110.0,79.0,7.8,Ersan İlyasova,,PHI,False,False
+belinma01,27.183333333333334,0.393,0.393,0.571,0.0,0.0,6.0,3.2,31.9,3.3,0.0,0.0,21.4,93.0,89.0,1.8,Marco Belinelli,,PHI,False,False
+holmeri01,23.583333333333332,0.47,0.429,0.286,0.143,3.8,6.9,5.5,11.3,0.0,3.3,0.0,13.1,108.0,94.0,-1.9,Richaun Holmes,,PHI,False,False
+fultzma01,19.1,0.563,0.5,0.0,0.25,0.0,4.3,2.2,0.0,4.8,0.0,0.0,19.3,110.0,86.0,-0.1,Markelle Fultz,,PHI,False,False
+mccontj01,14.766666666666667,0.667,0.667,0.0,0.0,6.1,0.0,2.9,9.2,0.0,0.0,0.0,8.4,143.0,99.0,-3.5,T.J. McConnell,,PHI,False,False
+korkmfu01,4.816666666666666,0.0,0.0,1.0,0.0,0.0,16.9,8.9,0.0,0.0,0.0,0.0,8.6,0.0,91.0,-16.7,Furkan Korkmaz,,PHI,False,False
+bayleje01,,,,,,,,,,,,,,,,,Jerryd Bayless,Did Not Play,PHI,False,False
+anderju01,,,,,,,,,,,,,,,,,Justin Anderson,Did Not Play,PHI,False,False
+leeda03,32.25,0.533,0.529,0.353,0.235,0.0,11.2,5.3,6.2,2.8,0.0,0.0,22.6,109.0,96.0,5.6,Damion Lee,,ATL,True,True
+taylois01,30.366666666666667,0.318,0.278,0.167,0.111,0.0,6.0,2.8,39.4,1.5,0.0,13.7,28.0,72.0,100.0,-7.4,Isaiah Taylor,,ATL,True,True
+collijo01,29.616666666666667,0.644,0.833,0.333,0.667,11.0,18.3,14.5,29.7,1.5,5.7,43.6,9.0,99.0,92.0,2.8,John Collins,,ATL,True,True
+dedmode01,29.416666666666668,0.409,0.385,0.385,0.077,8.3,36.9,21.9,5.5,1.5,2.9,6.9,19.1,89.0,91.0,0.5,Dewayne Dedmon,,ATL,True,True
+princta02,24.316666666666666,0.353,0.353,0.353,0.0,3.3,7.4,5.3,24.5,5.6,0.0,15.0,31.9,69.0,90.0,-2.7,Taurean Waller-Prince,,ATL,True,True
+dorsety01,28.0,0.36,0.308,0.308,0.154,0.0,12.9,6.1,17.6,0.0,0.0,17.8,23.4,69.0,101.0,-10.6,Tyler Dorsey,,ATL,True,False
+muscami01,27.816666666666666,0.363,0.25,1.0,0.333,0.0,9.8,4.6,0.0,0.0,0.0,0.0,9.6,84.0,102.0,-7.8,Mike Muscala,,ATL,True,False
+whitean01,19.75,0.409,0.409,0.727,0.0,0.0,27.5,13.0,8.5,2.3,0.0,8.3,23.6,80.0,93.0,-0.1,Andrew White,,ATL,True,False
+plumlmi01,18.466666666666665,0.902,1.0,0.0,0.667,30.8,24.5,27.8,18.4,0.0,4.6,34.0,12.4,134.0,95.0,7.1,Miles Plumlee,,ATL,True,False
+schrode01,,,,,,,,,,,,,,,,,Dennis Schröder,Did Not Dress,ATL,True,False
+clevean01,,,,,,,,,,,,,,,,,Antonius Cleveland,Did Not Dress,ATL,True,False
+bembrde01,,,,,,,,,,,,,,,,,DeAndre' Bembry,Did Not Play,ATL,True,False

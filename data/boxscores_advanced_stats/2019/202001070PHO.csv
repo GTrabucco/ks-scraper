@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bjeline01,38.46666666666667,0.506,0.5,0.471,0.235,2.9,19.2,10.7,4.4,3.8,0.0,9.6,23.3,96.0,100.0,-0.3,Nemanja Bjelica,,SAC,False,True
+foxde01,35.78333333333333,0.551,0.452,0.286,0.381,0.0,13.8,6.5,32.3,1.4,3.2,14.0,34.4,107.0,104.0,0.9,De'Aaron Fox,,SAC,False,True
+barneha02,27.483333333333334,0.258,0.0,0.667,0.667,0.0,4.5,2.1,9.4,0.0,0.0,0.0,6.1,85.0,111.0,-6.4,Harrison Barnes,,SAC,False,True
+hieldbu01,24.183333333333334,0.673,0.636,0.636,0.182,0.0,15.3,7.3,14.7,0.0,0.0,20.2,26.5,109.0,109.0,1.5,Buddy Hield,,SAC,False,True
+gilesha01,16.383333333333333,0.571,0.571,0.0,0.0,27.3,30.0,28.6,0.0,3.0,0.0,12.5,21.1,119.0,100.0,0.1,Harry Giles,,SAC,False,True
+dedmode01,31.616666666666667,0.622,0.5,0.571,0.857,7.1,31.1,18.5,4.7,0.0,0.0,23.7,17.2,107.0,107.0,-3.0,Dewayne Dedmon,,SAC,False,False
+arizatr01,30.783333333333335,0.705,0.563,0.625,0.75,3.6,24.0,13.3,9.6,3.2,0.0,8.6,16.3,142.0,101.0,8.6,Trevor Ariza,,SAC,False,False
+josepco01,29.066666666666666,0.714,0.714,0.429,0.0,0.0,4.2,2.0,16.3,1.7,0.0,12.5,11.9,132.0,107.0,2.2,Cory Joseph,,SAC,False,False
+jamesju01,6.233333333333333,0.833,0.833,0.333,0.0,0.0,0.0,0.0,35.7,0.0,0.0,0.0,20.8,171.0,112.0,17.8,Justin James,,SAC,False,False
+swanica01,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,SAC,False,False
+ferreyo01,,,,,,,,,,,,,,,,,Yogi Ferrell,Did Not Play,SAC,False,False
+gabriwe01,,,,,,,,,,,,,,,,,Wenyen Gabriel,Did Not Play,SAC,False,False
+bookede01,39.38333333333333,0.693,0.619,0.286,0.381,3.1,8.5,5.9,38.1,1.2,0.0,7.5,31.2,137.0,117.0,10.6,Devin Booker,,PHO,True,True
+aytonde01,37.43333333333333,0.727,0.714,0.0,0.071,13.2,14.9,14.1,10.6,0.0,2.7,12.2,20.3,133.0,116.0,2.4,Deandre Ayton,,PHO,True,True
+oubreke01,36.8,0.644,0.591,0.727,0.455,0.0,18.2,9.5,4.3,0.0,2.7,7.0,17.9,119.0,116.0,-0.8,Kelly Oubre,,PHO,True,True
+rubiori01,35.166666666666664,0.515,0.417,0.5,0.667,0.0,15.9,8.3,35.8,1.4,0.0,27.9,14.2,106.0,115.0,-1.9,Ricky Rubio,,PHO,True,True
+baynear01,22.916666666666668,0.357,0.357,0.714,0.0,0.0,34.1,17.9,0.0,0.0,0.0,30.0,20.2,47.0,114.0,-15.8,Aron Baynes,,PHO,True,True
+saricda01,17.983333333333334,0.417,0.417,0.833,0.0,0.0,24.8,13.0,8.4,0.0,0.0,25.0,20.6,65.0,116.0,-9.4,Dario Šarić,,PHO,True,False
+bridgmi01,17.1,0.0,0.0,1.0,0.0,0.0,19.6,10.3,0.0,2.8,0.0,50.0,5.4,0.0,110.0,-11.6,Mikal Bridges,,PHO,True,False
+okoboel01,12.833333333333334,0.75,0.75,0.75,0.0,9.6,0.0,4.6,12.7,0.0,0.0,33.3,21.6,99.0,122.0,-1.4,Elie Okobo,,PHO,True,False
+johnsca02,11.366666666666667,0.174,0.0,0.5,1.0,0.0,9.8,5.1,11.4,0.0,0.0,0.0,23.5,49.0,119.0,-15.9,Cameron Johnson,,PHO,True,False
+johnsty01,9.016666666666667,0.833,0.833,0.667,0.0,0.0,12.4,6.5,40.4,5.4,0.0,25.0,20.5,127.0,106.0,13.6,Tyler Johnson,,PHO,True,False
+jeromty01,,,,,,,,,,,,,,,,,Ty Jerome,Did Not Play,PHO,True,False
+carteje01,,,,,,,,,,,,,,,,,Jevon Carter,Did Not Play,PHO,True,False
+diallch01,,,,,,,,,,,,,,,,,Cheick Diallo,Did Not Play,PHO,True,False

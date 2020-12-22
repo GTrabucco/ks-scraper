@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+motlejo01,40.13333333333333,0.64,0.605,0.158,0.158,7.5,28.3,16.7,10.4,2.6,0.0,9.0,26.3,120.0,109.0,3.7,Johnathan Motley,,DAL,False,True
+finnedo01,37.016666666666666,0.625,0.625,0.5,0.0,8.1,23.9,15.1,18.2,1.4,0.0,14.3,17.9,118.0,111.0,1.4,Dorian Finney-Smith,,DAL,False,True
+barneha02,31.083333333333332,0.576,0.538,0.462,0.308,6.4,8.1,7.2,0.0,0.0,0.0,0.0,22.5,120.0,117.0,-3.0,Harrison Barnes,,DAL,False,True
+smithde03,31.083333333333332,0.254,0.167,0.25,0.333,3.2,8.1,5.4,37.3,1.7,0.0,12.7,24.0,76.0,113.0,-11.3,Dennis Smith,,DAL,False,True
+poweldw01,27.766666666666666,0.574,0.5,0.8,0.3,0.0,31.8,14.1,11.8,1.9,3.1,8.1,21.0,111.0,107.0,2.4,Dwight Powell,,DAL,False,True
+harriaa01,20.883333333333333,0.25,0.25,0.833,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.3,15.9,44.0,117.0,-19.2,Aaron Harrison,,DAL,False,False
+mcderdo01,18.683333333333334,0.833,0.833,0.333,0.0,0.0,0.0,0.0,8.3,0.0,0.0,25.0,10.1,115.0,118.0,-4.7,Doug McDermott,,DAL,False,False
+colliky01,18.55,0.5,0.5,0.0,0.0,0.0,6.8,3.0,25.0,0.0,9.2,20.0,12.8,99.0,108.0,-1.0,Kyle Collinsworth,,DAL,False,False
+klebima01,16.233333333333334,0.875,0.875,0.5,0.0,6.2,38.9,20.6,21.6,0.0,5.3,20.0,14.6,141.0,107.0,7.3,Maxi Kleber,,DAL,False,False
+jonesja04,12.166666666666666,0.42,0.5,0.667,1.333,0.0,20.7,9.2,0.0,4.3,0.0,0.0,18.5,82.0,106.0,-3.3,Jalen Jones,,DAL,False,False
+ferreyo01,11.4,0.417,0.417,0.5,0.0,0.0,11.1,4.9,60.6,4.6,7.5,14.3,29.1,95.0,99.0,8.4,Yogi Ferrell,,DAL,False,False
+noelne01,,,,,,,,,,,,,,,,,Nerlens Noel,Player Suspended,DAL,False,False
+mejrisa01,,,,,,,,,,,,,,,,,Salah Mejri,Did Not Play,DAL,False,False
+drumman01,42.333333333333336,0.607,0.692,0.077,0.462,6.0,33.1,21.1,18.0,1.2,4.7,11.3,20.0,118.0,97.0,5.2,Andre Drummond,,DET,True,True
+johnsst04,39.13333333333333,0.486,0.45,0.3,0.3,3.2,12.8,8.6,13.3,2.7,2.6,0.0,13.9,116.0,101.0,2.2,Stanley Johnson,,DET,True,True
+jacksre01,35.083333333333336,0.636,0.639,0.167,0.111,0.0,0.0,0.0,36.0,0.0,0.0,5.0,27.2,130.0,113.0,4.1,Reggie Jackson,,DET,True,True
+tollian01,34.81666666666667,0.889,0.889,0.667,0.0,3.6,5.7,4.8,8.3,1.5,0.0,18.2,15.2,138.0,107.0,3.6,Anthony Tolliver,,DET,True,True
+kennalu01,27.233333333333334,0.2,0.2,0.4,0.0,0.0,18.4,10.2,8.8,0.0,0.0,28.6,12.3,45.0,107.0,-14.0,Luke Kennard,,DET,True,True
+gallola01,25.933333333333334,0.504,0.5,0.5,0.143,0.0,15.4,8.6,5.7,2.0,0.0,0.0,27.5,102.0,104.0,0.5,Langston Galloway,,DET,True,False
+ellenhe01,18.183333333333334,0.506,0.45,0.5,0.2,0.0,27.5,15.3,0.0,0.0,0.0,15.5,34.0,83.0,105.0,-9.7,Henry Ellenson,,DET,True,False
+smithis01,17.916666666666668,0.75,0.75,0.333,0.0,0.0,11.2,6.2,26.0,2.9,5.6,25.0,21.4,116.0,98.0,5.1,Ish Smith,,DET,True,False
+ennisja01,13.7,0.515,0.333,0.333,0.667,0.0,7.3,4.1,0.0,0.0,0.0,0.0,13.6,109.0,111.0,-6.4,James Ennis,,DET,True,False
+moreler01,10.666666666666666,0.25,0.25,0.0,0.0,23.7,46.9,36.6,0.0,0.0,0.0,0.0,18.0,83.0,99.0,-11.1,Eric Moreland,,DET,True,False
+nelsoja01,,,,,,,,,,,,,,,,,Jameer Nelson,Did Not Play,DET,True,False
+hearnre01,,,,,,,,,,,,,,,,,Reggie Hearn,Did Not Play,DET,True,False
+buyckdw01,,,,,,,,,,,,,,,,,Dwight Buycks,Did Not Play,DET,True,False

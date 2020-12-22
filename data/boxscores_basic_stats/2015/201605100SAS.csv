@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,42.666666666666664,8.0,21.0,0.381,2.0,5.0,0.4,5.0,6.0,0.833,1.0,5.0,6.0,5.0,2.0,1.0,5.0,1.0,23.0,7.0,Kevin Durant,,OKC,False,True
+westbru01,38.81666666666667,12.0,27.0,0.444,3.0,7.0,0.429,8.0,8.0,1.0,4.0,7.0,11.0,9.0,2.0,0.0,8.0,4.0,35.0,-4.0,Russell Westbrook,,OKC,False,True
+adamsst01,35.06666666666667,5.0,8.0,0.625,0.0,0.0,,2.0,6.0,0.333,4.0,7.0,11.0,1.0,1.0,0.0,1.0,4.0,12.0,11.0,Steven Adams,,OKC,False,True
+ibakase01,29.466666666666665,2.0,4.0,0.5,1.0,1.0,1.0,0.0,0.0,,1.0,3.0,4.0,1.0,0.0,1.0,3.0,4.0,5.0,-3.0,Serge Ibaka,,OKC,False,True
+roberan03,22.483333333333334,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,6.0,6.0,0.0,1.0,1.0,0.0,1.0,0.0,-12.0,Andre Roberson,,OKC,False,True
+kanteen01,30.133333333333333,3.0,7.0,0.429,0.0,2.0,0.0,2.0,2.0,1.0,5.0,8.0,13.0,0.0,0.0,3.0,2.0,4.0,8.0,8.0,Enes Kanter,,OKC,False,False
+waitedi01,26.0,3.0,5.0,0.6,0.0,0.0,,3.0,4.0,0.75,0.0,3.0,3.0,2.0,0.0,0.0,1.0,3.0,9.0,18.0,Dion Waiters,,OKC,False,False
+foyera01,13.033333333333333,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,Randy Foye,,OKC,False,False
+morroan01,1.5166666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,Anthony Morrow,,OKC,False,False
+collini01,0.8333333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,Nick Collison,,OKC,False,False
+huestjo01,,,,,,,,,,,,,,,,,,,,,Josh Huestis,Did Not Play,OKC,False,False
+mohamna01,,,,,,,,,,,,,,,,,,,,,Nazr Mohammed,Did Not Play,OKC,False,False
+payneca01,,,,,,,,,,,,,,,,,,,,,Cameron Payne,Did Not Play,OKC,False,False
+leonaka01,39.3,12.0,21.0,0.571,1.0,4.0,0.25,1.0,2.0,0.5,1.0,5.0,6.0,4.0,5.0,0.0,1.0,3.0,26.0,8.0,Kawhi Leonard,,SAS,True,True
+aldrila01,37.36666666666667,6.0,21.0,0.286,0.0,0.0,,8.0,9.0,0.889,3.0,6.0,9.0,3.0,2.0,1.0,2.0,3.0,20.0,1.0,LaMarcus Aldridge,,SAS,True,True
+parketo01,32.21666666666667,4.0,12.0,0.333,0.0,1.0,0.0,1.0,2.0,0.5,1.0,3.0,4.0,5.0,1.0,1.0,1.0,4.0,9.0,8.0,Tony Parker,,SAS,True,True
+greenda02,29.033333333333335,7.0,10.0,0.7,6.0,9.0,0.667,0.0,0.0,,0.0,3.0,3.0,1.0,2.0,1.0,0.0,2.0,20.0,1.0,Danny Green,,SAS,True,True
+duncati01,28.05,1.0,6.0,0.167,0.0,0.0,,3.0,4.0,0.75,2.0,1.0,3.0,1.0,0.0,2.0,1.0,3.0,5.0,4.0,Tim Duncan,,SAS,True,True
+ginobma01,19.416666666666668,1.0,4.0,0.25,1.0,2.0,0.5,0.0,0.0,,2.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,3.0,-5.0,Manu Ginóbili,,SAS,True,False
+millspa02,15.783333333333333,2.0,4.0,0.5,0.0,1.0,0.0,0.0,0.0,,0.0,4.0,4.0,1.0,1.0,0.0,0.0,0.0,4.0,-12.0,Patty Mills,,SAS,True,False
+diawbo01,15.433333333333334,1.0,6.0,0.167,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,2.0,1.0,2.0,-4.0,Boris Diaw,,SAS,True,False
+westda01,14.683333333333334,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,2.0,-9.0,David West,,SAS,True,False
+anderky01,8.7,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-12.0,Kyle Anderson,,SAS,True,False
+marjabo01,,,,,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,SAS,True,False
+martike02,,,,,,,,,,,,,,,,,,,,,Kevin Martin,Did Not Play,SAS,True,False
+millean02,,,,,,,,,,,,,,,,,,,,,Andre Miller,Did Not Play,SAS,True,False

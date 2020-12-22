@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+vucevni01,34.666666666666664,0.556,0.556,0.333,0.111,3.0,29.3,17.0,16.9,1.4,0.0,5.0,25.5,114.0,105.0,7.5,Nikola Vučević,,ORL,False,True
+fournev01,33.833333333333336,0.545,0.5,0.389,0.278,0.0,8.2,4.3,16.6,0.0,0.0,9.0,29.2,106.0,116.0,-1.5,Evan Fournier,,ORL,False,True
+ennisja01,31.633333333333333,0.595,0.55,0.4,0.4,9.9,17.5,13.9,0.0,0.0,0.0,14.5,19.3,111.0,112.0,-3.5,James Ennis,,ORL,False,True
+augusdj01,28.55,0.83,0.786,0.286,0.857,3.7,6.5,5.1,29.4,0.0,0.0,9.4,16.6,162.0,118.0,9.1,D.J. Augustin,,ORL,False,True
+clarkga01,25.533333333333335,0.3,0.3,1.0,0.0,4.1,14.5,9.6,0.0,1.9,2.9,0.0,8.7,77.0,108.0,-4.0,Gary Clark,,ORL,False,True
+rosste01,26.2,0.0,0.0,0.4,0.0,0.0,10.6,5.6,9.9,3.8,2.9,0.0,17.0,13.0,106.0,-13.3,Terrence Ross,,ORL,False,False
+fultzma01,21.716666666666665,0.472,0.375,0.25,0.333,0.0,17.0,9.0,23.5,2.3,0.0,12.7,32.3,94.0,108.0,-1.0,Markelle Fultz,,ORL,False,False
+birchkh01,18.933333333333334,0.84,1.0,0.0,1.333,22.0,9.8,15.5,0.0,0.0,0.0,17.4,13.5,149.0,116.0,-0.2,Khem Birch,,ORL,False,False
+iwundwe01,18.933333333333334,0.4,0.4,0.2,0.0,0.0,9.8,5.2,7.9,0.0,0.0,0.0,11.7,92.0,116.0,-4.4,Wesley Iwundu,,ORL,False,False
+bambamo01,,,,,,,,,,,,,,,,,Mohamed Bamba,Did Not Play,ORL,False,False
+frazime01,,,,,,,,,,,,,,,,,Melvin Frazier,Did Not Play,ORL,False,False
+johnsbj01,,,,,,,,,,,,,,,,,B.J. Johnson,Did Not Play,ORL,False,False
+lawvi01,,,,,,,,,,,,,,,,,Vic Law,Did Not Play,ORL,False,False
+harrito02,39.71666666666667,0.478,0.429,0.238,0.333,13.9,23.6,18.5,17.1,0.0,0.0,7.7,27.1,110.0,106.0,1.8,Tobias Harris,,PHI,True,True
+embiijo01,37.083333333333336,0.485,0.389,0.111,0.722,5.0,31.0,17.2,4.5,0.0,0.0,7.8,28.6,102.0,104.0,-2.5,Joel Embiid,,PHI,True,True
+richajo01,34.03333333333333,0.208,0.208,0.417,0.0,0.0,0.0,0.0,4.0,1.5,0.0,0.0,14.5,54.0,109.0,-11.3,Josh Richardson,,PHI,True,True
+horfoal01,30.333333333333332,0.666,0.607,0.214,0.286,15.2,13.8,14.5,12.5,0.0,2.8,6.0,22.8,141.0,107.0,11.4,Al Horford,,PHI,True,True
+miltosh01,25.066666666666666,0.51,0.4,0.4,0.4,0.0,16.7,7.8,44.8,0.0,0.0,14.5,11.3,125.0,108.0,2.6,Shake Milton,,PHI,True,True
+burksal01,27.516666666666666,0.64,0.633,0.467,0.333,3.4,11.4,7.1,14.5,0.0,0.0,5.5,27.2,128.0,109.0,7.7,Alec Burks,,PHI,True,False
+thybuma01,21.133333333333333,0.5,0.5,0.5,0.0,4.4,4.9,4.6,6.4,4.7,8.1,33.3,5.8,90.0,95.0,5.5,Matisse Thybulle,,PHI,True,False
+korkmfu01,16.55,0.515,0.5,0.667,0.667,0.0,6.3,3.0,0.0,0.0,5.2,0.0,9.7,112.0,107.0,-3.7,Furkan Korkmaz,,PHI,True,False
+scottmi01,8.566666666666666,0.333,0.333,0.667,0.0,0.0,36.5,17.2,0.0,5.8,0.0,25.0,19.2,51.0,89.0,-7.7,Mike Scott,,PHI,True,False
+shayoma01,,,,,,,,,,,,,,,,,Marial Shayok,Did Not Play,PHI,True,False
+oquinky01,,,,,,,,,,,,,,,,,Kyle O'Quinn,Did Not Play,PHI,True,False
+pelleno01,,,,,,,,,,,,,,,,,Norvel Pelle,Did Not Play,PHI,True,False
+netora01,,,,,,,,,,,,,,,,,Raul Neto,Did Not Play,PHI,True,False

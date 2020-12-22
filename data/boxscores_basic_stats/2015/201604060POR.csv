@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+waitedi01,38.53333333333333,10.0,19.0,0.526,1.0,5.0,0.2,4.0,6.0,0.667,1.0,3.0,4.0,1.0,3.0,0.0,7.0,2.0,25.0,-2.0,Dion Waiters,,OKC,False,True
+foyera01,36.7,3.0,13.0,0.231,1.0,2.0,0.5,4.0,4.0,1.0,1.0,2.0,3.0,4.0,1.0,0.0,2.0,4.0,11.0,12.0,Randy Foye,,OKC,False,True
+kanteen01,35.65,13.0,18.0,0.722,1.0,1.0,1.0,6.0,7.0,0.857,9.0,11.0,20.0,0.0,1.0,1.0,1.0,3.0,33.0,10.0,Enes Kanter,,OKC,False,True
+morroan01,31.25,7.0,15.0,0.467,3.0,8.0,0.375,2.0,4.0,0.5,0.0,3.0,3.0,2.0,1.0,0.0,2.0,2.0,19.0,-19.0,Anthony Morrow,,OKC,False,True
+adamsst01,22.983333333333334,4.0,7.0,0.571,0.0,0.0,,1.0,2.0,0.5,7.0,5.0,12.0,1.0,0.0,0.0,1.0,2.0,9.0,-20.0,Steven Adams,,OKC,False,True
+payneca01,30.883333333333333,4.0,14.0,0.286,1.0,4.0,0.25,1.0,2.0,0.5,0.0,1.0,1.0,6.0,1.0,0.0,0.0,2.0,10.0,-10.0,Cameron Payne,,OKC,False,False
+huestjo01,20.95,2.0,3.0,0.667,2.0,2.0,1.0,0.0,2.0,0.0,0.0,6.0,6.0,0.0,1.0,1.0,2.0,0.0,6.0,11.0,Josh Huestis,,OKC,False,False
+singlky01,13.616666666666667,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,1.0,0.0,1.0,0.0,1.0,0.0,1.0,4.0,1.0,-6.0,Kyle Singler,,OKC,False,False
+collini01,9.433333333333334,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,0.5,0.0,0.0,0.0,4.0,0.0,0.0,1.0,1.0,1.0,-1.0,Nick Collison,,OKC,False,False
+duranke01,,,,,,,,,,,,,,,,,,,,,Kevin Durant,Did Not Play,OKC,False,False
+ibakase01,,,,,,,,,,,,,,,,,,,,,Serge Ibaka,Did Not Play,OKC,False,False
+mohamna01,,,,,,,,,,,,,,,,,,,,,Nazr Mohammed,Did Not Play,OKC,False,False
+westbru01,,,,,,,,,,,,,,,,,,,,,Russell Westbrook,Did Not Play,OKC,False,False
+aminual01,37.4,10.0,17.0,0.588,3.0,8.0,0.375,4.0,6.0,0.667,2.0,4.0,6.0,5.0,3.0,1.0,1.0,2.0,27.0,18.0,Al-Farouq Aminu,,POR,True,True
+lillada01,36.8,2.0,13.0,0.154,2.0,7.0,0.286,5.0,5.0,1.0,0.0,3.0,3.0,9.0,0.0,1.0,3.0,0.0,11.0,6.0,Damian Lillard,,POR,True,True
+mccolcj01,35.25,10.0,18.0,0.556,4.0,8.0,0.5,2.0,2.0,1.0,1.0,2.0,3.0,3.0,0.0,0.0,3.0,3.0,26.0,7.0,CJ McCollum,,POR,True,True
+plumlma01,30.216666666666665,3.0,4.0,0.75,0.0,0.0,,4.0,6.0,0.667,1.0,5.0,6.0,7.0,2.0,1.0,1.0,4.0,10.0,5.0,Mason Plumlee,,POR,True,True
+harklma01,28.3,6.0,13.0,0.462,1.0,3.0,0.333,1.0,1.0,1.0,2.0,3.0,5.0,2.0,4.0,2.0,1.0,3.0,14.0,15.0,Maurice Harkless,,POR,True,True
+crabbal01,23.8,6.0,9.0,0.667,4.0,5.0,0.8,0.0,0.0,,0.0,3.0,3.0,2.0,0.0,0.0,1.0,2.0,16.0,0.0,Allen Crabbe,,POR,True,False
+davised01,17.65,4.0,5.0,0.8,0.0,0.0,,1.0,2.0,0.5,3.0,5.0,8.0,2.0,0.0,1.0,1.0,5.0,9.0,3.0,Ed Davis,,POR,True,False
+hendege02,14.516666666666667,1.0,4.0,0.25,0.0,1.0,0.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,0.0,1.0,2.0,4.0,1.0,Gerald Henderson,,POR,True,False
+roberbr01,11.333333333333334,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,3.0,2.0,3.0,-12.0,Brian Roberts,,POR,True,False
+vonleno01,4.45,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-12.0,Noah Vonleh,,POR,True,False
+montelu01,0.15,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Luis Montero,,POR,True,False
+connapa01,0.15,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,Pat Connaughton,,POR,True,False
+kamanch01,,,,,,,,,,,,,,,,,,,,,Chris Kaman,Did Not Play,POR,True,False

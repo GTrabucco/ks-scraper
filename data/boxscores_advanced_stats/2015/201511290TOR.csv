@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bledser01,38.05,0.458,0.324,0.176,0.647,0.0,14.0,6.8,41.2,0.0,6.6,12.1,28.0,106.0,107.0,2.0,Eric Bledsoe,,PHO,False,True
+knighbr03,36.766666666666666,0.447,0.412,0.353,0.118,5.4,11.6,8.4,16.2,2.7,2.3,0.0,20.9,111.0,105.0,2.5,Brandon Knight,,PHO,False,True
+lenal01,27.9,0.5,0.5,0.0,0.0,10.8,15.3,12.9,5.2,0.0,0.0,0.0,12.3,123.0,113.0,-3.2,Alex Len,,PHO,False,True
+morrima02,22.65,0.281,0.25,0.167,0.083,8.8,28.3,18.2,12.6,0.0,0.0,13.9,27.4,68.0,109.0,-16.4,Markieff Morris,,PHO,False,True
+tuckepj01,22.2,0.512,0.5,0.25,0.5,4.5,19.2,11.6,0.0,2.3,0.0,29.1,13.3,77.0,106.0,-9.4,P.J. Tucker,,PHO,False,True
+warretj01,29.733333333333334,0.54,0.538,0.077,0.154,10.1,28.7,19.1,0.0,1.7,8.5,0.0,20.0,119.0,98.0,5.2,T.J. Warren,,PHO,False,False
+leuerjo01,22.683333333333334,0.735,0.7,0.4,0.2,0.0,18.8,9.1,15.5,0.0,3.7,0.0,20.6,154.0,109.0,12.0,Jon Leuer,,PHO,False,False
+pricero01,21.7,0.0,0.0,0.75,0.0,4.6,4.9,4.8,16.6,0.0,3.9,33.3,11.9,38.0,112.0,-13.7,Ronnie Price,,PHO,False,False
+teletmi01,18.316666666666666,1.111,1.111,0.778,0.0,5.5,5.8,5.6,12.1,0.0,0.0,0.0,21.1,203.0,115.0,30.0,Mirza Teletović,,PHO,False,False
+bookede01,,,,,,,,,,,,,,,,,Devin Booker,Did Not Play,PHO,False,False
+jeffeco01,,,,,,,,,,,,,,,,,Cory Jefferson,Did Not Play,PHO,False,False
+goodwar01,,,,,,,,,,,,,,,,,Archie Goodwin,Did Not Play,PHO,False,False
+weemsso01,,,,,,,,,,,,,,,,,Sonny Weems,Did Not Play,PHO,False,False
+carrode01,37.25,0.698,0.731,0.462,0.231,2.9,16.1,9.7,14.0,2.7,0.0,0.0,17.7,144.0,111.0,8.2,DeMarre Carroll,,TOR,True,True
+derozde01,37.03333333333333,0.628,0.55,0.1,0.35,0.0,8.1,4.2,38.2,0.0,1.9,4.2,29.9,133.0,118.0,7.0,DeMar DeRozan,,TOR,True,True
+lowryky01,33.516666666666666,0.555,0.5,0.643,0.214,3.2,20.9,12.3,23.2,1.5,0.0,16.4,25.1,105.0,112.0,-0.8,Kyle Lowry,,TOR,True,True
+biyombi01,33.483333333333334,0.333,0.333,0.0,0.0,6.4,17.9,12.3,0.0,0.0,8.6,57.1,9.6,45.0,110.0,-9.4,Bismack Biyombo,,TOR,True,True
+scolalu01,17.666666666666668,0.666,0.6,0.6,0.8,0.0,22.6,11.7,8.3,0.0,0.0,0.0,17.6,141.0,115.0,5.4,Luis Scola,,TOR,True,True
+josepco01,32.5,0.409,0.409,0.091,0.0,3.3,12.3,7.9,4.6,1.6,4.4,15.4,18.4,76.0,112.0,-5.7,Cory Joseph,,TOR,True,False
+pattepa01,16.483333333333334,0.429,0.429,0.571,0.0,6.5,12.1,9.4,0.0,0.0,0.0,0.0,19.5,95.0,119.0,-4.9,Patrick Patterson,,TOR,True,False
+rosste01,14.483333333333333,0.0,0.0,0.75,0.0,7.4,6.9,7.1,8.7,0.0,0.0,0.0,12.7,35.0,120.0,-15.9,Terrence Ross,,TOR,True,False
+johnsja01,11.6,0.571,0.571,0.0,0.0,0.0,8.6,4.4,19.3,4.4,0.0,12.5,31.7,99.0,110.0,2.9,James Johnson,,TOR,True,False
+noguelu01,5.983333333333333,0.5,0.5,0.5,0.0,17.8,16.7,17.3,0.0,8.4,0.0,0.0,15.4,121.0,98.0,5.7,Lucas Nogueira,,TOR,True,False
+bennean01,,,,,,,,,,,,,,,,,Anthony Bennett,Did Not Play,TOR,True,False
+powelno01,,,,,,,,,,,,,,,,,Norman Powell,Did Not Play,TOR,True,False

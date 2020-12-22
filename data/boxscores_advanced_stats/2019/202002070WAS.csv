@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hardati02,35.05,0.571,0.5,0.429,0.429,6.0,6.5,6.2,28.4,2.8,0.0,10.7,22.5,129.0,121.0,3.3,Tim Hardaway,,DAL,False,True
+finnedo01,34.65,0.6,0.6,0.6,0.0,6.0,13.2,9.4,7.9,0.0,0.0,9.1,13.5,126.0,127.0,-4.5,Dorian Finney-Smith,,DAL,False,True
+brunsja01,31.3,0.689,0.65,0.2,0.2,0.0,14.6,7.0,18.7,0.0,0.0,15.5,17.4,128.0,127.0,-2.7,Jalen Brunson,,DAL,False,True
+porzikr01,21.266666666666666,0.511,0.444,0.667,0.444,4.9,43.0,23.1,12.8,4.6,4.3,21.8,27.4,94.0,106.0,-2.8,Kristaps Porziņģis,,DAL,False,True
+leeco01,17.25,0.917,0.917,0.833,0.0,6.0,6.6,6.3,0.0,0.0,0.0,0.0,14.7,179.0,128.0,5.1,Courtney Lee,,DAL,False,True
+curryse01,28.95,0.506,0.444,0.5,0.222,7.2,3.9,5.7,15.5,3.4,0.0,13.2,33.3,105.0,121.0,-2.9,Seth Curry,,DAL,False,False
+klebima01,26.25,0.875,0.875,0.25,0.0,11.9,17.4,14.5,10.0,0.0,3.5,0.0,6.5,196.0,123.0,2.5,Maxi Kleber,,DAL,False,False
+wrighde01,19.333333333333332,0.601,0.571,0.0,0.429,10.8,11.8,11.3,46.5,0.0,0.0,10.7,20.4,141.0,127.0,5.2,Delon Wright,,DAL,False,False
+jacksju01,11.866666666666667,0.509,0.417,0.5,0.333,8.8,19.3,13.8,0.0,0.0,0.0,12.7,28.1,103.0,126.0,-8.3,Justin Jackson,,DAL,False,False
+caulewi01,8.816666666666666,0.6,0.6,0.0,0.0,0.0,64.8,30.9,21.2,5.6,0.0,0.0,24.0,131.0,104.0,12.4,Willie Cauley-Stein,,DAL,False,False
+broekry01,5.266666666666667,0.0,0.0,1.0,0.0,19.8,21.7,20.7,0.0,0.0,0.0,0.0,16.1,42.0,125.0,-20.3,Ryan Broekhoff,,DAL,False,False
+marjabo01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Boban Marjanović,,DAL,False,False
+bareajo01,,,,,,,,,,,,,,,,,J.J. Barea,Did Not Play,DAL,False,False
+bealbr01,38.61666666666667,0.48,0.446,0.357,0.179,0.0,13.5,7.1,31.7,0.0,0.0,11.7,39.1,99.0,127.0,-8.2,Bradley Beal,,WAS,True,True
+smithis01,29.716666666666665,0.636,0.636,0.182,0.0,7.7,14.0,11.0,27.4,1.7,3.2,15.4,19.3,128.0,121.0,3.8,Ish Smith,,WAS,True,True
+hachiru01,28.7,0.66,0.667,0.333,0.167,4.0,18.2,11.4,5.0,3.4,0.0,13.4,22.9,112.0,117.0,0.8,Rui Hachimura,,WAS,True,True
+bongais01,24.233333333333334,0.375,0.375,0.5,0.0,0.0,0.0,0.0,4.6,2.0,3.9,20.0,9.1,71.0,125.0,-9.5,Isaac Bonga,,WAS,True,True
+mahinia01,17.916666666666668,0.773,0.667,0.0,0.667,12.8,5.8,9.1,6.8,0.0,5.3,34.0,14.5,120.0,127.0,-5.8,Ian Mahinmi,,WAS,True,True
+bertada01,31.216666666666665,0.727,0.708,0.75,0.333,0.0,26.7,14.0,12.9,0.0,0.0,0.0,19.5,149.0,121.0,4.4,Dāvis Bertāns,,WAS,True,False
+browntr01,27.816666666666666,1.0,1.0,0.6,0.0,0.0,15.0,7.8,18.1,1.8,0.0,0.0,7.9,204.0,122.0,6.4,Troy Brown,,WAS,True,False
+napiesh01,18.283333333333335,0.7,0.7,0.6,0.0,12.5,5.7,9.0,24.7,5.4,5.1,16.7,29.0,125.0,114.0,13.9,Shabazz Napier,,WAS,True,False
+wagnemo01,18.166666666666668,0.6,0.6,0.4,0.0,6.3,17.2,12.0,7.1,2.7,0.0,0.0,12.2,135.0,119.0,-2.8,Moritz Wagner,,WAS,True,False
+mathega01,5.333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,132.0,-10.2,Garrison Mathews,,WAS,True,False
+pasecan01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Anžejs Pasečņiks,,WAS,True,False
+schofad01,,,,,,,,,,,,,,,,,Admiral Schofield,Did Not Play,WAS,True,False
+paytoga02,,,,,,,,,,,,,,,,,Gary Payton,Did Not Play,WAS,True,False

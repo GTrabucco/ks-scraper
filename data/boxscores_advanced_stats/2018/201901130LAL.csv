@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+osmande01,42.25,0.533,0.529,0.353,0.235,0.0,16.5,8.8,3.9,2.3,0.0,9.6,21.6,98.0,94.0,-0.5,Cedi Osman,,CLE,False,True
+thomptr01,37.43333333333333,0.504,0.5,0.0,0.143,10.7,23.3,17.4,4.4,0.0,4.5,6.3,18.7,108.0,94.0,0.0,Tristan Thompson,,CLE,False,True
+sextoco01,33.416666666666664,0.539,0.536,0.143,0.286,0.0,7.8,4.2,15.4,1.5,0.0,6.0,22.1,109.0,99.0,0.3,Collin Sexton,,CLE,False,True
+burksal01,32.86666666666667,0.629,0.5,0.5,0.8,3.0,31.9,18.4,18.2,1.5,0.0,0.0,18.1,143.0,89.0,8.5,Alec Burks,,CLE,False,True
+hoodro01,24.45,0.556,0.464,0.357,0.357,4.1,7.1,5.7,22.5,2.0,0.0,11.0,32.7,110.0,99.0,4.9,Rodney Hood,,CLE,False,True
+clarkjo01,27.55,0.409,0.409,0.182,0.0,3.6,3.2,3.4,11.2,0.0,0.0,8.3,19.2,87.0,104.0,-6.1,Jordan Clarkson,,CLE,False,False
+dellama01,16.566666666666666,0.375,0.375,0.25,0.0,0.0,5.3,2.8,16.5,0.0,0.0,33.3,15.9,63.0,103.0,-13.1,Matthew Dellavedova,,CLE,False,False
+zizican01,10.433333333333334,0.0,0.0,0.0,0.0,9.6,25.1,17.9,12.1,0.0,0.0,0.0,4.2,90.0,95.0,-6.0,Ante Žižić,,CLE,False,False
+blossja01,9.15,0.333,0.333,0.0,0.0,21.9,9.5,15.3,0.0,0.0,0.0,0.0,14.4,101.0,100.0,-9.1,Jaron Blossomgame,,CLE,False,False
+payneca01,5.833333333333333,0.0,0.0,0.0,0.0,0.0,15.0,8.0,21.7,0.0,0.0,50.0,15.1,25.0,100.0,-16.2,Cameron Payne,,CLE,False,False
+jonesja04,,,,,,,,,,,,,,,,,Jalen Jones,Did Not Play,CLE,False,False
+fryech01,,,,,,,,,,,,,,,,,Channing Frye,Did Not Play,CLE,False,False
+balllo01,40.68333333333333,0.437,0.429,0.571,0.143,6.4,14.7,10.3,31.4,2.4,0.0,6.3,16.5,107.0,102.0,2.2,Lonzo Ball,,LAL,True,True
+ingrabr01,39.983333333333334,0.628,0.607,0.143,0.571,6.5,10.0,8.2,9.1,0.0,0.0,10.2,20.6,119.0,108.0,1.0,Brandon Ingram,,LAL,True,True
+kuzmaky01,36.25,0.538,0.522,0.304,0.391,7.2,13.8,10.3,24.7,0.0,0.0,12.9,36.0,101.0,107.0,1.6,Kyle Kuzma,,LAL,True,True
+hartjo01,32.21666666666667,0.349,0.292,0.667,0.167,0.0,15.5,7.2,4.7,1.5,4.4,13.4,19.5,67.0,100.0,-6.4,Josh Hart,,LAL,True,True
+mcgeeja01,23.183333333333334,0.333,0.333,0.0,0.0,0.0,34.5,16.1,0.0,0.0,3.0,0.0,5.5,71.0,99.0,-8.5,JaVale McGee,,LAL,True,True
+caldwke01,26.1,0.222,0.222,0.667,0.0,3.3,11.5,7.1,22.8,0.0,0.0,0.0,14.5,73.0,108.0,-8.5,Kentavious Caldwell-Pope,,LAL,True,False
+stephla01,15.216666666666667,0.0,0.0,0.25,0.5,5.7,19.7,12.3,8.8,0.0,0.0,29.1,19.1,16.0,106.0,-22.4,Lance Stephenson,,LAL,True,False
+zubaciv01,10.716666666666667,0.727,0.667,0.0,0.333,0.0,18.7,8.7,0.0,0.0,13.2,0.0,13.5,148.0,95.0,7.6,Ivica Zubac,,LAL,True,False
+beaslmi01,7.083333333333333,0.481,0.429,0.0,0.429,12.3,0.0,6.6,0.0,6.9,0.0,0.0,49.5,104.0,95.0,7.5,Michael Beasley,,LAL,True,False
+mykhasv01,5.033333333333333,0.75,0.75,1.0,0.0,17.3,0.0,9.3,36.0,0.0,0.0,0.0,16.7,166.0,111.0,14.8,Sviatoslav Mykhailiuk,,LAL,True,False
+chandty01,3.5,,,,,0.0,57.1,26.6,0.0,0.0,0.0,,0.0,0.0,95.0,-3.4,Tyson Chandler,,LAL,True,False
+wagnemo01,,,,,,,,,,,,,,,,,Moritz Wagner,Did Not Play,LAL,True,False

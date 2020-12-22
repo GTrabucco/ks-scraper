@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lillada01,36.583333333333336,12.0,25.0,0.48,3.0,10.0,0.3,3.0,3.0,1.0,0.0,6.0,6.0,13.0,2.0,1.0,2.0,1.0,30.0,22.0,Damian Lillard,,POR,False,True
+mccolcj01,33.016666666666666,8.0,13.0,0.615,3.0,5.0,0.6,0.0,0.0,,1.0,3.0,4.0,5.0,2.0,2.0,3.0,2.0,19.0,-2.0,CJ McCollum,,POR,False,True
+aminual01,31.516666666666666,3.0,8.0,0.375,1.0,2.0,0.5,3.0,4.0,0.75,2.0,4.0,6.0,2.0,0.0,1.0,2.0,2.0,10.0,7.0,Al-Farouq Aminu,,POR,False,True
+plumlma01,30.333333333333332,6.0,9.0,0.667,0.0,1.0,0.0,5.0,6.0,0.833,1.0,10.0,11.0,4.0,1.0,1.0,0.0,1.0,17.0,22.0,Mason Plumlee,,POR,False,True
+vonleno01,16.55,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,5.0,Noah Vonleh,,POR,False,True
+crabbal01,25.866666666666667,3.0,7.0,0.429,1.0,2.0,0.5,0.0,0.0,,0.0,3.0,3.0,0.0,0.0,0.0,0.0,4.0,7.0,14.0,Allen Crabbe,,POR,False,False
+harklma01,25.0,5.0,11.0,0.455,0.0,4.0,0.0,0.0,0.0,,1.0,3.0,4.0,0.0,1.0,1.0,1.0,3.0,10.0,9.0,Maurice Harkless,,POR,False,False
+hendege02,18.25,1.0,5.0,0.2,0.0,0.0,,1.0,2.0,0.5,0.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,-1.0,Gerald Henderson,,POR,False,False
+davised01,17.666666666666668,4.0,5.0,0.8,0.0,0.0,,1.0,2.0,0.5,2.0,1.0,3.0,3.0,0.0,0.0,1.0,3.0,9.0,-8.0,Ed Davis,,POR,False,False
+fraziti01,5.216666666666667,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,Tim Frazier,,POR,False,False
+alexacl01,,,,,,,,,,,,,,,,,,,,,Cliff Alexander,Did Not Play,POR,False,False
+connapa01,,,,,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,POR,False,False
+kamanch01,,,,,,,,,,,,,,,,,,,,,Chris Kaman,Did Not Play,POR,False,False
+russeda01,35.78333333333333,4.0,10.0,0.4,2.0,4.0,0.5,3.0,4.0,0.75,0.0,9.0,9.0,6.0,0.0,0.0,3.0,0.0,13.0,-17.0,D'Angelo Russell,,LAL,True,True
+clarkjo01,35.45,8.0,14.0,0.571,3.0,5.0,0.6,0.0,0.0,,2.0,2.0,4.0,1.0,0.0,0.0,3.0,1.0,19.0,-5.0,Jordan Clarkson,,LAL,True,True
+randlju01,31.6,5.0,15.0,0.333,0.0,0.0,,3.0,3.0,1.0,7.0,6.0,13.0,1.0,0.0,0.0,0.0,0.0,13.0,-18.0,Julius Randle,,LAL,True,True
+bryanko01,31.383333333333333,6.0,22.0,0.273,0.0,5.0,0.0,6.0,7.0,0.857,1.0,3.0,4.0,4.0,1.0,1.0,0.0,1.0,18.0,-8.0,Kobe Bryant,,LAL,True,True
+hibbero01,25.266666666666666,3.0,7.0,0.429,0.0,0.0,,1.0,2.0,0.5,2.0,6.0,8.0,0.0,0.0,4.0,1.0,4.0,7.0,-13.0,Roy Hibbert,,LAL,True,True
+willilo02,24.766666666666666,3.0,8.0,0.375,1.0,3.0,0.333,7.0,7.0,1.0,1.0,4.0,5.0,0.0,0.0,0.0,1.0,0.0,14.0,-6.0,Lou Williams,,LAL,True,False
+bassbr01,22.733333333333334,2.0,3.0,0.667,0.0,0.0,,3.0,4.0,0.75,0.0,3.0,3.0,1.0,0.0,1.0,0.0,3.0,7.0,-1.0,Brandon Bass,,LAL,True,False
+youngni01,19.55,1.0,6.0,0.167,0.0,1.0,0.0,0.0,0.0,,1.0,2.0,3.0,3.0,0.0,0.0,1.0,1.0,2.0,-4.0,Nick Young,,LAL,True,False
+artesro01,13.466666666666667,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,1.0,1.0,2.0,1.0,1.0,0.0,1.0,2.0,0.0,2.0,Metta World Peace,,LAL,True,False
+blackta01,,,,,,,,,,,,,,,,,,,,,Tarik Black,Did Not Play,LAL,True,False
+huertma01,,,,,,,,,,,,,,,,,,,,,Marcelo Huertas,Did Not Play,LAL,True,False
+kellyry01,,,,,,,,,,,,,,,,,,,,,Ryan Kelly,Did Not Play,LAL,True,False
+nancela02,,,,,,,,,,,,,,,,,,,,,Larry Nance,Did Not Play,LAL,True,False

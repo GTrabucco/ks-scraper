@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+haywago01,37.86666666666667,0.508,0.5,0.538,0.308,0.0,3.5,1.7,20.9,1.4,0.0,25.3,24.0,85.0,118.0,-5.9,Gordon Hayward,,UTA,False,True
+lylestr01,33.7,0.353,0.364,0.091,0.364,3.6,31.7,16.9,13.2,3.1,5.5,23.9,22.8,66.0,104.0,-6.6,Trey Lyles,,UTA,False,True
+netora01,23.983333333333334,0.833,0.833,0.667,0.0,0.0,11.1,5.3,41.2,4.4,0.0,50.0,11.5,108.0,110.0,4.6,Raul Neto,,UTA,False,True
+hoodro01,22.416666666666668,0.543,0.357,0.857,0.714,0.0,11.9,5.6,12.7,2.3,4.1,9.8,20.9,114.0,112.0,2.3,Rodney Hood,,UTA,False,True
+witheje01,17.166666666666668,0.82,0.75,0.0,0.5,7.0,23.3,14.7,9.4,0.0,10.8,0.0,13.1,175.0,110.0,11.4,Jeff Withey,,UTA,False,True
+booketr01,25.316666666666666,0.667,0.667,0.0,0.0,19.0,26.3,22.5,0.0,2.1,0.0,10.0,18.1,126.0,111.0,2.4,Trevor Booker,,UTA,False,False
+burketr01,24.433333333333334,0.388,0.375,0.333,0.167,4.9,5.5,5.2,19.6,0.0,0.0,18.9,29.9,76.0,121.0,-11.9,Trey Burke,,UTA,False,False
+inglejo01,21.4,0.571,0.571,0.857,0.0,11.2,6.2,8.9,14.3,0.0,0.0,22.2,19.3,101.0,121.0,-2.3,Joe Ingles,,UTA,False,False
+johnsch04,18.65,0.688,0.688,0.25,0.0,0.0,0.0,0.0,20.5,5.6,0.0,0.0,19.7,141.0,108.0,7.4,Chris Johnson,,UTA,False,False
+goberru01,15.066666666666666,0.75,0.75,0.0,0.0,8.0,17.7,12.6,0.0,0.0,0.0,0.0,12.2,152.0,117.0,-1.3,Rudy Gobert,,UTA,False,False
+pleisti01,,,,,,,,,,,,,,,,,Tibor Pleiß,Did Not Play,UTA,False,False
+favorde01,,,,,,,,,,,,,,,,,Derrick Favors,Not With Team,UTA,False,False
+hardeja01,34.11666666666667,0.561,0.52,0.28,0.4,7.8,21.1,14.8,20.4,3.1,2.8,12.0,45.9,112.0,99.0,6.6,James Harden,,HOU,True,True
+arizatr01,32.4,0.3,0.3,0.6,0.0,4.1,14.8,9.7,4.1,1.6,3.0,9.1,15.9,75.0,103.0,-6.4,Trevor Ariza,,HOU,True,True
+joneste01,32.11666666666667,0.643,0.6,0.1,0.2,4.2,26.2,15.7,10.0,0.0,0.0,0.0,15.9,147.0,106.0,4.3,Terrence Jones,,HOU,True,True
+capelca01,30.333333333333332,0.405,0.333,0.0,1.0,26.4,15.8,20.8,0.0,5.2,0.0,10.4,14.9,107.0,97.0,-3.1,Clint Capela,,HOU,True,True
+beverpa01,27.216666666666665,1.125,1.125,0.25,0.0,4.9,0.0,2.3,22.1,3.9,0.0,0.0,6.9,222.0,103.0,10.9,Patrick Beverley,,HOU,True,True
+harremo01,27.1,0.906,1.0,0.0,4.0,0.0,4.4,2.3,4.8,1.9,3.5,52.1,10.0,88.0,104.0,-4.7,Montrezl Harrell,,HOU,True,False
+terryja01,20.283333333333335,0.75,0.75,0.375,0.0,0.0,11.8,6.2,17.4,0.0,0.0,27.3,25.4,112.0,109.0,0.5,Jason Terry,,HOU,True,False
+breweco01,18.366666666666667,1.25,1.25,0.5,0.0,0.0,19.6,10.3,15.5,0.0,0.0,0.0,5.1,241.0,107.0,7.6,Corey Brewer,,HOU,True,False
+thornma01,18.066666666666666,0.558,0.5,0.444,0.444,0.0,19.9,10.5,0.0,5.8,0.0,27.1,38.3,83.0,95.0,-4.4,Marcus Thornton,,HOU,True,False
+howardw01,,,,,,,,,,,,,,,,,Dwight Howard,Did Not Dress,HOU,True,False
+lawsoty01,,,,,,,,,,,,,,,,,Ty Lawson,Player Suspended,HOU,True,False

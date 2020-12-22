@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+morrima02,38.45,5.0,16.0,0.313,1.0,4.0,0.25,7.0,9.0,0.778,1.0,6.0,7.0,3.0,0.0,2.0,2.0,1.0,18.0,-6.0,Markieff Morris,,WAS,False,True
+gortama01,36.916666666666664,3.0,10.0,0.3,0.0,0.0,,2.0,4.0,0.5,4.0,10.0,14.0,2.0,1.0,0.0,2.0,3.0,8.0,13.0,Marcin Gortat,,WAS,False,True
+bealbr01,33.233333333333334,6.0,17.0,0.353,1.0,5.0,0.2,2.0,2.0,1.0,2.0,2.0,4.0,3.0,1.0,1.0,0.0,5.0,15.0,16.0,Bradley Beal,,WAS,False,True
+satorto01,32.35,4.0,7.0,0.571,0.0,0.0,,0.0,1.0,0.0,0.0,2.0,2.0,3.0,1.0,0.0,1.0,3.0,8.0,13.0,Tomáš Satoranský,,WAS,False,True
+porteot01,28.783333333333335,4.0,8.0,0.5,2.0,3.0,0.667,0.0,0.0,,3.0,10.0,13.0,0.0,0.0,0.0,0.0,4.0,10.0,1.0,Otto Porter,,WAS,False,True
+oubreke01,17.15,2.0,5.0,0.4,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,-8.0,Kelly Oubre,,WAS,False,False
+thornma01,17.016666666666666,4.0,8.0,0.5,1.0,3.0,0.333,0.0,0.0,,0.0,4.0,4.0,0.0,0.0,0.0,2.0,2.0,9.0,-13.0,Marcus Thornton,,WAS,False,False
+burketr01,15.55,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,-15.0,Trey Burke,,WAS,False,False
+smithja02,11.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,-15.0,Jason Smith,,WAS,False,False
+nichoan01,9.55,4.0,10.0,0.4,0.0,1.0,0.0,1.0,1.0,1.0,3.0,1.0,4.0,0.0,1.0,0.0,1.0,2.0,9.0,4.0,Andrew Nicholson,,WAS,False,False
+houseda01,,,,,,,,,,,,,,,,,,,,,Danuel House,Did Not Play,WAS,False,False
+mcclesh01,,,,,,,,,,,,,,,,,,,,,Sheldon Mac,Did Not Play,WAS,False,False
+ochefda01,,,,,,,,,,,,,,,,,,,,,Daniel Ochefu,Did Not Play,WAS,False,False
+fournev01,30.316666666666666,2.0,8.0,0.25,2.0,6.0,0.333,7.0,8.0,0.875,0.0,2.0,2.0,2.0,0.0,0.0,2.0,6.0,13.0,7.0,Evan Fournier,,ORL,True,True
+paytoel01,28.5,2.0,8.0,0.25,1.0,3.0,0.333,1.0,2.0,0.5,1.0,0.0,1.0,3.0,0.0,0.0,2.0,2.0,6.0,-13.0,Elfrid Payton,,ORL,True,True
+vucevni01,26.05,3.0,6.0,0.5,0.0,0.0,,0.0,2.0,0.0,2.0,7.0,9.0,1.0,0.0,1.0,0.0,1.0,6.0,-5.0,Nikola Vučević,,ORL,True,True
+gordoaa01,24.45,3.0,7.0,0.429,2.0,4.0,0.5,1.0,2.0,0.5,1.0,3.0,4.0,4.0,0.0,1.0,0.0,1.0,9.0,-22.0,Aaron Gordon,,ORL,True,True
+ibakase01,20.95,5.0,13.0,0.385,1.0,2.0,0.5,0.0,0.0,,2.0,5.0,7.0,0.0,0.0,0.0,0.0,2.0,11.0,-13.0,Serge Ibaka,,ORL,True,True
+greenje02,27.166666666666668,5.0,12.0,0.417,2.0,5.0,0.4,6.0,7.0,0.857,1.0,4.0,5.0,3.0,0.0,1.0,1.0,1.0,18.0,15.0,Jeff Green,,ORL,True,False
+hezonma01,25.733333333333334,4.0,9.0,0.444,0.0,4.0,0.0,1.0,2.0,0.5,0.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,9.0,15.0,Mario Hezonja,,ORL,True,False
+biyombi01,24.0,4.0,6.0,0.667,0.0,0.0,,1.0,4.0,0.25,3.0,9.0,12.0,1.0,0.0,3.0,1.0,3.0,9.0,9.0,Bismack Biyombo,,ORL,True,False
+augusdj01,19.583333333333332,3.0,8.0,0.375,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,0.0,5.0,2.0,0.0,1.0,0.0,7.0,15.0,D.J. Augustin,,ORL,True,False
+watsocj01,13.25,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,C.J. Watson,,ORL,True,False
+rudezda01,,,,,,,,,,,,,,,,,,,,,Damjan Rudež,Did Not Play,ORL,True,False
+wilcocj01,,,,,,,,,,,,,,,,,,,,,C.J. Wilcox,Did Not Play,ORL,True,False
+zimmest01,,,,,,,,,,,,,,,,,,,,,Stephen Zimmerman,Did Not Play,ORL,True,False

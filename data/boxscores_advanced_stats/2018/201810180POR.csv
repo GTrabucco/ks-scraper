@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+jamesle01,37.333333333333336,0.651,0.563,0.25,0.563,5.4,24.7,15.4,23.1,1.2,0.0,23.1,27.6,110.0,114.0,1.3,LeBron James,,LAL,False,True
+rondora01,31.75,0.5,0.5,0.154,0.0,0.0,11.6,6.0,46.3,1.4,0.0,18.8,20.0,103.0,118.0,-1.6,Rajon Rondo,,LAL,False,True
+ingrabr01,27.583333333333332,0.477,0.467,0.267,0.267,3.6,10.0,7.0,5.3,3.1,2.8,5.6,25.6,95.0,113.0,0.1,Brandon Ingram,,LAL,False,True
+caldwke01,27.3,0.644,0.5,0.333,0.667,0.0,6.8,3.5,0.0,0.0,0.0,0.0,5.6,135.0,123.0,-4.7,Kentavious Caldwell-Pope,,LAL,False,True
+mcgeeja01,21.583333333333332,0.838,0.833,0.0,0.667,13.9,21.4,17.8,6.6,2.0,10.6,0.0,14.3,177.0,107.0,11.9,JaVale McGee,,LAL,False,True
+kuzmaky01,28.9,0.436,0.367,0.467,0.333,0.0,16.0,8.3,0.0,1.5,0.0,5.5,25.0,85.0,117.0,-7.7,Kyle Kuzma,,LAL,False,False
+hartjo01,27.466666666666665,0.751,0.792,0.417,0.25,0.0,13.4,7.0,5.6,4.7,5.5,13.1,22.2,121.0,107.0,10.6,Josh Hart,,LAL,False,False
+balllo01,19.466666666666665,0.444,0.357,0.571,0.286,10.3,9.5,9.9,6.2,2.2,0.0,11.3,18.1,97.0,117.0,-4.6,Lonzo Ball,,LAL,False,False
+stephla01,16.316666666666666,0.333,0.333,0.5,0.0,0.0,11.3,5.9,15.0,0.0,0.0,14.3,17.1,70.0,122.0,-10.5,Lance Stephenson,,LAL,False,False
+beaslmi01,2.3,,,,,0.0,40.1,20.9,0.0,0.0,0.0,,0.0,0.0,112.0,-4.7,Michael Beasley,,LAL,False,False
+mykhasv01,,,,,,,,,,,,,,,,,Sviatoslav Mykhailiuk,Did Not Play,LAL,False,False
+zubaciv01,,,,,,,,,,,,,,,,,Ivica Zubac,Did Not Play,LAL,False,False
+bongais01,,,,,,,,,,,,,,,,,Isaac Bonga,Did Not Play,LAL,False,False
+lillada01,35.4,0.571,0.476,0.333,0.381,2.6,14.1,8.1,17.1,1.2,2.2,10.9,29.0,116.0,109.0,3.7,Damian Lillard,,POR,True,True
+mccolcj01,31.016666666666666,0.535,0.441,0.353,0.353,3.0,12.9,7.7,4.5,0.0,0.0,9.2,26.0,109.0,114.0,-4.4,CJ McCollum,,POR,True,True
+aminual01,26.966666666666665,0.213,0.1,0.6,0.4,0.0,22.2,10.7,0.0,1.6,0.0,7.8,17.6,47.0,109.0,-14.6,Al-Farouq Aminu,,POR,True,True
+nurkiju01,17.183333333333334,0.538,0.5,0.071,0.143,32.2,17.5,25.1,0.0,5.0,0.0,11.8,36.6,112.0,102.0,-0.5,Jusuf Nurkić,,POR,True,True
+laymaja01,12.666666666666666,0.375,0.375,1.0,0.0,0.0,15.8,7.6,0.0,3.4,0.0,20.0,14.7,63.0,106.0,-6.7,Jake Layman,,POR,True,True
+stausni01,27.2,0.909,0.864,0.727,0.455,0.0,7.4,3.5,11.2,1.6,0.0,0.0,18.1,189.0,111.0,16.1,Nik Stauskas,,POR,True,False
+colliza01,26.316666666666666,0.75,0.75,0.25,0.0,3.5,19.0,10.9,9.5,0.0,17.4,20.0,7.1,133.0,98.0,5.3,Zach Collins,,POR,True,False
+turneev01,21.216666666666665,0.666,0.625,0.0,0.5,4.4,9.4,6.8,41.5,4.1,0.0,23.5,22.4,121.0,106.0,7.8,Evan Turner,,POR,True,False
+harklma01,18.433333333333334,0.7,0.7,0.4,0.0,10.0,21.7,15.6,14.4,0.0,12.4,16.7,12.1,135.0,102.0,8.7,Maurice Harkless,,POR,True,False
+curryse01,15.566666666666666,0.417,0.417,0.333,0.0,5.9,25.7,15.4,0.0,0.0,0.0,14.3,16.8,83.0,112.0,-9.1,Seth Curry,,POR,True,False
+leoname01,8.033333333333333,,,,,11.5,37.3,23.9,54.3,5.4,0.0,100.0,4.6,127.0,98.0,15.1,Meyers Leonard,,POR,True,False
+swanica01,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,POR,True,False
+baldwwa01,,,,,,,,,,,,,,,,,Wade Baldwin,Did Not Play,POR,True,False

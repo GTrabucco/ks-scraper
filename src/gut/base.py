@@ -9,59 +9,21 @@ import re
 DATA_START_DATE = '1/1/2015'
 
 class Base(ABC):
-	def __init__(self, name, path, start_date = None, end_date = None, season=None):
+	def __init__(self, name, path, start_date = None, end_date = None, season = None, last_n_matchups = None, load_lineup=False):
 		self.name = name
 		self.schedule = []
 		self.path = path
 		self.start_date = start_date if isinstance(start_date, date) or start_date == None else datetime.strptime(start_date, '%Y-%m-%d').date()
 		self.end_date = end_date if isinstance(end_date, date) or end_date == None else datetime.strptime(end_date, '%Y-%m-%d').date()
 		self.season = int(season) if season != None else None
-		self.wins = 0
-		self.losses = 0
-		self.win_pct = 0
-		self.ats_wins = 0
-		self.ats_losses = 0
-		self.ats_pushes = 0
-		self.ats_pct = 0
-		self.ou_overs = 0
-		self.ou_unders = 0
-		self.ou_pushes = 0
-		self.ou_unders = 0
-		self.avg_total = 0
-		self.avg_home_total = 0
-		self.avg_away_total = 0
-		self.avg_line = 0
-		self.avg_home_line = 0
-		self.avg_away_line = 0
-		self.avg_home_score = 0
-		self.avg_away_score = 0
+		self.last_n_matchups = last_n_matchups
+		self.load_lineup = load_lineup
 		self._initialize_data()
 
 	def _initialize_data(self):
 		self._initialize_schedule()
-		self.wins = len([x for x in self.schedule if x.su_record == 'W'])
-		self.losses = len([x for x in self.schedule if x.su_record == 'L'])
-		self.win_pct = self.wins/(self.wins+self.losses) if self.wins > 0 else 0
-		self.ats_wins = len([x for x in self.schedule if x.ats_record == 'W'])
-		self.ats_losses = len([x for x in self.schedule if x.ats_record == 'L'])
-		self.ats_pushes = len([x for x in self.schedule if x.ats_record == 'P'])
-		self.ats_pct = self.ats_wins/(self.ats_wins+self.ats_losses+self.ats_pushes) if self.ats_wins > 0 else 0
-		self.ou_overs = len([x for x in self.schedule if x.ou_record == 'O'])
-		self.ou_unders = len([x for x in self.schedule if x.ou_record == 'U'])
-		self.ou_pushes = len([x for x in self.schedule if x.ou_record == 'P'])
-		self.ou_unders = len([x for x in self.schedule if x.ou_record == 'U'])
-		self.avg_total = 0 if len(self.schedule) == 0 else statistics.mean([x.total for x in self.schedule])
-		self.avg_home_total = 0 if len(self.schedule) == 0 or len([x.total for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.total for x in self.schedule if x.site == 'home'])
-		self.avg_away_total = 0 if len(self.schedule) == 0 or len([x.total for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.total for x in self.schedule if x.site == 'away'])
-		self.avg_line = 0 if len(self.schedule) == 0 else statistics.mean([x.line for x in self.schedule])
-		self.avg_home_line = 0 if len(self.schedule) == 0 or len([x.total for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.line for x in self.schedule if x.site == 'home'])
-		self.avg_away_line = 0 if len(self.schedule) == 0 or len([x.total for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.line for x in self.schedule if x.site == 'away'])
-		self.avg_home_score = 0 if len(self.schedule) == 0 or len([x.score for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.score for x in self.schedule if x.site == 'home'])
-		self.avg_away_score = 0 if len(self.schedule) == 0 or len([x.score for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.score for x in self.schedule if x.site == 'away'])
-		self.avg_home_opp_score = 0 if len(self.schedule) == 0 or len([x.opponent_score for x in self.schedule if x.site == 'home']) == 0 else statistics.mean([x.opponent_score for x in self.schedule if x.site == 'home'])
-		self.avg_away_opp_score = 0 if len(self.schedule) == 0 or len([x.opponent_score for x in self.schedule if x.site == 'away']) == 0 else statistics.mean([x.opponent_score for x in self.schedule if x.site == 'away'])
 
-	def _insert_matchup(self, matchup):
+	def _insert_matchup(self, matchup, count):
 		self.schedule.append(matchup)
 
 	def _initialize_schedule(self):
@@ -69,21 +31,22 @@ class Base(ABC):
 			with open(self.path, 'r') as csvfile:
 				reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
 				next(reader, None)
-				count = 0
-				for raw_row in reader:
+				count = 1
+				for raw_row in reversed(list(csv.reader(csvfile))):
 					row = str(raw_row).split(',')
 					d = row[0] + row[1] + row[3]
 					formatted_date = re.sub('[^0-9a-zA-Z]+', '', d)
 					matchup_date = datetime.strptime(datetime.strptime(formatted_date, "%b%d%Y").strftime("%m/%d/%Y"), "%m/%d/%Y").date()
 					matchup_season = int(row[6])
-					if (self.start_date is not None and self.start_date > matchup_date or (self.season is not None and matchup_season < self.season)):
+					if (self.start_date is not None and self.start_date < matchup_date or (self.season is not None and matchup_season > self.season) ):
 						continue
-					elif self.end_date is not None and self.end_date < matchup_date or (self.season is not None and matchup_season > self.season):
+					elif self.end_date is not None and self.end_date > matchup_date or (self.season is not None and matchup_season < self.season or (self.last_n_matchups is not None and count > self.last_n_matchups)):
 						break
 					else:
-						m = Matchup(matchup_date, row[5], matchup_season, row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22])		
-						self._insert_matchup(m)
+						m = Matchup(matchup_date, row[5], matchup_season, row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18], row[19], row[20], row[21], row[22], self.load_lineup)		
+						self._insert_matchup(m, count)
 						count = count + 1
+
 			csvfile.close()
 		except Exception as e:
 			print('_initialize_schedule()', raw_row, e)
@@ -99,11 +62,14 @@ class Base(ABC):
 		except Exception as e:
 			print('get_matchup_by_date()', date, e)
 
-	def get_last_n_matchups(self, n):
+	def get_last_n_matchups(self, n, site=None):
 		try:			
-		    schedule = sorted(self.schedule, key=lambda x: x.date, reverse=False)
-		    matchups = schedule[-n:]
-		    return matchups
+			if site is not None:
+				schedule = sorted([x for x in self.schedule if x.site == site], key=lambda x: x.date, reverse=False)
+			else:
+				schedule = sorted(self.schedule, key=lambda x: x.date, reverse=False)
+			matchups = schedule[-n-1:-1]
+			return matchups
 		except Exception as e:
 			print('get_last_n_matchups', n, e)
 

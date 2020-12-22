@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+morrima03,36.03333333333333,0.362,0.375,0.25,0.083,5.9,12.4,9.1,13.5,0.0,0.0,13.9,19.0,77.0,110.0,-4.4,Marcus Morris,,DET,False,True
+drumman01,33.833333333333336,0.435,0.4,0.1,0.6,0.0,42.9,21.0,4.8,3.1,2.5,7.3,19.1,85.0,95.0,2.4,Andre Drummond,,DET,False,True
+caldwke01,32.166666666666664,0.168,0.091,0.455,0.182,0.0,10.4,5.1,0.0,0.0,0.0,0.0,17.5,37.0,111.0,-13.0,Kentavious Caldwell-Pope,,DET,False,True
+jacksre01,31.716666666666665,0.434,0.417,0.167,0.056,6.7,3.5,5.2,31.0,0.0,2.7,14.0,32.0,88.0,110.0,1.5,Reggie Jackson,,DET,False,True
+tollian01,18.416666666666668,0.5,0.5,0.833,0.0,5.8,12.1,8.9,0.0,0.0,0.0,14.3,18.0,90.0,110.0,-3.8,Anthony Tolliver,,DET,False,True
+harrito02,30.066666666666666,0.815,0.792,0.167,0.167,3.5,11.1,7.3,0.0,0.0,0.0,13.4,23.4,136.0,111.0,8.3,Tobias Harris,,DET,False,False
+johnsst04,22.416666666666668,0.5,0.5,0.6,0.0,0.0,10.0,4.9,7.0,0.0,0.0,28.6,14.8,74.0,111.0,-6.6,Stanley Johnson,,DET,False,False
+blakest01,16.283333333333335,0.625,0.625,0.25,0.0,0.0,6.9,3.3,30.4,0.0,0.0,20.0,14.5,114.0,112.0,0.7,Steve Blake,,DET,False,False
+baynear01,14.166666666666666,0.694,1.0,0.0,1.0,0.0,47.3,23.1,0.0,0.0,6.1,0.0,14.4,128.0,97.0,5.4,Aron Baynes,,DET,False,False
+bullore01,2.45,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,112.0,-13.5,Reggie Bullock,,DET,False,False
+hillida01,2.45,0.798,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.3,156.0,113.0,22.9,Darrun Hilliard,,DET,False,False
+motiedo01,,,,,,,,,,,,,,,,,Donatas Motiejūnas,Not With Team,DET,False,False
+thornma01,,,,,,,,,,,,,,,,,Marcus Thornton,Not With Team,DET,False,False
+walljo01,34.88333333333333,0.586,0.529,0.412,0.235,0.0,24.5,12.5,44.0,1.5,2.3,9.6,29.0,117.0,91.0,9.3,John Wall,,WAS,True,True
+porteot01,31.133333333333333,0.786,0.786,0.571,0.0,0.0,20.6,10.5,5.2,0.0,0.0,0.0,11.0,145.0,98.0,5.0,Otto Porter,,WAS,True,True
+templga01,30.233333333333334,0.2,0.2,0.4,0.0,0.0,14.1,7.2,18.5,1.7,0.0,0.0,8.1,77.0,95.0,-2.5,Garrett Temple,,WAS,True,True
+gortama01,29.05,0.638,0.6,0.0,0.4,15.4,18.4,16.9,12.7,0.0,5.6,7.8,21.4,130.0,92.0,5.4,Marcin Gortat,,WAS,True,True
+dudleja01,25.95,0.519,0.429,0.429,0.857,8.6,16.4,12.6,24.3,2.0,6.3,9.4,20.0,116.0,87.0,6.3,Jared Dudley,,WAS,True,True
+bealbr01,26.2,0.751,0.8,0.4,0.3,0.0,4.1,2.1,23.7,2.0,0.0,8.1,22.9,130.0,95.0,9.0,Bradley Beal,,WAS,True,False
+morrima02,22.05,0.338,0.25,0.25,0.25,0.0,9.7,4.9,0.0,0.0,0.0,18.4,24.1,57.0,98.0,-17.3,Markieff Morris,,WAS,True,False
+sessira01,16.65,0.483,0.375,0.0,0.375,0.0,12.8,6.6,31.6,0.0,0.0,0.0,27.3,112.0,98.0,-0.2,Ramon Sessions,,WAS,True,False
+hilarne01,16.5,0.34,0.4,0.0,0.4,6.8,25.9,16.5,9.6,3.2,0.0,14.5,20.3,70.0,89.0,-5.4,Nenê Hilário,,WAS,True,False
+goodedr01,2.45,0.0,0.0,0.0,0.0,45.6,43.5,44.5,0.0,0.0,0.0,50.0,39.8,37.0,93.0,-35.7,Drew Gooden,,WAS,True,False
+eddieja01,2.45,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,101.0,-5.5,Jarell Eddie,,WAS,True,False
+oubreke01,2.45,1.136,,,,0.0,87.1,44.5,0.0,0.0,0.0,0.0,17.5,250.0,83.0,14.9,Kelly Oubre,,WAS,True,False

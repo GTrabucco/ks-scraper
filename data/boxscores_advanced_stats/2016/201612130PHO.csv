@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+porzikr01,41.95,0.652,0.609,0.174,0.304,2.3,18.4,9.7,0.0,3.5,6.0,7.1,28.0,119.0,98.0,10.8,Kristaps Porziņģis,,NYK,False,True
+anthoca01,39.18333333333333,0.351,0.2,0.133,0.533,0.0,16.9,7.8,19.9,0.0,0.0,0.0,19.8,88.0,109.0,-4.8,Carmelo Anthony,,NYK,False,True
+leeco01,29.083333333333332,0.875,0.875,0.375,0.0,3.3,3.8,3.5,13.5,3.4,0.0,0.0,11.5,172.0,107.0,9.9,Courtney Lee,,NYK,False,True
+noahjo01,21.916666666666668,0.495,0.6,0.0,1.4,8.6,30.2,18.6,23.6,2.2,3.8,33.1,23.1,77.0,96.0,-1.9,Joakim Noah,,NYK,False,True
+rosede01,9.9,0.145,0.0,0.167,0.333,0.0,11.2,5.1,0.0,0.0,0.0,0.0,29.1,34.0,112.0,-21.6,Derrick Rose,,NYK,False,True
+jennibr01,28.3,0.233,0.167,0.333,0.167,0.0,0.0,0.0,25.9,1.7,0.0,23.7,12.5,61.0,113.0,-9.1,Brandon Jennings,,NYK,False,False
+oquinky01,27.733333333333334,0.59,0.563,0.063,0.375,17.1,35.8,25.7,18.4,1.8,0.0,5.1,29.6,122.0,97.0,8.3,Kyle O'Quinn,,NYK,False,False
+holidju01,25.466666666666665,0.45,0.375,0.25,0.25,0.0,4.3,2.0,19.7,0.0,0.0,10.1,16.2,93.0,115.0,-6.7,Justin Holiday,,NYK,False,False
+thomala01,22.683333333333334,0.564,0.375,0.5,0.75,4.2,4.9,4.5,6.6,2.2,0.0,15.8,11.7,109.0,110.0,-0.6,Lance Thomas,,NYK,False,False
+bakerro01,14.733333333333333,0.0,0.0,0.333,0.0,6.4,0.0,3.5,18.9,3.3,0.0,40.0,14.2,31.0,109.0,-13.6,Ron Baker,,NYK,False,False
+kuzmimi01,4.066666666666666,0.129,0.0,0.667,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.9,30.0,116.0,-33.8,Mindaugas Kuzminskas,,NYK,False,False
+vujacsa01,,,,,,,,,,,,,,,,,Sasha Vujačić,Did Not Play,NYK,False,False
+hernawi01,,,,,,,,,,,,,,,,,Willy Hernangómez,Did Not Play,NYK,False,False
+chandty01,41.266666666666666,0.697,0.625,0.0,0.375,24.1,32.1,28.4,0.0,1.2,1.7,17.7,11.7,139.0,98.0,2.1,Tyson Chandler,,PHO,True,True
+tuckepj01,40.416666666666664,0.468,0.5,0.385,0.154,2.7,14.1,8.8,4.4,3.6,1.7,12.6,16.7,93.0,99.0,-1.2,P.J. Tucker,,PHO,True,True
+bledser01,39.016666666666666,0.59,0.452,0.19,0.571,5.7,9.7,7.8,42.2,2.5,1.8,16.0,34.1,121.0,102.0,9.8,Eric Bledsoe,,PHO,True,True
+bookede01,35.75,0.33,0.219,0.313,0.313,0.0,2.6,1.4,0.0,0.0,1.9,5.2,22.9,78.0,109.0,-11.3,Devin Booker,,PHO,True,True
+chrisma01,31.383333333333333,0.526,0.458,0.25,0.25,14.1,24.1,19.5,0.0,1.6,2.2,7.0,19.4,120.0,99.0,0.0,Marquese Chriss,,PHO,True,True
+dudleja01,21.633333333333333,0.75,0.75,0.75,0.0,0.0,26.2,14.1,7.4,4.5,3.2,42.9,13.8,87.0,92.0,1.5,Jared Dudley,,PHO,True,False
+knighbr03,20.116666666666667,0.513,0.455,0.455,0.545,0.0,9.4,5.1,28.8,0.0,0.0,12.8,33.1,108.0,109.0,1.1,Brandon Knight,,PHO,True,False
+barbole01,18.2,0.6,0.6,0.4,0.0,0.0,15.6,8.4,0.0,0.0,3.8,16.7,14.0,103.0,104.0,-1.6,Leandro Barbosa,,PHO,True,False
+willial03,9.033333333333333,0.568,,,,0.0,10.5,5.6,0.0,0.0,0.0,0.0,4.1,122.0,107.0,-12.4,Alan Williams,,PHO,True,False
+bendedr01,8.183333333333334,0.5,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.6,118.0,111.0,-8.2,Dragan Bender,,PHO,True,False
+ulisty01,,,,,,,,,,,,,,,,,Tyler Ulis,Did Not Play,PHO,True,False
+lenal01,,,,,,,,,,,,,,,,,Alex Len,Did Not Dress,PHO,True,False
+jenkijo01,,,,,,,,,,,,,,,,,John Jenkins,Did Not Play,PHO,True,False

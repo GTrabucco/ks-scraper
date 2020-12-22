@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+balllo01,43.0,0.938,0.938,0.125,0.0,2.4,15.3,9.2,38.2,2.2,0.0,20.0,10.5,157.0,111.0,7.0,Lonzo Ball,,LAL,False,True
+kuzmaky01,40.86666666666667,0.613,0.6,0.4,0.2,0.0,25.3,13.3,3.8,0.0,0.0,15.5,21.4,95.0,113.0,-3.7,Kyle Kuzma,,LAL,False,True
+caldwke01,38.25,0.382,0.382,0.588,0.0,2.7,9.8,6.5,11.2,0.0,1.9,0.0,20.1,84.0,115.0,-5.4,Kentavious Caldwell-Pope,,LAL,False,True
+randlju01,32.266666666666666,0.661,0.538,0.0,0.769,3.2,29.2,16.9,5.0,1.5,0.0,22.3,31.4,102.0,108.0,-3.7,Julius Randle,,LAL,False,True
+lopezbr01,31.783333333333335,0.394,0.375,0.25,0.25,0.0,8.9,4.7,43.9,0.0,11.3,0.0,25.3,98.0,107.0,5.2,Brook Lopez,,LAL,False,True
+ennisty01,17.833333333333332,0.429,0.429,0.0,0.0,5.9,0.0,2.8,25.3,0.0,0.0,0.0,17.8,104.0,120.0,-4.5,Tyler Ennis,,LAL,False,False
+weartr01,17.066666666666666,0.532,0.0,1.0,2.0,0.0,22.1,11.6,0.0,0.0,0.0,0.0,10.0,117.0,114.0,-4.9,Travis Wear,,LAL,False,False
+zubaciv01,8.55,0.518,0.4,0.0,0.8,24.4,22.0,23.2,19.5,0.0,8.4,0.0,35.8,123.0,106.0,6.9,Ivica Zubac,,LAL,False,False
+fryech01,6.983333333333333,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,200.0,119.0,-1.0,Channing Frye,,LAL,False,False
+paytoga02,2.7666666666666666,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-8.3,Gary Payton,,LAL,False,False
+bryanth01,0.6333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-7.9,Thomas Bryant,,LAL,False,False
+ingrabr01,,,,,,,,,,,,,,,,,Brandon Ingram,Did Not Dress,LAL,False,False
+drumman01,39.38333333333333,0.402,0.313,0.063,0.375,7.2,39.7,22.6,6.4,0.0,2.0,13.9,23.2,85.0,103.0,-6.1,Andre Drummond,,DET,True,True
+johnsst04,30.166666666666668,0.222,0.222,0.333,0.0,3.1,24.2,13.1,23.4,1.6,0.0,0.0,12.6,85.0,104.0,-3.1,Stanley Johnson,,DET,True,True
+bullore01,29.5,0.571,0.571,0.214,0.0,3.2,14.1,8.4,0.0,1.6,2.6,0.0,20.1,117.0,103.0,5.0,Reggie Bullock,,DET,True,True
+jacksre01,28.066666666666666,0.455,0.455,0.273,0.0,6.7,11.2,8.8,17.9,0.0,0.0,4.3,34.6,98.0,109.0,-0.9,Reggie Jackson,,DET,True,True
+griffbl01,24.316666666666666,0.727,0.778,0.333,0.333,0.0,21.5,10.2,18.4,0.0,0.0,16.2,21.4,122.0,108.0,2.5,Blake Griffin,,DET,True,True
+tollian01,28.05,0.697,0.611,0.778,0.444,0.0,11.2,5.3,13.8,0.0,0.0,0.0,16.2,151.0,110.0,7.2,Anthony Tolliver,,DET,True,False
+smithis01,19.933333333333334,0.667,0.667,0.222,0.0,0.0,0.0,0.0,15.1,0.0,0.0,10.0,21.2,122.0,111.0,1.2,Ish Smith,,DET,True,False
+kennalu01,18.5,0.5,0.5,0.714,0.0,5.1,5.6,5.3,14.3,0.0,0.0,0.0,16.0,118.0,110.0,1.4,Luke Kennard,,DET,True,False
+ennisja01,17.833333333333332,0.7,0.7,0.6,0.0,0.0,5.9,2.8,0.0,5.4,0.0,0.0,11.8,137.0,99.0,5.4,James Ennis,,DET,True,False
+moreler01,4.25,0.568,,,,44.3,24.6,34.9,0.0,0.0,0.0,0.0,8.7,171.0,107.0,-2.1,Eric Moreland,,DET,True,False
+gallola01,,,,,,,,,,,,,,,,,Langston Galloway,Did Not Play,DET,True,False
+ellenhe01,,,,,,,,,,,,,,,,,Henry Ellenson,Did Not Play,DET,True,False
+buyckdw01,,,,,,,,,,,,,,,,,Dwight Buycks,Did Not Play,DET,True,False

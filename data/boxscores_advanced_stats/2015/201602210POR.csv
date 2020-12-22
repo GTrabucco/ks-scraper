@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+haywago01,37.733333333333334,0.603,0.462,0.231,0.769,0.0,13.0,7.4,10.4,5.6,0.0,10.3,23.0,126.0,116.0,4.3,Gordon Hayward,,UTA,False,True
+goberru01,35.81666666666667,0.359,0.375,0.0,0.5,14.5,10.9,12.5,6.9,0.0,11.6,23.5,16.0,82.0,126.0,-5.5,Rudy Gobert,,UTA,False,True
+favorde01,33.9,0.619,0.563,0.0,0.25,19.1,8.7,13.2,4.7,0.0,2.4,5.3,24.8,137.0,130.0,0.0,Derrick Favors,,UTA,False,True
+hoodro01,32.93333333333333,0.563,0.563,0.313,0.0,0.0,8.9,5.1,9.3,0.0,0.0,0.0,21.8,128.0,131.0,-2.1,Rodney Hood,,UTA,False,True
+netora01,10.083333333333334,0.667,0.667,0.0,0.0,12.9,0.0,5.5,0.0,0.0,0.0,40.0,22.2,83.0,137.0,-10.8,Raul Neto,,UTA,False,True
+macksh01,24.483333333333334,0.673,0.682,0.273,0.182,0.0,12.0,6.8,40.2,0.0,3.4,7.8,23.6,143.0,127.0,6.5,Shelvin Mack,,UTA,False,False
+booketr01,21.216666666666665,0.481,0.429,0.0,0.429,6.1,18.5,13.2,12.5,2.5,0.0,0.0,17.6,123.0,120.0,1.2,Trevor Booker,,UTA,False,False
+johnsch04,18.616666666666667,0.667,0.667,0.333,0.0,7.0,5.3,6.0,13.6,2.8,4.4,0.0,7.2,162.0,125.0,6.0,Chris Johnson,,UTA,False,False
+burketr01,13.4,0.429,0.429,0.429,0.0,0.0,7.3,4.2,10.0,0.0,6.2,12.5,26.8,90.0,129.0,-6.4,Trey Burke,,UTA,False,False
+inglejo01,6.966666666666667,1.25,1.25,0.5,0.0,0.0,14.1,8.0,0.0,0.0,0.0,0.0,12.9,250.0,127.0,13.0,Joe Ingles,,UTA,False,False
+lylestr01,4.85,,,,,0.0,20.2,11.5,0.0,0.0,17.1,100.0,9.2,0.0,117.0,-10.2,Trey Lyles,,UTA,False,False
+witheje01,,,,,,,,,,,,,,,,,Jeff Withey,Did Not Play,UTA,False,False
+lillada01,37.35,0.601,0.571,0.571,0.429,2.6,10.4,6.0,24.6,0.0,0.0,10.7,30.3,130.0,127.0,4.6,Damian Lillard,,POR,True,True
+mccolcj01,37.25,0.656,0.619,0.286,0.286,0.0,3.5,1.5,15.6,1.4,1.8,4.1,26.7,150.0,125.0,9.7,CJ McCollum,,POR,True,True
+plumlma01,29.516666666666666,0.423,0.375,0.0,0.75,10.0,26.4,17.0,28.6,3.6,2.3,8.6,15.9,121.0,113.0,5.0,Mason Plumlee,,POR,True,True
+aminual01,28.116666666666667,0.2,0.2,0.6,0.0,10.5,13.8,11.9,13.7,1.9,4.9,0.0,7.2,113.0,119.0,-0.2,Al-Farouq Aminu,,POR,True,True
+vonleno01,15.916666666666666,0.357,0.357,0.143,0.0,43.1,8.2,28.1,0.0,0.0,0.0,30.0,25.4,85.0,128.0,-14.9,Noah Vonleh,,POR,True,True
+harklma01,25.1,0.656,0.611,0.333,1.0,23.4,5.2,15.6,6.5,2.1,0.0,0.0,20.9,161.0,124.0,10.5,Maurice Harkless,,POR,True,False
+hendege02,21.683333333333334,0.291,0.167,0.333,0.333,0.0,23.9,10.3,6.0,2.4,0.0,12.7,14.7,77.0,118.0,-11.6,Gerald Henderson,,POR,True,False
+crabbal01,19.7,0.25,0.25,0.5,0.0,5.0,19.8,11.3,0.0,0.0,0.0,14.3,14.4,66.0,125.0,-14.1,Allen Crabbe,,POR,True,False
+davised01,18.616666666666667,0.828,1.0,0.0,1.5,10.5,20.9,15.0,9.0,2.8,3.7,23.1,18.8,125.0,115.0,5.8,Ed Davis,,POR,True,False
+leoname01,6.733333333333333,0.5,0.5,0.667,0.0,0.0,0.0,0.0,0.0,0.0,10.2,0.0,18.0,130.0,123.0,0.7,Meyers Leonard,,POR,True,False
+connapa01,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,POR,True,False
+kamanch01,,,,,,,,,,,,,,,,,Chris Kaman,Did Not Play,POR,True,False
+roberbr01,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,POR,True,False

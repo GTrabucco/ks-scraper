@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+anthoca01,36.93333333333333,0.253,0.25,0.2,0.2,4.4,26.6,13.9,12.4,0.0,0.0,4.4,24.6,65.0,103.0,-9.5,Carmelo Anthony,,OKC,False,True
+westbru01,35.55,0.48,0.407,0.222,0.444,0.0,24.5,10.5,33.1,0.0,0.0,8.5,39.7,102.0,103.0,6.0,Russell Westbrook,,OKC,False,True
+roberan03,32.9,0.643,0.6,0.2,0.2,7.4,16.6,11.3,8.7,1.5,6.8,15.5,7.8,128.0,98.0,3.8,Andre Roberson,,OKC,False,True
+adamsst01,30.15,0.419,0.462,0.0,0.231,24.3,18.1,21.6,0.0,1.6,0.0,21.8,24.3,82.0,101.0,-6.9,Steven Adams,,OKC,False,True
+abrinal01,25.6,0.313,0.313,0.375,0.0,3.2,4.3,3.6,10.9,1.9,4.4,0.0,12.5,86.0,100.0,-2.8,Álex Abrines,,OKC,False,True
+singlky01,22.683333333333334,0.436,0.444,0.444,0.333,0.0,14.4,6.2,0.0,0.0,0.0,0.0,18.2,95.0,105.0,-4.5,Kyle Singler,,OKC,False,False
+pattepa01,19.916666666666668,1.167,1.167,0.333,0.0,0.0,11.0,4.7,7.8,4.9,0.0,25.0,8.0,157.0,95.0,7.8,Patrick Patterson,,OKC,False,False
+feltora01,14.45,0.563,0.563,0.375,0.0,0.0,22.6,9.7,40.3,0.0,0.0,0.0,22.1,130.0,104.0,7.9,Raymond Felton,,OKC,False,False
+fergute01,14.15,0.333,0.333,0.667,0.0,0.0,0.0,0.0,0.0,3.4,0.0,25.0,11.3,52.0,100.0,-9.7,Terrance Ferguson,,OKC,False,False
+collini01,7.666666666666667,0.5,0.5,0.0,0.0,21.2,14.2,18.2,19.7,0.0,0.0,33.3,15.6,96.0,106.0,-0.9,Nick Collison,,OKC,False,False
+johnsda04,,,,,,,,,,,,,,,,,Dakari Johnson,Did Not Play,OKC,False,False
+huestjo01,,,,,,,,,,,,,,,,,Josh Huestis,Did Not Play,OKC,False,False
+holliro01,34.71666666666667,0.494,0.5,0.133,0.333,3.1,7.0,5.4,16.4,1.4,1.9,5.5,23.7,100.0,98.0,1.8,Rondae Hollis-Jefferson,,BRK,True,True
+crabbal01,31.95,0.582,0.583,0.75,0.167,0.0,15.3,8.8,5.5,0.0,0.0,23.7,23.9,81.0,98.0,-4.0,Allen Crabbe,,BRK,True,True
+carrode01,31.916666666666668,0.284,0.273,0.455,0.273,3.4,20.4,13.1,9.9,0.0,2.0,19.6,21.7,57.0,94.0,-10.3,DeMarre Carroll,,BRK,True,True
+zellety01,20.35,0.709,0.667,0.167,0.667,5.4,28.0,18.3,0.0,0.0,3.2,11.4,19.5,124.0,89.0,2.1,Tyler Zeller,,BRK,True,True
+dinwisp01,19.233333333333334,0.388,0.417,0.667,0.167,0.0,16.9,9.7,58.2,0.0,0.0,13.4,17.5,102.0,95.0,-4.2,Spencer Dinwiddie,,BRK,True,True
+leverca01,30.4,0.752,0.65,0.4,0.9,0.0,13.4,7.7,61.9,3.2,4.3,0.0,20.8,169.0,89.0,22.4,Caris LeVert,,BRK,True,False
+harrijo01,26.383333333333333,0.359,0.313,0.625,0.5,4.1,12.3,8.8,5.8,0.0,0.0,9.3,18.4,76.0,99.0,-9.4,Joe Harris,,BRK,True,False
+acyqu01,19.983333333333334,0.698,0.643,0.857,0.286,5.5,4.1,4.7,0.0,0.0,0.0,20.2,22.3,105.0,103.0,0.5,Quincy Acy,,BRK,True,False
+allenja01,17.966666666666665,1.0,1.0,0.0,0.0,6.1,9.1,7.8,0.0,0.0,7.2,0.0,5.0,205.0,96.0,2.8,Jarrett Allen,,BRK,True,False
+mozgoti01,7.1,0.333,0.333,0.333,0.0,15.4,22.9,19.7,0.0,0.0,0.0,0.0,19.1,85.0,95.0,-6.7,Timofey Mozgov,,BRK,True,False
+ouattya01,,,,,,,,,,,,,,,,,Yakuba Ouattara,Did Not Play,BRK,True,False

@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+bradlav01,38.166666666666664,7.0,12.0,0.583,4.0,9.0,0.444,0.0,0.0,,0.0,4.0,4.0,4.0,2.0,0.0,3.0,2.0,18.0,22.0,Avery Bradley,,BOS,False,True
+crowdja01,31.566666666666666,7.0,12.0,0.583,3.0,6.0,0.5,1.0,1.0,1.0,0.0,5.0,5.0,2.0,2.0,0.0,0.0,1.0,18.0,15.0,Jae Crowder,,BOS,False,True
+thomais02,31.083333333333332,4.0,9.0,0.444,0.0,2.0,0.0,7.0,7.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,3.0,15.0,-9.0,Isaiah Thomas,,BOS,False,True
+johnsam01,26.866666666666667,2.0,6.0,0.333,0.0,0.0,,2.0,2.0,1.0,2.0,2.0,4.0,2.0,2.0,1.0,3.0,4.0,6.0,19.0,Amir Johnson,,BOS,False,True
+sullija01,20.45,2.0,8.0,0.25,0.0,2.0,0.0,0.0,0.0,,3.0,8.0,11.0,5.0,0.0,0.0,2.0,3.0,4.0,4.0,Jared Sullinger,,BOS,False,True
+turneev01,29.833333333333332,2.0,8.0,0.25,0.0,0.0,,2.0,2.0,1.0,3.0,3.0,6.0,10.0,0.0,1.0,4.0,1.0,6.0,-12.0,Evan Turner,,BOS,False,False
+smartma01,20.8,3.0,8.0,0.375,1.0,5.0,0.2,5.0,6.0,0.833,1.0,3.0,4.0,2.0,2.0,0.0,2.0,2.0,12.0,-24.0,Marcus Smart,,BOS,False,False
+olynyke01,15.833333333333334,5.0,9.0,0.556,1.0,4.0,0.25,4.0,4.0,1.0,2.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,15.0,3.0,Kelly Olynyk,,BOS,False,False
+jerebjo01,15.383333333333333,6.0,8.0,0.75,1.0,1.0,1.0,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,0.0,0.0,3.0,13.0,-1.0,Jonas Jerebko,,BOS,False,False
+zellety01,10.016666666666667,1.0,4.0,0.25,0.0,0.0,,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,4.0,-22.0,Tyler Zeller,,BOS,False,False
+hunterj01,,,,,,,,,,,,,,,,,,,,,R.J. Hunter,Did Not Play,BOS,False,False
+leeda02,,,,,,,,,,,,,,,,,,,,,David Lee,Did Not Play,BOS,False,False
+youngja01,,,,,,,,,,,,,,,,,,,,,James Young,Did Not Play,BOS,False,False
+middlkh01,38.36666666666667,6.0,16.0,0.375,2.0,7.0,0.286,6.0,8.0,0.75,1.0,4.0,5.0,5.0,0.0,0.0,3.0,3.0,20.0,-5.0,Khris Middleton,,MIL,True,True
+antetgi01,36.833333333333336,6.0,12.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,3.0,0.0,2.0,14.0,0.0,Giannis Antetokounmpo,,MIL,True,True
+parkeja01,26.566666666666666,5.0,12.0,0.417,0.0,0.0,,0.0,1.0,0.0,1.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,10.0,-2.0,Jabari Parker,,MIL,True,True
+mayooj01,18.483333333333334,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,6.0,0.0,0.0,1.0,4.0,0.0,-2.0,O.J. Mayo,,MIL,True,True
+plumlmi01,18.466666666666665,3.0,6.0,0.5,0.0,0.0,,0.0,0.0,,1.0,4.0,5.0,0.0,0.0,1.0,1.0,0.0,6.0,-8.0,Miles Plumlee,,MIL,True,True
+bayleje01,32.03333333333333,5.0,9.0,0.556,4.0,6.0,0.667,0.0,0.0,,0.0,1.0,1.0,2.0,0.0,0.0,3.0,5.0,14.0,-4.0,Jerryd Bayless,,MIL,True,False
+monrogr01,29.533333333333335,13.0,21.0,0.619,0.0,0.0,,3.0,6.0,0.5,6.0,6.0,12.0,3.0,1.0,2.0,3.0,1.0,29.0,9.0,Greg Monroe,,MIL,True,False
+cartemi01,26.016666666666666,6.0,8.0,0.75,0.0,1.0,0.0,4.0,6.0,0.667,1.0,5.0,6.0,5.0,1.0,0.0,2.0,5.0,16.0,7.0,Michael Carter-Williams,,MIL,True,False
+vaughra01,13.7,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,10.0,Rashad Vaughn,,MIL,True,False
+copelch01,,,,,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,MIL,True,False
+ennisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,MIL,True,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Not With Team,MIL,True,False
+obryajo01,,,,,,,,,,,,,,,,,,,,,Johnny O'Bryant,Did Not Play,MIL,True,False

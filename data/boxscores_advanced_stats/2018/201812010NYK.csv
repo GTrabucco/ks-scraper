@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+antetgi01,41.833333333333336,0.686,0.588,0.059,0.941,8.4,43.1,26.2,26.6,3.4,4.1,20.0,30.8,125.0,112.0,8.8,Giannis Antetokounmpo,,MIL,False,True
+brogdma01,36.766666666666666,0.917,0.917,0.417,0.0,6.4,12.3,9.4,17.5,1.3,0.0,14.3,16.3,156.0,124.0,5.9,Malcolm Brogdon,,MIL,False,True
+bledser01,36.63333333333333,0.715,0.694,0.333,0.111,9.6,6.2,7.9,33.7,2.6,0.0,9.6,24.4,144.0,122.0,8.4,Eric Bledsoe,,MIL,False,True
+lopezbr01,28.066666666666666,0.547,0.591,0.636,0.182,8.4,28.1,18.5,5.2,1.7,6.1,20.2,22.7,92.0,115.0,-4.5,Brook Lopez,,MIL,False,True
+middlkh01,18.516666666666666,0.421,0.409,0.545,0.182,0.0,24.4,12.4,15.3,2.5,0.0,7.8,29.8,89.0,120.0,-6.0,Khris Middleton,,MIL,False,True
+connapa01,36.483333333333334,0.17,0.0,0.6,0.4,0.0,6.2,3.2,15.8,1.3,0.0,0.0,6.9,89.0,124.0,-7.2,Pat Connaughton,,MIL,False,False
+brownst02,21.533333333333335,0.901,0.875,0.25,0.25,0.0,15.7,8.0,6.4,2.2,0.0,0.0,8.8,183.0,121.0,2.5,Sterling Brown,,MIL,False,False
+snellto01,19.4,0.421,0.364,0.818,0.182,0.0,5.8,3.0,0.0,0.0,0.0,0.0,26.3,90.0,127.0,-13.5,Tony Snell,,MIL,False,False
+makerth01,12.883333333333333,0.945,1.0,1.0,1.333,0.0,17.5,8.9,0.0,3.7,0.0,0.0,15.8,185.0,117.0,9.7,Thon Maker,,MIL,False,False
+divindo01,12.883333333333333,0.0,0.0,0.5,0.0,0.0,0.0,0.0,8.9,0.0,0.0,50.0,13.3,18.0,128.0,-21.4,Donte DiVincenzo,,MIL,False,False
+dellama01,,,,,,,,,,,,,,,,,Matthew Dellavedova,Did Not Play,MIL,False,False
+morrija01,,,,,,,,,,,,,,,,,Jaylen Morris,Did Not Play,MIL,False,False
+woodch01,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,MIL,False,False
+hardati02,47.083333333333336,0.442,0.432,0.364,0.182,0.0,10.0,4.9,21.4,0.0,0.0,11.2,24.8,94.0,123.0,-7.1,Tim Hardaway,,NYK,True,True
+mudiaem01,35.75,0.693,0.667,0.278,0.278,0.0,9.9,4.8,28.7,1.3,0.0,12.9,28.4,127.0,120.0,5.9,Emmanuel Mudiay,,NYK,True,True
+vonleno01,35.06666666666667,1.25,1.25,0.5,0.0,0.0,16.8,8.2,3.6,1.3,0.0,25.0,10.0,161.0,118.0,3.5,Noah Vonleh,,NYK,True,True
+kanteen01,26.9,0.621,0.667,0.0,0.167,4.2,26.3,15.0,9.1,0.0,0.0,13.4,12.1,119.0,120.0,-2.7,Enes Kanter,,NYK,True,True
+hezonma01,12.133333333333333,0.5,0.5,0.0,0.0,0.0,19.4,9.5,18.7,3.9,0.0,50.0,14.4,73.0,112.0,-3.8,Mario Hezonja,,NYK,True,True
+knoxke01,36.81666666666667,0.586,0.575,0.6,0.25,0.0,12.8,6.3,15.1,1.3,2.8,8.3,28.7,110.0,118.0,2.0,Kevin Knox,,NYK,True,False
+dotsoda01,33.36666666666667,1.063,1.056,0.556,0.222,3.4,14.1,8.6,4.0,1.4,0.0,0.0,12.9,203.0,119.0,12.5,Damyean Dotson,,NYK,True,False
+robinmi01,19.7,0.676,0.75,0.0,0.25,22.9,6.0,14.6,0.0,0.0,5.2,18.4,12.1,135.0,120.0,-7.4,Mitchell Robinson,,NYK,True,False
+trieral01,17.233333333333334,0.483,0.375,0.125,0.375,0.0,41.0,20.1,36.8,0.0,0.0,17.7,28.7,102.0,117.0,-1.6,Allonzo Trier,,NYK,True,False
+burketr01,0.9333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.8,0.0,126.0,-52.4,Trey Burke,,NYK,True,False
+kornelu01,0.016666666666666666,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,126.0,-6.2,Luke Kornet,,NYK,True,False
+leeco01,,,,,,,,,,,,,,,,,Courtney Lee,Did Not Play,NYK,True,False
+ntilila01,,,,,,,,,,,,,,,,,Frank Ntilikina,Did Not Play,NYK,True,False

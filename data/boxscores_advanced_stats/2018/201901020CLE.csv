@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+richajo01,31.95,0.711,0.688,0.438,0.125,0.0,8.3,4.4,24.6,0.0,0.0,10.6,26.6,143.0,110.0,4.6,Josh Richardson,,MIA,False,True
+winslju01,27.133333333333333,0.392,0.273,0.0,0.364,5.4,14.7,10.3,32.0,2.0,0.0,7.3,22.9,121.0,105.0,-2.1,Justise Winslow,,MIA,False,True
+whiteha01,23.433333333333334,0.5,0.5,0.0,0.0,31.0,39.8,35.6,0.0,0.0,4.7,20.0,19.2,106.0,103.0,-8.3,Hassan Whiteside,,MIA,False,True
+mcgruro01,20.5,0.625,0.625,0.5,0.0,21.3,6.5,13.6,0.0,0.0,5.3,11.1,19.8,128.0,104.0,-0.3,Rodney McGruder,,MIA,False,True
+johnsja01,16.516666666666666,0.688,0.688,0.5,0.0,0.0,8.1,4.2,18.0,3.3,0.0,0.0,21.8,159.0,102.0,9.3,James Johnson,,MIA,False,True
+jonesde02,31.483333333333334,0.697,0.688,0.5,0.375,13.9,16.9,15.5,8.0,3.4,3.5,9.7,14.8,149.0,98.0,7.0,Derrick Jones,,MIA,False,False
+olynyke01,27.5,1.289,1.333,0.667,0.667,5.3,24.2,15.2,4.5,0.0,0.0,0.0,6.4,255.0,109.0,5.4,Kelly Olynyk,,MIA,False,False
+johnsty01,26.216666666666665,0.68,0.65,0.3,0.4,0.0,20.3,10.6,22.2,6.2,0.0,20.3,25.4,122.0,94.0,5.4,Tyler Johnson,,MIA,False,False
+adebaba01,24.566666666666666,0.8,0.8,0.2,0.0,0.0,27.1,14.2,27.0,2.2,0.0,37.5,14.7,115.0,103.0,2.1,Bam Adebayo,,MIA,False,False
+waitedi01,10.7,0.354,0.389,0.667,0.222,0.0,24.9,13.0,44.1,0.0,0.0,0.0,41.6,103.0,109.0,-9.3,Dion Waiters,,MIA,False,False
+wadedw01,,,,,,,,,,,,,,,,,Dwyane Wade,Not With Team,MIA,False,False
+ellinwa01,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,MIA,False,False
+hasleud01,,,,,,,,,,,,,,,,,Udonis Haslem,Did Not Play,MIA,False,False
+sextoco01,30.016666666666666,0.4,0.4,0.267,0.0,0.0,19.4,9.3,24.6,0.0,0.0,6.3,27.6,82.0,135.0,-12.1,Collin Sexton,,CLE,True,True
+osmande01,29.35,0.615,0.5,0.833,0.5,0.0,14.9,7.1,16.0,0.0,0.0,12.0,14.7,116.0,137.0,-5.0,Cedi Osman,,CLE,True,True
+burksal01,27.4,0.643,0.643,0.286,0.0,0.0,15.9,7.6,0.0,0.0,0.0,0.0,13.2,114.0,136.0,-8.0,Alec Burks,,CLE,True,True
+hoodro01,26.366666666666667,0.929,0.929,0.571,0.0,0.0,11.0,5.3,7.3,4.1,3.3,12.5,15.7,139.0,127.0,7.9,Rodney Hood,,CLE,True,True
+thomptr01,23.433333333333334,0.601,0.556,0.0,0.667,5.7,6.2,5.9,8.6,4.6,0.0,7.9,27.9,113.0,129.0,-2.1,Tristan Thompson,,CLE,True,True
+clarkjo01,24.683333333333334,0.611,0.611,0.889,0.0,0.0,0.0,0.0,37.1,0.0,3.5,18.2,23.1,106.0,140.0,-0.8,Jordan Clarkson,,CLE,True,False
+nancela02,21.916666666666668,0.6,0.6,0.0,0.0,6.1,26.5,15.9,47.9,7.4,4.0,37.5,18.9,105.0,113.0,5.5,Larry Nance,,CLE,True,False
+mccawpa01,18.016666666666666,0.5,0.5,0.5,0.0,0.0,0.0,0.0,8.5,3.0,0.0,0.0,5.7,112.0,135.0,-4.7,Patrick McCaw,,CLE,True,False
+dellama01,17.983333333333334,0.438,0.438,0.375,0.0,0.0,0.0,0.0,10.3,0.0,0.0,11.1,25.9,75.0,142.0,-14.3,Matthew Dellavedova,,CLE,True,False
+jonesja04,14.883333333333333,0.666,0.5,0.6,0.8,0.0,9.8,4.7,11.7,0.0,0.0,12.9,27.0,118.0,138.0,-3.8,Jalen Jones,,CLE,True,False
+blossja01,3.3,,,,,0.0,88.2,42.2,0.0,0.0,0.0,100.0,15.7,0.0,112.0,-20.7,Jaron Blossomgame,,CLE,True,False
+fryech01,2.65,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.1,0.0,142.0,-45.4,Channing Frye,,CLE,True,False

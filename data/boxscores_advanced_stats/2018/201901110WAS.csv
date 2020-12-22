@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+middlkh01,36.63333333333333,0.623,0.559,0.529,0.412,0.0,26.9,12.2,13.3,1.3,0.0,13.0,27.1,112.0,115.0,0.6,Khris Middleton,,MIL,False,True
+lopezbr01,31.366666666666667,0.722,0.722,0.667,0.0,3.3,7.8,5.3,14.2,0.0,15.6,10.0,13.7,134.0,108.0,7.9,Brook Lopez,,MIL,False,True
+brogdma01,30.533333333333335,0.697,0.611,0.222,0.444,3.3,20.2,11.0,39.1,0.0,3.2,27.1,20.8,120.0,117.0,3.6,Malcolm Brogdon,,MIL,False,True
+bledser01,27.766666666666666,0.395,0.381,0.429,0.19,11.0,22.2,16.1,55.8,5.2,0.0,4.2,36.8,103.0,107.0,7.7,Eric Bledsoe,,MIL,False,True
+ilyaser01,26.083333333333332,0.75,0.75,0.0,0.0,7.8,14.2,10.7,12.7,3.7,0.0,0.0,13.2,159.0,111.0,5.8,Ersan İlyasova,,MIL,False,True
+brownst02,26.683333333333334,0.635,0.643,0.429,0.286,11.5,18.5,14.6,5.5,0.0,0.0,20.2,15.9,110.0,120.0,-3.8,Sterling Brown,,MIL,False,False
+snellto01,20.516666666666666,0.375,0.375,0.75,0.0,0.0,12.0,5.4,0.0,0.0,0.0,11.1,18.9,67.0,120.0,-13.6,Tony Snell,,MIL,False,False
+wilsodj01,20.15,0.5,0.5,0.8,0.0,0.0,18.3,8.3,0.0,4.8,0.0,16.7,12.8,79.0,108.0,-6.4,D.J. Wilson,,MIL,False,False
+hillge01,14.916666666666666,0.0,0.0,0.25,0.0,0.0,8.3,3.7,0.0,0.0,0.0,33.3,17.3,0.0,121.0,-28.2,George Hill,,MIL,False,False
+makerth01,5.35,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,200.0,123.0,-0.5,Thon Maker,,MIL,False,False
+smithja02,,,,,,,,,,,,,,,,,Jason Smith,Did Not Play,MIL,False,False
+woodch01,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,MIL,False,False
+connapa01,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,MIL,False,False
+arizatr01,40.13333333333333,0.714,0.714,0.857,0.0,0.0,7.6,4.2,11.3,2.4,0.0,6.7,16.8,128.0,109.0,3.4,Trevor Ariza,,WAS,True,True
+bealbr01,39.416666666666664,0.664,0.595,0.19,0.333,6.2,7.8,7.1,32.0,3.7,2.5,7.7,29.7,135.0,104.0,10.9,Bradley Beal,,WAS,True,True
+greenje02,39.11666666666667,0.546,0.529,0.412,0.176,0.0,13.1,7.1,11.7,0.0,0.0,14.1,24.5,95.0,113.0,-5.7,Jeff Green,,WAS,True,True
+satorto01,35.3,0.827,0.8,0.3,0.2,10.5,26.0,19.0,44.6,2.7,0.0,35.5,21.5,127.0,103.0,6.9,Tomáš Satoranský,,WAS,True,True
+bryanth01,24.233333333333334,0.698,0.643,0.143,0.286,0.0,21.1,11.5,0.0,0.0,4.0,0.0,14.6,135.0,108.0,-0.4,Thomas Bryant,,WAS,True,True
+porteot01,30.233333333333334,0.457,0.429,0.571,0.571,4.1,27.0,16.6,12.9,3.2,0.0,31.3,19.0,78.0,102.0,-5.3,Otto Porter,,WAS,True,False
+dekkesa01,13.4,0.0,0.0,1.0,2.0,0.0,15.2,8.3,0.0,0.0,7.3,0.0,6.3,0.0,108.0,-8.6,Sam Dekker,,WAS,True,False
+randlch01,12.7,0.25,0.25,0.25,0.0,0.0,8.0,4.4,20.9,3.8,0.0,0.0,14.2,81.0,105.0,-6.7,Chasson Randle,,WAS,True,False
+mahinia01,5.466666666666667,1.0,1.0,0.0,0.0,0.0,18.7,10.2,0.0,0.0,0.0,0.0,8.2,200.0,111.0,-1.5,Ian Mahinmi,,WAS,True,False
+robinde01,,,,,,,,,,,,,,,,,Devin Robinson,Did Not Play,WAS,True,False
+mcraejo01,,,,,,,,,,,,,,,,,Jordan McRae,Did Not Play,WAS,True,False
+browntr01,,,,,,,,,,,,,,,,,Troy Brown,Did Not Play,WAS,True,False

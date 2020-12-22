@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+drumman01,36.733333333333334,9.0,19.0,0.474,0.0,0.0,,2.0,11.0,0.182,10.0,8.0,18.0,0.0,3.0,1.0,3.0,1.0,20.0,3.0,Andre Drummond,,DET,False,True
+morrima03,35.43333333333333,3.0,10.0,0.3,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,3.0,2.0,3.0,0.0,2.0,3.0,7.0,-7.0,Marcus Morris,,DET,False,True
+caldwke01,33.93333333333333,6.0,17.0,0.353,2.0,5.0,0.4,7.0,10.0,0.7,3.0,4.0,7.0,1.0,1.0,0.0,0.0,0.0,21.0,0.0,Kentavious Caldwell-Pope,,DET,False,True
+jacksre01,30.316666666666666,4.0,20.0,0.2,0.0,4.0,0.0,0.0,0.0,,2.0,4.0,6.0,9.0,1.0,0.0,3.0,4.0,8.0,-3.0,Reggie Jackson,,DET,False,True
+ilyaser01,26.05,4.0,9.0,0.444,0.0,1.0,0.0,0.0,0.0,,2.0,3.0,5.0,0.0,1.0,0.0,1.0,2.0,8.0,6.0,Ersan İlyasova,,DET,False,True
+johnsst04,26.633333333333333,4.0,10.0,0.4,2.0,3.0,0.667,0.0,0.0,,0.0,5.0,5.0,1.0,1.0,0.0,1.0,3.0,10.0,-1.0,Stanley Johnson,,DET,False,False
+tollian01,21.95,0.0,6.0,0.0,0.0,5.0,0.0,0.0,0.0,,1.0,4.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,-10.0,Anthony Tolliver,,DET,False,False
+blakest01,17.683333333333334,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,4.0,0.0,0.0,2.0,1.0,7.0,-1.0,Steve Blake,,DET,False,False
+baynear01,11.266666666666667,1.0,5.0,0.2,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,-7.0,Aron Baynes,,DET,False,False
+anthojo01,,,,,,,,,,,,,,,,,,,,,Joel Anthony,Did Not Play,DET,False,False
+bullore01,,,,,,,,,,,,,,,,,,,,,Reggie Bullock,Did Not Play,DET,False,False
+dinwisp01,,,,,,,,,,,,,,,,,,,,,Spencer Dinwiddie,Did Not Play,DET,False,False
+hillida01,,,,,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,False,False
+johnsjo02,38.75,4.0,10.0,0.4,1.0,4.0,0.25,4.0,4.0,1.0,0.0,5.0,5.0,1.0,0.0,0.0,3.0,1.0,13.0,10.0,Joe Johnson,,BRK,True,True
+lopezbr01,35.56666666666667,6.0,18.0,0.333,0.0,0.0,,3.0,5.0,0.6,2.0,7.0,9.0,5.0,4.0,6.0,3.0,6.0,15.0,-4.0,Brook Lopez,,BRK,True,True
+youngth01,31.016666666666666,9.0,12.0,0.75,0.0,0.0,,1.0,2.0,0.5,1.0,9.0,10.0,3.0,1.0,1.0,2.0,3.0,19.0,3.0,Thaddeus Young,,BRK,True,True
+jackja01,26.7,4.0,9.0,0.444,1.0,2.0,0.5,2.0,2.0,1.0,0.0,5.0,5.0,4.0,1.0,0.0,5.0,2.0,11.0,0.0,Jarrett Jack,,BRK,True,True
+holliro01,21.333333333333332,0.0,4.0,0.0,0.0,0.0,,2.0,2.0,1.0,1.0,3.0,4.0,0.0,0.0,1.0,0.0,1.0,2.0,-11.0,Rondae Hollis-Jefferson,,BRK,True,True
+ellinwa01,23.533333333333335,5.0,7.0,0.714,1.0,1.0,1.0,1.0,1.0,1.0,0.0,6.0,6.0,0.0,0.0,1.0,3.0,0.0,12.0,13.0,Wayne Ellington,,BRK,True,False
+larkish01,21.383333333333333,4.0,10.0,0.4,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,9.0,4.0,Shane Larkin,,BRK,True,False
+bogdabo02,21.066666666666666,2.0,6.0,0.333,0.0,2.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,Bojan Bogdanović,,BRK,True,False
+robinth01,12.433333333333334,1.0,4.0,0.25,0.0,0.0,,0.0,0.0,,3.0,4.0,7.0,0.0,1.0,2.0,2.0,1.0,2.0,8.0,Thomas Robinson,,BRK,True,False
+karasse01,5.7,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,Sergey Karasev,,BRK,True,False
+bargnan01,2.5166666666666666,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,Andrea Bargnani,,BRK,True,False
+brownma02,,,,,,,,,,,,,,,,,,,,,Markel Brown,Did Not Play,BRK,True,False
+sloando01,,,,,,,,,,,,,,,,,,,,,Donald Sloan,Did Not Play,BRK,True,False

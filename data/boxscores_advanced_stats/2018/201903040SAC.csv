@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+vonleno01,33.5,0.507,0.5,0.0,0.25,9.1,32.6,20.5,12.9,0.0,0.0,25.3,14.9,97.0,115.0,-4.4,Noah Vonleh,,NYK,False,True
+dotsoda01,30.416666666666668,0.506,0.45,0.5,0.2,0.0,14.3,6.9,14.5,0.0,0.0,15.5,17.8,98.0,117.0,-5.9,Damyean Dotson,,NYK,False,True
+smithde03,28.533333333333335,0.529,0.529,0.235,0.0,7.2,3.8,5.5,32.9,4.9,6.2,15.0,29.4,105.0,103.0,7.8,Dennis Smith,,NYK,False,True
+kornelu01,25.95,0.509,0.5,1.0,0.333,0.0,12.6,6.1,0.0,0.0,3.4,22.5,14.4,78.0,115.0,-8.3,Luke Kornet,,NYK,False,True
+knoxke01,21.333333333333332,0.799,0.75,0.167,0.333,4.8,10.2,7.4,0.0,4.4,0.0,0.0,13.5,166.0,108.0,7.2,Kevin Knox,,NYK,False,True
+trieral01,30.2,0.642,0.594,0.25,0.938,3.4,25.3,14.0,0.0,3.1,0.0,0.0,31.4,135.0,109.0,9.6,Allonzo Trier,,NYK,False,False
+mudiaem01,19.466666666666665,0.405,0.389,0.444,0.222,0.0,11.2,5.4,39.0,0.0,0.0,23.3,27.8,82.0,118.0,-9.7,Emmanuel Mudiay,,NYK,False,False
+robinmi01,18.6,0.82,1.0,0.0,0.5,11.0,29.3,19.9,0.0,0.0,9.6,45.0,10.0,95.0,107.0,-7.7,Mitchell Robinson,,NYK,False,False
+ellenhe01,16.766666666666666,0.5,0.5,0.667,0.0,6.1,26.0,15.7,8.6,2.8,0.0,14.3,17.5,99.0,110.0,0.1,Henry Ellenson,,NYK,False,False
+thomala01,15.233333333333333,0.425,0.4,0.2,0.4,0.0,0.0,0.0,0.0,0.0,0.0,14.5,19.0,75.0,120.0,-12.5,Lance Thomas,,NYK,False,False
+jenkijo01,,,,,,,,,,,,,,,,,John Jenkins,Did Not Play,NYK,False,False
+barneha02,36.95,0.703,0.654,0.462,0.462,0.0,27.6,14.3,4.3,0.0,0.0,0.0,18.4,137.0,108.0,2.3,Harrison Barnes,,SAC,True,True
+bogdabo01,36.5,0.481,0.455,0.545,0.091,0.0,2.8,1.4,11.7,2.6,2.3,25.9,18.4,75.0,106.0,-7.7,Bogdan Bogdanović,,SAC,True,True
+hieldbu01,34.56666666666667,0.664,0.583,0.444,0.389,6.3,11.8,9.2,36.7,2.7,2.5,8.7,29.0,131.0,104.0,10.8,Buddy Hield,,SAC,True,True
+foxde01,32.68333333333333,0.515,0.458,0.167,0.667,0.0,12.5,6.5,13.9,5.7,0.0,11.4,23.3,97.0,98.0,-2.4,De'Aaron Fox,,SAC,True,True
+caulewi01,25.85,0.441,0.375,0.0,0.625,4.2,23.7,14.3,27.8,3.6,0.0,0.0,17.1,114.0,101.0,2.9,Willie Cauley-Stein,,SAC,True,True
+bjeline01,23.8,0.571,0.571,0.714,0.0,9.2,12.9,11.1,30.6,0.0,0.0,12.5,14.6,124.0,111.0,1.6,Nemanja Bjelica,,SAC,True,False
+gilesha01,22.15,0.79,0.778,0.0,0.444,4.9,27.7,16.7,18.2,0.0,0.0,27.1,28.9,109.0,107.0,-1.1,Harry Giles,,SAC,True,False
+ferreyo01,14.366666666666667,0.333,0.333,0.333,0.0,0.0,0.0,0.0,9.4,0.0,0.0,0.0,9.1,81.0,114.0,-13.8,Yogi Ferrell,,SAC,True,False
+breweco01,13.133333333333333,0.347,0.0,0.5,1.0,0.0,23.3,12.0,9.4,3.6,6.5,0.0,9.5,92.0,96.0,0.0,Corey Brewer,,SAC,True,False
+burksal01,,,,,,,,,,,,,,,,,Alec Burks,Did Not Play,SAC,True,False
+masonfr01,,,,,,,,,,,,,,,,,Frank Mason,Did Not Play,SAC,True,False
+swanica01,,,,,,,,,,,,,,,,,Caleb Swanigan,Did Not Play,SAC,True,False
+koufoko01,,,,,,,,,,,,,,,,,Kosta Koufos,Did Not Play,SAC,True,False

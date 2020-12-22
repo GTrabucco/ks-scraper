@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+antetgi01,34.666666666666664,0.495,0.432,0.227,0.545,11.1,38.0,24.7,19.8,1.3,0.0,12.8,36.9,100.0,107.0,3.2,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,34.166666666666664,0.656,0.633,0.467,0.267,0.0,11.0,5.6,30.4,1.3,0.0,10.7,22.5,126.0,115.0,7.3,Khris Middleton,,MIL,False,True
+brogdma01,32.583333333333336,0.571,0.536,0.357,0.286,5.9,11.6,8.8,20.5,0.0,0.0,0.0,19.8,130.0,117.0,1.3,Malcolm Brogdon,,MIL,False,True
+bledser01,31.366666666666667,0.393,0.393,0.286,0.0,3.1,15.0,9.1,14.6,1.5,0.0,22.2,23.5,71.0,114.0,-8.8,Eric Bledsoe,,MIL,False,True
+lopezbr01,30.466666666666665,1.142,1.214,0.857,0.429,0.0,12.4,6.2,10.7,1.5,5.1,10.7,12.5,187.0,110.0,16.3,Brook Lopez,,MIL,False,True
+hillge01,21.25,0.333,0.333,0.667,0.0,0.0,8.9,4.5,12.3,2.2,3.6,0.0,5.8,97.0,111.0,-0.1,George Hill,,MIL,False,False
+brownst02,20.366666666666667,0.357,0.357,0.286,0.0,4.7,9.2,7.0,0.0,2.2,0.0,12.5,16.1,70.0,114.0,-6.9,Sterling Brown,,MIL,False,False
+wilsodj01,16.033333333333335,0.0,0.0,0.5,1.0,0.0,17.6,8.9,7.7,0.0,4.8,25.8,9.9,16.0,113.0,-9.5,D.J. Wilson,,MIL,False,False
+snellto01,14.283333333333333,0.633,0.5,0.6,0.6,6.7,13.2,10.0,0.0,0.0,5.4,13.7,21.0,116.0,112.0,0.2,Tony Snell,,MIL,False,False
+ilyaser01,4.816666666666666,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,122.0,-21.0,Ersan İlyasova,,MIL,False,False
+makerth01,,,,,,,,,,,,,,,,,Thon Maker,Did Not Play,MIL,False,False
+smithja02,,,,,,,,,,,,,,,,,Jason Smith,Did Not Play,MIL,False,False
+connapa01,,,,,,,,,,,,,,,,,Pat Connaughton,Did Not Play,MIL,False,False
+georgpa01,37.65,0.761,0.762,0.571,0.286,5.0,28.0,16.4,13.3,3.6,0.0,17.5,31.5,120.0,100.0,14.0,Paul George,,OKC,True,True
+westbru01,36.083333333333336,0.311,0.3,0.25,0.1,2.6,31.9,17.1,39.2,1.3,2.5,16.1,28.5,81.0,103.0,-4.6,Russell Westbrook,,OKC,True,True
+grantje01,33.45,0.592,0.55,0.3,0.8,0.0,5.7,2.8,15.6,0.0,13.3,0.0,16.7,132.0,104.0,7.0,Jerami Grant,,OKC,True,True
+adamsst01,30.9,0.643,0.7,0.0,0.2,12.2,12.4,12.3,9.4,1.5,2.9,8.4,15.9,129.0,107.0,3.5,Steven Adams,,OKC,True,True
+fergute01,27.2,0.689,0.75,0.5,0.2,3.5,7.1,5.2,5.3,0.0,3.3,8.4,18.1,120.0,111.0,1.7,Terrance Ferguson,,OKC,True,True
+schrode01,27.683333333333334,0.53,0.455,0.364,0.455,0.0,6.9,3.4,32.7,0.0,0.0,0.0,19.7,131.0,114.0,3.1,Dennis Schröder,,OKC,True,False
+noelne01,17.1,0.429,0.429,0.0,0.0,11.0,22.5,16.7,0.0,0.0,10.4,0.0,16.9,102.0,102.0,-6.1,Nerlens Noel,,OKC,True,False
+naderab01,15.383333333333333,0.5,0.5,0.5,0.0,0.0,12.5,6.2,0.0,0.0,0.0,0.0,10.8,99.0,112.0,-7.6,Abdel Nader,,OKC,True,False
+pattepa01,14.55,0.0,0.0,1.0,0.0,6.5,13.2,9.8,7.5,0.0,0.0,0.0,2.8,101.0,113.0,-4.0,Patrick Patterson,,OKC,True,False
+feltora01,,,,,,,,,,,,,,,,,Raymond Felton,Did Not Play,OKC,True,False
+abrinal01,,,,,,,,,,,,,,,,,Álex Abrines,Did Not Play,OKC,True,False
+luwawti01,,,,,,,,,,,,,,,,,Timothé Luwawu-Cabarrot,Did Not Play,OKC,True,False
+diallha01,,,,,,,,,,,,,,,,,Hamidou Diallo,Did Not Play,OKC,True,False

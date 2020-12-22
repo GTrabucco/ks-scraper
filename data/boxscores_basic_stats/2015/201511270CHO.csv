@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+jamesle01,38.21666666666667,8.0,20.0,0.4,2.0,5.0,0.4,7.0,9.0,0.778,2.0,11.0,13.0,5.0,0.0,0.0,3.0,2.0,25.0,1.0,LeBron James,,CLE,False,True
+smithjr01,31.05,4.0,10.0,0.4,1.0,5.0,0.2,2.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,4.0,11.0,2.0,J.R. Smith,,CLE,False,True
+loveke01,30.3,7.0,12.0,0.583,2.0,3.0,0.667,2.0,2.0,1.0,4.0,12.0,16.0,1.0,0.0,0.0,2.0,0.0,18.0,-7.0,Kevin Love,,CLE,False,True
+willima01,20.8,3.0,4.0,0.75,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,3.0,0.0,1.0,3.0,4.0,6.0,-3.0,Mo Williams,,CLE,False,True
+mozgoti01,18.416666666666668,3.0,9.0,0.333,0.0,0.0,,2.0,2.0,1.0,2.0,1.0,3.0,0.0,1.0,0.0,3.0,1.0,8.0,0.0,Timofey Mozgov,,CLE,False,True
+dellama01,33.483333333333334,2.0,7.0,0.286,1.0,4.0,0.25,2.0,2.0,1.0,0.0,1.0,1.0,5.0,0.0,1.0,0.0,3.0,7.0,11.0,Matthew Dellavedova,,CLE,False,False
+jefferi01,30.2,4.0,8.0,0.5,2.0,5.0,0.4,3.0,6.0,0.5,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,13.0,14.0,Richard Jefferson,,CLE,False,False
+thomptr01,29.583333333333332,3.0,7.0,0.429,0.0,0.0,,1.0,2.0,0.5,3.0,9.0,12.0,1.0,1.0,0.0,3.0,5.0,7.0,5.0,Tristan Thompson,,CLE,False,False
+jonesja02,7.816666666666666,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,James Jones,,CLE,False,False
+cunnija01,0.13333333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Jared Cunningham,,CLE,False,False
+harrijo01,,,,,,,,,,,,,,,,,,,,,Joe Harris,Did Not Play,CLE,False,False
+varejan01,,,,,,,,,,,,,,,,,,,,,Anderson Varejão,Did Not Play,CLE,False,False
+kaunsa01,,,,,,,,,,,,,,,,,,,,,Sasha Kaun,Did Not Play,CLE,False,False
+batumni01,38.666666666666664,6.0,13.0,0.462,1.0,7.0,0.143,4.0,5.0,0.8,2.0,6.0,8.0,4.0,1.0,0.0,3.0,2.0,17.0,-7.0,Nicolas Batum,,CHO,True,True
+walkeke02,34.78333333333333,6.0,16.0,0.375,1.0,4.0,0.25,5.0,5.0,1.0,1.0,3.0,4.0,4.0,3.0,2.0,3.0,0.0,18.0,-4.0,Kemba Walker,,CHO,True,True
+willima02,33.38333333333333,3.0,8.0,0.375,2.0,6.0,0.333,2.0,2.0,1.0,1.0,1.0,2.0,3.0,0.0,2.0,0.0,5.0,10.0,8.0,Marvin Williams,,CHO,True,True
+jeffeal01,30.933333333333334,5.0,12.0,0.417,0.0,0.0,,1.0,2.0,0.5,1.0,5.0,6.0,1.0,1.0,1.0,0.0,1.0,11.0,0.0,Al Jefferson,,CHO,True,True
+hairspj02,19.466666666666665,1.0,5.0,0.2,0.0,3.0,0.0,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,2.0,1.0,P.J. Hairston,,CHO,True,True
+lambje01,23.766666666666666,5.0,12.0,0.417,0.0,2.0,0.0,1.0,3.0,0.333,1.0,7.0,8.0,0.0,0.0,1.0,1.0,2.0,11.0,-8.0,Jeremy Lamb,,CHO,True,False
+linje01,19.883333333333333,3.0,6.0,0.5,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,4.0,0.0,0.0,2.0,2.0,7.0,0.0,Jeremy Lin,,CHO,True,False
+kaminfr01,18.633333333333333,1.0,4.0,0.25,0.0,1.0,0.0,1.0,2.0,0.5,1.0,1.0,2.0,1.0,0.0,0.0,1.0,3.0,3.0,-9.0,Frank Kaminsky,,CHO,True,False
+zelleco01,15.083333333333334,1.0,2.0,0.5,0.0,0.0,,5.0,6.0,0.833,0.0,2.0,2.0,1.0,1.0,1.0,1.0,4.0,7.0,-7.0,Cody Zeller,,CHO,True,False
+hawessp01,5.4,2.0,2.0,1.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,4.0,1.0,Spencer Hawes,,CHO,True,False
+danietr01,,,,,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,CHO,True,False
+hansbty01,,,,,,,,,,,,,,,,,,,,,Tyler Hansbrough,Did Not Play,CHO,True,False
+roberbr01,,,,,,,,,,,,,,,,,,,,,Brian Roberts,Did Not Play,CHO,True,False

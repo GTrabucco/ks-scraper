@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+georgpa01,34.516666666666666,0.531,0.452,0.476,0.476,3.6,13.0,7.8,5.4,4.1,0.0,13.6,37.4,94.0,116.0,-4.0,Paul George,,IND,False,True
+ellismo01,32.21666666666667,0.375,0.375,0.75,0.0,0.0,0.0,0.0,25.2,0.0,0.0,42.9,9.6,78.0,126.0,-11.9,Monta Ellis,,IND,False,True
+hillge01,32.13333333333333,1.007,1.0,0.25,0.125,0.0,14.0,6.3,11.3,4.4,0.0,19.2,14.3,149.0,115.0,6.1,George Hill,,IND,False,True
+turnemy01,28.05,0.381,0.286,0.0,0.286,4.4,21.4,12.1,20.4,1.7,2.6,20.2,15.5,87.0,118.0,-4.5,Myles Turner,,IND,False,True
+mahinia01,26.266666666666666,0.856,0.857,0.0,1.143,0.0,28.6,12.9,14.0,3.6,2.8,0.0,17.6,177.0,113.0,9.4,Ian Mahinmi,,IND,False,True
+hilljo01,21.35,0.761,0.714,0.0,0.286,23.1,14.1,19.0,26.2,4.4,3.4,20.2,20.3,139.0,113.0,9.3,Jordan Hill,,IND,False,False
+allenla01,18.933333333333334,0.41,0.25,0.0,0.5,0.0,23.8,10.7,7.4,0.0,0.0,0.0,11.3,97.0,124.0,-7.3,Lavoy Allen,,IND,False,False
+stuckro01,17.0,0.387,0.25,0.5,0.667,0.0,0.0,0.0,16.5,2.8,0.0,27.9,27.8,67.0,121.0,-16.3,Rodney Stuckey,,IND,False,False
+lawsoty01,14.633333333333333,0.5,0.5,0.2,0.0,0.0,41.0,18.5,21.6,3.2,0.0,0.0,15.0,113.0,115.0,-0.7,Ty Lawson,,IND,False,False
+milescj01,14.35,0.711,0.688,0.625,0.125,0.0,10.5,4.7,14.2,6.5,5.1,26.2,35.0,93.0,107.0,4.7,C.J. Miles,,IND,False,False
+hillso01,0.5333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,127.0,-8.0,Solomon Hill,,IND,False,False
+robingl02,,,,,,,,,,,,,,,,,Glenn Robinson,Did Not Play,IND,False,False
+youngjo01,,,,,,,,,,,,,,,,,Joe Young,Did Not Play,IND,False,False
+lopezbr01,38.1,0.529,0.438,0.0,0.813,3.9,25.8,16.0,15.2,2.5,0.0,15.6,28.7,101.0,107.0,-2.5,Brook Lopez,,BRK,True,True
+youngth01,29.8,0.5,0.5,0.0,0.0,5.0,8.3,6.8,9.1,1.6,3.0,11.1,12.8,103.0,109.0,-1.4,Thaddeus Young,,BRK,True,True
+bogdabo02,28.183333333333334,0.643,0.643,0.5,0.0,0.0,8.7,4.8,11.3,0.0,0.0,6.7,22.6,121.0,115.0,-0.4,Bojan Bogdanović,,BRK,True,True
+larkish01,26.766666666666666,0.81,0.667,0.167,1.0,0.0,4.6,2.5,25.7,5.3,0.0,25.8,18.5,132.0,104.0,5.6,Shane Larkin,,BRK,True,True
+karasse01,25.733333333333334,0.843,0.786,0.429,1.0,11.7,23.9,18.4,22.8,3.6,0.0,22.9,21.6,140.0,105.0,11.3,Sergey Karasev,,BRK,True,True
+kilpase01,23.166666666666668,0.709,0.667,0.0,0.222,6.5,15.9,11.7,7.0,0.0,0.0,28.8,25.5,100.0,114.0,-6.9,Sean Kilpatrick,,BRK,True,False
+sloando01,21.233333333333334,1.058,1.0,0.0,1.667,0.0,29.0,15.9,32.1,2.2,0.0,36.6,16.4,142.0,107.0,7.3,Donald Sloan,,BRK,True,False
+holliro01,16.083333333333332,0.773,0.667,0.0,0.667,9.3,15.3,12.6,8.3,2.9,0.0,20.5,12.9,135.0,107.0,2.4,Rondae Hollis-Jefferson,,BRK,True,False
+mcculch01,12.833333333333334,0.0,0.0,0.0,0.0,0.0,28.8,15.8,0.0,3.7,0.0,0.0,13.3,0.0,104.0,-13.7,Chris McCullough,,BRK,True,False
+brownma02,9.1,0.5,0.5,0.0,0.0,0.0,13.5,7.4,0.0,5.2,0.0,0.0,18.7,101.0,103.0,-1.9,Markel Brown,,BRK,True,False
+simshe01,9.0,0.727,0.667,0.0,0.333,16.7,13.7,15.0,0.0,5.2,0.0,0.0,16.3,157.0,102.0,5.9,Henry Sims,,BRK,True,False
+ellinwa01,,,,,,,,,,,,,,,,,Wayne Ellington,Did Not Play,BRK,True,False
+robinth01,,,,,,,,,,,,,,,,,Thomas Robinson,Did Not Play,BRK,True,False

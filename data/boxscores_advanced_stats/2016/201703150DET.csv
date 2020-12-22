@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+goberru01,35.88333333333333,0.732,0.833,0.0,0.833,10.8,17.8,14.7,22.8,0.0,7.3,32.8,16.5,113.0,89.0,6.2,Rudy Gobert,,UTA,False,True
+haywago01,33.85,0.682,0.647,0.412,0.176,7.7,22.1,15.6,36.6,1.6,0.0,17.9,32.0,117.0,93.0,11.3,Gordon Hayward,,UTA,False,True
+hillge01,30.75,0.599,0.542,0.333,0.417,0.0,13.9,7.6,17.6,0.0,0.0,12.3,25.5,109.0,98.0,-0.1,George Hill,,UTA,False,True
+johnsjo02,28.95,0.551,0.5,0.5,0.2,0.0,18.4,10.1,5.6,5.5,2.3,15.5,21.6,91.0,83.0,4.7,Joe Johnson,,UTA,False,True
+hoodro01,9.35,0.0,0.0,0.333,0.0,0.0,45.6,25.0,0.0,0.0,0.0,0.0,15.6,0.0,91.0,-17.2,Rodney Hood,,UTA,False,True
+inglejo01,27.166666666666668,1.0,1.0,0.833,0.0,0.0,11.8,6.5,24.4,2.0,0.0,14.3,12.5,156.0,94.0,11.8,Joe Ingles,,UTA,False,False
+exumda01,22.766666666666666,0.875,0.875,0.25,0.0,0.0,14.1,7.7,21.3,2.3,0.0,20.0,10.6,139.0,93.0,4.4,Dante Exum,,UTA,False,False
+diawbo01,19.05,0.438,0.438,0.25,0.0,6.8,5.6,6.1,26.6,0.0,0.0,0.0,20.4,108.0,100.0,0.7,Boris Diaw,,UTA,False,False
+burksal01,13.066666666666666,0.296,0.25,0.375,0.125,0.0,24.5,13.4,38.5,0.0,0.0,0.0,31.3,81.0,96.0,-5.3,Alec Burks,,UTA,False,False
+witheje01,12.116666666666667,0.0,0.0,0.0,0.0,0.0,8.8,4.8,0.0,0.0,0.0,50.0,8.0,0.0,99.0,-15.8,Jeff Withey,,UTA,False,False
+netora01,7.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.7,0.0,100.0,-24.9,Raul Neto,,UTA,False,False
+bolomjo01,,,,,,,,,,,,,,,,,Joel Bolomboy,Did Not Play,UTA,False,False
+lylestr01,,,,,,,,,,,,,,,,,Trey Lyles,Did Not Play,UTA,False,False
+morrima03,33.38333333333333,0.252,0.2,0.333,0.133,0.0,3.9,1.8,9.1,1.6,0.0,5.9,24.7,56.0,111.0,-10.5,Marcus Morris,,DET,True,True
+leuerjo01,29.616666666666667,0.438,0.438,0.125,0.0,3.6,17.5,9.9,5.2,0.0,3.3,11.1,14.8,87.0,110.0,-2.6,Jon Leuer,,DET,True,True
+caldwke01,29.166666666666668,0.388,0.417,0.25,0.167,0.0,4.4,2.0,0.0,1.8,0.0,7.2,23.2,73.0,110.0,-5.4,Kentavious Caldwell-Pope,,DET,True,True
+jacksre01,20.366666666666667,0.364,0.364,0.091,0.0,0.0,12.7,5.7,17.7,0.0,0.0,8.3,28.8,74.0,113.0,-6.5,Reggie Jackson,,DET,True,True
+drumman01,20.05,0.75,0.75,0.0,0.0,0.0,32.4,14.6,0.0,2.7,0.0,0.0,9.7,148.0,103.0,1.7,Andre Drummond,,DET,True,True
+harrito02,30.2,0.676,0.625,0.0,0.25,0.0,17.2,7.8,11.3,1.8,0.0,0.0,14.4,142.0,108.0,3.9,Tobias Harris,,DET,True,False
+smithis01,27.633333333333333,0.687,0.667,0.0,0.667,0.0,14.1,6.4,20.4,0.0,0.0,14.7,24.1,122.0,113.0,4.0,Ish Smith,,DET,True,False
+baynear01,23.183333333333334,0.545,0.545,0.0,0.0,27.6,33.6,30.3,17.6,0.0,4.2,8.3,25.3,119.0,106.0,7.0,Aron Baynes,,DET,True,False
+johnsst04,12.233333333333333,0.25,0.25,0.5,0.0,0.0,10.6,4.8,12.2,4.4,8.0,0.0,16.0,63.0,96.0,-1.7,Stanley Johnson,,DET,True,False
+bullore01,9.4,0.0,0.0,0.5,0.0,0.0,41.4,18.7,14.2,0.0,0.0,0.0,10.4,24.0,108.0,-8.1,Reggie Bullock,,DET,True,False
+marjabo01,4.766666666666667,0.5,0.5,0.0,0.0,22.4,27.2,24.6,0.0,11.2,20.6,0.0,20.5,117.0,68.0,20.7,Boban Marjanović,,DET,True,False
+hillida01,,,,,,,,,,,,,,,,,Darrun Hilliard,Did Not Play,DET,True,False
+udrihbe01,,,,,,,,,,,,,,,,,Beno Udrih,Did Not Play,DET,True,False

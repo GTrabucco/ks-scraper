@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+duranke01,38.46666666666667,0.466,0.438,0.292,0.167,2.8,22.7,12.6,31.7,2.7,3.8,7.2,33.1,101.0,100.0,8.8,Kevin Durant,,OKC,False,True
+westbru01,37.31666666666667,0.553,0.48,0.2,0.44,2.9,11.7,7.2,34.8,4.1,0.0,3.2,37.9,121.0,103.0,12.8,Russell Westbrook,,OKC,False,True
+ibakase01,35.733333333333334,0.612,0.615,0.154,0.154,6.0,18.3,12.1,4.6,2.9,0.0,6.7,19.1,119.0,104.0,3.8,Serge Ibaka,,OKC,False,True
+adamsst01,25.75,0.436,0.333,0.0,0.333,16.6,29.7,23.0,0.0,0.0,2.9,12.7,14.0,103.0,105.0,-5.2,Steven Adams,,OKC,False,True
+roberan03,15.333333333333334,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.3,0.0,0.0,3.0,200.0,108.0,1.2,Andre Roberson,,OKC,False,True
+waitedi01,34.61666666666667,0.643,0.643,0.429,0.0,0.0,6.3,3.1,12.1,0.0,0.0,22.2,11.9,104.0,113.0,-3.0,Dion Waiters,,OKC,False,False
+kanteen01,15.266666666666667,0.4,0.4,0.0,0.0,0.0,21.4,10.6,0.0,0.0,0.0,28.6,21.0,55.0,110.0,-14.4,Enes Kanter,,OKC,False,False
+augusdj01,13.6,0.205,0.0,0.0,0.5,0.0,0.0,0.0,8.8,0.0,5.4,29.1,11.6,45.0,110.0,-9.6,D.J. Augustin,,OKC,False,False
+singlky01,10.116666666666667,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.1,0.0,0.0,4.5,200.0,104.0,5.2,Kyle Singler,,OKC,False,False
+collini01,8.55,1.0,1.0,0.0,0.0,25.0,51.0,37.8,32.7,0.0,0.0,50.0,10.7,135.0,101.0,5.4,Nick Collison,,OKC,False,False
+morroan01,5.266666666666667,,,,,0.0,0.0,0.0,0.0,9.7,0.0,,0.0,0.0,94.0,1.9,Anthony Morrow,,OKC,False,False
+payneca01,,,,,,,,,,,,,,,,,Cameron Payne,Did Not Play,OKC,False,False
+novakst01,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,OKC,False,False
+griffbl01,36.333333333333336,0.343,0.333,0.048,0.095,0.0,20.6,10.4,20.8,0.0,0.0,4.4,28.5,81.0,109.0,-5.1,Blake Griffin,,LAC,True,True
+paulch01,35.96666666666667,0.739,0.684,0.316,0.316,3.0,11.9,7.5,50.7,2.8,0.0,8.5,29.7,148.0,105.0,21.9,Chris Paul,,LAC,True,True
+jordade01,33.7,0.84,1.0,0.0,1.333,6.5,25.3,16.0,0.0,0.0,2.1,17.4,7.7,140.0,106.0,1.1,DeAndre Jordan,,LAC,True,True
+mbahalu01,26.633333333333333,0.25,0.25,0.25,0.0,16.4,16.0,16.2,0.0,0.0,0.0,33.3,10.2,70.0,110.0,-7.2,Luc Mbah a Moute,,LAC,True,True
+redicjj01,25.483333333333334,0.536,0.536,0.5,0.0,0.0,16.7,8.5,12.7,0.0,0.0,12.5,28.4,97.0,110.0,0.9,J.J. Redick,,LAC,True,True
+crawfja01,24.266666666666666,0.4,0.4,0.2,0.0,4.5,0.0,2.2,0.0,0.0,0.0,0.0,18.6,89.0,114.0,-8.8,Jamal Crawford,,LAC,True,False
+stephla01,19.6,0.714,0.714,0.286,0.0,0.0,21.8,11.0,8.5,2.6,0.0,36.4,25.4,83.0,103.0,-3.2,Lance Stephenson,,LAC,True,False
+aldrico01,13.783333333333333,0.644,0.667,0.0,0.667,0.0,31.0,15.7,0.0,11.1,10.2,20.5,16.0,98.0,74.0,14.7,Cole Aldrich,,LAC,True,False
+johnswe01,12.2,0.25,0.25,0.5,0.0,8.9,0.0,4.4,10.6,0.0,0.0,0.0,14.8,80.0,114.0,-5.6,Wesley Johnson,,LAC,True,False
+prigipa01,12.033333333333333,0.5,0.5,0.5,0.0,9.1,0.0,4.5,21.6,4.3,0.0,0.0,7.5,142.0,106.0,7.9,Pablo Prigioni,,LAC,True,False
+riverau01,,,,,,,,,,,,,,,,,Austin Rivers,Did Not Play,LAC,True,False
+piercpa01,,,,,,,,,,,,,,,,,Paul Pierce,Did Not Play,LAC,True,False
+smithjo03,,,,,,,,,,,,,,,,,Josh Smith,Did Not Play,LAC,True,False

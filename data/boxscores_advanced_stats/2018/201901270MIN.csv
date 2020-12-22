@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mitchdo01,36.3,0.549,0.5,0.273,0.455,3.7,11.3,7.4,20.2,0.0,0.0,3.6,34.2,117.0,122.0,-2.5,Donovan Mitchell,,UTA,False,True
+inglejo01,35.71666666666667,0.609,0.545,0.545,0.273,0.0,7.7,3.8,20.5,2.8,0.0,24.5,20.7,105.0,115.0,-3.6,Joe Ingles,,UTA,False,True
+goberru01,32.083333333333336,0.799,0.875,0.0,0.75,8.3,8.5,8.4,16.8,3.1,10.9,15.8,17.8,143.0,106.0,7.8,Rudy Gobert,,UTA,False,True
+rubiori01,29.833333333333332,0.623,0.607,0.357,0.071,0.0,18.4,9.1,38.9,3.3,0.0,0.0,21.9,143.0,113.0,6.6,Ricky Rubio,,UTA,False,True
+favorde01,26.933333333333334,0.652,0.688,0.25,0.125,9.9,45.8,27.6,4.8,1.8,4.3,10.6,15.9,122.0,109.0,1.4,Derrick Favors,,UTA,False,True
+crowdja01,27.05,0.75,0.75,1.0,0.0,4.9,10.1,7.5,9.6,0.0,0.0,9.1,18.4,133.0,122.0,2.4,Jae Crowder,,UTA,False,False
+onealro01,20.516666666666666,0.25,0.25,0.75,0.0,0.0,20.1,9.9,5.4,0.0,5.7,0.0,8.8,67.0,116.0,-8.0,Royce O'Neale,,UTA,False,False
+korveky01,20.133333333333333,0.838,0.75,0.833,0.667,0.0,13.6,6.7,6.1,2.5,0.0,0.0,17.5,169.0,115.0,8.0,Kyle Korver,,UTA,False,False
+niangge01,9.183333333333334,1.25,1.25,0.5,0.0,0.0,14.9,7.4,29.4,0.0,0.0,0.0,9.9,244.0,121.0,16.8,Georges Niang,,UTA,False,False
+cavanty01,0.75,0.0,0.0,1.0,0.0,0.0,100.0,90.1,0.0,0.0,0.0,0.0,60.4,0.0,99.0,-62.4,Tyler Cavanaugh,,UTA,False,False
+allengr01,0.75,,,,,0.0,100.0,90.1,0.0,0.0,0.0,,0.0,0.0,99.0,1.4,Grayson Allen,,UTA,False,False
+mitrona01,0.75,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,123.0,-7.9,Naz Mitrou-Long,,UTA,False,False
+udohek01,,,,,,,,,,,,,,,,,Ekpe Udoh,Did Not Play,UTA,False,False
+wiggian01,37.983333333333334,0.671,0.63,0.348,0.304,0.0,10.5,5.3,24.6,3.9,0.0,13.3,36.9,118.0,126.0,4.1,Andrew Wiggins,,MIN,True,True
+bayleje01,36.68333333333333,0.644,0.615,0.462,0.308,0.0,10.9,5.5,26.9,0.0,0.0,21.3,23.8,111.0,134.0,-5.4,Jerryd Bayless,,MIN,True,True
+townska01,36.13333333333333,0.814,0.75,0.4,0.8,3.8,18.5,11.2,32.0,0.0,8.5,12.9,20.0,156.0,127.0,11.9,Karl-Anthony Towns,,MIN,True,True
+okogijo01,30.316666666666666,0.15,0.15,0.6,0.0,0.0,8.8,4.5,4.5,1.6,0.0,16.7,18.4,32.0,131.0,-18.9,Josh Okogie,,MIN,True,True
+gibsota01,18.183333333333334,0.5,0.5,0.0,0.0,0.0,22.0,11.2,8.3,0.0,5.6,20.0,12.8,86.0,128.0,-10.5,Taj Gibson,,MIN,True,True
+saricda01,29.816666666666666,0.375,0.375,1.0,0.0,4.6,44.7,24.9,0.0,0.0,0.0,20.0,7.8,72.0,130.0,-8.5,Dario Šarić,,MIN,True,False
+denglu01,25.666666666666668,1.09,1.083,0.667,0.333,5.3,15.6,10.5,0.0,3.9,0.0,12.7,14.3,176.0,125.0,10.3,Luol Deng,,MIN,True,False
+terreja01,13.35,0.25,0.25,0.5,0.0,0.0,0.0,0.0,21.5,3.7,0.0,0.0,13.9,81.0,127.0,-9.7,Jared Terrell,,MIN,True,False
+dienggo01,11.866666666666667,1.031,1.0,0.667,0.667,23.1,11.2,17.1,14.0,0.0,0.0,20.5,19.1,168.0,134.0,9.7,Gorgui Dieng,,MIN,True,False
+rosede01,,,,,,,,,,,,,,,,,Derrick Rose,Did Not Dress,MIN,True,False
+tollian01,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,MIN,True,False
+bateske01,,,,,,,,,,,,,,,,,Keita Bates-Diop,Did Not Play,MIN,True,False
+willicj01,,,,,,,,,,,,,,,,,C.J. Williams,Did Not Play,MIN,True,False

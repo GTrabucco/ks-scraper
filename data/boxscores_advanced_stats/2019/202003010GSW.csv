@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bealbr01,35.15,0.618,0.563,0.375,0.333,3.5,2.9,3.2,41.5,6.8,0.0,3.5,36.4,132.0,104.0,14.9,Bradley Beal,,WAS,False,True
+hachiru01,29.783333333333335,0.677,0.563,0.25,0.875,4.1,24.0,15.0,4.8,0.0,0.0,8.3,18.2,133.0,110.0,-2.9,Rui Hachimura,,WAS,False,True
+napiesh01,25.2,0.765,0.7,0.2,0.4,0.0,12.2,6.6,27.8,5.7,0.0,25.4,14.0,134.0,103.0,4.2,Shabazz Napier,,WAS,False,True
+bongais01,21.45,0.75,0.75,0.75,0.0,0.0,4.8,2.6,6.3,0.0,3.7,20.0,10.5,114.0,116.0,-4.6,Isaac Bonga,,WAS,False,True
+bryanth01,15.383333333333333,0.932,0.917,0.167,0.167,8.0,6.6,7.3,0.0,3.1,10.2,13.4,21.7,149.0,106.0,10.6,Thomas Bryant,,WAS,False,True
+bertada01,30.333333333333332,0.946,0.929,0.714,0.214,4.1,10.1,7.4,0.0,0.0,2.6,11.5,25.6,148.0,114.0,10.7,Dāvis Bertāns,,WAS,False,False
+robinje01,21.7,0.51,0.4,0.4,0.4,0.0,14.1,7.7,0.0,0.0,0.0,14.5,14.2,87.0,114.0,-13.3,Jerome Robinson,,WAS,False,False
+smithis01,20.6,0.333,0.333,0.0,0.0,0.0,19.8,10.8,35.3,0.0,3.8,18.2,24.0,81.0,110.0,-11.2,Ish Smith,,WAS,False,False
+browntr01,16.633333333333333,0.205,0.0,0.25,0.5,7.4,24.6,16.8,14.4,2.9,0.0,17.0,15.9,71.0,103.0,-11.3,Troy Brown,,WAS,False,False
+wagnemo01,10.933333333333334,,,,,0.0,9.3,5.1,22.0,0.0,0.0,100.0,4.1,92.0,115.0,-9.1,Moritz Wagner,,WAS,False,False
+pasecan01,10.633333333333333,0.798,1.0,0.0,2.0,0.0,9.6,5.2,0.0,0.0,0.0,0.0,7.9,158.0,115.0,-7.1,Anžejs Pasečņiks,,WAS,False,False
+paytoga02,2.2,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.8,91.0,120.0,-14.3,Gary Payton,,WAS,False,False
+mahinia01,,,,,,,,,,,,,,,,,Ian Mahinmi,Did Not Play,WAS,False,False
+wiggian01,35.36666666666667,0.566,0.5,0.263,0.579,2.9,17.4,9.5,9.1,2.7,5.2,14.4,31.3,109.0,118.0,-0.6,Andrew Wiggins,,GSW,True,True
+leeda03,34.2,0.455,0.455,0.545,0.0,0.0,21.6,9.8,7.7,2.8,2.7,8.3,14.0,102.0,120.0,-3.5,Damion Lee,,GSW,True,True
+chrisma01,30.216666666666665,0.75,0.75,0.0,0.0,6.8,44.8,24.0,9.8,0.0,6.1,38.5,17.1,92.0,121.0,-4.9,Marquese Chriss,,GSW,True,True
+toscaju01,28.633333333333333,0.167,0.167,0.333,0.0,7.1,12.9,9.7,20.8,3.3,3.2,33.3,12.5,65.0,119.0,-8.1,Juan Toscano-Anderson,,GSW,True,True
+bendedr01,19.25,0.333,0.333,0.25,0.0,31.8,25.6,29.0,0.0,0.0,0.0,14.3,29.0,83.0,129.0,-20.4,Dragan Bender,,GSW,True,True
+pascher01,33.36666666666667,0.555,0.536,0.143,0.214,15.3,7.4,11.7,27.0,0.0,0.0,11.5,20.7,126.0,131.0,0.5,Eric Paschall,,GSW,True,False
+muldemy01,31.183333333333334,0.751,0.75,0.7,0.3,0.0,7.9,3.6,4.7,1.5,3.0,0.0,14.5,161.0,125.0,2.5,Mychal Mulder,,GSW,True,False
+poolejo01,27.783333333333335,0.704,0.667,0.333,0.778,7.4,4.4,6.0,36.2,0.0,0.0,24.9,23.0,124.0,132.0,1.8,Jordan Poole,,GSW,True,False
+bowmaky01,,,,,,,,,,,,,,,,,Ky Bowman,Did Not Play,GSW,True,False
+looneke01,,,,,,,,,,,,,,,,,Kevon Looney,Did Not Dress,GSW,True,False
+greendr01,,,,,,,,,,,,,,,,,Draymond Green,Did Not Dress,GSW,True,False

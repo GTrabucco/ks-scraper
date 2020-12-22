@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+porteot01,25.233333333333334,0.269,0.214,0.143,0.143,3.8,11.6,7.7,12.6,5.4,0.0,11.8,27.6,58.0,105.0,-8.0,Otto Porter,,WAS,False,True
+bealbr01,22.95,0.739,0.667,0.417,0.417,0.0,17.1,8.5,8.9,2.0,0.0,0.0,25.5,144.0,108.0,12.0,Bradley Beal,,WAS,False,True
+gortama01,20.5,0.381,0.429,0.0,0.286,0.0,9.6,4.7,8.1,0.0,3.7,0.0,15.9,78.0,115.0,-4.7,Marcin Gortat,,WAS,False,True
+fraziti01,19.15,0.5,0.5,0.25,0.0,5.0,10.2,7.6,24.3,0.0,0.0,42.9,15.1,76.0,116.0,-8.8,Tim Frazier,,WAS,False,True
+morrima02,16.983333333333334,0.389,0.389,0.333,0.0,0.0,11.5,5.7,0.0,0.0,0.0,10.0,24.3,66.0,115.0,-11.9,Markieff Morris,,WAS,False,True
+satorto01,28.85,0.685,0.571,0.0,0.571,0.0,6.8,3.4,45.4,0.0,0.0,0.0,12.5,158.0,117.0,4.9,Tomáš Satoranský,,WAS,False,False
+oubreke01,28.65,0.608,0.5,0.2,0.467,6.7,17.1,11.8,27.6,1.6,2.7,14.2,30.4,113.0,108.0,5.8,Kelly Oubre,,WAS,False,False
+meeksjo01,26.45,0.702,0.591,0.545,0.818,3.6,11.1,7.3,6.7,1.7,0.0,0.0,23.3,145.0,112.0,9.0,Jodie Meeks,,WAS,False,False
+mahinia01,25.433333333333334,0.709,0.667,0.0,2.0,0.0,7.7,3.8,5.9,3.6,0.0,15.1,10.8,124.0,110.0,0.8,Ian Mahinmi,,WAS,False,False
+mcculch01,17.35,0.291,0.167,0.333,0.333,5.5,16.9,11.2,8.3,0.0,4.4,0.0,16.4,77.0,111.0,-8.7,Chris McCullough,,WAS,False,False
+scottmi01,8.45,0.0,0.0,0.0,0.0,11.4,0.0,5.7,0.0,0.0,9.0,50.0,9.8,37.0,117.0,-12.6,Mike Scott,,WAS,False,False
+smithja02,,,,,,,,,,,,,,,,,Jason Smith,Did Not Play,WAS,False,False
+simmobe01,40.6,0.539,0.5,0.063,1.813,12.1,30.7,21.5,17.2,2.2,3.5,17.3,32.6,103.0,101.0,4.5,Ben Simmons,,PHI,True,True
+covinro01,33.93333333333333,0.375,0.375,0.417,0.0,14.4,19.8,17.1,4.5,2.7,0.0,20.0,16.8,85.0,106.0,-5.4,Robert Covington,,PHI,True,True
+embiijo01,32.18333333333333,0.545,0.4,0.0,1.2,21.3,20.9,21.1,21.3,1.4,8.9,11.6,30.6,122.0,100.0,7.2,Joel Embiid,,PHI,True,True
+saricda01,32.166666666666664,0.796,0.708,0.25,0.583,6.1,17.9,12.1,11.9,1.4,0.0,6.2,19.0,164.0,109.0,10.7,Dario Šarić,,PHI,True,True
+redicjj01,30.316666666666666,0.333,0.333,0.417,0.0,0.0,0.0,0.0,20.7,0.0,2.4,7.7,16.3,89.0,113.0,-8.7,J.J. Redick,,PHI,True,True
+bayleje01,25.633333333333333,0.665,0.571,0.143,1.143,3.8,0.0,1.9,25.4,0.0,0.0,8.7,17.1,143.0,116.0,4.7,Jerryd Bayless,,PHI,True,False
+luwawti01,15.916666666666666,0.375,0.375,0.75,0.0,0.0,18.1,9.1,8.9,0.0,0.0,20.0,12.0,78.0,112.0,-9.1,Timothé Luwawu-Cabarrot,,PHI,True,False
+mccontj01,15.833333333333334,1.0,1.0,0.0,0.0,0.0,12.1,6.1,9.8,0.0,0.0,33.3,7.2,118.0,113.0,-6.7,T.J. McConnell,,PHI,True,False
+johnsam01,13.416666666666666,0.0,0.0,0.0,2.0,7.3,35.8,21.7,19.3,0.0,5.3,0.0,5.3,70.0,103.0,0.4,Amir Johnson,,PHI,True,False
+stausni01,,,,,,,,,,,,,,,,,Nik Stauskas,Did Not Play,PHI,True,False
+mcadoja01,,,,,,,,,,,,,,,,,James Michael McAdoo,Did Not Play,PHI,True,False
+korkmfu01,,,,,,,,,,,,,,,,,Furkan Korkmaz,Did Not Play,PHI,True,False
+holmeri01,,,,,,,,,,,,,,,,,Richaun Holmes,Did Not Play,PHI,True,False

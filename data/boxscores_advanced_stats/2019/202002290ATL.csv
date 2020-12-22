@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mccolcj01,38.9,0.611,0.596,0.346,0.231,5.6,10.9,7.9,20.8,2.4,0.0,6.5,31.4,131.0,124.0,7.3,CJ McCollum,,POR,False,True
+arizatr01,37.43333333333333,0.484,0.389,0.667,0.333,0.0,15.1,6.6,5.9,3.7,0.0,22.5,14.2,88.0,120.0,-5.7,Trevor Ariza,,POR,False,True
+anthoca01,36.55,0.432,0.423,0.231,0.154,9.0,11.6,10.1,6.5,0.0,0.0,22.4,19.5,85.0,129.0,-10.6,Carmelo Anthony,,POR,False,True
+whiteha01,31.1,0.631,0.643,0.0,0.429,17.5,36.3,25.7,4.7,1.5,11.0,5.7,22.6,135.0,116.0,5.4,Hassan Whiteside,,POR,False,True
+trentga02,29.1,0.582,0.542,0.333,0.167,0.0,0.0,0.0,0.0,0.0,0.0,18.9,21.8,99.0,130.0,-10.6,Gary Trent,,POR,False,True
+gabriwe01,18.2,0.25,0.25,0.5,0.0,12.0,38.8,23.7,5.9,5.0,6.3,20.0,11.0,76.0,110.0,-1.9,Wenyen Gabriel,,POR,False,False
+simonan01,15.8,0.563,0.5,0.375,0.25,0.0,8.9,3.9,0.0,0.0,0.0,0.0,22.4,129.0,130.0,-3.4,Anfernee Simons,,POR,False,False
+hezonma01,12.616666666666667,0.8,0.8,0.2,0.0,8.6,33.6,19.5,23.9,0.0,0.0,16.7,19.0,145.0,127.0,6.9,Mario Hezonja,,POR,False,False
+littlna01,10.183333333333334,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.8,111.0,130.0,-8.3,Nassir Little,,POR,False,False
+swanica01,10.116666666666667,1.0,1.0,0.0,0.0,0.0,27.9,12.2,11.2,4.5,0.0,66.7,11.8,71.0,117.0,-6.9,Caleb Swanigan,,POR,False,False
+nurkiju01,,,,,,,,,,,,,,,,,Jusuf Nurkić,Did Not Dress,POR,False,False
+lillada01,,,,,,,,,,,,,,,,,Damian Lillard,Did Not Dress,POR,False,False
+huntede01,38.25,0.917,0.917,0.75,0.0,0.0,11.4,6.4,0.0,0.0,1.9,20.0,16.9,116.0,115.0,0.6,De'Andre Hunter,,ATL,True,True
+collijo01,36.13333333333333,0.783,0.75,0.357,0.214,7.8,24.2,17.0,15.6,1.3,4.0,16.4,21.8,134.0,108.0,4.9,John Collins,,ATL,True,True
+huertke01,35.03333333333333,0.808,0.75,0.7,0.4,4.0,9.3,7.0,29.0,3.9,2.1,7.8,15.7,164.0,107.0,11.5,Kevin Huerter,,ATL,True,True
+youngtr01,34.65,0.558,0.417,0.444,0.556,4.1,9.4,7.1,57.2,0.0,0.0,8.2,30.3,135.0,117.0,0.3,Trae Young,,ATL,True,True
+reddica01,24.266666666666666,0.444,0.444,0.556,0.0,0.0,13.5,7.6,9.9,0.0,0.0,18.2,19.5,78.0,116.0,-10.1,Cam Reddish,,ATL,True,True
+teaguje01,17.283333333333335,0.338,0.25,0.25,0.25,0.0,12.6,7.1,19.3,0.0,0.0,40.3,18.5,65.0,116.0,-16.4,Jeff Teague,,ATL,True,False
+fernabr01,17.116666666666667,0.87,1.0,0.0,0.6,0.0,12.7,7.2,8.8,0.0,4.2,24.0,20.9,114.0,113.0,-2.8,Bruno Fernando,,ATL,True,False
+grahatr01,13.3,1.103,1.2,0.4,0.2,0.0,16.4,9.3,12.9,3.4,0.0,15.5,20.8,151.0,108.0,15.3,Treveon Graham,,ATL,True,False
+cartevi01,12.183333333333334,0.3,0.3,0.8,0.0,11.6,26.9,20.2,0.0,7.5,0.0,16.7,21.2,62.0,97.0,-7.0,Vince Carter,,ATL,True,False
+goodwbr01,6.116666666666666,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.1,94.0,120.0,-10.5,Brandon Goodwin,,ATL,True,False
+jonesda03,5.666666666666667,,,,,0.0,19.3,10.9,0.0,0.0,0.0,,0.0,0.0,114.0,-9.4,Damian Jones,,ATL,True,False

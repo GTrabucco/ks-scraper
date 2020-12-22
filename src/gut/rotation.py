@@ -100,7 +100,8 @@ class Rotation():
 					    wr = csv.writer(myfile)
 					    wr.writerow(data)
 			except Exception as e:
-				print('get_lineup_info', e, self.team, self.opponent)
+				print('_initialize_rotation', e, self.team, self.opponent)
+				exit()
 
 			data = None
 
@@ -122,27 +123,27 @@ class Rotation():
 
 	def get_formatted_data(self):
 		#return [self.pts/111]
-		return [#self.mp/48, 
-				#self.pts/111, 
-				#self.fg/41, 
+		return [self.mp, 
+				self.pts, 
+				self.fg, 
 				self.fga, 
 				self.fg_pct, 
-				#self.fg3/12, 
+				self.fg3, 
 				self.fg3a, 
 				self.fg3_pct, 
 				self.efg_pct, 
-				#self.ft/18, 
-				#self.fta/23,
-				#self.ft_pct/.77,
-				#self.orb/10,
-				#self.orb_pct/23
-				#self.drb/35,
-				#self.trb/45,
-				#self.ast/24,
-				#self.stl/8,
-				#self.blk/5,
-				#self.tov/15,
-				#self.pf/21]
+				self.ft, 
+				self.fta,
+				self.ft_pct,
+				self.orb,
+				self.orb_pct,
+				self.drb,
+				self.trb,
+				self.ast,
+				self.stl,
+				self.blk,
+				self.tov,
+				self.pf
 				]
 
 

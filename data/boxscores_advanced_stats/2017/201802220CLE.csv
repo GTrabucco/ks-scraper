@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bealbr01,35.583333333333336,0.474,0.474,0.263,0.0,0.0,6.7,3.4,36.6,0.0,5.5,13.6,27.9,100.0,109.0,-0.3,Bradley Beal,,WAS,False,True
+satorto01,31.45,0.97,0.929,0.143,0.571,3.9,11.4,7.7,35.0,3.2,0.0,0.0,12.6,207.0,106.0,14.8,Tomáš Satoranský,,WAS,False,True
+porteot01,29.5,0.682,0.682,0.455,0.0,4.2,28.5,16.5,9.5,3.4,0.0,8.3,18.4,127.0,103.0,6.2,Otto Porter,,WAS,False,True
+morrima02,28.366666666666667,0.45,0.45,0.6,0.0,0.0,33.8,17.1,13.6,3.5,3.5,28.6,22.3,72.0,100.0,-4.3,Markieff Morris,,WAS,False,True
+gortama01,17.6,0.5,0.5,0.0,0.0,0.0,20.5,10.4,0.0,0.0,0.0,0.0,15.4,100.0,112.0,-6.2,Marcin Gortat,,WAS,False,True
+oubreke01,32.11666666666667,0.66,0.625,0.5,0.167,0.0,18.7,9.5,8.5,3.1,0.0,0.0,18.1,137.0,105.0,6.0,Kelly Oubre,,WAS,False,False
+mahinia01,20.1,0.508,0.429,0.0,0.286,24.5,6.0,15.1,13.0,2.5,0.0,11.3,19.9,121.0,107.0,-4.4,Ian Mahinmi,,WAS,False,False
+meeksjo01,17.316666666666666,0.563,0.5,0.5,0.25,0.0,0.0,0.0,7.8,0.0,0.0,0.0,23.1,121.0,114.0,-1.7,Jodie Meeks,,WAS,False,False
+scottmi01,16.316666666666666,0.4,0.4,0.2,0.0,15.1,14.7,14.9,0.0,0.0,0.0,9.1,30.4,83.0,112.0,-14.6,Mike Scott,,WAS,False,False
+fraziti01,11.65,0.5,0.5,0.5,0.0,10.6,30.9,20.9,20.7,0.0,0.0,0.0,7.7,147.0,109.0,-5.1,Tim Frazier,,WAS,False,False
+smithja02,,,,,,,,,,,,,,,,,Jason Smith,Did Not Play,WAS,False,False
+robinde01,,,,,,,,,,,,,,,,,Devin Robinson,Did Not Play,WAS,False,False
+mcculch01,,,,,,,,,,,,,,,,,Chris McCullough,Did Not Play,WAS,False,False
+jamesle01,36.6,0.729,0.75,0.222,0.5,3.3,26.9,14.9,42.0,2.7,0.0,15.4,32.3,130.0,110.0,15.0,LeBron James,,CLE,True,True
+smithjr01,32.5,0.625,0.625,0.667,0.0,0.0,3.8,1.9,0.0,1.5,2.4,7.7,18.2,110.0,116.0,2.1,J.R. Smith,,CLE,True,True
+hillge01,31.15,0.265,0.2,0.4,0.3,3.9,7.9,5.9,11.9,1.6,0.0,20.9,20.9,59.0,117.0,-12.8,George Hill,,CLE,True,True
+thomptr01,27.616666666666667,0.857,0.857,0.0,0.0,13.0,26.7,19.8,11.0,0.0,2.8,22.2,14.8,140.0,114.0,5.2,Tristan Thompson,,CLE,True,True
+osmande01,17.2,0.286,0.286,0.286,0.0,0.0,14.3,7.1,0.0,0.0,0.0,0.0,18.5,59.0,119.0,-12.4,Cedi Osman,,CLE,True,True
+hoodro01,27.166666666666668,0.571,0.571,0.714,0.0,0.0,9.1,4.5,9.6,0.0,0.0,0.0,11.7,121.0,120.0,-2.1,Rodney Hood,,CLE,True,False
+korveky01,18.55,0.5,0.5,1.0,0.0,0.0,33.2,16.4,14.1,0.0,0.0,0.0,14.7,111.0,115.0,0.9,Kyle Korver,,CLE,True,False
+clarkjo01,16.816666666666666,0.514,0.429,0.429,0.571,0.0,14.6,7.2,17.1,0.0,0.0,10.2,26.4,102.0,119.0,-3.1,Jordan Clarkson,,CLE,True,False
+greenje02,16.4,0.388,0.333,0.5,0.167,0.0,0.0,0.0,8.1,0.0,0.0,13.4,20.7,75.0,122.0,-11.3,Jeff Green,,CLE,True,False
+nancela02,16.0,0.615,0.75,0.0,0.5,7.5,15.4,11.4,0.0,3.1,0.0,17.0,16.7,100.0,111.0,-5.9,Larry Nance,,CLE,True,False
+zizican01,,,,,,,,,,,,,,,,,Ante Žižić,Did Not Play,CLE,True,False
+hollajo02,,,,,,,,,,,,,,,,,John Holland,Did Not Play,CLE,True,False
+caldejo01,,,,,,,,,,,,,,,,,José Calderón,Did Not Play,CLE,True,False

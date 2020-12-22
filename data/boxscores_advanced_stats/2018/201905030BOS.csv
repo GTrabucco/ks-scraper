@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+antetgi01,39.083333333333336,0.705,0.615,0.077,1.692,0.0,37.1,18.1,30.5,2.3,9.0,18.1,29.9,128.0,102.0,12.4,Giannis Antetokounmpo,,MIL,False,True
+middlkh01,38.56666666666667,0.683,0.625,0.5,0.5,0.0,11.6,5.7,18.0,3.6,0.0,25.5,21.5,108.0,109.0,2.8,Khris Middleton,,MIL,False,True
+mirotni01,29.316666666666666,0.722,0.722,0.778,0.0,0.0,11.4,5.6,0.0,1.6,0.0,10.0,14.4,119.0,114.0,1.5,Nikola Mirotić,,MIL,False,True
+lopezbr01,29.316666666666666,0.583,0.583,0.667,0.0,3.6,19.0,11.2,4.4,0.0,8.0,0.0,8.6,128.0,111.0,0.9,Brook Lopez,,MIL,False,True
+bledser01,27.183333333333334,0.268,0.3,0.4,0.267,0.0,4.1,2.0,20.2,0.0,0.0,19.3,32.2,56.0,119.0,-21.0,Eric Bledsoe,,MIL,False,True
+hillge01,29.0,0.815,0.833,0.25,0.167,11.0,3.8,7.5,18.3,0.0,0.0,0.0,18.7,170.0,119.0,8.9,George Hill,,MIL,False,False
+connapa01,28.233333333333334,0.636,0.636,0.818,0.0,7.6,19.8,13.5,0.0,3.2,4.1,0.0,16.4,129.0,106.0,8.3,Pat Connaughton,,MIL,False,False
+ilyaser01,13.483333333333333,0.868,0.75,0.5,1.0,7.9,41.4,24.3,18.5,0.0,8.7,0.0,9.0,194.0,107.0,10.7,Ersan İlyasova,,MIL,False,False
+snellto01,5.5,0.333,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,67.0,120.0,-13.5,Tony Snell,,MIL,False,False
+fraziti01,0.31666666666666665,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-6.5,Tim Frazier,,MIL,False,False
+wilsodj01,,,,,,,,,,,,,,,,,D.J. Wilson,Did Not Play,MIL,False,False
+brogdma01,,,,,,,,,,,,,,,,,Malcolm Brogdon,Did Not Play,MIL,False,False
+brownst02,,,,,,,,,,,,,,,,,Sterling Brown,Did Not Play,MIL,False,False
+irvinky01,41.56666666666667,0.532,0.409,0.364,0.545,2.7,5.1,3.9,26.9,3.3,0.0,12.8,32.2,105.0,116.0,0.4,Kyrie Irving,,BOS,True,True
+horfoal01,37.3,0.799,0.688,0.625,0.75,6.0,17.2,11.7,21.6,0.0,0.0,22.0,15.7,137.0,122.0,3.4,Al Horford,,BOS,True,True
+tatumja01,36.983333333333334,0.601,0.5,0.357,0.429,6.0,26.0,16.2,15.0,3.7,0.0,5.7,20.4,126.0,112.0,4.9,Jayson Tatum,,BOS,True,True
+brownja02,30.533333333333335,0.654,0.625,0.583,0.333,0.0,17.5,8.9,12.3,3.0,3.4,6.8,20.7,120.0,112.0,5.0,Jaylen Brown,,BOS,True,True
+morrima03,29.9,1.0,1.0,0.625,0.0,3.7,25.0,14.6,12.7,0.0,7.0,33.3,17.2,114.0,115.0,6.0,Marcus Morris,,BOS,True,True
+haywago01,33.36666666666667,0.512,0.375,0.5,0.5,0.0,22.4,11.4,22.4,0.0,0.0,17.0,15.1,104.0,121.0,-1.8,Gordon Hayward,,BOS,True,False
+roziete01,14.483333333333333,0.0,0.0,0.667,0.0,0.0,7.4,3.8,0.0,3.2,0.0,25.0,11.8,0.0,117.0,-13.0,Terry Rozier,,BOS,True,False
+ojelese01,11.033333333333333,0.75,0.75,0.75,0.0,0.0,9.7,4.9,16.5,0.0,0.0,20.0,19.4,109.0,121.0,-2.7,Semi Ojeleye,,BOS,True,False
+theisda01,2.716666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.8,0.0,125.0,-20.7,Daniel Theis,,BOS,True,False
+baynear01,2.1166666666666667,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.2,0.0,125.0,-24.7,Aron Baynes,,BOS,True,False
+williro04,,,,,,,,,,,,,,,,,Robert Williams,Did Not Play,BOS,True,False
+yabusgu01,,,,,,,,,,,,,,,,,Guerschon Yabusele,Did Not Play,BOS,True,False
+wanambr01,,,,,,,,,,,,,,,,,Brad Wanamaker,Did Not Play,BOS,True,False

@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,team_id,is_home,is_starter,note
+hardeja01,36.45,0.709,0.667,0.444,0.667,2.9,20.8,11.1,37.9,1.3,0.0,23.1,35.3,111.0,106.0,7.4,James Harden,HOU,False,True,
+beverpa01,35.25,0.568,0.545,0.545,0.273,0.0,0.0,0.0,5.0,3.9,0.0,7.5,16.0,104.0,104.0,-1.0,Patrick Beverley,HOU,False,True,
+arizatr01,33.333333333333336,0.46,0.4,0.8,0.2,3.2,18.9,10.4,9.7,4.1,0.0,0.0,13.9,104.0,100.0,1.5,Trevor Ariza,HOU,False,True,
+howardw01,27.8,0.269,0.286,0.0,0.143,3.8,13.6,8.3,11.3,1.6,3.4,21.2,14.4,58.0,104.0,-10.2,Dwight Howard,HOU,False,True,
+motiedo01,14.466666666666667,0.286,0.286,0.429,0.0,0.0,26.2,12.0,0.0,9.5,6.5,30.0,29.3,38.0,83.0,-9.6,Donatas Motiejūnas,HOU,False,True,
+terryja01,26.5,0.538,0.538,0.615,0.0,0.0,4.8,2.2,31.3,3.5,0.0,7.1,22.4,106.0,104.0,3.7,Jason Terry,HOU,False,False,
+breweco01,23.883333333333333,0.635,0.571,0.571,0.286,0.0,10.6,4.8,21.6,3.8,0.0,27.6,19.3,97.0,103.0,2.4,Corey Brewer,HOU,False,False,
+capelca01,13.433333333333334,0.667,0.667,0.0,0.0,23.8,56.4,38.7,0.0,3.4,7.0,40.0,15.8,94.0,89.0,-4.8,Clint Capela,HOU,False,False,
+joneste01,12.666666666666666,0.568,,,,8.4,29.9,18.3,0.0,0.0,0.0,53.2,6.3,78.0,107.0,-11.3,Terrence Jones,HOU,False,False,
+lawsoty01,7.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.1,0.0,0.0,50.0,12.0,65.0,113.0,-10.2,Ty Lawson,HOU,False,False,
+thornma01,6.2,0.0,0.0,0.667,0.0,0.0,0.0,0.0,22.8,7.4,0.0,0.0,20.5,21.0,96.0,-12.6,Marcus Thornton,HOU,False,False,
+mcdankj01,1.4833333333333334,0.615,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.8,124.0,113.0,14.9,K.J. McDaniels,HOU,False,False,
+harremo01,1.4833333333333334,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,113.0,-8.0,Montrezl Harrell,HOU,False,False,
+collida01,40.96666666666667,0.742,0.722,0.111,0.111,0.0,18.2,9.9,49.2,1.1,0.0,45.9,17.7,103.0,97.0,0.0,Darren Collison,SAC,True,True,
+casspom01,37.93333333333333,0.864,0.864,0.364,0.0,10.0,8.4,9.1,27.2,2.4,0.0,31.3,17.5,123.0,96.0,9.6,Omri Casspi,SAC,True,True,
+gayru01,35.13333333333333,0.644,0.636,0.455,0.455,7.2,33.4,21.4,13.8,7.8,3.2,27.5,21.5,99.0,76.0,8.6,Rudy Gay,SAC,True,True,
+couside01,33.05,0.561,0.471,0.235,0.824,3.8,35.5,21.0,0.0,2.8,3.4,14.7,34.1,100.0,87.0,-0.6,DeMarcus Cousins,SAC,True,True,
+mclembe01,23.7,0.752,0.75,0.0,0.75,0.0,0.0,0.0,12.7,3.9,0.0,36.1,14.6,98.0,94.0,-0.1,Ben McLemore,SAC,True,True,
+belinma01,26.8,0.45,0.45,0.7,0.0,4.7,4.0,4.3,5.5,0.0,0.0,16.7,18.6,83.0,102.0,-6.8,Marco Belinelli,SAC,True,False,
+curryse01,21.283333333333335,0.521,0.25,0.5,1.0,0.0,5.0,2.7,0.0,0.0,0.0,14.8,13.2,98.0,102.0,-7.0,Seth Curry,SAC,True,False,
+koufoko01,18.733333333333334,0.508,0.571,0.0,0.286,13.5,22.8,18.5,0.0,0.0,6.0,0.0,17.4,108.0,95.0,-0.8,Kosta Koufos,SAC,True,False,
+anderja01,1.4833333333333334,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,103.0,-32.1,James Anderson,SAC,True,False,
+acyqu01,0.9166666666666666,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.2,0.0,103.0,-49.0,Quincy Acy,SAC,True,False,
+butleca01,,,,,,,,,,,,,,,,,Caron Butler,SAC,True,False,Did Not Play
+moreler01,,,,,,,,,,,,,,,,,Eric Moreland,SAC,True,False,Did Not Play
+rondora01,,,,,,,,,,,,,,,,,Rajon Rondo,SAC,True,False,Player Suspended

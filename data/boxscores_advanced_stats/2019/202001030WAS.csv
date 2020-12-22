@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+mccolcj01,35.6,0.636,0.611,0.333,0.111,3.5,9.2,6.6,25.7,1.4,0.0,9.6,25.7,132.0,113.0,5.2,CJ McCollum,,POR,False,True
+bazemke01,34.733333333333334,0.317,0.357,0.571,0.286,0.0,6.3,3.4,9.8,1.5,4.8,0.0,9.9,89.0,111.0,-2.8,Kent Bazemore,,POR,False,True
+lillada01,34.266666666666666,0.669,0.55,0.3,0.7,0.0,9.6,5.1,13.6,1.5,0.0,3.7,34.7,144.0,113.0,9.8,Damian Lillard,,POR,False,True
+whiteha01,33.1,0.656,0.571,0.0,0.571,30.5,42.8,37.1,4.3,0.0,12.7,5.4,24.5,148.0,95.0,8.9,Hassan Whiteside,,POR,False,True
+anthoca01,30.6,0.81,0.833,0.111,0.222,4.1,17.8,11.5,9.2,3.3,0.0,16.8,17.0,139.0,105.0,6.1,Carmelo Anthony,,POR,False,True
+trentga02,20.083333333333332,0.429,0.429,0.429,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.3,96.0,120.0,-9.4,Gary Trent,,POR,False,False
+hezonma01,17.683333333333334,0.601,0.571,0.429,0.429,0.0,0.0,0.0,0.0,2.9,0.0,0.0,20.6,129.0,112.0,-3.6,Mario Hezonja,,POR,False,False
+simonan01,16.55,0.25,0.25,0.25,0.0,7.6,6.6,7.1,6.9,0.0,0.0,20.0,13.2,68.0,117.0,-11.0,Anfernee Simons,,POR,False,False
+tollian01,14.9,0.266,0.0,1.0,2.0,0.0,14.6,7.9,0.0,0.0,0.0,0.0,5.5,64.0,114.0,-8.8,Anthony Tolliver,,POR,False,False
+hoardja01,1.6166666666666667,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,120.0,-6.1,Jaylen Hoard,,POR,False,False
+littlna01,0.8666666666666667,0.0,0.0,0.0,0.0,0.0,100.0,67.5,0.0,0.0,0.0,0.0,50.6,0.0,69.0,-49.4,Nassir Little,,POR,False,False
+nurkiju01,,,,,,,,,,,,,,,,,Jusuf Nurkić,Did Not Dress,POR,False,False
+paytoga02,34.766666666666666,0.286,0.286,0.429,0.0,3.1,0.0,1.7,15.7,1.5,0.0,12.5,9.8,85.0,133.0,-9.1,Gary Payton,,WAS,True,True
+browntr01,30.966666666666665,0.41,0.3,0.3,0.5,0.0,28.6,13.2,4.6,1.6,0.0,14.1,19.5,83.0,126.0,-10.4,Troy Brown,,WAS,True,True
+mahinia01,26.216666666666665,0.222,0.2,0.4,0.8,4.2,4.8,4.5,15.2,1.9,8.7,12.9,12.6,69.0,124.0,-6.1,Ian Mahinmi,,WAS,True,True
+willijo04,16.166666666666668,0.581,0.667,0.0,0.333,20.2,39.1,29.0,0.0,3.1,0.0,0.0,18.1,129.0,120.0,3.9,Johnathan Williams,,WAS,True,True
+thomais02,1.4666666666666668,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,57.9,64.0,136.0,-8.7,Isaiah Thomas,,WAS,True,True
+smithis01,33.28333333333333,0.538,0.5,0.357,0.143,0.0,7.6,3.5,24.6,1.5,0.0,11.8,21.5,113.0,131.0,-1.9,Ish Smith,,WAS,True,False
+mcraejo01,33.06666666666667,0.584,0.538,0.385,0.346,9.9,7.6,8.9,28.2,0.0,2.3,6.3,41.1,126.0,132.0,9.9,Jordan McRae,,WAS,True,False
+mathega01,24.716666666666665,0.953,0.944,0.778,0.111,0.0,10.2,4.7,7.4,0.0,0.0,0.0,16.2,194.0,133.0,12.1,Garrison Mathews,,WAS,True,False
+pasecan01,17.583333333333332,0.286,0.286,0.0,0.0,31.0,28.7,30.0,8.4,0.0,0.0,30.0,24.2,71.0,129.0,-20.1,Anžejs Pasečņiks,,WAS,True,False
+schofad01,12.366666666666667,0.129,0.0,0.667,0.667,0.0,20.4,9.5,0.0,0.0,0.0,0.0,13.3,34.0,131.0,-19.2,Admiral Schofield,,WAS,True,False
+bongais01,9.4,0.5,0.5,0.5,0.0,11.6,26.9,18.7,0.0,0.0,0.0,0.0,9.0,126.0,129.0,-6.5,Isaac Bonga,,WAS,True,False
+bealbr01,,,,,,,,,,,,,,,,,Bradley Beal,Did Not Dress,WAS,True,False
+robinju01,,,,,,,,,,,,,,,,,Justin Robinson,Did Not Play,WAS,True,False
+bryanth01,,,,,,,,,,,,,,,,,Thomas Bryant,Did Not Play,WAS,True,False

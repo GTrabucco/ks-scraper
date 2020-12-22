@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+derozde01,38.75,3.0,15.0,0.2,0.0,1.0,0.0,6.0,6.0,1.0,3.0,6.0,9.0,4.0,0.0,0.0,3.0,3.0,12.0,-17.0,DeMar DeRozan,,TOR,False,True
+valanjo01,37.13333333333333,9.0,18.0,0.5,0.0,0.0,,5.0,6.0,0.833,7.0,6.0,13.0,2.0,0.0,2.0,1.0,2.0,23.0,-14.0,Jonas Valančiūnas,,TOR,False,True
+lowryky01,35.916666666666664,7.0,17.0,0.412,2.0,7.0,0.286,9.0,10.0,0.9,1.0,7.0,8.0,6.0,2.0,0.0,7.0,5.0,25.0,11.0,Kyle Lowry,,TOR,False,True
+carrode01,33.016666666666666,6.0,12.0,0.5,3.0,6.0,0.5,2.0,2.0,1.0,1.0,3.0,4.0,0.0,2.0,0.0,0.0,3.0,17.0,-12.0,DeMarre Carroll,,TOR,False,True
+siakapa01,21.416666666666668,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,3.0,3.0,6.0,1.0,1.0,2.0,0.0,1.0,4.0,-12.0,Pascal Siakam,,TOR,False,True
+pattepa01,26.583333333333332,4.0,7.0,0.571,3.0,6.0,0.5,0.0,0.0,,1.0,4.0,5.0,1.0,1.0,0.0,2.0,2.0,11.0,9.0,Patrick Patterson,,TOR,False,False
+josepco01,21.333333333333332,1.0,5.0,0.2,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,3.0,0.0,Cory Joseph,,TOR,False,False
+rosste01,15.033333333333333,2.0,5.0,0.4,0.0,2.0,0.0,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,4.0,9.0,Terrence Ross,,TOR,False,False
+noguelu01,10.833333333333334,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,11.0,Lucas Nogueira,,TOR,False,False
+wrighde01,,,,,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,False,False
+powelno01,,,,,,,,,,,,,,,,,,,,,Norman Powell,Did Not Play,TOR,False,False
+poeltja01,,,,,,,,,,,,,,,,,,,,,Jakob Poeltl,Did Not Play,TOR,False,False
+gayru01,36.333333333333336,9.0,13.0,0.692,1.0,1.0,1.0,4.0,4.0,1.0,0.0,9.0,9.0,4.0,1.0,3.0,4.0,3.0,23.0,14.0,Rudy Gay,,SAC,True,True
+barnema02,36.3,3.0,10.0,0.3,2.0,6.0,0.333,0.0,0.0,,0.0,1.0,1.0,2.0,1.0,0.0,3.0,2.0,8.0,-5.0,Matt Barnes,,SAC,True,True
+collida01,32.28333333333333,4.0,8.0,0.5,1.0,4.0,0.25,6.0,8.0,0.75,0.0,0.0,0.0,9.0,2.0,0.0,1.0,1.0,15.0,1.0,Darren Collison,,SAC,True,True
+couside01,30.366666666666667,7.0,22.0,0.318,3.0,6.0,0.5,2.0,3.0,0.667,2.0,8.0,10.0,4.0,0.0,0.0,2.0,3.0,19.0,9.0,DeMarcus Cousins,,SAC,True,True
+lawsoty01,26.516666666666666,2.0,7.0,0.286,1.0,4.0,0.25,0.0,0.0,,0.0,1.0,1.0,5.0,2.0,0.0,1.0,2.0,5.0,-1.0,Ty Lawson,,SAC,True,True
+koufoko01,26.05,3.0,6.0,0.5,0.0,0.0,,2.0,5.0,0.4,0.0,6.0,6.0,0.0,1.0,3.0,1.0,1.0,8.0,18.0,Kosta Koufos,,SAC,True,False
+afflaar01,19.933333333333334,5.0,7.0,0.714,1.0,2.0,0.5,3.0,3.0,1.0,1.0,4.0,5.0,1.0,0.0,0.0,0.0,1.0,14.0,1.0,Arron Afflalo,,SAC,True,False
+templga01,19.45,2.0,4.0,0.5,2.0,4.0,0.5,2.0,2.0,1.0,0.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0,8.0,-10.0,Garrett Temple,,SAC,True,False
+tollian01,5.383333333333334,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,Anthony Tolliver,,SAC,True,False
+caulewi01,4.3,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,1.0,0.0,3.0,2.0,-9.0,Willie Cauley-Stein,,SAC,True,False
+mclembe01,3.1,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-6.0,Ben McLemore,,SAC,True,False
+papagge01,,,,,,,,,,,,,,,,,,,,,Georgios Papagiannis,Did Not Play,SAC,True,False
+casspom01,,,,,,,,,,,,,,,,,,,,,Omri Casspi,Did Not Play,SAC,True,False

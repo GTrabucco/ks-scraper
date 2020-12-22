@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+lopezbr01,29.783333333333335,0.598,0.559,0.294,0.412,12.7,18.7,15.9,0.0,0.0,2.7,16.6,36.0,106.0,108.0,-3.3,Brook Lopez,,BRK,False,True
+leverca01,24.65,0.722,0.722,0.111,0.0,15.4,18.1,16.8,17.5,6.2,0.0,18.2,19.9,130.0,96.0,12.0,Caris LeVert,,BRK,False,True
+linje01,19.683333333333334,0.672,0.6,0.3,0.6,0.0,11.3,6.0,55.9,0.0,0.0,13.7,33.1,133.0,112.0,9.0,Jeremy Lin,,BRK,False,True
+holliro01,18.583333333333332,0.458,0.3,0.4,1.2,0.0,12.0,6.4,8.2,5.5,0.0,0.0,18.3,111.0,99.0,2.4,Rondae Hollis-Jefferson,,BRK,False,True
+foyera01,13.766666666666667,1.389,1.5,1.0,1.0,0.0,8.1,4.3,12.9,0.0,0.0,0.0,9.3,275.0,113.0,12.5,Randy Foye,,BRK,False,True
+dinwisp01,26.8,0.444,0.2,0.0,0.8,4.7,12.5,8.8,16.7,0.0,0.0,0.0,11.2,127.0,112.0,-4.2,Spencer Dinwiddie,,BRK,False,False
+booketr01,24.333333333333332,0.429,0.429,0.0,0.0,15.6,22.9,19.5,28.1,4.2,0.0,30.0,18.3,93.0,99.0,0.1,Trevor Booker,,BRK,False,False
+harrijo01,20.566666666666666,0.5,0.5,1.0,0.0,0.0,16.3,8.6,0.0,0.0,0.0,14.3,15.1,88.0,111.0,-8.5,Joe Harris,,BRK,False,False
+kilpase01,20.516666666666666,0.34,0.2,0.6,0.4,0.0,16.3,8.7,0.0,2.5,0.0,25.4,17.1,56.0,105.0,-11.7,Sean Kilpatrick,,BRK,False,False
+whiteis01,18.116666666666667,0.989,0.875,0.5,1.75,0.0,12.3,6.5,0.0,0.0,0.0,36.1,27.2,121.0,112.0,-0.2,Isaiah Whitehead,,BRK,False,False
+hamilju01,12.166666666666666,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,116.0,-15.3,Justin Hamilton,,BRK,False,False
+acyqu01,11.05,0.694,0.75,1.0,1.0,0.0,30.3,16.1,0.0,0.0,7.4,0.0,11.6,143.0,101.0,7.2,Quincy Acy,,BRK,False,False
+mcdankj01,,,,,,,,,,,,,,,,,K.J. McDaniels,Did Not Play,BRK,False,False
+collida01,30.9,0.55,0.55,0.1,0.0,0.0,16.4,7.7,11.4,1.6,3.4,23.1,19.1,91.0,114.0,-4.7,Darren Collison,,SAC,True,True
+afflaar01,26.433333333333334,0.799,0.714,0.286,0.571,0.0,14.3,6.7,0.0,1.9,0.0,0.0,15.1,169.0,116.0,8.1,Arron Afflalo,,SAC,True,True
+koufoko01,24.416666666666668,0.0,0.0,0.0,0.0,9.1,15.5,12.1,0.0,0.0,0.0,0.0,13.0,23.0,120.0,-17.3,Kosta Koufos,,SAC,True,True
+labissk01,15.233333333333333,0.85,0.8,0.0,0.4,22.0,16.6,19.5,0.0,3.3,6.9,25.4,23.5,134.0,108.0,6.1,Skal Labissière,,SAC,True,True
+mclembe01,13.766666666666667,0.381,0.286,0.0,0.286,0.0,9.2,4.3,0.0,0.0,0.0,0.0,26.0,86.0,122.0,-12.7,Ben McLemore,,SAC,True,True
+lawsoty01,32.06666666666667,0.682,0.682,0.182,0.0,3.5,7.9,5.5,54.9,0.0,0.0,26.7,21.2,121.0,122.0,0.1,Ty Lawson,,SAC,True,False
+tollian01,26.55,0.207,0.0,0.857,0.857,0.0,28.5,13.4,5.2,0.0,0.0,0.0,16.5,56.0,116.0,-14.5,Anthony Tolliver,,SAC,True,False
+hieldbu01,26.316666666666666,0.727,0.727,0.545,0.0,4.2,0.0,2.3,0.0,3.9,0.0,21.4,24.2,112.0,115.0,4.6,Buddy Hield,,SAC,True,False
+caulewi01,24.633333333333333,0.521,0.333,0.0,1.0,9.1,15.4,12.0,0.0,6.2,0.0,25.8,21.5,90.0,106.0,-4.8,Willie Cauley-Stein,,SAC,True,False
+evansty01,19.683333333333334,0.689,0.65,0.5,0.2,5.7,25.7,15.1,0.0,0.0,5.3,0.0,25.1,146.0,114.0,12.1,Tyreke Evans,,SAC,True,False
+gallola01,,,,,,,,,,,,,,,,,Langston Galloway,Did Not Play,SAC,True,False
+papagge01,,,,,,,,,,,,,,,,,Georgios Papagiannis,Did Not Play,SAC,True,False

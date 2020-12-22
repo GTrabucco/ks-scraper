@@ -1,0 +1,27 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+leonaka01,36.95,0.444,0.413,0.174,0.174,8.5,17.7,13.0,22.9,4.1,0.0,3.9,30.4,102.0,113.0,8.3,Kawhi Leonard,,SAS,False,True
+duncati01,34.416666666666664,0.571,0.5,0.0,0.429,6.1,9.5,7.7,0.0,0.0,2.2,10.7,23.6,109.0,124.0,0.5,Tim Duncan,,SAS,False,True
+aldrila01,33.916666666666664,0.5,0.5,0.0,0.0,3.1,41.8,22.0,10.4,0.0,2.2,0.0,23.1,108.0,113.0,6.0,LaMarcus Aldridge,,SAS,False,True
+greenda02,30.9,0.507,0.5,0.75,0.25,0.0,0.0,0.0,0.0,4.9,0.0,0.0,12.5,105.0,118.0,2.5,Danny Green,,SAS,False,True
+parketo01,22.766666666666666,0.5,0.5,0.0,0.0,0.0,4.8,2.3,18.8,2.2,0.0,25.0,15.3,86.0,122.0,-3.1,Tony Parker,,SAS,False,True
+ginobma01,22.95,0.363,0.25,0.5,0.333,0.0,4.8,2.3,11.0,0.0,0.0,12.7,15.0,79.0,127.0,-11.3,Manu Ginóbili,,SAS,False,False
+anderky01,14.633333333333333,0.615,0.5,0.0,0.5,0.0,7.5,3.6,0.0,0.0,0.0,17.0,17.5,104.0,126.0,-2.5,Kyle Anderson,,SAS,False,False
+millspa02,12.616666666666667,1.25,1.25,0.5,0.0,0.0,0.0,0.0,35.2,0.0,0.0,50.0,13.8,124.0,129.0,6.2,Patty Mills,,SAS,False,False
+millean02,9.3,0.333,0.333,0.333,0.0,22.4,11.7,17.2,59.3,0.0,0.0,0.0,14.1,128.0,125.0,8.4,Andre Miller,,SAS,False,False
+westda01,9.033333333333333,0.5,0.5,0.2,0.0,11.6,24.2,17.7,0.0,0.0,8.4,16.7,29.0,89.0,115.0,2.3,David West,,SAS,False,False
+marjabo01,6.633333333333333,1.0,1.0,0.0,0.0,15.7,0.0,8.0,0.0,0.0,0.0,0.0,6.6,205.0,128.0,-6.1,Boban Marjanović,,SAS,False,False
+martike02,5.883333333333333,0.0,0.0,0.333,0.0,0.0,37.1,18.1,0.0,0.0,0.0,0.0,22.2,0.0,116.0,-21.7,Kevin Martin,,SAS,False,False
+diawbo01,,,,,,,,,,,,,,,,,Boris Diaw,Did Not Play,SAS,False,False
+duranke01,42.68333333333333,0.632,0.521,0.167,0.5,0.0,22.0,11.2,8.5,0.0,0.0,6.4,32.4,130.0,108.0,7.8,Kevin Durant,,OKC,True,True
+adamsst01,40.35,0.856,0.857,0.0,0.571,13.5,15.5,14.5,0.0,2.5,1.6,0.0,9.6,184.0,103.0,7.0,Steven Adams,,OKC,True,True
+westbru01,38.483333333333334,0.592,0.524,0.286,0.286,2.8,5.4,4.2,54.4,2.6,0.0,20.2,34.0,114.0,107.0,7.5,Russell Westbrook,,OKC,True,True
+ibakase01,34.18333333333333,0.388,0.333,0.333,0.333,3.2,27.5,15.6,3.9,0.0,5.5,0.0,13.3,99.0,101.0,0.6,Serge Ibaka,,OKC,True,True
+roberan03,33.15,0.788,0.813,0.625,0.25,9.9,12.6,11.3,4.4,1.5,3.8,0.0,11.8,169.0,103.0,11.2,Andre Roberson,,OKC,True,True
+kanteen01,21.166666666666668,0.4,0.286,0.143,0.571,15.5,19.7,17.6,0.0,2.4,0.0,0.0,18.3,111.0,103.0,-2.9,Enes Kanter,,OKC,True,False
+waitedi01,18.383333333333333,0.2,0.2,0.0,0.0,5.9,5.7,5.8,27.9,2.8,0.0,16.7,14.4,78.0,106.0,-3.1,Dion Waiters,,OKC,True,False
+foyera01,10.983333333333333,0.25,0.25,0.75,0.0,0.0,9.5,4.9,12.3,0.0,5.8,20.0,20.1,55.0,106.0,-8.8,Randy Foye,,OKC,True,False
+payneca01,0.31666666666666665,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,114.0,-6.3,Cameron Payne,,OKC,True,False
+mohamna01,0.3,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,114.0,-4.3,Nazr Mohammed,,OKC,True,False
+singlky01,,,,,,,,,,,,,,,,,Kyle Singler,Did Not Play,OKC,True,False
+morroan01,,,,,,,,,,,,,,,,,Anthony Morrow,Did Not Play,OKC,True,False
+collini01,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,True,False

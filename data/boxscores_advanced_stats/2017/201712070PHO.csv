@@ -1,0 +1,24 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bealbr01,36.6,0.655,0.614,0.227,0.409,0.0,6.6,3.3,21.9,0.0,2.4,0.0,33.4,137.0,113.0,8.6,Bradley Beal,,WAS,False,True
+porteot01,31.966666666666665,0.222,0.222,0.222,0.0,0.0,7.5,3.8,11.9,1.6,2.7,10.0,14.7,59.0,109.0,-8.9,Otto Porter,,WAS,False,True
+morrima02,31.8,0.788,0.75,0.417,0.25,11.3,11.3,11.3,5.2,3.3,2.7,13.1,22.7,138.0,104.0,8.7,Markieff Morris,,WAS,False,True
+gortama01,23.333333333333332,0.333,0.333,0.0,0.0,5.1,36.0,20.6,16.7,2.2,0.0,25.0,16.1,75.0,102.0,-4.0,Marcin Gortat,,WAS,False,True
+fraziti01,21.3,0.7,0.7,0.2,0.0,0.0,5.6,2.8,19.7,0.0,0.0,16.7,13.3,124.0,115.0,-2.2,Tim Frazier,,WAS,False,True
+mahinia01,24.666666666666668,0.791,0.8,0.0,0.6,19.5,19.5,19.5,5.9,4.2,0.0,13.7,14.0,151.0,101.0,2.4,Ian Mahinmi,,WAS,False,False
+satorto01,22.316666666666666,0.17,0.2,0.2,0.4,0.0,5.4,2.7,27.7,0.0,0.0,0.0,12.4,77.0,114.0,-10.7,Tomáš Satoranský,,WAS,False,False
+oubreke01,22.283333333333335,0.558,0.444,0.333,0.444,0.0,37.7,18.8,18.7,0.0,3.9,8.5,24.8,115.0,103.0,0.9,Kelly Oubre,,WAS,False,False
+meeksjo01,13.8,0.595,0.5,0.6,0.4,0.0,17.4,8.7,0.0,0.0,0.0,14.5,23.5,101.0,112.0,-5.2,Jodie Meeks,,WAS,False,False
+scottmi01,11.933333333333334,1.031,1.167,0.333,0.667,0.0,10.1,5.0,27.8,0.0,0.0,20.5,19.2,154.0,113.0,11.9,Mike Scott,,WAS,False,False
+smithja02,,,,,,,,,,,,,,,,,Jason Smith,Did Not Play,WAS,False,False
+mcculch01,,,,,,,,,,,,,,,,,Chris McCullough,Did Not Play,WAS,False,False
+warretj01,43.8,0.498,0.45,0.0,0.35,8.2,13.7,11.0,4.2,0.0,0.0,0.0,24.5,113.0,123.0,-4.7,T.J. Warren,,PHO,True,True
+ulisty01,34.03333333333333,0.658,0.667,0.333,0.222,0.0,14.1,7.1,29.2,0.0,0.0,33.6,20.3,95.0,123.0,-5.7,Tyler Ulis,,PHO,True,True
+monrogr01,27.3,0.815,0.857,0.0,0.714,8.8,22.0,15.4,34.5,1.9,0.0,9.8,17.4,158.0,117.0,13.5,Greg Monroe,,PHO,True,True
+chrisma01,23.85,0.786,0.786,0.286,0.0,0.0,10.1,5.0,7.8,4.4,3.4,12.5,15.6,130.0,111.0,5.7,Marquese Chriss,,PHO,True,True
+jacksjo02,23.8,0.47,0.438,0.375,0.75,5.0,10.1,7.6,20.2,0.0,0.0,8.6,22.7,103.0,123.0,-7.4,Josh Jackson,,PHO,True,True
+danietr01,28.4,0.644,0.5,1.0,0.667,0.0,16.9,8.5,0.0,1.8,0.0,0.0,12.7,140.0,118.0,-1.0,Troy Daniels,,PHO,True,False
+lenal01,20.7,0.788,0.75,0.0,0.25,17.4,29.0,23.2,0.0,0.0,11.6,18.4,12.2,138.0,110.0,2.9,Alex Len,,PHO,True,False
+dudleja01,17.066666666666666,0.466,0.417,0.667,0.167,7.0,14.1,10.5,46.3,0.0,0.0,23.7,23.0,100.0,123.0,-2.0,Jared Dudley,,PHO,True,False
+jamesmi02,13.966666666666667,0.202,0.111,0.444,0.222,0.0,25.8,12.9,0.0,3.7,0.0,16.8,39.5,38.0,113.0,-26.7,Mike James,,PHO,True,False
+bendedr01,7.083333333333333,0.0,0.0,0.5,0.0,0.0,0.0,0.0,18.8,0.0,11.3,0.0,13.1,31.0,115.0,-12.2,Dragan Bender,,PHO,True,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Not With Team,PHO,True,False

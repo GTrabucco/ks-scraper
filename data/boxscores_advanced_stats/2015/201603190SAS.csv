@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+greendr01,39.266666666666666,0.527,0.55,0.5,0.1,5.3,19.4,12.2,39.3,1.4,2.1,22.3,17.0,99.0,100.0,4.7,Draymond Green,,GSW,False,True
+thompkl01,38.2,0.375,0.375,0.35,0.0,0.0,14.3,7.0,5.7,1.4,2.2,9.1,28.7,66.0,102.0,-5.8,Klay Thompson,,GSW,False,True
+curryst01,37.6,0.347,0.25,0.667,0.278,5.6,11.6,8.5,29.6,2.9,0.0,9.0,29.4,81.0,101.0,0.3,Stephen Curry,,GSW,False,True
+barneha02,30.166666666666668,0.4,0.4,0.4,0.0,0.0,7.2,3.5,18.2,3.7,0.0,9.1,18.2,79.0,101.0,-1.6,Harrison Barnes,,GSW,False,True
+rushbr01,27.283333333333335,0.833,0.833,0.5,0.0,3.8,8.0,5.9,0.0,2.0,0.0,0.0,11.0,150.0,105.0,7.1,Brandon Rush,,GSW,False,True
+livinsh01,21.666666666666668,0.333,0.333,0.0,0.0,4.8,20.1,12.3,23.1,10.2,3.9,0.0,6.9,109.0,79.0,12.2,Shaun Livingston,,GSW,False,False
+barbole01,13.866666666666667,0.781,0.75,1.0,1.0,0.0,31.5,15.4,14.4,0.0,0.0,14.8,24.3,126.0,99.0,9.1,Leandro Barbosa,,GSW,False,False
+speigma01,10.933333333333334,0.333,0.333,0.0,0.0,0.0,10.0,4.9,0.0,5.0,0.0,14.3,31.9,53.0,97.0,-12.7,Marreese Speights,,GSW,False,False
+mcadoja01,8.566666666666666,1.0,1.0,0.0,0.0,12.2,0.0,6.2,28.3,0.0,0.0,0.0,11.6,209.0,113.0,6.4,James Michael McAdoo,,GSW,False,False
+clarkia01,6.333333333333333,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.7,92.0,113.0,-7.9,Ian Clark,,GSW,False,False
+varejan01,6.116666666666666,0.0,0.0,0.0,0.0,0.0,17.8,8.7,25.3,0.0,0.0,0.0,8.1,45.0,105.0,-6.4,Anderson Varejão,,GSW,False,False
+bogutan01,,,,,,,,,,,,,,,,,Andrew Bogut,Did Not Dress,GSW,False,False
+leonaka01,38.53333333333333,0.514,0.393,0.214,0.571,17.0,21.7,19.4,19.3,0.0,5.4,18.6,26.0,107.0,90.0,7.3,Kawhi Leonard,,SAS,True,True
+aldrila01,37.15,0.486,0.44,0.0,0.16,8.8,28.1,18.7,0.0,1.5,0.0,7.0,36.1,102.0,89.0,4.1,LaMarcus Aldridge,,SAS,True,True
+diawbo01,35.083333333333336,0.888,0.857,0.0,0.286,3.1,20.8,12.2,11.5,1.6,3.0,20.2,13.1,142.0,88.0,11.2,Boris Diaw,,SAS,True,True
+greenda02,31.866666666666667,0.46,0.45,0.5,0.2,3.4,9.8,6.7,11.6,1.7,9.8,8.4,17.4,101.0,86.0,9.9,Danny Green,,SAS,True,True
+parketo01,29.05,0.375,0.375,0.5,0.0,0.0,10.8,5.5,34.5,0.0,0.0,20.0,16.1,90.0,97.0,-2.3,Tony Parker,,SAS,True,True
+millspa02,20.8,0.3,0.3,0.8,0.0,5.2,0.0,2.6,7.8,0.0,0.0,0.0,11.2,90.0,100.0,-4.8,Patty Mills,,SAS,True,False
+ginobma01,18.483333333333334,0.9,0.9,1.0,0.0,0.0,16.9,8.7,0.0,3.0,0.0,37.5,20.2,93.0,88.0,5.2,Manu Ginóbili,,SAS,True,False
+anderky01,9.916666666666666,0.0,0.0,0.0,0.0,0.0,42.1,21.5,15.1,0.0,0.0,50.0,9.4,26.0,88.0,-3.7,Kyle Anderson,,SAS,True,False
+duncati01,8.0,0.266,0.0,0.0,2.0,27.3,0.0,13.3,0.0,0.0,0.0,51.5,22.6,49.0,100.0,-18.3,Tim Duncan,,SAS,True,False
+westda01,7.983333333333333,0.0,0.0,0.0,0.0,0.0,13.1,6.7,18.8,0.0,0.0,0.0,11.7,32.0,96.0,-5.3,David West,,SAS,True,False
+martike02,3.1333333333333333,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,100.0,-1.7,Kevin Martin,,SAS,True,False
+marjabo01,,,,,,,,,,,,,,,,,Boban Marjanović,Did Not Play,SAS,True,False
+millean02,,,,,,,,,,,,,,,,,Andre Miller,Did Not Play,SAS,True,False

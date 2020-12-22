@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+hardeja01,39.733333333333334,0.465,0.324,0.588,0.676,4.5,16.4,10.7,42.9,2.3,5.8,15.3,51.2,98.0,103.0,4.3,James Harden,,HOU,False,True
+houseda01,36.68333333333333,0.291,0.333,0.333,0.333,0.0,4.4,2.3,7.2,1.2,2.1,12.7,8.4,66.0,114.0,-7.1,Danuel House,,HOU,False,True
+capelca01,36.3,0.698,0.643,0.0,0.286,26.9,24.7,25.7,0.0,2.5,4.3,6.0,18.0,153.0,100.0,7.1,Clint Capela,,HOU,False,True
+tuckepj01,33.733333333333334,0.508,0.429,0.429,0.286,7.9,33.8,21.4,8.2,2.7,2.3,11.3,10.3,118.0,96.0,1.3,P.J. Tucker,,HOU,False,True
+gordoer01,30.0,0.498,0.464,0.643,0.5,0.0,2.7,1.4,15.5,0.0,0.0,0.0,22.2,116.0,118.0,-4.0,Eric Gordon,,HOU,False,True
+mclembe01,32.43333333333333,1.0,1.0,1.0,0.0,0.0,7.5,3.9,4.9,0.0,0.0,0.0,10.8,195.0,116.0,5.3,Ben McLemore,,HOU,False,False
+riverau01,27.016666666666666,0.635,0.571,0.286,0.286,0.0,6.0,3.1,16.7,0.0,0.0,11.3,12.8,127.0,117.0,-4.6,Austin Rivers,,HOU,False,False
+harteis01,4.1,0.694,1.0,0.0,1.0,0.0,39.7,20.7,42.9,0.0,0.0,41.0,23.2,84.0,100.0,-1.6,Isaiah Hartenstein,,HOU,False,False
+sefolth01,,,,,,,,,,,,,,,,,Thabo Sefolosha,Did Not Play,HOU,False,False
+chandty01,,,,,,,,,,,,,,,,,Tyson Chandler,Did Not Play,HOU,False,False
+clemoch01,,,,,,,,,,,,,,,,,Chris Clemons,Did Not Play,HOU,False,False
+youngtr01,38.583333333333336,0.554,0.433,0.367,0.6,8.4,20.7,14.3,49.1,0.0,2.6,7.3,39.5,124.0,115.0,15.6,Trae Young,,ATL,True,True
+huertke01,37.21666666666667,0.506,0.45,0.3,0.2,0.0,14.3,6.8,15.2,1.2,0.0,8.4,11.9,110.0,116.0,-2.2,Kevin Huerter,,ATL,True,True
+collijo01,32.666666666666664,0.535,0.5,0.2,0.133,12.5,24.5,18.2,0.0,1.4,12.5,11.2,20.4,108.0,106.0,1.9,John Collins,,ATL,True,True
+huntede01,25.7,0.313,0.313,0.625,0.0,0.0,6.9,3.3,10.6,0.0,0.0,20.0,14.5,62.0,122.0,-13.3,De'Andre Hunter,,ATL,True,True
+reddica01,18.116666666666667,0.318,0.318,0.636,0.0,4.5,4.9,4.7,0.0,2.5,5.6,0.0,22.6,76.0,114.0,-8.2,Cam Reddish,,ATL,True,True
+crabbal01,24.666666666666668,0.643,0.643,0.857,0.0,3.3,3.6,3.4,5.9,1.8,0.0,0.0,10.6,141.0,119.0,3.1,Allen Crabbe,,ATL,True,False
+lenal01,23.116666666666667,0.574,0.5,0.2,0.5,17.6,19.2,18.4,0.0,0.0,4.4,7.6,21.3,124.0,114.0,-1.4,Alex Len,,ATL,True,False
+goodwbr01,13.4,0.571,0.571,0.429,0.0,0.0,26.5,12.7,25.4,3.4,0.0,12.5,22.2,110.0,105.0,4.9,Brandon Goodwin,,ATL,True,False
+cartevi01,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,0.0,124.0,-14.4,Vince Carter,,ATL,True,False
+bembrde01,8.933333333333334,0.167,0.167,0.5,0.0,0.0,0.0,0.0,16.0,5.0,0.0,14.3,29.2,40.0,112.0,-25.0,DeAndre' Bembry,,ATL,True,False
+watsopa01,4.0,0.0,0.0,1.0,0.0,0.0,22.2,10.6,0.0,0.0,0.0,0.0,9.3,0.0,115.0,-18.8,Paul Watson,,ATL,True,False
+jonesda03,3.6,,,,,0.0,0.0,0.0,0.0,0.0,28.4,,0.0,0.0,113.0,0.3,Damian Jones,,ATL,True,False
+brownch02,,,,,,,,,,,,,,,,,Charlie Brown,Did Not Play,ATL,True,False

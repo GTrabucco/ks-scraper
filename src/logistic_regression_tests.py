@@ -1,7 +1,7 @@
 import numpy as np
 
 class LogisticRegression:
-	def __init__(self, lr=0.01, n_iters=1000):
+	def __init__(self, lr=0.05, n_iters=1000):
 		self.lr = lr
 		self.n_iters = n_iters
 		self.weights = None
@@ -27,14 +27,21 @@ class LogisticRegression:
 	def predict(self, X):
 		linear_model = np.dot(X, self.weights) + self.bias
 		y_predicted = self._sigmoid(linear_model)
-		y_predicted_cls = [1 if i > 0.5 else 0 for i in y_predicted]
+		confidence = ""
+		for i in y_predicted:
+			if i >= 0.5:
+				confidence = '{:.1%}'.format(abs(i))
+			else:
+				confidence = '{:.1%}'.format(abs(1 - i))
+			print('GUT Confidence:', confidence)
+		y_predicted_cls = [1 if i >= 0.5 else 0 for i in y_predicted]
 		return y_predicted_cls
 
 	def predict_print(self, X):
 		linear_model = np.dot(X, self.weights) + self.bias
 		y_predicted = self._sigmoid(linear_model)
 		confidence = ""
-		if y_predicted[0] > 0.5:
+		if y_predicted[0] >= 0.5:
 			confidence = '{:.1%}'.format(abs(y_predicted[0]))
 		else:
 			confidence = '{:.1%}'.format(abs(1 - y_predicted[0]))

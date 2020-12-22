@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+parkeja01,37.21666666666667,8.0,13.0,0.615,0.0,0.0,,0.0,0.0,,3.0,4.0,7.0,2.0,2.0,0.0,2.0,5.0,16.0,-2.0,Jabari Parker,,MIL,False,True
+antetgi01,35.15,6.0,12.0,0.5,0.0,1.0,0.0,5.0,7.0,0.714,0.0,5.0,5.0,1.0,2.0,0.0,2.0,4.0,17.0,-12.0,Giannis Antetokounmpo,,MIL,False,True
+monrogr01,34.63333333333333,11.0,16.0,0.688,0.0,0.0,,2.0,3.0,0.667,5.0,7.0,12.0,3.0,1.0,1.0,1.0,1.0,24.0,-5.0,Greg Monroe,,MIL,False,True
+cartemi01,34.2,6.0,8.0,0.75,1.0,1.0,1.0,5.0,6.0,0.833,0.0,5.0,5.0,13.0,1.0,1.0,3.0,4.0,18.0,-1.0,Michael Carter-Williams,,MIL,False,True
+middlkh01,33.916666666666664,6.0,17.0,0.353,2.0,7.0,0.286,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,3.0,3.0,14.0,-1.0,Khris Middleton,,MIL,False,True
+bayleje01,27.466666666666665,2.0,9.0,0.222,2.0,6.0,0.333,0.0,0.0,,0.0,4.0,4.0,5.0,1.0,0.0,2.0,3.0,6.0,-4.0,Jerryd Bayless,,MIL,False,False
+vaughra01,17.816666666666666,3.0,6.0,0.5,3.0,5.0,0.6,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,9.0,-4.0,Rashad Vaughn,,MIL,False,False
+plumlmi01,13.366666666666667,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,2.0,1.0,3.0,0.0,0.0,2.0,2.0,3.0,0.0,-2.0,Miles Plumlee,,MIL,False,False
+obryajo01,6.233333333333333,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-4.0,Johnny O'Bryant,,MIL,False,False
+copelch01,,,,,,,,,,,,,,,,,,,,,Chris Copeland,Did Not Play,MIL,False,False
+ennisty01,,,,,,,,,,,,,,,,,,,,,Tyler Ennis,Did Not Play,MIL,False,False
+hensojo01,,,,,,,,,,,,,,,,,,,,,John Henson,Not With Team,MIL,False,False
+mayooj01,,,,,,,,,,,,,,,,,,,,,O.J. Mayo,Not With Team,MIL,False,False
+gayru01,37.916666666666664,13.0,20.0,0.65,1.0,3.0,0.333,5.0,6.0,0.833,1.0,8.0,9.0,6.0,2.0,0.0,1.0,2.0,32.0,7.0,Rudy Gay,,SAC,True,True
+belinma01,36.233333333333334,5.0,15.0,0.333,2.0,9.0,0.222,6.0,7.0,0.857,1.0,2.0,3.0,6.0,1.0,0.0,2.0,3.0,18.0,10.0,Marco Belinelli,,SAC,True,True
+rondora01,34.96666666666667,6.0,10.0,0.6,4.0,4.0,1.0,3.0,4.0,0.75,0.0,2.0,2.0,7.0,3.0,0.0,6.0,0.0,19.0,4.0,Rajon Rondo,,SAC,True,True
+koufoko01,30.183333333333334,3.0,9.0,0.333,0.0,0.0,,1.0,2.0,0.5,5.0,6.0,11.0,0.0,1.0,1.0,2.0,5.0,7.0,10.0,Kosta Koufos,,SAC,True,True
+caulewi01,28.5,2.0,4.0,0.5,0.0,0.0,,0.0,0.0,,4.0,6.0,10.0,0.0,0.0,2.0,3.0,1.0,4.0,8.0,Willie Cauley-Stein,,SAC,True,True
+casspom01,24.516666666666666,3.0,9.0,0.333,1.0,4.0,0.25,6.0,7.0,0.857,0.0,5.0,5.0,1.0,0.0,0.0,0.0,1.0,13.0,-1.0,Omri Casspi,,SAC,True,False
+collida01,21.6,5.0,11.0,0.455,1.0,4.0,0.25,3.0,4.0,0.75,0.0,3.0,3.0,0.0,0.0,0.0,2.0,3.0,14.0,-4.0,Darren Collison,,SAC,True,False
+acyqu01,17.45,2.0,7.0,0.286,0.0,1.0,0.0,0.0,0.0,,7.0,1.0,8.0,1.0,0.0,0.0,0.0,2.0,4.0,-3.0,Quincy Acy,,SAC,True,False
+anderja01,8.633333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,James Anderson,,SAC,True,False
+butleca01,,,,,,,,,,,,,,,,,,,,,Caron Butler,Did Not Play,SAC,True,False
+couside01,,,,,,,,,,,,,,,,,,,,,DeMarcus Cousins,Did Not Dress,SAC,True,False
+curryse01,,,,,,,,,,,,,,,,,,,,,Seth Curry,Did Not Play,SAC,True,False
+mclembe01,,,,,,,,,,,,,,,,,,,,,Ben McLemore,Did Not Dress,SAC,True,False

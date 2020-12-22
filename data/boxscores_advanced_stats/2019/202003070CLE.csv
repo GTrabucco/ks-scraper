@@ -1,0 +1,25 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+bartowi01,36.63333333333333,0.597,0.583,0.5,0.056,3.3,28.7,14.6,16.8,0.0,0.0,9.8,25.4,115.0,116.0,-0.5,Will Barton,,DEN,False,True
+jokicni01,32.3,0.35,0.364,0.273,0.091,7.4,27.9,16.5,32.1,1.6,0.0,25.9,21.7,85.0,113.0,-7.2,Nikola Jokić,,DEN,False,True
+harriga01,30.883333333333333,1.014,1.063,0.375,0.25,0.0,4.9,2.2,4.8,8.3,0.0,10.1,14.6,165.0,102.0,16.2,Gary Harris,,DEN,False,True
+murraja01,30.8,0.607,0.607,0.5,0.0,15.6,4.9,10.8,34.0,0.0,0.0,12.5,23.6,128.0,120.0,4.0,Jamal Murray,,DEN,False,True
+millspa01,26.533333333333335,0.667,0.667,0.0,0.0,0.0,5.7,2.5,5.1,1.9,0.0,40.0,17.1,73.0,116.0,-10.7,Paul Millsap,,DEN,False,True
+morrimo01,22.15,0.583,0.583,0.333,0.0,0.0,6.8,3.0,5.9,2.3,0.0,14.3,14.4,101.0,115.0,-4.7,Monte Morris,,DEN,False,False
+grantje01,21.466666666666665,0.438,0.438,0.25,0.0,0.0,21.0,9.3,6.2,9.5,0.0,11.1,19.1,83.0,96.0,-0.8,Jerami Grant,,DEN,False,False
+portemi01,15.75,0.583,0.583,0.5,0.0,7.6,9.5,8.5,9.0,3.2,0.0,14.3,20.2,107.0,112.0,-1.5,Michael Porter,,DEN,False,False
+plumlma01,15.7,0.37,0.4,0.0,0.8,7.6,19.1,12.7,16.6,3.3,0.0,0.0,19.6,98.0,111.0,-2.3,Mason Plumlee,,DEN,False,False
+craigto01,7.783333333333333,0.5,0.5,1.0,0.0,0.0,19.3,8.6,33.5,6.6,0.0,25.0,23.4,96.0,101.0,-4.2,Torrey Craig,,DEN,False,False
+doziepj01,,,,,,,,,,,,,,,,,PJ Dozier,Did Not Play,DEN,False,False
+vonleno01,,,,,,,,,,,,,,,,,Noah Vonleh,Did Not Play,DEN,False,False
+danietr01,,,,,,,,,,,,,,,,,Troy Daniels,Did Not Play,DEN,False,False
+sextoco01,40.31666666666667,0.629,0.605,0.211,0.105,0.0,17.9,9.9,20.6,2.5,0.0,23.2,30.1,100.0,107.0,-2.9,Collin Sexton,,CLE,True,True
+osmande01,38.416666666666664,0.804,0.792,0.5,0.083,0.0,9.4,5.2,3.8,2.7,0.0,13.9,17.6,125.0,108.0,3.0,Cedi Osman,,CLE,True,True
+thomptr01,37.916666666666664,0.383,0.4,0.1,0.4,11.9,31.6,22.9,17.1,0.0,4.8,20.3,18.3,90.0,106.0,-4.7,Tristan Thompson,,CLE,True,True
+loveke01,36.88333333333333,0.703,0.676,0.647,0.294,4.1,16.3,10.8,12.9,0.0,0.0,5.0,25.7,138.0,113.0,6.2,Kevin Love,,CLE,True,True
+dellama01,31.1,0.875,0.875,0.5,0.0,9.6,15.4,12.9,57.8,1.6,0.0,50.0,12.1,137.0,109.0,6.1,Matthew Dellavedova,,CLE,True,True
+nancela02,30.766666666666666,0.571,0.571,0.286,0.0,9.8,0.0,4.3,17.5,3.3,0.0,36.4,16.8,92.0,109.0,-3.1,Larry Nance,,CLE,True,False
+mckinal01,20.433333333333334,0.667,0.667,0.333,0.0,0.0,17.6,9.8,0.0,2.5,0.0,14.3,16.1,103.0,107.0,-3.4,Alfonzo McKinnie,,CLE,True,False
+zizican01,4.166666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0.0,117.0,-18.4,Ante Žižić,,CLE,True,False
+garlada01,,,,,,,,,,,,,,,,,Darius Garland,Did Not Dress,CLE,True,False
+drumman01,,,,,,,,,,,,,,,,,Andre Drummond,Did Not Dress,CLE,True,False
+wadede01,,,,,,,,,,,,,,,,,Dean Wade,Did Not Dress,CLE,True,False

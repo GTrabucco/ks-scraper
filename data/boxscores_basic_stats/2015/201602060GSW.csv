@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+duranke01,40.43333333333333,12.0,25.0,0.48,3.0,9.0,0.333,13.0,13.0,1.0,2.0,12.0,14.0,5.0,1.0,2.0,5.0,1.0,40.0,-3.0,Kevin Durant,,OKC,False,True
+westbru01,37.4,8.0,22.0,0.364,2.0,4.0,0.5,9.0,9.0,1.0,2.0,1.0,3.0,12.0,3.0,0.0,3.0,4.0,27.0,-5.0,Russell Westbrook,,OKC,False,True
+waitedi01,36.71666666666667,1.0,5.0,0.2,0.0,0.0,,2.0,3.0,0.667,0.0,4.0,4.0,1.0,3.0,0.0,0.0,2.0,4.0,1.0,Dion Waiters,,OKC,False,True
+ibakase01,35.766666666666666,3.0,5.0,0.6,1.0,3.0,0.333,1.0,2.0,0.5,1.0,2.0,3.0,0.0,0.0,0.0,0.0,3.0,8.0,-5.0,Serge Ibaka,,OKC,False,True
+adamsst01,33.166666666666664,4.0,7.0,0.571,0.0,0.0,,4.0,7.0,0.571,3.0,5.0,8.0,1.0,1.0,2.0,4.0,3.0,12.0,-13.0,Steven Adams,,OKC,False,True
+kanteen01,19.55,7.0,10.0,0.7,0.0,0.0,,0.0,1.0,0.0,4.0,11.0,15.0,1.0,0.0,0.0,1.0,2.0,14.0,0.0,Enes Kanter,,OKC,False,False
+morroan01,13.25,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,-5.0,Anthony Morrow,,OKC,False,False
+payneca01,12.333333333333334,1.0,7.0,0.143,1.0,3.0,0.333,0.0,0.0,,0.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,3.0,-2.0,Cameron Payne,,OKC,False,False
+singlky01,11.383333333333333,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,-8.0,Kyle Singler,,OKC,False,False
+augusdj01,,,,,,,,,,,,,,,,,,,,,D.J. Augustin,Did Not Play,OKC,False,False
+collini01,,,,,,,,,,,,,,,,,,,,,Nick Collison,Did Not Play,OKC,False,False
+mcgarmi01,,,,,,,,,,,,,,,,,,,,,Mitch McGary,Did Not Play,OKC,False,False
+novakst01,,,,,,,,,,,,,,,,,,,,,Steve Novak,Did Not Play,OKC,False,False
+curryst01,37.7,10.0,26.0,0.385,1.0,9.0,0.111,5.0,5.0,1.0,1.0,5.0,6.0,10.0,3.0,0.0,3.0,2.0,26.0,3.0,Stephen Curry,,GSW,True,True
+barneha02,35.96666666666667,8.0,14.0,0.571,3.0,6.0,0.5,0.0,2.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,4.0,19.0,-7.0,Harrison Barnes,,GSW,True,True
+greendr01,35.61666666666667,3.0,9.0,0.333,0.0,0.0,,3.0,6.0,0.5,6.0,9.0,15.0,6.0,0.0,0.0,1.0,5.0,9.0,9.0,Draymond Green,,GSW,True,True
+thompkl01,34.266666666666666,8.0,15.0,0.533,1.0,6.0,0.167,1.0,1.0,1.0,0.0,4.0,4.0,0.0,0.0,0.0,2.0,3.0,18.0,2.0,Klay Thompson,,GSW,True,True
+bogutan01,19.7,1.0,3.0,0.333,0.0,0.0,,0.0,0.0,,2.0,4.0,6.0,1.0,0.0,2.0,1.0,4.0,2.0,-11.0,Andrew Bogut,,GSW,True,True
+iguodan01,29.466666666666665,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,8.0,14.0,Andre Iguodala,,GSW,True,False
+speigma01,17.2,6.0,10.0,0.6,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,15.0,20.0,Marreese Speights,,GSW,True,False
+livinsh01,15.483333333333333,4.0,7.0,0.571,0.0,0.0,,2.0,3.0,0.667,0.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,10.0,4.0,Shaun Livingston,,GSW,True,False
+barbole01,13.733333333333333,4.0,6.0,0.667,1.0,3.0,0.333,0.0,1.0,0.0,1.0,5.0,6.0,1.0,1.0,0.0,0.0,0.0,9.0,6.0,Leandro Barbosa,,GSW,True,False
+rushbr01,0.8666666666666667,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brandon Rush,,GSW,True,False
+clarkia01,,,,,,,,,,,,,,,,,,,,,Ian Clark,Did Not Play,GSW,True,False
+looneke01,,,,,,,,,,,,,,,,,,,,,Kevon Looney,Did Not Play,GSW,True,False
+thompja02,,,,,,,,,,,,,,,,,,,,,Jason Thompson,Did Not Play,GSW,True,False

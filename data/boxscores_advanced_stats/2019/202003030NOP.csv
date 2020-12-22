@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+beaslma01,35.6,1.009,1.0,0.385,0.154,0.0,9.0,4.7,13.8,0.0,0.0,6.7,16.5,185.0,127.0,8.6,Malik Beasley,,MIN,False,True
+hernaju01,33.78333333333333,0.649,0.636,0.455,0.273,3.5,22.1,13.2,6.2,3.9,0.0,14.0,16.7,119.0,116.0,-0.2,Juan Hernangómez,,MIN,False,True
+russeda01,31.033333333333335,0.505,0.452,0.429,0.19,0.0,10.3,5.4,29.7,1.4,0.0,18.0,35.3,100.0,124.0,-7.3,D'Angelo Russell,,MIN,False,True
+okogijo01,30.85,0.698,0.643,0.286,0.286,7.6,6.9,7.2,3.3,1.4,0.0,11.3,11.3,137.0,125.0,-2.4,Josh Okogie,,MIN,False,True
+reidna01,27.383333333333333,0.505,0.458,0.333,0.167,12.8,42.8,28.5,11.6,4.8,5.7,7.2,20.0,119.0,105.0,3.4,Naz Reid,,MIN,False,True
+johnsja01,21.183333333333334,0.603,0.607,0.143,0.286,16.6,15.1,15.8,31.6,4.1,0.0,6.0,31.2,133.0,117.0,9.0,James Johnson,,MIN,False,False
+mclaujo01,19.583333333333332,0.929,0.929,0.286,0.0,0.0,0.0,0.0,37.4,2.2,0.0,36.4,22.1,124.0,125.0,2.5,Jordan McLaughlin,,MIN,False,False
+culveja01,19.016666666666666,0.688,0.688,0.375,0.0,6.2,5.6,5.9,6.1,0.0,0.0,0.0,16.6,146.0,128.0,-2.2,Jarrett Culver,,MIN,False,False
+laymaja01,13.65,0.347,0.0,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.3,84.0,130.0,-10.6,Jake Layman,,MIN,False,False
+martike03,7.916666666666667,0.615,0.5,0.5,0.5,0.0,26.9,14.1,12.6,0.0,0.0,29.1,17.1,100.0,123.0,-6.8,Kelan Martin,,MIN,False,False
+nowelja01,,,,,,,,,,,,,,,,,Jaylen Nowell,Did Not Play,MIN,False,False
+townska01,,,,,,,,,,,,,,,,,Karl-Anthony Towns,Did Not Dress,MIN,False,False
+holidjr01,37.833333333333336,0.676,0.688,0.375,0.563,8.5,21.7,14.8,38.7,0.0,0.0,13.1,23.0,138.0,131.0,3.1,Jrue Holiday,,NOP,True,True
+ingrabr01,35.7,0.655,0.618,0.412,0.176,3.0,6.6,4.7,13.5,2.4,0.0,14.1,22.6,120.0,128.0,-0.4,Brandon Ingram,,NOP,True,True
+balllo01,32.85,1.009,1.042,0.833,0.167,3.2,14.3,8.5,30.1,4.0,2.3,31.8,21.7,128.0,121.0,14.3,Lonzo Ball,,NOP,True,True
+willizi01,32.63333333333333,0.544,0.526,0.0,0.474,9.8,17.9,13.7,11.8,5.3,2.3,4.2,27.8,119.0,118.0,1.6,Zion Williamson,,NOP,True,True
+favorde01,26.283333333333335,0.833,0.833,0.0,0.0,12.2,13.4,12.7,4.3,0.0,0.0,0.0,8.6,178.0,132.0,-3.5,Derrick Favors,,NOP,True,True
+hartjo01,26.183333333333334,0.423,0.423,0.692,0.0,4.1,22.4,12.8,21.4,1.7,0.0,13.3,21.7,96.0,127.0,-6.6,Josh Hart,,NOP,True,False
+mellini01,18.683333333333334,0.363,0.333,0.5,0.333,5.7,6.3,6.0,11.0,4.7,0.0,0.0,13.9,103.0,123.0,-6.7,Nicolò Melli,,NOP,True,False
+mooreet01,17.05,0.143,0.143,0.286,0.0,0.0,13.7,6.5,5.7,2.6,0.0,0.0,15.5,45.0,126.0,-17.2,E'Twaun Moore,,NOP,True,False
+jacksfr01,12.783333333333333,0.41,0.375,0.5,0.5,0.0,18.3,8.7,7.8,0.0,0.0,0.0,14.4,101.0,131.0,-9.0,Frank Jackson,,NOP,True,False
+hayesja02,,,,,,,,,,,,,,,,,Jaxson Hayes,Did Not Play,NOP,True,False
+okafoja01,,,,,,,,,,,,,,,,,Jahlil Okafor,Did Not Play,NOP,True,False
+alexani01,,,,,,,,,,,,,,,,,Nickeil Alexander-Walker,Did Not Play,NOP,True,False
+redicjj01,,,,,,,,,,,,,,,,,J.J. Redick,Did Not Dress,NOP,True,False

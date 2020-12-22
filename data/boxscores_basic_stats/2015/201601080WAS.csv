@@ -1,0 +1,26 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+lowryky01,41.15,8.0,18.0,0.444,3.0,6.0,0.5,2.0,2.0,1.0,1.0,9.0,10.0,4.0,4.0,1.0,6.0,2.0,21.0,4.0,Kyle Lowry,,TOR,False,True
+derozde01,39.6,11.0,24.0,0.458,1.0,4.0,0.25,12.0,13.0,0.923,1.0,7.0,8.0,1.0,1.0,1.0,1.0,0.0,35.0,5.0,DeMar DeRozan,,TOR,False,True
+valanjo01,30.016666666666666,1.0,4.0,0.25,0.0,0.0,,5.0,6.0,0.833,0.0,3.0,3.0,3.0,1.0,4.0,6.0,4.0,7.0,-1.0,Jonas Valančiūnas,,TOR,False,True
+johnsja01,21.45,4.0,6.0,0.667,0.0,0.0,,0.0,0.0,,2.0,7.0,9.0,0.0,0.0,1.0,2.0,0.0,8.0,4.0,James Johnson,,TOR,False,True
+scolalu01,19.833333333333332,4.0,10.0,0.4,0.0,1.0,0.0,3.0,3.0,1.0,2.0,3.0,5.0,0.0,0.0,0.0,1.0,3.0,11.0,7.0,Luis Scola,,TOR,False,True
+pattepa01,27.95,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,2.0,Patrick Patterson,,TOR,False,False
+josepco01,24.266666666666666,3.0,6.0,0.5,0.0,1.0,0.0,2.0,2.0,1.0,0.0,4.0,4.0,2.0,1.0,1.0,3.0,3.0,8.0,7.0,Cory Joseph,,TOR,False,False
+biyombi01,17.983333333333334,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,6.0,6.0,0.0,0.0,4.0,1.0,3.0,0.0,10.0,Bismack Biyombo,,TOR,False,False
+rosste01,17.766666666666666,3.0,4.0,0.75,1.0,2.0,0.5,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,7.0,7.0,Terrence Ross,,TOR,False,False
+cabocbr01,,,,,,,,,,,,,,,,,,,,,Bruno Caboclo,Did Not Play,TOR,False,False
+noguelu01,,,,,,,,,,,,,,,,,,,,,Lucas Nogueira,Did Not Play,TOR,False,False
+powelno01,,,,,,,,,,,,,,,,,,,,,Norman Powell,Did Not Play,TOR,False,False
+wrighde01,,,,,,,,,,,,,,,,,,,,,Delon Wright,Did Not Play,TOR,False,False
+walljo01,36.56666666666667,8.0,20.0,0.4,2.0,5.0,0.4,3.0,3.0,1.0,0.0,2.0,2.0,4.0,0.0,3.0,7.0,1.0,21.0,-3.0,John Wall,,WAS,True,True
+porteot01,36.43333333333333,6.0,10.0,0.6,1.0,3.0,0.333,3.0,3.0,1.0,1.0,4.0,5.0,3.0,2.0,1.0,1.0,4.0,16.0,-9.0,Otto Porter,,WAS,True,True
+gortama01,35.28333333333333,5.0,11.0,0.455,0.0,0.0,,2.0,2.0,1.0,2.0,8.0,10.0,3.0,0.0,3.0,2.0,2.0,12.0,1.0,Marcin Gortat,,WAS,True,True
+templga01,32.45,3.0,9.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,1.0,1.0,3.0,2.0,0.0,1.0,5.0,7.0,-2.0,Garrett Temple,,WAS,True,True
+dudleja01,29.25,1.0,4.0,0.25,1.0,3.0,0.333,2.0,2.0,1.0,0.0,4.0,4.0,4.0,2.0,0.0,2.0,2.0,5.0,-4.0,Jared Dudley,,WAS,True,True
+sessira01,22.416666666666668,5.0,11.0,0.455,1.0,3.0,0.333,3.0,3.0,1.0,1.0,3.0,4.0,1.0,0.0,1.0,3.0,2.0,14.0,-7.0,Ramon Sessions,,WAS,True,False
+nealga01,14.983333333333333,1.0,9.0,0.111,0.0,4.0,0.0,0.0,0.0,,1.0,2.0,3.0,0.0,2.0,0.0,0.0,1.0,2.0,-5.0,Gary Neal,,WAS,True,False
+hilarne01,12.5,2.0,5.0,0.4,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,0.0,1.0,1.0,2.0,2.0,4.0,-10.0,Nenê Hilário,,WAS,True,False
+oubreke01,10.166666666666666,1.0,2.0,0.5,1.0,2.0,0.5,1.0,2.0,0.5,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,4.0,1.0,Kelly Oubre,,WAS,True,False
+goodedr01,9.966666666666667,1.0,3.0,0.333,1.0,3.0,0.333,0.0,0.0,,1.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,3.0,-7.0,Drew Gooden,,WAS,True,False
+blairde01,,,,,,,,,,,,,,,,,,,,,DeJuan Blair,Did Not Play,WAS,True,False
+eddieja01,,,,,,,,,,,,,,,,,,,,,Jarell Eddie,Did Not Play,WAS,True,False

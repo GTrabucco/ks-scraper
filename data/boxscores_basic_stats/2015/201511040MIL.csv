@@ -1,0 +1,27 @@
+player_id,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,plus_minus,player_name,note,team_id,is_home,is_starter
+stausni01,34.733333333333334,5.0,19.0,0.263,3.0,14.0,0.214,1.0,1.0,1.0,1.0,6.0,7.0,4.0,0.0,0.0,4.0,1.0,14.0,17.0,Nik Stauskas,,PHI,False,True
+okafoja01,34.71666666666667,9.0,13.0,0.692,0.0,0.0,,3.0,3.0,1.0,1.0,5.0,6.0,0.0,0.0,2.0,2.0,3.0,21.0,-4.0,Jahlil Okafor,,PHI,False,True
+mccontj01,34.55,3.0,4.0,0.75,1.0,1.0,1.0,0.0,0.0,,1.0,8.0,9.0,12.0,0.0,0.0,1.0,2.0,7.0,4.0,T.J. McConnell,,PHI,False,True
+noelne01,33.05,8.0,16.0,0.5,0.0,0.0,,1.0,2.0,0.5,5.0,7.0,12.0,1.0,1.0,1.0,3.0,5.0,17.0,9.0,Nerlens Noel,,PHI,False,True
+grantje01,22.85,3.0,9.0,0.333,0.0,3.0,0.0,2.0,2.0,1.0,1.0,6.0,7.0,3.0,0.0,4.0,0.0,2.0,8.0,22.0,Jerami Grant,,PHI,False,True
+thompho01,27.766666666666666,3.0,7.0,0.429,1.0,4.0,0.25,0.0,0.0,,1.0,3.0,4.0,1.0,1.0,1.0,5.0,2.0,7.0,-22.0,Hollis Thompson,,PHI,False,False
+holmeri01,19.25,2.0,6.0,0.333,0.0,2.0,0.0,3.0,4.0,0.75,1.0,1.0,2.0,0.0,1.0,0.0,1.0,2.0,7.0,-20.0,Richaun Holmes,,PHI,False,False
+sampsja02,15.533333333333333,1.0,3.0,0.333,1.0,1.0,1.0,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,1.0,4.0,3.0,-16.0,JaKarr Sampson,,PHI,False,False
+canaais01,15.0,0.0,4.0,0.0,0.0,3.0,0.0,3.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,-16.0,Isaiah Canaan,,PHI,False,False
+pressph01,2.533333333333333,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,Phil Pressey,,PHI,False,False
+woodch01,,,,,,,,,,,,,,,,,,,,,Christian Wood,Did Not Play,PHI,False,False
+marshke01,,,,,,,,,,,,,,,,,,,,,Kendall Marshall,Did Not Dress,PHI,False,False
+covinro01,,,,,,,,,,,,,,,,,,,,,Robert Covington,Not With Team,PHI,False,False
+antetgi01,40.53333333333333,7.0,11.0,0.636,1.0,1.0,1.0,2.0,3.0,0.667,0.0,5.0,5.0,3.0,1.0,1.0,3.0,2.0,17.0,0.0,Giannis Antetokounmpo,,MIL,True,True
+monrogr01,36.266666666666666,7.0,14.0,0.5,0.0,0.0,,4.0,5.0,0.8,2.0,6.0,8.0,4.0,3.0,0.0,2.0,3.0,18.0,6.0,Greg Monroe,,MIL,True,True
+middlkh01,35.63333333333333,7.0,20.0,0.35,3.0,7.0,0.429,4.0,4.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,1.0,2.0,21.0,7.0,Khris Middleton,,MIL,True,True
+bayleje01,30.4,2.0,6.0,0.333,1.0,2.0,0.5,0.0,0.0,,0.0,4.0,4.0,3.0,0.0,0.0,1.0,2.0,5.0,-7.0,Jerryd Bayless,,MIL,True,True
+parkeja01,16.35,1.0,5.0,0.2,0.0,0.0,,0.0,0.0,,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,2.0,-8.0,Jabari Parker,,MIL,True,True
+vasqugr01,22.0,4.0,12.0,0.333,1.0,4.0,0.25,2.0,3.0,0.667,1.0,0.0,1.0,5.0,1.0,0.0,1.0,5.0,11.0,20.0,Greivis Vásquez,,MIL,True,False
+vaughra01,16.55,1.0,3.0,0.333,1.0,2.0,0.5,0.0,0.0,,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,Rashad Vaughn,,MIL,True,False
+plumlmi01,11.733333333333333,1.0,1.0,1.0,0.0,0.0,,0.0,0.0,,0.0,4.0,4.0,1.0,0.0,2.0,1.0,2.0,2.0,-2.0,Miles Plumlee,,MIL,True,False
+obryajo01,11.683333333333334,1.0,3.0,0.333,0.0,0.0,,0.0,1.0,0.0,3.0,1.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,Johnny O'Bryant,,MIL,True,False
+copelch01,10.416666666666666,3.0,9.0,0.333,1.0,7.0,0.143,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,8.0,10.0,Chris Copeland,,MIL,True,False
+ennisty01,8.433333333333334,1.0,2.0,0.5,0.0,0.0,,0.0,0.0,,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,2.0,-7.0,Tyler Ennis,,MIL,True,False
+inglida01,,,,,,,,,,,,,,,,,,,,,Damien Inglis,Did Not Play,MIL,True,False
+cartemi01,,,,,,,,,,,,,,,,,,,,,Michael Carter-Williams,Did Not Dress,MIL,True,False

@@ -1,0 +1,26 @@
+player_id,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm,player_name,note,team_id,is_home,is_starter
+couside01,35.75,0.662,0.625,0.208,0.375,6.4,26.9,17.0,9.4,5.5,2.9,3.5,35.8,135.0,96.0,13.0,DeMarcus Cousins,,SAC,False,True
+gayru01,31.616666666666667,0.656,0.633,0.333,0.267,14.5,13.5,14.0,35.9,1.6,3.2,10.7,26.2,140.0,109.0,11.5,Rudy Gay,,SAC,False,True
+collida01,29.733333333333334,0.712,0.7,0.2,0.6,0.0,7.2,3.7,8.9,1.6,0.0,19.2,23.2,116.0,113.0,-3.3,Darren Collison,,SAC,False,True
+koufoko01,26.25,0.6,0.6,0.0,0.0,4.4,4.1,4.2,0.0,0.0,0.0,28.6,11.8,88.0,117.0,-12.3,Kosta Koufos,,SAC,False,True
+afflaar01,20.733333333333334,0.667,0.667,0.0,0.0,0.0,20.6,10.6,0.0,0.0,0.0,0.0,6.4,132.0,113.0,-6.7,Arron Afflalo,,SAC,False,True
+templga01,27.266666666666666,0.233,0.167,0.5,0.167,0.0,11.7,6.1,8.0,5.4,0.0,13.4,12.1,61.0,102.0,-7.7,Garrett Temple,,SAC,False,False
+lawsoty01,21.566666666666666,0.597,0.55,0.2,0.2,5.3,14.8,10.2,25.5,2.3,0.0,15.5,26.4,118.0,109.0,-1.0,Ty Lawson,,SAC,False,False
+barnema02,18.866666666666667,0.7,0.7,0.6,0.0,6.1,17.0,11.7,39.8,0.0,5.4,28.6,16.4,130.0,110.0,6.7,Matt Barnes,,SAC,False,False
+casspom01,18.233333333333334,1.333,1.333,0.667,0.0,0.0,29.3,15.1,0.0,0.0,0.0,0.0,7.3,267.0,111.0,6.9,Omri Casspi,,SAC,False,False
+mclembe01,6.683333333333334,0.5,0.5,0.25,0.0,0.0,16.0,8.3,0.0,7.3,0.0,0.0,26.4,99.0,96.0,-1.2,Ben McLemore,,SAC,False,False
+caulewi01,3.3,0.0,0.0,0.0,0.0,0.0,32.3,16.7,0.0,0.0,0.0,0.0,13.4,0.0,110.0,-20.2,Willie Cauley-Stein,,SAC,False,False
+tollian01,,,,,,,,,,,,,,,,,Anthony Tolliver,Did Not Play,SAC,False,False
+lopezbr01,30.3,0.507,0.433,0.533,0.267,3.5,22.6,12.7,10.5,0.0,0.0,10.7,27.5,101.0,127.0,-5.1,Brook Lopez,,BRK,True,True
+kilpase01,29.65,0.768,0.731,0.385,0.231,3.6,15.4,9.3,19.4,3.3,0.0,17.3,25.9,130.0,121.0,8.3,Sean Kilpatrick,,BRK,True,True
+whiteis01,28.8,0.917,0.917,0.5,0.0,0.0,15.9,7.7,10.6,0.0,0.0,33.3,13.9,114.0,128.0,-3.0,Isaiah Whitehead,,BRK,True,True
+bogdabo02,27.916666666666668,0.604,0.556,0.556,0.444,0.0,4.1,2.0,11.0,0.0,0.0,8.5,18.7,119.0,130.0,-4.3,Bojan Bogdanović,,BRK,True,True
+booketr01,26.466666666666665,0.5,0.5,0.0,0.0,4.0,30.2,16.7,29.5,1.9,0.0,11.1,15.1,117.0,121.0,-0.1,Trevor Booker,,BRK,True,True
+hamilju01,23.516666666666666,0.429,0.429,0.286,0.0,18.1,29.2,23.5,19.2,2.1,0.0,0.0,13.2,129.0,121.0,2.0,Justin Hamilton,,BRK,True,False
+foyera01,22.116666666666667,0.533,0.5,0.75,0.125,0.0,20.7,10.0,0.0,2.2,0.0,19.2,20.9,84.0,122.0,-9.7,Randy Foye,,BRK,True,False
+harrijo01,18.75,0.5,0.5,0.625,0.0,0.0,0.0,0.0,8.4,0.0,0.0,0.0,18.9,107.0,131.0,-6.5,Joe Harris,,BRK,True,False
+ferreyo01,16.766666666666666,0.417,0.417,0.667,0.0,6.4,0.0,3.3,8.9,0.0,4.5,25.0,21.2,75.0,127.0,-10.3,Yogi Ferrell,,BRK,True,False
+scolalu01,12.133333333333333,0.436,0.333,0.167,0.333,8.8,0.0,4.5,0.0,8.1,0.0,12.7,28.8,87.0,112.0,-9.6,Luis Scola,,BRK,True,False
+mcculch01,3.5833333333333335,0.0,0.0,1.0,0.0,0.0,31.9,15.4,0.0,0.0,0.0,0.0,12.4,0.0,125.0,-18.2,Chris McCullough,,BRK,True,False
+bennean01,,,,,,,,,,,,,,,,,Anthony Bennett,Did Not Play,BRK,True,False
+holliro01,,,,,,,,,,,,,,,,,Rondae Hollis-Jefferson,Did Not Play,BRK,True,False
