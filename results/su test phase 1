@@ -1,0 +1,197 @@
+Test on: 2015
+Overall: 0.5534062237174096
+Confident: 20 18 0.5263157894736842
+                                 OLS Regression Results
+=======================================================================================
+Dep. Variable:                     10   R-squared (uncentered):                   0.472
+Model:                            OLS   Adj. R-squared (uncentered):              0.468
+Method:                 Least Squares   F-statistic:                              105.5
+Date:                Mon, 28 Dec 2020   Prob (F-statistic):                   6.53e-156
+Time:                        21:01:07   Log-Likelihood:                         -852.14
+No. Observations:                1189   AIC:                                      1724.
+Df Residuals:                    1179   BIC:                                      1775.
+Df Model:                          10
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+0              0.1659      0.111      1.489      0.137      -0.053       0.385
+1             -0.0347      0.115     -0.301      0.764      -0.261       0.192
+2             -0.3451      0.113     -3.064      0.002      -0.566      -0.124
+3              0.4722      0.482      0.979      0.328      -0.474       1.418
+4              0.6630      0.518      1.279      0.201      -0.354       1.680
+5             -0.0351      0.039     -0.906      0.365      -0.111       0.041
+6             -0.2803      0.085     -3.302      0.001      -0.447      -0.114
+7              0.2051      0.113      1.816      0.070      -0.016       0.427
+8             -0.0669      0.089     -0.754      0.451      -0.241       0.107
+9              0.0683      0.093      0.732      0.464      -0.115       0.252
+==============================================================================
+Omnibus:                     4636.408   Durbin-Watson:                   1.975
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              186.633
+Skew:                           0.140   Prob(JB):                     2.97e-41
+Kurtosis:                       1.079   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+
+Test on: 2016
+Overall: 0.5422297297297297
+Confident: 26 9 0.7428571428571429
+                                 OLS Regression Results
+=======================================================================================
+Dep. Variable:                     10   R-squared (uncentered):                   0.499
+Model:                            OLS   Adj. R-squared (uncentered):              0.495
+Method:                 Least Squares   F-statistic:                              117.1
+Date:                Mon, 28 Dec 2020   Prob (F-statistic):                   1.45e-168
+Time:                        21:01:07   Log-Likelihood:                         -849.09
+No. Observations:                1184   AIC:                                      1718.
+Df Residuals:                    1174   BIC:                                      1769.
+Df Model:                          10
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+0              0.1583      0.105      1.509      0.132      -0.047       0.364
+1             -0.0987      0.115     -0.858      0.391      -0.324       0.127
+2             -0.2850      0.112     -2.548      0.011      -0.505      -0.066
+3              0.7908      0.410      1.930      0.054      -0.013       1.595
+4              0.3221      0.421      0.764      0.445      -0.505       1.149
+5              0.0215      0.037      0.578      0.563      -0.051       0.094
+6             -0.2340      0.086     -2.706      0.007      -0.404      -0.064
+7              0.1576      0.101      1.555      0.120      -0.041       0.356
+8             -0.1320      0.088     -1.505      0.132      -0.304       0.040
+9              0.1524      0.083      1.828      0.068      -0.011       0.316
+==============================================================================
+Omnibus:                     4592.894   Durbin-Watson:                   2.124
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              183.528
+Skew:                           0.034   Prob(JB):                     1.40e-40
+Kurtosis:                       1.072   Cond. No.                         66.4
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+
+Test on: 2017
+Overall: 0.5059021922428331
+Confident: 57 22 0.7215189873417721
+                                 OLS Regression Results
+=======================================================================================
+Dep. Variable:                     10   R-squared (uncentered):                   0.517
+Model:                            OLS   Adj. R-squared (uncentered):              0.513
+Method:                 Least Squares   F-statistic:                              126.1
+Date:                Mon, 28 Dec 2020   Prob (F-statistic):                   2.92e-178
+Time:                        21:01:08   Log-Likelihood:                         -850.57
+No. Observations:                1186   AIC:                                      1721.
+Df Residuals:                    1176   BIC:                                      1772.
+Df Model:                          10
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+0              0.2373      0.100      2.366      0.018       0.041       0.434
+1              0.0763      0.109      0.701      0.483      -0.137       0.290
+2             -0.4176      0.119     -3.508      0.000      -0.651      -0.184
+3             -0.5389      0.434     -1.242      0.214      -1.390       0.312
+4              1.6708      0.460      3.635      0.000       0.769       2.573
+5              0.0049      0.037      0.135      0.893      -0.067       0.077
+6             -0.2038      0.081     -2.505      0.012      -0.363      -0.044
+7              0.1082      0.095      1.136      0.256      -0.079       0.295
+8             -0.0276      0.082     -0.336      0.737      -0.188       0.133
+9             -0.0637      0.078     -0.814      0.416      -0.217       0.090
+==============================================================================
+Omnibus:                     4604.665   Durbin-Watson:                   1.951
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              183.561
+Skew:                          -0.035   Prob(JB):                     1.38e-40
+Kurtosis:                       1.074   Cond. No.                         72.3
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+
+Test on: 2018
+Overall: 0.5489038785834739
+Confident: 15 8 0.6521739130434783
+                                 OLS Regression Results
+=======================================================================================
+Dep. Variable:                     10   R-squared (uncentered):                   0.497
+Model:                            OLS   Adj. R-squared (uncentered):              0.493
+Method:                 Least Squares   F-statistic:                              116.3
+Date:                Mon, 28 Dec 2020   Prob (F-statistic):                   7.79e-168
+Time:                        21:01:08   Log-Likelihood:                         -846.80
+No. Observations:                1186   AIC:                                      1714.
+Df Residuals:                    1176   BIC:                                      1764.
+Df Model:                          10
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+0              0.0732      0.109      0.669      0.504      -0.141       0.288
+1              0.0306      0.114      0.269      0.788      -0.193       0.254
+2             -0.4990      0.112     -4.438      0.000      -0.720      -0.278
+3              0.4975      0.466      1.068      0.286      -0.416       1.411
+4              0.8909      0.503      1.772      0.077      -0.095       1.877
+5              0.0687      0.037      1.848      0.065      -0.004       0.142
+6             -0.3002      0.084     -3.558      0.000      -0.466      -0.135
+7              0.0077      0.105      0.073      0.942      -0.198       0.213
+8             -0.0693      0.089     -0.779      0.436      -0.244       0.105
+9              0.0745      0.086      0.869      0.385      -0.094       0.243
+==============================================================================
+Omnibus:                     4698.944   Durbin-Watson:                   2.007
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              178.425
+Skew:                           0.055   Prob(JB):                     1.80e-39
+Kurtosis:                       1.103   Cond. No.                         78.9
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+
+Test on: 2019
+Overall: 0.5009823182711198
+Confident: 39 35 0.527027027027027
+                                 OLS Regression Results
+=======================================================================================
+Dep. Variable:                     10   R-squared (uncentered):                   0.511
+Model:                            OLS   Adj. R-squared (uncentered):              0.506
+Method:                 Least Squares   F-statistic:                              105.5
+Date:                Mon, 28 Dec 2020   Prob (F-statistic):                   3.46e-149
+Time:                        21:01:08   Log-Likelihood:                         -733.15
+No. Observations:                1018   AIC:                                      1486.
+Df Residuals:                    1008   BIC:                                      1536.
+Df Model:                          10
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+0              0.0677      0.120      0.565      0.572      -0.167       0.303
+1             -0.2870      0.126     -2.275      0.023      -0.535      -0.039
+2             -0.1098      0.117     -0.936      0.349      -0.340       0.120
+3              0.6422      0.518      1.239      0.216      -0.375       1.659
+4              0.3737      0.540      0.692      0.489      -0.686       1.433
+5             -0.0088      0.041     -0.212      0.832      -0.090       0.072
+6             -0.0181      0.086     -0.209      0.834      -0.187       0.151
+7             -0.0758      0.107     -0.708      0.479      -0.286       0.134
+8              0.0502      0.094      0.534      0.594      -0.134       0.235
+9              0.2346      0.095      2.479      0.013       0.049       0.420
+==============================================================================
+Omnibus:                     3979.111   Durbin-Watson:                   1.969
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              159.219
+Skew:                          -0.023   Prob(JB):                     2.67e-35
+Kurtosis:                       1.063   Cond. No.                         79.6
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.

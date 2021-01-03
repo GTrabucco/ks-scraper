@@ -19,7 +19,7 @@ class League(Base):
 				exists = len([i for i in self.teams if i.name == team]) > 0
 				if exists != True:
 					t = Team(team, start_date=self.start_date, end_date=self.end_date, season=self.season, load_lineup=True)
-					print('Populating team:', team)
+					print('Populating team:', team, len(t.schedule))
 					self.teams.append(t)
 				else:
 					continue

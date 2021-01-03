@@ -218,7 +218,7 @@ def initialize():
 		p2 = ''
 
 	if p == 'init':
-		date_time_str = '2015-01-01'
+		date_time_str = '2020-12-22'
 		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d').date()
 		open_page(date_time_obj, current_date)
 	elif p == 'scenario':
@@ -255,7 +255,7 @@ def load_driver(url):
 	return browser
 
 def append_data(current_date):
-	m = open('../data/master/master.csv', 'w')
+	m = open('../../data/master/master.csv', 'w')
 	writer = csv.writer(m)
 	header = ['Date',
 					 'Link',
@@ -278,10 +278,10 @@ def append_data(current_date):
 					 'OUr',
 					 'ot']
 	writer.writerow(header)
-	for file in os.listdir("../data/sub"):
+	for file in os.listdir("../../data/sub"):
 		first = True
 		if file.endswith('.csv'):
-			sub_file = open(f"../data/sub/{file}", "r")
+			sub_file = open(f"../../data/sub/{file}", "r")
 			#file_date = datetime.datetime.strptime(os.path.splitext(file)[0], '%Y%m%d').date()
 			#if file_date == current_date:
 			reader = csv.reader(sub_file, delimiter=" ")
@@ -290,7 +290,7 @@ def append_data(current_date):
 			for row in reader:
 				new = False
 				team = row[0].split(',')[7]
-				team_path = f"../data/teams/{team}"
+				team_path = f"../../data/teams/{team}"
 				if not os.path.isdir(team_path):
 					os.makedirs(team_path)
 					new = True
@@ -376,12 +376,12 @@ def write_to_csv(row, date, scenario):
 
 	try:
 		if scenario == False:
-			with open(f'../data/sub/{date}.csv', 'w') as f:
+			with open(f'../../data/sub/{date}.csv', 'w') as f:
 				writer = csv.writer(f)
 				writer.writerow(row)
 			f.close()
 		else:
-			folder = f'../data/scenarios/{SCENARIO}/'
+			folder = f'../../data/scenarios/{SCENARIO}/'
 			if not os.path.exists(folder):
 				os.makedirs(folder)
 			with open(folder+f'data.csv', 'a+') as f:
@@ -389,7 +389,7 @@ def write_to_csv(row, date, scenario):
 				writer.writerow(row)
 			f.close()
 	except Exception as e:
-		print(e)
+		print(e, '392')
 
 
 initialize()

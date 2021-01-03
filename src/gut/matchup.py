@@ -72,10 +72,10 @@ class Matchup():
 			self.lineup = Lineup(lineups.loc[lineups['is_home'] == (self.site == 'home')], 'basic')
 			self.turnovers = sum([player.tov for player in self.lineup.lineup if player.tov > 0])
 			self.assists = sum([player.ast for player in self.lineup.lineup if player.ast > 0])
-			self.ftas = sum([player.fta for player in self.lineup.lineup if player.fta > 0])
-			self.pfs = sum([player.pf for player in self.lineup.lineup if player.pf > 0])
-			self.fg3as = sum([player.fg3a for player in self.lineup.lineup if player.fg3a > 0])
-			self.stls = sum([player.stl for player in self.lineup.lineup if player.stl > 0])
+			#self.ftas = sum([player.fta for player in self.lineup.lineup if player.fta > 0])
+			#self.pfs = sum([player.pf for player in self.lineup.lineup if player.pf > 0])
+			#self.fg3as = sum([player.fg3a for player in self.lineup.lineup if player.fg3a > 0])
+			#self.stls = sum([player.stl for player in self.lineup.lineup if player.stl > 0])
 			self.opponent_lineup = Lineup(lineups.loc[lineups['is_home'] != (self.site == 'home')], 'basic')
 			self.ts = self.lineup.ts
 			self.opp_ts = self.opponent_lineup.ts
